@@ -36,4 +36,20 @@
 | **Rock Ridge** | Thạch Nhọn | Ma thuật | Phép thuật hệ đất của Kran. |
 | **Truth Flare** | Chân Hỏa / Bạch Hỏa Chân Thực | Ma thuật | Phép thuật Bạch Hỏa tối cao của Felmenia. |
 | **Tornado Flare** | Lốc Hỏa / Lốc Xoáy Bạch Hỏa | Ma thuật | Phép thuật Bạch Hỏa tạo lốc xoáy của Felmenia. |
+| **Analysis magicka** | Thuật phân tích / Pháp thuật phân tích | Khái niệm | Bí thuật của Suimei dùng để phân tích ma pháp/trận pháp. |
+| **Teleportation circle** | Vòng tròn dịch chuyển | Khái niệm | Vòng tròn ma thuật kết nối dị giới và Trái Đất. |
+| **elemental emperor** | Tinh Linh Đế | Khái niệm | Danh hiệu tôn quý danh dự dành cho các pháp sư đứng đầu mỗi hệ của Hội Pháp sư. |
+| **Flame Emperor** | Viêm Đế | Chức danh | Tinh Linh Đế đứng đầu hệ hỏa của Hội Pháp sư. |
+| **Brilliant Emperor** | Diệu Đế | Chức danh | Tinh Linh Đế đứng đầu hệ quang của Hội Pháp sư. |
+| **Burn Boost** | Burn Boost / Bộc Hỏa Cường Hóa | Ma thuật | Phép thuật cường hóa cơ thể thuộc tính hỏa của Reiji. |
+| **Goddess Alshuna** | Nữ thần Alshuna | Tên riêng | Vị thần duy nhất được Giáo hội Cứu thế thờ phụng. |
+| **Attribute Master** | Bậc Thầy Thuộc Tính | Chức danh | Danh hiệu của Reiji do Hội trưởng Hội Pháp sư ban tặng vì khống chế được toàn bộ thuộc tính. |
+| **forbidden archives** | kho lưu trữ cấm | Khái niệm | Khu vực cấm trong lâu đài hoàng gia nơi lưu trữ tài liệu lịch sử và bản đồ quan trọng. |
+| **automaton / automata** | rối tự động / con rối tự động | Khái niệm | Thực thể mô phỏng sinh vật sống, chế tạo bằng giả kim thuật và thuật thức để hoạt động theo điều kiện lập trình sẵn. |
+| **Renovato, atque restituito** | Phục hồi, và rồi tái cấu trúc | Ma thuật | Bí thuật phục hồi cơ bản của Suimei để đưa một vật về trạng thái trước đó. |
+| **altar room** / **ritual room** | phòng tế đàn / phòng nghi lễ | Địa danh | Căn phòng nơi diễn ra nghi lễ triệu hồi Anh hùng ở phía bắc lâu đài. |
+| **Captain of the Imperial Guard** | Đội trưởng ngự lâm quân / Đội trưởng cận vệ hoàng gia | Chức danh | Người huấn luyện kiếm thuật cho Reiji tại vương quốc Astel. |
+| **common tongue** / **common language** | ngôn ngữ chung | Khái niệm | Ngôn ngữ chung của dị giới mà Suimei hiểu được nhờ đặc quyền triệu hồi. |
+| **earth magic** | thổ ma pháp | Khái niệm | Hệ ma pháp thuộc tính đất (sử dụng để phong ấn cửa phòng nghi lễ). |
+| **summit of nations** | hội nghị thượng đỉnh các quốc gia | Sự kiện | Hội nghị nơi các nước biểu quyết triệu hồi Anh hùng bất chấp sự phản đối của vua Astel. |
 
