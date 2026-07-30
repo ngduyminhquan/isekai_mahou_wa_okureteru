@@ -41,3 +41,6 @@ Quy tắc xưng hô và đại từ trong hội thoại giữa các nhân vật 
 ### Mizuki <-> Titania (Tia) (Diễn biến trong Chapter 2)
 - Mizuki tỏ rõ vẻ ghen tị khi thấy Titania quấn quýt lấy Reiji. Cô cố gắng học ma pháp thật tốt để được Reiji khen ngợi nhằm cạnh tranh và không thua kém Titania.
 
+### Felmenia <-> Nam pháp sư triều đình đồng nghiệp (Diễn biến cuối Chapter 2)
+- **Cảnh giác và sự lừa gạt**: Nam pháp sư triều đình (người cô từng cãi vã và không hòa hợp trước đây) chủ động báo tin giả rằng Suimei muốn mưu hại đức vua và đã phá hủy các công cụ phát hiện kẻ đột nhập. Bằng cách kích động lòng kiêu hãnh của cô và thi triển một ma pháp thôi miên/gây ảo giác (khiến cô bị chóng mặt - dizzy), hắn lừa cô tự mình ra tay đối phó Suimei để giật dây tạo nên một "sân khấu" xung đột.
+

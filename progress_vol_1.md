@@ -12,7 +12,7 @@
 - **Ngày bắt đầu**: 2026-07-30
 - **Ngôn ngữ nguồn**: Tiếng Anh
 - **Ngôn ngữ đích**: Tiếng Việt
-- **Trạng thái hiện tại**: Đang tiến hành (Đã hoàn thành Phase 11: Chapter 2 - Part 5)
+- **Trạng thái hiện tại**: Đang tiến hành (Đã hoàn thành Phase 12: Chapter 2 - Part 6)
 
 
 ---
@@ -36,7 +36,7 @@ Dưới đây là danh sách các Phase tương ứng với từng phần dịch
 | **10** | Chapter 2 - Part 4 | `chapter_2_part_4.txt` | 77 | 153 | 2833 | `chapter_2_part_4.md` | **Hoàn thành** |
 
 | **11** | Chapter 2 - Part 5 | `chapter_2_part_5.txt` | 77 | 153 | 3689 | `chapter_2_part_5.md` | **Hoàn thành** |
-| **12** | Chapter 2 - Part 6 | `chapter_2_part_6.txt` | 74 | 147 | 2821 | `chapter_2_part_6.md` | Chưa bắt đầu |
+| **12** | Chapter 2 - Part 6 | `chapter_2_part_6.txt` | 74 | 147 | 2821 | `chapter_2_part_6.md` | **Hoàn thành** |
 | **13** | Chapter 3 - Part 1 | `chapter_3_part_1.txt` | 85 | 169 | 3397 | `chapter_3_part_1.md` | Chưa bắt đầu |
 | **14** | Chapter 3 - Part 2 | `chapter_3_part_2.txt` | 85 | 169 | 3557 | `chapter_3_part_2.md` | Chưa bắt đầu |
 | **15** | Chapter 3 - Part 3 | `chapter_3_part_3.txt` | 85 | 169 | 3546 | `chapter_3_part_3.md` | Chưa bắt đầu |

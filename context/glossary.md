@@ -52,4 +52,6 @@
 | **common tongue** / **common language** | ngôn ngữ chung | Khái niệm | Ngôn ngữ chung của dị giới mà Suimei hiểu được nhờ đặc quyền triệu hồi. |
 | **earth magic** | thổ ma pháp | Khái niệm | Hệ ma pháp thuộc tính đất (sử dụng để phong ấn cửa phòng nghi lễ). |
 | **summit of nations** | hội nghị thượng đỉnh các quốc gia | Sự kiện | Hội nghị nơi các nước biểu quyết triệu hồi Anh hùng bất chấp sự phản đối của vua Astel. |
+| **Slamas** | Slamas | Tên riêng | Đại hiền giả nổi tiếng sử dụng thổ ma pháp trong lịch sử Vương quốc Astel, người đóng góp lớn xây dựng Lâu đài Camellia. |
+| **Slamas Armor** | Giáp Slamas | Khái niệm | Con rối tự động di động tự hành vĩ đại nhất được tạo ra bởi đại hiền giả Slamas, vốn được cất giữ trong kho báu hoàng gia. |
 
