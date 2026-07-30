@@ -30,7 +30,11 @@ Suimei vung mạnh cánh tay từ trái qua phải như thể muốn hắt hết
 
 Ngay khoảnh khắc trước khi thủy ngân của Suimei đông cứng, Felmenia đã hoàn thành ma pháp của mình. Cô kêu gọi đất đá, những viên đá nhỏ hình thành và bay về phía Suimei theo quỹ đạo đã định. Ngay trước khi chạm tới cậu, chúng vuốt nhọn thành những mũi sắc bén và biến thành những viên đạn nguy hiểm.
 
-“Nhận lấ—” “Quá ngây thơ!” Suimei gạt phăng những viên đá đang bay tới giữa không trung bằng thanh kiếm vừa mới hình thành của mình. Ngay cả một viên đạn cũng không thể lọt qua mắt của một ma thuật sư được huấn luyện bài bản. Những mảnh đá bay kia chẳng có chút đe dọa nào. Lưỡi kiếm của Suimei đập tan hết viên đá này đến viên đá khác được bắn ra bằng ma lực. Đường kiếm của cậu vô cùng tao nhã. Cậu hoàn toàn thản nhiên, khuôn mặt không hề để lộ lấy một chút hoảng hốt.
+“Nhận lấ—”
+
+“Quá ngây thơ!”
+
+Suimei gạt phăng những viên đá đang bay tới giữa không trung bằng thanh kiếm vừa mới hình thành của mình. Ngay cả một viên đạn cũng không thể lọt qua mắt của một ma thuật sư được huấn luyện bài bản. Những mảnh đá bay kia chẳng có chút đe dọa nào. Lưỡi kiếm của Suimei đập tan hết viên đá này đến viên đá khác được bắn ra bằng ma lực. Đường kiếm của cậu vô cùng tao nhã. Cậu hoàn toàn thản nhiên, khuôn mặt không hề để lộ lấy một chút hoảng hốt.
 
 “Cậu dùng được cả kiếm dù là pháp sư sao?!”
 “Như vậy thì có gì sai à? Kỹ thuật cận chiến là điều thiết yếu đối với các ma thuật sư ở thế giới của tôi đấy, cô nên biết điều đó. Nhưng dù là cận chiến hay viễn chiến thì nó cũng không hề cản trở việc thi triển bí thuật đâu—”
@@ -114,7 +118,11 @@ Suimei nói bằng một tông giọng tàn nhẫn đến mức có thể khiế
 
 “Ồ, ra là nếu là pháp sư triều đình thì không sao sao?” Mỗi khi Felmenia lấy chức danh của mình ra khẳng định, đó là một nỗ lực để khơi dậy lòng dũng cảm và thép gai bản thân, nhưng ý chí của cô đã hoàn toàn sụp đổ ở đây. Với thanh kiếm thủy ngân của Suimei kề sát cổ họng, cô không còn có thể vờ như mình cứng cỏi được nữa.
 
-“A, ư...” Nghe thấy nỗi sợ hãi lấn á Felmenia, Suimei mắng nhiếc cô không tiếc lời. “Đừng có run rẩy sợ hãi vào cái lúc muộn màng thế này chứ, đồ vô dụng chết tiệt. Tôi chỉ đang đáp lễ lại yêu cầu của cô một cách tương xứng thôi mà.”
+“A, ư...”
+
+Nghe thấy nỗi sợ hãi lấn á Felmenia, Suimei mắng nhiếc cô không tiếc lời.
+
+“Đừng có run rẩy sợ hãi vào cái lúc muộn màng thế này chứ, đồ vô dụng chết tiệt. Tôi chỉ đang đáp lễ lại yêu cầu của cô một cách tương xứng thôi mà.”
 
 “C-Câm đi! Cậu là tên khốn đã... đối với Bệ hạ...”
 “Nhà vua thì làm sao?” Khi cậu hỏi ngược lại một cách sắc lẹm, giọng điệu của Felmenia dao động. Tại sao chuyện đó lại đột ngột được nhắc đến? Vua Almadious có liên quan gì đến cuộc tranh chấp của họ sao?

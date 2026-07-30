@@ -1,4 +1,6 @@
-“Cái gì đây?” “Không có gì. Chỉ là một bản giao kèo thôi. Nó ghi rằng cô chắc chắn sẽ giữ lời nếu đồng ý với các điều khoản này. Một thỏa thuận mang tính ràng buộc, nếu cô muốn gọi như vậy. Cô không phiền khi ký vào thứ này chứ?”
+“Cái gì đây?”
+
+“Không có gì. Chỉ là một bản giao kèo thôi. Nó ghi rằng cô chắc chắn sẽ giữ lời nếu đồng ý với các điều khoản này. Một thỏa thuận mang tính ràng buộc, nếu cô muốn gọi như vậy. Cô không phiền khi ký vào thứ này chứ?”
 
 “...Ta hiểu rồi. Ta sẽ ký.” Felmenia dường như cảm thấy có chút nghi ngờ, nhưng cô nhanh chóng đồng ý. Cô hầu như không biết phải nghĩ sao về tài liệu kỳ lạ được trình ra trước mắt mình, nhưng xét đến tình cảnh bị ép buộc hiện tại, cô gần như không có lựa chọn nào khác ngoài việc ký vào nó.
 
@@ -6,9 +8,13 @@ Sau khi viết tên mình xuống, cô dùng máu điểm chỉ dấu vân tay l
 
 “À, tôi quên chưa nói điều này, nhưng một khi cô đã ký vào đây, trong trường hợp cô nuốt lời hứa, cô sẽ chết.”
 
-“C-Cái gì?!” “Hừ, cô hẳn là đang lên kế hoạch khai báo hết mọi chuyện với nhà vua sau việc này đúng không? Nên đây là một chút bảo hiểm để ngăn chặn điều đó xảy ra đấy. Tôi cũng không muốn mọi chuyện trở nên phức tạp nếu cô báo cáo linh tinh với bất kỳ ai.”
+“C-Cái gì?!”
 
-“Khoan đã, không đời nào cậu lại có thể làm được điều đó chỉ với một tờ—” “Đối với một ma thuật sư, bậc thầy thao túng những bí ẩn của vũ trụ, không có gì là bất khả thi cả.”
+“Hừ, cô hẳn là đang lên kế hoạch khai báo hết mọi chuyện với nhà vua sau việc này đúng không? Nên đây là một chút bảo hiểm để ngăn chặn điều đó xảy ra đấy. Tôi cũng không muốn mọi chuyện trở nên phức tạp nếu cô báo cáo linh tinh với bất kỳ ai.”
+
+“Khoan đã, không đời nào cậu lại có thể làm được điều đó chỉ với một tờ—”
+
+“Đối với một ma thuật sư, bậc thầy thao túng những bí ẩn của vũ trụ, không có gì là bất khả thi cả.”
 
 Không hẳn là Felmenia xem nhẹ những lời cậu nói, nhưng cô nhìn Suimei với vẻ mặt đầy hoài nghi. Cậu quyết định chứng minh hiệu lực của bản giao kèo theo cách đơn giản nhất có thể. Cậu tạm thời buông thanh kiếm thủy ngân ra, rồi dùng ngón tay được bao bọc bởi ma lực chạm nhẹ vào tài liệu đã ký. Ngay khi cậu làm vậy, lồng ngực Felmenia liền bị một cơn đau thắt nghẹt bóp lấy.
 
@@ -17,7 +23,9 @@ Không hẳn là Felmenia xem nhẹ những lời cậu nói, nhưng cô nhìn S
 
 Suimei rút ngón tay ra khỏi tài liệu. Khi cậu làm vậy, Felmenia được giải thoát khỏi cơn đau đang bóp nghẹt tim mình, cô bắt đầu thở hổn hển lấy dưỡng khí và thốt lên lời phàn nàn không chút sức lực.
 
-“Khục, ha... Cậu có nói gì về chuyện này đâu...” “Dù tôi có nói hay không thì chúng ta cũng đã có giao kèo rồi. Và tôi cũng đã bảo cô không bao giờ được hé răng nửa lời đúng không? Chỉ có vậy thôi. Thực sự chẳng có gì phức tạp cả. Tất cả những gì cô cần làm là ngậm chặt miệng lại. Về những gì đã xảy ra hôm nay, và về việc tôi là một ma thuật sư. Chỉ cần cô vờ như quên hết sạch những chuyện đó, sẽ không có tổn hại nào đến với cô cả. Chẳng phải đây là một thỏa thuận công bằng hơn nhiều so với việc bị bán đi hay đi gây sự với Ma Vương sao?”
+“Khục, ha... Cậu có nói gì về chuyện này đâu...”
+
+“Dù tôi có nói hay không thì chúng ta cũng đã có giao kèo rồi. Và tôi cũng đã bảo cô không bao giờ được hé răng nửa lời đúng không? Chỉ có vậy thôi. Thực sự chẳng có gì phức tạp cả. Tất cả những gì cô cần làm là ngậm chặt miệng lại. Về những gì đã xảy ra hôm nay, và về việc tôi là một ma thuật sư. Chỉ cần cô vờ như quên hết sạch những chuyện đó, sẽ không có tổn hại nào đến với cô cả. Chẳng phải đây là một thỏa thuận công bằng hơn nhiều so với việc bị bán đi hay đi gây sự với Ma Vương sao?”
 
 Suimei vừa nói vừa quay người lại, ngoảnh đầu hỏi câu cuối cùng qua vai. Nhưng không có câu trả lời nào đáp lại. Cảm thấy khá kỳ lạ, cậu chăm chú nhìn Felmenia đang cúi gằm mặt.
 
@@ -67,7 +75,9 @@ Về phần Anohara Mizuki, mặc dù cô không ở cùng đẳng cấp với R
 
 Thêm vào một lời khen cuối cùng, Felmenia kết thúc bản báo cáo của mình. Nhà vua sau đó hỏi thêm một câu như một trò đùa nhẹ nhàng.
 
-“Liệu có vẻ họ sẽ vượt qua cả khanh không?” “Với sức mạnh của ngài Reiji, có lẽ là có thể ạ.”
+“Liệu có vẻ họ sẽ vượt qua cả khanh không?”
+
+“Với sức mạnh của ngài Reiji, có lẽ là có thể ạ.”
 
 “Ta hiểu rồi. Như vậy thật đáng an tâm. Nếu ngài Reiji có nhiều tài năng ma pháp đến thế, thì những lo ngại của ta có lẽ chỉ là lo lắng hão huyền.”
 
@@ -85,17 +95,33 @@ Felmenia khẽ nói phần cuối. Với cái đầu cúi thấp, nhà vua khôn
 
 “Thần xin tuân chỉ, tâu Bệ hạ. Vậy thần xin phép lui ra tại đây...” Sau khi tôn kính nhận lệnh của nhà vua, Felmenia cúi chào rồi quay người định rời đi. Thế nhưng, nhà vua vẫn chưa cho phép cô lui xuống. Ông vẫn còn việc cần nói với cô, và ông đã ngăn cô lại.
 
-“Felmenia, ta còn một chuyện khác muốn nghe từ khanh.” “Hả? V-Vâng, tâu Bệ hạ.” “Chàng trai trẻ đó... Là về Suimei-dono, người bạn thân của ngài Reiji.” Nhà vua muốn nói về Yakagi Suimei. Kể từ sau báo cáo trước đó của Felmenia về cậu ta, nhà vua đã lo lắng về Suimei gần như nhiều ngang với vị anh hùng Reiji. Ông chủ yếu lo ngại về một cuộc đụng độ tiềm tàng giữa Suimei và Felmenia, và ông muốn biết liệu có chuyện gì xảy ra trong vài ngày qua kể từ lần cuối họ bàn về vấn đề đó hay không.
+“Felmenia, ta còn một chuyện khác muốn nghe từ khanh.”
+
+“Hả? V-Vâng, tâu Bệ hạ.”
+
+“Chàng trai trẻ đó... Là về Suimei-dono, người bạn thân của ngài Reiji.”
+
+Nhà vua muốn nói về Yakagi Suimei. Kể từ sau báo cáo trước đó của Felmenia về cậu ta, nhà vua đã lo lắng về Suimei gần như nhiều ngang với vị anh hùng Reiji. Ông chủ yếu lo ngại về một cuộc đụng độ tiềm tàng giữa Suimei và Felmenia, và ông muốn biết liệu có chuyện gì xảy ra trong vài ngày qua kể từ lần cuối họ bàn về vấn đề đó hay không.
 
 “S-Suimei-dono sao, tâu Bệ hạ...?” Felmenia cảm thấy như bị sét đánh ngang tai, và vẻ mặt ngơ ngác lộ rõ trên khuôn mặt cô đã nói lên tất cả. Giọng cô hơi run run, nhưng dẫu vậy, nhà vua vẫn dồn hỏi cô về chuyện này.
 
 “Đúng vậy. Sau lần cuối chúng ta trò chuyện, chàng trai đó đã có những động thái gì? Khanh vẫn tiếp tục giám sát cậu ta, phải không?”
 
-“V-Về chuyện đó... Ừm...” “Felmenia?” Cô đang lảng tránh ánh mắt của ông vì lý do nào đó, và ngập ngừng nói như thể đó là một việc rất khó mở lời. Trái ngược hoàn toàn với báo cáo tự tin về vị anh hùng lúc nãy, trông cô lúc này như thể đã mất hết sự bình tĩnh.
+“V-Về chuyện đó... Ừm...”
+
+“Felmenia?”
+
+Cô đang lảng tránh ánh mắt của ông vì lý do nào đó, và ngập ngừng nói như thể đó là một việc rất khó mở lời. Trái ngược hoàn toàn với báo cáo tự tin về vị anh hùng lúc nãy, trông cô lúc này như thể đã mất hết sự bình tĩnh.
 
 Có vẻ như cô đã làm điều gì đó khuất tất, nếu không cô đã nói năng dõng dạc và đầy uy nghiêm như thường lệ. Dù tuổi đời còn khá trẻ, nhưng bất luận trong hoàn cảnh nào hay đối mặt với đối thủ nào, cô chưa bao giờ mất đi sự điềm tĩnh của mình. Thế mà tất cả những điều đó giờ đã hoàn toàn biến mất.
 
-“A, ư...” “Có chuyện gì vậy? Chẳng lẽ đã xảy ra chuyện gì rồi sao?” “Không ạ, thưa Bệ hạ, chuyện đó là, ừm...” Ngay cả khi ông hỏi lần thứ hai, Felmenia cũng chỉ có thể trả lời một cách lấp liếm. Khi nhà vua nhìn kỹ, ông có thể thấy cô đang toát mồ hôi hột. Ông liền hỏi cô lần thứ ba, lần này bằng một tông giọng nghiêm khắc.
+“A, ư...”
+
+“Có chuyện gì vậy? Chẳng lẽ đã xảy ra chuyện gì rồi sao?”
+
+“Không ạ, thưa Bệ hạ, chuyện đó là, ừm...”
+
+Ngay cả khi ông hỏi lần thứ hai, Felmenia cũng chỉ có thể trả lời một cách lấp liếm. Khi nhà vua nhìn kỹ, ông có thể thấy cô đang toát mồ hôi hột. Ông liền hỏi cô lần thứ ba, lần này bằng một tông giọng nghiêm khắc.
 
 “Trả lời ta đi, Felmenia. Nếu khanh không nói, chúng ta sẽ không thể tiến triển được gì, đúng chứ? Hãy cho ta biết tất cả những gì đã xảy ra và mọi thứ khanh đã chứng kiến. Không được che giấu điều gì.”
 
@@ -103,7 +129,13 @@ Tuy nhiên, Felmenia vẫn không trả lời. Thay vào đó, cô cúi đầu x
 
 “T-Tâu Bệ hạ! Xin Người, thần cầu xin Người! Về vấn đề này, xin hãy cho phép thần được giữ im lặng!”
 
-“Ý khanh là khanh không thể nói về chuyện đó sao?” “Vâng, thưa Bệ hạ. Dù thần thật ngu xuẩn, nhưng đúng là như Người nói.” “Tại sao?” “Câu trả lời Bệ hạ tìm kiếm là một cục diện không mong muốn do sự thiếu đức hạnh của thần gây ra. Thần không thể nói ra được...”
+“Ý khanh là khanh không thể nói về chuyện đó sao?”
+
+“Vâng, thưa Bệ hạ. Dù thần thật ngu xuẩn, nhưng đúng là như Người nói.”
+
+“Tại sao?”
+
+“Câu trả lời Bệ hạ tìm kiếm là một cục diện không mong muốn do sự thiếu đức hạnh của thần gây ra. Thần không thể nói ra được...”
 
 “Hừm...” Nhìn thấy cô tiếp tục cư xử hoàn toàn khác lạ so với ngày thường, nhà vua vô thức thở dài. Quỳ rạp xuống đất, cô kiên quyết từ chối nói về vấn đề này. Cô đang tỏ ra bướng bỉnh một cách bất thường.
 
@@ -119,13 +151,27 @@ Biết thế, nhưng trước hết, ông thực sự cần biết chuyện gì 
 
 “Nói đi. Trước khi đưa ra hình phạt cho khanh, ta phải nghe khanh giải trình đã. Cho đến lúc đó, không việc gì có thể bắt đầu cả.”
 
-“X-Xin Bệ hạ. Thần xin Người... Xin hãy rủ lòng thương xót thần.” “Khanh không cần phải cứng đầu như vậy. Ta vốn đã đoán trước việc khanh sẽ bất tuân lệnh ta rồi. Hãy tự chịu trách nhiệm và đừng giấu giếm điều gì nữa.”
+“X-Xin Bệ hạ. Thần xin Người... Xin hãy rủ lòng thương xót thần.”
 
-“T-Tâu Bệ hạ...” “Ta đã chịu đủ chuyện này rồi, Felme...?” Khi nhìn kỹ hơn, nhà vua thấy rằng người phụ nữ trẻ đầy kiêu hãnh này đang rơm rớm nước mắt ở khóe mi. Đã bao lâu rồi kể từ lần cuối ông nhìn thấy cô khóc chứ? Chắc hẳn là từ khi cô còn là một đứa trẻ nhỏ, cái đêm cô đến lâu đài lần đầu tiên để tham dự một buổi dạ tiệc tối và bị lạc mất cha mẹ mình, nữ bá tước và Bá tước Stingray. Chuyện này thực sự vô cùng kỳ lạ.
+“Khanh không cần phải cứng đầu như vậy. Ta vốn đã đoán trước việc khanh sẽ bất tuân lệnh ta rồi. Hãy tự chịu trách nhiệm và đừng giấu giếm điều gì nữa.”
 
-“Tại sao khanh lại không chịu nói?” “...” Felmenia vẫn không trả lời. Tất cả những gì cô làm chỉ là cúi gằm đầu xuống. Vua Almadious dành một khoảng lặng dài trầm ngâm suy nghĩ. Tại sao cô lại không chịu nói chứ? Tại sao cô lại bướng bỉnh như vậy về chuyện này? Câu trả lời cho những câu hỏi đó vẫn chưa xuất hiện, nhưng cuối cùng ông nghĩ ra một kế hoạch và thay đổi cách chất vấn.
+“T-Tâu Bệ hạ...”
 
-“Felmenia. Từ bây giờ, ta sẽ hỏi khanh.” “Nhưng tâu Bệ hạ...” “Hãy nghe ta, Felmenia. Nếu câu trả lời cho câu hỏi của ta là đúng, khanh cứ tiếp tục giữ im lặng như lúc này để đáp lại. Nếu câu trả lời là sai, khanh chỉ cần lắc đầu. Khanh hiểu rõ chứ?”
+“Ta đã chịu đủ chuyện này rồi, Felme...?”
+
+Khi nhìn kỹ hơn, nhà vua thấy rằng người phụ nữ trẻ đầy kiêu hãnh này đang rơm rớm nước mắt ở khóe mi. Đã bao lâu rồi kể từ lần cuối ông nhìn thấy cô khóc chứ? Chắc hẳn là từ khi cô còn là một đứa trẻ nhỏ, cái đêm cô đến lâu đài lần đầu tiên để tham dự một buổi dạ tiệc tối và bị lạc mất cha mẹ mình, nữ bá tước và Bá tước Stingray. Chuyện này thực sự vô cùng kỳ lạ.
+
+“Tại sao khanh lại không chịu nói?”
+
+“...”
+
+Felmenia vẫn không trả lời. Tất cả những gì cô làm chỉ là cúi gằm đầu xuống. Vua Almadious dành một khoảng lặng dài trầm ngâm suy nghĩ. Tại sao cô lại không chịu nói chứ? Tại sao cô lại bướng bỉnh như vậy về chuyện này? Câu trả lời cho những câu hỏi đó vẫn chưa xuất hiện, nhưng cuối cùng ông nghĩ ra một kế hoạch và thay đổi cách chất vấn.
+
+“Felmenia. Từ bây giờ, ta sẽ hỏi khanh.”
+
+“Nhưng tâu Bệ hạ...”
+
+“Hãy nghe ta, Felmenia. Nếu câu trả lời cho câu hỏi của ta là đúng, khanh cứ tiếp tục giữ im lặng như lúc này để đáp lại. Nếu câu trả lời là sai, khanh chỉ cần lắc đầu. Khanh hiểu rõ chứ?”
 
 Nhà vua nói rất rõ ràng, và Felmenia giữ im lặng mà không phản đối. Sau đó, ông bắt đầu đặt ra những câu hỏi nảy ra trong đầu, từng câu một.
 
@@ -133,15 +179,31 @@ Nhà vua nói rất rõ ràng, và Felmenia giữ im lặng mà không phản đ
 
 “…” Im lặng. Như vậy là một câu trả lời đúng. Nhưng ông đã lường trước được điều đó. Chuyện này không mới đối với ông.
 
-“Đó có phải là một lời cảnh cáo bằng lời nói không?” Lần này, Felmenia lắc đầu. “Khanh có sử dụng vũ lực không?” “...” Lại một câu trả lời đúng khác, mặc dù khả năng cao đó chỉ là răn đe cậu ta như một hình thức cảnh cáo. Felmenia đáng lẽ phải biết rất rõ không được làm bất cứ điều gì vượt quá mức đó. Ông không nghĩ điều đó khả thi, nhưng ông vẫn phải hỏi.
+“Đó có phải là một lời cảnh cáo bằng lời nói không?”
+
+Lần này, Felmenia lắc đầu.
+
+“Khanh có sử dụng vũ lực không?”
+
+“...”
+
+Lại một câu trả lời đúng khác, mặc dù khả năng cao đó chỉ là răn đe cậu ta như một hình thức cảnh cáo. Felmenia đáng lẽ phải biết rất rõ không được làm bất cứ điều gì vượt quá mức đó. Ông không nghĩ điều đó khả thi, nhưng ông vẫn phải hỏi.
 
 “Tại thời điểm đó, khanh có làm Suimei-dono bị thương không?” Nhà vua lo lắng mình có thể đã dùng từ hơi quá mạnh, nhưng... Felmenia kiên quyết lắc đầu. Nhờ vậy, một câu hỏi khác lại xuất hiện trong đầu ông.
 
-“...Khoan đã, khanh đã định làm cậu ta bị thương đúng không?” “...” Phản ứng lại sự im lặng của Felmenia, nhà vua cũng kinh ngạc đứng lặng người một lúc. Chuyện này quá đỗi ngạc nhiên. Không phải vì Felmenia thực sự đã dùng vũ lực, mà là bởi cô, dù được coi là pháp sư xuất chúng nhất đất nước này, đã thất bại trong việc làm tổn hại Suimei khi cô có ý định rõ ràng là làm như thế. Đó mới là điều khiến ông chấn động. Điều đó có nghĩa là gì chứ? Chàng trai không nhận được sự bảo hộ thần thánh từ nghi lễ triệu hồi anh hùng, một kẻ đơn thuần không được Nữ thần hay các Nguyên tố ban tặng sức mạnh, lại thực sự có thể vô sự rời đi sau cuộc đụng độ với Bạch Hỏa sao?
+“...Khoan đã, khanh đã định làm cậu ta bị thương đúng không?”
+
+“...”
+
+Phản ứng lại sự im lặng của Felmenia, nhà vua cũng kinh ngạc đứng lặng người một lúc. Chuyện này quá đỗi ngạc nhiên. Không phải vì Felmenia thực sự đã dùng vũ lực, mà là bởi cô, dù được coi là pháp sư xuất chúng nhất đất nước này, đã thất bại trong việc làm tổn hại Suimei khi cô có ý định rõ ràng là làm như thế. Đó mới là điều khiến ông chấn động. Điều đó có nghĩa là gì chứ? Chàng trai không nhận được sự bảo hộ thần thánh từ nghi lễ triệu hồi anh hùng, một kẻ đơn thuần không được Nữ thần hay các Nguyên tố ban tặng sức mạnh, lại thực sự có thể vô sự rời đi sau cuộc đụng độ với Bạch Hỏa sao?
 
 Vừa nghe thấy tiếng nuốt nước bọt ực một cái của chính mình, nhà vua lấy lại quyết tâm và hỏi thêm một câu hỏi nữa.
 
-“Vậy thì hãy để ta hỏi khanh câu này, Felmenia. Khanh đã bị đánh bại đúng không?” “...” Sự im lặng khẳng định. Không còn gì để nghi ngờ nữa. Felmenia đã tự ý hành động, bất tuân mệnh lệnh của nhà vua và đối đầu với Suimei, kết quả là cô đã nếm mùi thất bại thảm hại.
+“Vậy thì hãy để ta hỏi khanh câu này, Felmenia. Khanh đã bị đánh bại đúng không?”
+
+“...”
+
+Sự im lặng khẳng định. Không còn gì để nghi ngờ nữa. Felmenia đã tự ý hành động, bất tuân mệnh lệnh của nhà vua và đối đầu với Suimei, kết quả là cô đã nếm mùi thất bại thảm hại.
 
 “Và vào lúc đó, Suimei-dono đã nắm giữ điểm yếu nào đó của khanh. Và vì điều đó, khanh không thể nói bất cứ điều gì với ta. Có đúng như vậy không?”
 

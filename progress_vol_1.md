@@ -55,3 +55,9 @@ Dưới đây là danh sách các Phase tương ứng với từng phần dịch
 | **28** | Bonus Short Stories - Part 3 | `bonus_part_3.txt` | 85 | 169 | 2277 | `bonus_part_3.md` | Chưa bắt đầu |
 | **29** | About J-Novel Club | `about.txt` | 6 | 11 | 38 | `about.md` | Chưa bắt đầu |
 | **30** | Copyright | `copyright.txt` | 12 | 23 | 171 | `copyright.md` | Chưa bắt đầu |
+
+---
+
+## 3. Quy tắc định dạng & Ghi chú dịch thuật
+- **Ngắt dòng thoại**: Mọi lời thoại của các nhân vật phải được tách biệt hoàn toàn trên các dòng riêng biệt (không gộp nhiều lời thoại của các nhân vật khác nhau trên cùng một dòng), và được phân tách với nhau bằng một dòng trống.
+
