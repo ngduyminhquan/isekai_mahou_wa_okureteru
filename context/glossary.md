@@ -54,4 +54,8 @@
 | **summit of nations** | hội nghị thượng đỉnh các quốc gia | Sự kiện | Hội nghị nơi các nước biểu quyết triệu hồi Anh hùng bất chấp sự phản đối của vua Astel. |
 | **Slamas** | Slamas | Tên riêng | Đại hiền giả nổi tiếng sử dụng thổ ma pháp trong lịch sử Vương quốc Astel, người đóng góp lớn xây dựng Lâu đài Camellia. |
 | **Slamas Armor** | Giáp Slamas | Khái niệm | Con rối tự động di động tự hành vĩ đại nhất được tạo ra bởi đại hiền giả Slamas, vốn được cất giữ trong kho báu hoàng gia. |
-
+| **Garden of the White Wall** | Vườn Bạch Tường | Địa danh | Một trong những khu vườn riêng tư của đức vua tại Lâu đài Camellia. |
+| **Wind Search** | Tầm Phong | Ma thuật | Phép thuật hệ phong của Felmenia dùng để tìm kiếm dấu vết. |
+| **Phantom road** | Đường ảo | Ma thuật | Bí thuật tạo kết giới không gian của Suimei nơi mọi thứ bị đảo ngược như gương. |
+| **complex number space** | Không gian số phức | Khái niệm | Khái niệm không gian phi thực tế trong kết giới bí thuật của Suimei. |
+| **barrier magicka** | Kết giới bí thuật | Khái niệm | Thuật thức phòng ngự/bẫy nâng cao của ma thuật sư hiện đại. |

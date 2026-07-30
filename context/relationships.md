@@ -32,11 +32,13 @@ Quy tắc xưng hô và đại từ trong hội thoại giữa các nhân vật 
 - **Sự cố vấp ngã và ngượng ngùng**: Felmenia liên tục tự vấp ngã vì áo choàng và được Suimei đỡ dậy, lau sạch mặt bằng khăn tay và khen dễ thương. Điều này làm cô đỏ mặt, bối rối mãnh liệt nhưng bên ngoài vẫn mắng cậu là "đồ tồi" vì thái độ thờ ơ của cậu với nhóm bạn Reiji.
 - **Sự nghi kỵ và chiếc bẫy**: Felmenia phát hiện Suimei đột nhập kho lưu trữ cấm và phòng nghi lễ. Cô âm thầm chống lệnh đức vua để tự ý đặt bẫy bằng một con rối tự động (Automaton) nhằm trừng phạt Suimei. Suimei phá hủy lõi con rối và dùng phép phục hồi `Renovato` đưa nó về nguyên trạng để giữ bí mật, đồng thời quyết định sẽ "đáp lễ tương xứng" cho cô.
 
-### Suimei <-> Felmenia (Trận đấu phép thuật ở các chương sau)
-- **Trước trận đấu**: Felmenia xem Suimei là kẻ hèn nhát, vô ơn. Dùng giọng kẻ cả của pháp sư hoàng gia: *"Cậu..."*. Suimei giả vờ là người bình thường yếu ớt: *"Tôi..."*.
+### Suimei <-> Felmenia (Trận đấu phép thuật ở Chapter 3)
+- **Bắt đầu đối đầu (Chapter 3 - Part 1)**: Suimei chủ động lừa Felmenia vào kết giới không gian gương đảo ngược (Đường ảo - Phantom road) của cậu. Cậu mặc trang phục chiến đấu mang tô đen thêu hồng xanh và đối chất trực diện với cô.
+- **Trước trận đấu**: Felmenia xem Suimei là kẻ hèn nhát, vô ơn. Dùng giọng kẻ cả của pháp sư hoàng gia: *"Cậu..."*. Suimei giả vờ là người bình thường yếu ớt: *"Tôi..."* (nhưng khi đã lừa cô vào kết giới thì cậu nói chuyện rất bình tĩnh, tự tin và trịch thượng bằng danh xưng *"tôi - cô"*).
 - **Sau khi Suimei bẻ gãy Bạch Hỏa**: Felmenia nhận ra Suimei là quái vật ma thuật thực sự. Giọng điệu chuyển sang tôn kính tối thượng.
   - Từ ngữ trong bản dịch tiếng Việt của Felmenia phải dùng các từ trang trọng, cung kính như: *"Xin ngài..."*, *"Kẻ hèn này..."*, *"Ngài Suimei..."*.
   - Suimei dùng vị thế kẻ trên để chỉ dạy và cảnh cáo Felmenia không được tiết lộ bí mật của mình: xưng *"Tôi"*, gọi *"Cô"*.
+
 
 ### Mizuki <-> Titania (Tia) (Diễn biến trong Chapter 2)
 - Mizuki tỏ rõ vẻ ghen tị khi thấy Titania quấn quýt lấy Reiji. Cô cố gắng học ma pháp thật tốt để được Reiji khen ngợi nhằm cạnh tranh và không thua kém Titania.
