@@ -1,4 +1,4 @@
-một thế giới ảo ảnh tôi tạo ra bằng kết giới ma thuật mô phỏng theo Vườn Bạch Tường. Bằng cách này, ngay cả khi chúng ta phóng ma pháp và làm loạn lên, cũng sẽ không một ai nhận ra. Mọi chuyện sẽ giống như một giấc mơ vậy.”
+một thế giới ảo ảnh tôi tạo ra bằng kết giới bí thuật mô phỏng theo Vườn Bạch Tường. Bằng cách này, ngay cả khi chúng ta phóng ma pháp và làm loạn lên, cũng sẽ không một ai nhận ra. Mọi chuyện sẽ giống như một giấc mơ vậy.”
 
 “...” Felmenia vẫn chưa hiểu nổi một nửa những gì cậu ta đang nói. Loại phép thuật cậu ta sử dụng là một điều hoàn toàn bí ẩn đối với cô, nhưng cô hiểu rõ tình cảnh hiện tại của mình. Cô đã bị lừa vào một chiếc lồng. Thậm chí là một đấu trường. Suimei coi sự im lặng của cô là đã hiểu vấn đề.
 

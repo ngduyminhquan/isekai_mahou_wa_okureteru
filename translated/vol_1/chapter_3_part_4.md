@@ -61,9 +61,9 @@ Nhà vua đã hỏi thăm từ những người khác, nhưng các báo cáo c�
 
 Vì vậy, ông đã triệu tập Felmenia để báo cáo với tư cách là người hướng dẫn. Chiếc áo choàng trắng muốt của cô khẽ đung đưa phía sau khi cô quỳ xuống trước nhà vua, và chăm chú báo cáo về tiến độ của cả Reiji và Mizuki. Theo cô, tài năng ma pháp của Reiji thực sự rất phi thường. Lượng ma lực chứa đựng của cậu gấp hơn mười lần so với các pháp sư triều đình của hoàng cung, và mặc dù cậu vẫn còn một vài thiếu sót nhỏ khi kiểm soát chi tiết các câu thần chú và ma lực, cậu lại tiếp thu cực kỳ nhanh nhạy khi tìm hiểu về ma pháp.
 
-Về phần Anou Mizuki, mặc dù cô không ở cùng đẳng cấp với Reiji, cô cũng sở hữu một lượng sức mạnh khá đáng nể. Khả năng thấu hiểu và định hình khái niệm ma pháp của cô dường như không có giới hạn, và cô thường khiến những người đồng trang lứa phải tự hỏi làm thế nào cô có thể nảy ra những ý tưởng như vậy. Thậm chí chuyện đó còn khiến người ta tiếc nuối khi cô đã không nhận được sự bảo hộ thần thánh từ nghi lễ triệu hồi anh hùng.
+Về phần Anohara Mizuki, mặc dù cô không ở cùng đẳng cấp với Reiji, cô cũng sở hữu một lượng sức mạnh khá đáng nể. Khả năng thấu hiểu và định hình khái niệm ma pháp của cô dường như không có giới hạn, và cô thường khiến những người đồng trang lứa phải tự hỏi làm thế nào cô có thể nảy ra những ý tưởng như vậy. Thậm chí chuyện đó còn khiến người ta tiếc nuối khi cô đã không nhận được sự bảo hộ thần thánh từ nghi lễ triệu hồi anh hùng.
 
-“Đó là tất cả, tâu Bệ hạ. Tốc độ tiếp thu ma pháp của ngài Reiji và ngài Mizuki thực sự vô cùng đáng kinh ngạc. Thần tin chắc rằng một ngày nào đó, họ sẽ có thể sánh ngang với các đại pháp sư trên khắp thế giới.”
+“Đó là tất cả, tâu Bệ hạ. Tốc độ tiếp thu ma pháp của ngài Reiji và cô Mizuki thực sự vô cùng đáng kinh ngạc. Thần tin chắc rằng một ngày nào đó, họ sẽ có thể sánh ngang với các đại pháp sư trên khắp thế giới.”
 
 Thêm vào một lời khen cuối cùng, Felmenia kết thúc bản báo cáo của mình. Nhà vua sau đó hỏi thêm một câu như một trò đùa nhẹ nhàng.
 

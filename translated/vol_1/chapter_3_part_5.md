@@ -58,7 +58,7 @@ Ngay khi nghe thấy những lời đó, cậu đã đứng phắt dậy một c
 
 “Là về Felmenia, Suimei-dono. Có một chuyện ta muốn nghe từ cậu.”
 
-“Felmenia-san sao...? Nếu thần nhớ không lầm, thần có nghe nói cô ấy là người hướng dẫn ma pháp cho ngài Reiji và ngài Mizuki. Nhưng có chuyện gì với cô ấy sao, tâu Bệ hạ?”
+“Felmenia-san sao...? Nếu thần nhớ không lầm, thần có nghe nói cô ấy là người hướng dẫn ma pháp cho ngài Reiji và cô Mizuki. Nhưng có chuyện gì với cô ấy sao, tâu Bệ hạ?”
 
 “Khanh ấy có nói với ta rằng đã nhìn thấy cậu bên ngoài phòng của mình và lảng vảng quanh lâu đài.”
 

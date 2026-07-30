@@ -86,7 +86,7 @@ Suimei mỉm cười nhẹ rồi nói tiếp. “Thế nhưng, thần vẫn mu�
 
 Họ đều là những vị khách bị triệu gọi đến thế giới này ngoài ý muốn, bao gồm cả Suimei. Nhà vua chấp nhận trách nhiệm của mình trong chuyện đó. Việc ông chăm sóc cậu trong lâu đài cho đến khi cậu có thể hoàn thành ma pháp trận quay trở về nhà là điều hoàn toàn hợp lý. Tuy nhiên, đó là chỉ khi Suimei muốn ở lại, đó là lý do tại sao nhà vua phải hỏi thăm. Và Suimei đáp lại bằng cách lắc đầu.
 
-“Không ạ. Sau khi ngài Reiji và ngài Mizuki rời lâu đài, thần cũng đang tính rời đi luôn.”
+“Không ạ. Sau khi ngài Reiji và cô Mizuki rời lâu đài, thần cũng đang tính rời đi luôn.”
 
 “Cậu định làm gì sau khi rời lâu đài?” “Thần định đi tới Đế quốc Nelferia. Đó là một đầu mối trọng yếu giáp ranh giữa ba quốc gia. Thần có thể thu thập đủ loại thông tin và vật dụng cần thiết ở đó, và thần tin rằng đó là một địa điểm thích hợp để thần dừng chân thiết lập căn cứ.”
 

@@ -144,7 +144,7 @@ Cậu nhớ mang máng có nghe nói cô là một quý tộc lớn nào đó, v
 “Thật mà! Ta thề danh dự trước Nữ thần Alshuna, ta không hề nói dối!”
 “Tôi không biết cái tên đó có ý nghĩa thế nào với các người, nhưng với tư cách là một người Nhật Bản đến từ thế giới khác, nó chẳng có giá trị gì với tôi cả.”
 
-Suimei điều chỉnh lại thanh katana, và nó phát ra tiếng kêu "cách" như thể nó có một tấm chắn bảo vệ. Vì Felmenia không phải là người Nhật, cô có lẽ không biết âm thanh đó biểu thị cho điều gì, nhưng cô theo bản năng dường như cảm nhận được mình đang ở rất gần cái chết. Rồi cô chuyển sang khẩn cầu thảm thiết.
+Suimei điều chỉnh lại thanh katana, và nó phát ra tiếng kêu "cách" như thể được tra vào vỏ. Vì Felmenia không phải là người Nhật, cô có lẽ không biết âm thanh đó biểu thị cho điều gì, nhưng cô theo bản năng dường như cảm nhận được mình đang ở rất gần cái chết. Rồi cô chuyển sang khẩn cầu thảm thiết.
 
 “L-Làm ơn! Ta chưa muốn chết lúc này đâu! Ta không muốn chết... Làm ơn...” Bất kỳ ai nhìn vào cũng sẽ thấy cậu đã bắt nạt cô quá mức rồi. Nhưng bây giờ cô đã trở nên tơi tả thế này, Suimei nghĩ cũng đã đến lúc chuyển sang chủ đề chính. Tiếp tục duy trì vẻ mặt ác ý, cậu bắt đầu nói bằng một giọng điệu rõ ràng là chán chường.
 
@@ -155,7 +155,7 @@ Suimei điều chỉnh lại thanh katana, và nó phát ra tiếng kêu "cách"
 
 Khi Suimei ép cô đồng ý, Felmenia vừa run rẩy sợ hãi vừa lắc đầu liên tục với tất cả sức lực của mình.
 
-“Kh-Không, xin hãy đợi đã! Ngài Reiji và ngài Mizuki thì là một chuyện, nhưng ta đã báo cáo với Bệ hạ rằng cậu là một pháp sư rồi. Trong trường hợp đó, ta phải làm thế nào...?”
+“Kh-Không, xin hãy đợi đã! Ngài Reiji và cô Mizuki thì là một chuyện, nhưng ta đã báo cáo với Bệ hạ rằng cậu là một pháp sư rồi. Trong trường hợp đó, ta phải làm thế nào...?”
 
 “Hửm, thật ngoài dự kiến đấy. Tôi ngạc nhiên là kẻ tự tin thái quá như cô lại thèm đi nói chuyện này với người khác đấy. Tôi cứ nghĩ cô sẽ coi một kẻ như tôi là cỏ rác, và tin chắc rằng mình có thể tự xử lý tôi bất cứ lúc nào, nên thậm chí còn chẳng chuẩn bị phương án dự phòng cho tình huống cô thất bại trước tôi chứ... Chà, tôi cũng không bận tâm lắm đâu. Dù thế nào đi nữa, cô tuyệt đối không được tiết lộ chi tiết về cuộc chạm trán này cho bất kỳ ai nghe.”
 
