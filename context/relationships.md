@@ -16,7 +16,7 @@ Quy tắc xưng hô và đại từ trong hội thoại giữa các nhân vật 
 | **Suimei** | **Titania (Tia)** | Công chúa Titania / Cô | Cậu Suimei / Suimei-san | Suimei giữ khoảng cách lịch sự. Titania thân thiện nhưng chừng mực. |
 | **Reiji** | **Titania (Tia)** | Công chúa Titania / Tia | Ngài Anh hùng / Ngài Reiji | Tiến triển thân thiết hơn ở Chapter 2. Reiji gọi cô bằng biệt danh "Tia", Tia tôn sùng Reiji là vị cứu tinh. |
 | **Mizuki** | **Titania (Tia)** | Tia / Công chúa Titania | Cô Mizuki | Lịch sự giữa hai cô gái. Xuất hiện sự cạnh tranh và ghen tị âm thầm từ Mizuki khi thấy Tia bám sát Reiji ở Chapter 2. |
-| **Vua Almadious** | **Suimei** | Cậu / Kẻ cứng đầu | Bệ hạ / Nhà vua | Suimei từ chối phục vụ nên Vua không hài lòng. Tuy nhiên ở Chapter 2, Vua thấu hiểu và muốn nhắm mắt làm ngơ cho hành động lén lút của Suimei vì cảm giác có lỗi. |
+| **Vua Almadious** | **Suimei** | Suimei-dono / Cậu | Bệ hạ / Người | Suimei từ chối làm Anh hùng nên lúc đầu Vua không hài lòng. Ở Chapter 2, Vua thấu hiểu và muốn nhắm mắt làm ngơ. Ở Chapter 3, sau cuộc đối chất riêng tư, cả hai đạt được sự đồng thuận: Suimei hé lộ thân phận ma thuật sư và kế hoạch âm thầm giải mã ma pháp trận để tìm đường về cho cả nhóm; Vua tôn trọng sự lựa chọn của Suimei và giữ kín bí mật cho cậu. Suimei xưng "thần", gọi Vua là "Bệ hạ/Người". |
 | **Vua Almadious** | **Reiji** | Ngài Anh hùng / Reiji-dono | Bệ hạ | Vua tôn trọng Anh hùng; Reiji tôn trọng Vua. |
 | **Gless Dillez** | **Nhóm Suimei** | Các vị khách / Anh hùng | Ngài Thừa tướng | Quan hệ ngoại giao trang trọng. |
 | **Reiji** | **Felmenia** | Cô Felmenia / Cô giáo / Felmenia-san | Ngài Anh hùng / Ngài Reiji | Felmenia kính nể và có phần ngưỡng mộ Anh hùng Reiji, còn Reiji cư xử lịch thiệp. Từ cuối Chương 1 - Phần 5, Reiji bắt đầu gọi cô là "Cô giáo" (Sensei) sau khi được cô nhận làm học trò. |
@@ -38,6 +38,10 @@ Quy tắc xưng hô và đại từ trong hội thoại giữa các nhân vật 
 - **Sau khi Suimei bẻ gãy Bạch Hỏa**: Felmenia nhận ra Suimei là quái vật ma thuật thực sự. Giọng điệu chuyển sang tôn kính tối thượng.
   - Từ ngữ trong bản dịch tiếng Việt của Felmenia phải dùng các từ trang trọng, cung kính như: *"Xin ngài..."*, *"Kẻ hèn này..."*, *"Ngài Suimei..."*.
   - Suimei dùng vị thế kẻ trên để chỉ dạy và cảnh cáo Felmenia không được tiết lộ bí mật của mình: xưng *"Tôi"*, gọi *"Cô"*.
+- **Hủy bỏ khế ước (Chapter 3 - Part 6)**: Suimei tự tay xé bản giao kèo giao ước máu trước mặt Felmenia và đức vua, giải phóng cô khỏi ràng buộc ma thuật. Cậu khuyên cô hãy tận trung và biết ơn đức vua đã đánh cược tính mạng vì cô. Cuối chương, cậu chủ động rủ cô đi điều tra một bí mật thú vị mới phát hiện.
+
+### Suimei <-> Vua Almadious (Diễn biến trong Chapter 3)
+- **Đối chất và thấu hiểu (Chapter 3 - Part 5 & 6)**: Vua Almadious triệu tập Suimei nói chuyện riêng để làm rõ việc Felmenia bị khống chế điểm yếu. Suimei đã thể hiện bản ngã ma thuật sư của mình và đối chất với nhà vua. Nhận thấy sự chân thành và khiêm nhường của nhà vua (nhà vua cúi đầu xin lỗi và tự nhận lỗi lầm triệu hồi), Suimei đã thay đổi thái độ thành kính trọng sâu sắc, chuyển sang xưng "thần" gọi "Bệ hạ/Người". Cậu tự nguyện xé bỏ khế ước ràng buộc Felmenia để xóa bỏ ác cảm và chia sẻ kế hoạch rời lâu đài đi Nelferia, đồng thời từ chối sự hỗ trợ của nhà vua để bảo vệ uy tín của ông trước dư luận.
 
 
 ### Mizuki <-> Titania (Tia) (Diễn biến trong Chapter 2)

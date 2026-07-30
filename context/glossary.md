@@ -66,3 +66,5 @@
 | **strike magicka** | Đả Kích thuật | Ma thuật | Bí thuật nén và kích nổ không khí không cần niệm chú bằng cách búng tay của Suimei. |
 | **restoration magicka** | Bí thuật phục hồi | Ma thuật | Bí thuật phục hồi trạng thái cũ của vật thể (như quần áo rách, vết bẩn) của Suimei. |
 | **spiritualism and mediumship** | Thông linh thuật và giáng thần thuật | Khái niệm | Các lĩnh vực huyền học/bí thuật mà Suimei đã nghiên cứu để áp dụng cho việc giải mã thuật thức. |
+| **Archiatius / Archiatius overload** | Archiatius / Quá tải Archiatius | Khái niệm / Ma thuật | Lò ma lực / ma thuật cốt lõi giải phóng sức mạnh ma lực của ma thuật sư hiện đại trong thế giới của Suimei. |
+| **Nelferian Empire / Empire of Nelferia** | Đế quốc Nelferia | Địa danh | Quốc gia đồng minh của Astel, ngã ba giao thương trọng yếu giáp ranh ba nước, nơi Suimei dự định đến lập căn cứ sau khi rời lâu đài. |
