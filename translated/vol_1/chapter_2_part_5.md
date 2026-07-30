@@ -9,7 +9,9 @@ Felmenia thực sự tự tin rằng mình có thể thuyết phục được Re
 Khi cô đưa ra lời thỉnh cầu hoàng gia đó, đức vua nhắm mắt suy ngẫm một lát, và chẳng mấy chốc, ngài lên tiếng bằng một giọng trang nghiêm.
 
 “…Ngươi không được làm vậy.”
+
 “Tâu Bệ hạ! Nhưng...!”
+
 “Felmenia, ta đã bảo là ngươi không được làm thế. Ngài Suimei, cũng giống như người anh hùng, là một vị khách quan trọng của lâu đài ta. Ta không thể cho phép ngươi nghĩ đến việc gây tổn hại cho cậu ta.”
 
 “Thần sẽ không bao giờ nghĩ đến việc làm như vậy...! Thần chỉ muốn khiển trách cậu ấy một cách thích đáng vì đã coi thường các quy tắc một cách trắng trợn như thế. Đ-Đúng là thần không nghĩ ngài Suimei đang âm mưu điều gì xấu xa, nhưng... Trước khi cậu ấy làm chuyện gì đó và nó trở thành một vấn đề nghiêm trọng, chúng ta nên ngăn chặn việc này lại. Đó là, ừm... Thần tin đó là nhiệm vụ của mình, vì vậy...”
@@ -17,15 +19,21 @@ Khi cô đưa ra lời thỉnh cầu hoàng gia đó, đức vua nhắm mắt su
 Nhìn thấy Felmenia bám víu một cách bướng bỉnh vào ý nghĩ đó, đức vua lộ vẻ mặt tò mò. Điều này có phần kỳ lạ đối với ngài.
 
 “Ngươi có vẻ khá bận tâm về chuyện này.”
+
 “Tâu Bệ hạ?! A, không... Chuyện đó, ừm...”
+
 “Ngươi để tâm đến ngài Suimei nhiều đến thế sao?”
+
 “K-Không, tâu Bệ hạ! Thần không hề đặc biệt để tâm đâu ạ... Chỉ là, vì cậu ấy... Thần nghĩ sẽ không tốt nếu cậu ấy gây rắc rối cho ngài Reiji...”
 
 Bị chỉ ra hành vi bất thường của mình, suy nghĩ của Felmenia rối bời khi cô cố gắng giữ bình tĩnh. Chắc chắn nếu cô nói mình không bận tâm về việc này thì đó sẽ là một lời nói dối. Nhìn thấy cô như vậy, đức vua bỗng trở nên im lặng. Cô một lần nữa thỉnh cầu sự đồng ý của ngài, nhưng...
 
 “Không được là không được, Felmenia. Rõ chưa?”
+
 “…”
+
 “Rõ chưa?”
+
 “Vâng, tâu Bệ hạ...”
 
 Khi đức vua gặng hỏi để cô tuân mệnh, Felmenia đành phải nhượng bộ. Cô không còn lựa chọn nào khác. Nuốt đi nỗi bực dọc của mình, cô cúi đầu thật sâu. Đã bao lâu rồi cô mới bị bác bỏ một cách triệt để như vậy? Kể từ ngày trở thành pháp sư hoàng gia, chuyện này đã xảy ra một hoặc hai lần, nhưng trong trí nhớ gần đây thì chưa từng có. Đối thủ mà cô đang nhắm tới là một ma thuật sư, và điều đó càng làm tăng thêm sự bực bội của cô khi không thể hỏi tội cậu ta. Cô không vui với đức vua vì đã không cho phép cô làm vậy, nhưng cuối cùng, cơn thịnh nộ của cô lại tập trung vào Suimei. Cậu ta nằm ngay trong tầm ngắm của cơn giận dữ của cô, vốn giờ đây đã dễ dàng tăng lên gấp năm lần.

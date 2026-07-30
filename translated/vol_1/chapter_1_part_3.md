@@ -156,9 +156,13 @@ Nhà vua quay sang người đàn ông lớn tuổi bên cạnh và gật đầu
 
 “Nằm ở phía bắc xa xôi của Astel, cách khoảng bằng chiều rộng của hai quốc gia gộp lại, là một vùng đất vô cùng lạnh giá gọi là Vương quốc Noshias. Noshias đóng vai trò như cửa ngõ huyết mạch giữa lãnh thổ của quỷ và loài người, và từ lâu đã được biết đến như là pháo đài cực bắc của nhân loại. Nơi đây đã ngăn chặn sự tiến công của loài quỷ vào thế giới của chúng ta. Thế nhưng, chuyện đó chỉ kéo dài cho đến nửa năm trước. Hoàng đô đã thất thủ trong một cuộc tấn công bất ngờ và đột ngột của loài quỷ. Sau đó, Noshias không còn khả năng duy trì đất nước và đã bị diệt vong.”
 
-Vẻ mặt của Thừa tướng Gless trở nên u ám khi ông tiếp tục. “Bất chấp khí hậu khắc nghiệt, người dân Noshias sở hữu sức mạnh không hề thua kém những người sống ở vùng đồng bằng. Ta nghe nói quân đội của họ cũng rất hùng mạnh, nhưng họ khó lòng có thể chống cự nổi trước một đội quân quỷ đông tới hơn một triệu con. Một quốc gia vĩ đại đã bị tàn phá hoàn toàn trong vòng chưa đầy một tháng.”
+Vẻ mặt của Thừa tướng Gless trở nên u ám khi ông tiếp tục.
 
-Mizuki ngập ngừng lên tiếng. “Ưm, bị tàn phá nghĩa là... Còn người dân của Noshias thì sao ạ?”
+“Bất chấp khí hậu khắc nghiệt, người dân Noshias sở hữu sức mạnh không hề thua kém những người sống ở vùng đồng bằng. Ta nghe nói quân đội của họ cũng rất hùng mạnh, nhưng họ khó lòng có thể chống cự nổi trước một đội quân quỷ đông tới hơn một triệu con. Một quốc gia vĩ đại đã bị tàn phá hoàn toàn trong vòng chưa đầy một tháng.”
+
+Mizuki ngập ngừng lên tiếng.
+
+“Ưm, bị tàn phá nghĩa là... Còn người dân của Noshias thì sao ạ?”
 
 “Loài quỷ không cần tù binh loài người. Tại thời điểm diễn ra cuộc tấn công, phần lớn người dân Noshias đã bị lũ quỷ tàn sát. Những người sống sót sau đó bị lùng sục bởi các cuộc săn người của chúng. Chỉ có một số ít người may mắn sống sót cho đến ngày nay, nhưng dân số của Noshias đã bị xóa sổ gần như hoàn toàn.”
 
@@ -170,9 +174,13 @@ Nghe lời giải thích của Gless, khuôn mặt Mizuki tái nhợt đi. Ý ng
 
 “Sau đó, nhờ thần dụ của Giáo hội Cứu thế, chúng ta đã có thể xác nhận rằng một Ma Vương đã tiếp quản lãnh địa quỷ. Tên của Ma Vương là Nakshatra, và nếu cứ để hắn tự do như vậy, loài quỷ cuối cùng sẽ tiêu diệt toàn bộ nhân loại.”
 
-Gless dừng lại một chút trước khi tiếp tục. “Đối mặt với lời tiên tri về sự diệt vong của nhân loại từ thần dụ, các quốc gia đã hội tụ và tổ chức một hội nghị để thảo luận về các biện pháp đối phó với cuộc xâm lăng của loài quỷ. Tuy nhiên, trước sự sụp đổ của Noshias và quy mô được báo cáo của quân đội quỷ, nhiều đề xuất được đưa ra nhằm phá vỡ thế bế tắc đều bị rút lại. Điều đó chỉ chứng minh rằng con người chúng ta thiếu phương tiện để chống lại lũ quỷ vốn vượt trội hoàn toàn về cả sức mạnh lẫn số lượng.”
+Gless dừng lại một chút trước khi tiếp tục.
 
-Gless đột ngột hướng ánh mắt về phía Reiji. “Do đó, các quốc gia đều đồng ý sử dụng nghi thức triệu hồi được lưu truyền từ thuở sơ khai để triệu hồi một vị anh hùng từ thế giới khác. Thông thường, nghi thức triệu hồi anh hùng là thứ chỉ có Hội Pháp sư và Giáo hội Cứu thế được biết. Việc sử dụng nó bị nghiêm cấm nếu không có sự đồng ý của họ, và chỉ khi nhân loại bị đe dọa nghiêm trọng thì nghi thức mới được tổ chức. Suy cho cùng, nếu mỗi quốc gia đều tự ý thực hiện nghi thức triệu hồi anh hùng vì lợi ích quốc gia của riêng mình, toàn bộ thế giới sẽ rơi vào hỗn loạn.”
+“Đối mặt với lời tiên tri về sự diệt vong của nhân loại từ thần dụ, các quốc gia đã hội tụ và tổ chức một hội nghị để thảo luận về các biện pháp đối phó với cuộc xâm lăng của loài quỷ. Tuy nhiên, trước sự sụp đổ của Noshias và quy mô được báo cáo của quân đội quỷ, nhiều đề xuất được đưa ra nhằm phá vỡ thế bế tắc đều bị rút lại. Điều đó chỉ chứng minh rằng con người chúng ta thiếu phương tiện để chống lại lũ quỷ vốn vượt trội hoàn toàn về cả sức mạnh lẫn số lượng.”
+
+Gless đột ngột hướng ánh mắt về phía Reiji.
+
+“Do đó, các quốc gia đều đồng ý sử dụng nghi thức triệu hồi được lưu truyền từ thuở sơ khai để triệu hồi một vị anh hùng từ thế giới khác. Thông thường, nghi thức triệu hồi anh hùng là thứ chỉ có Hội Pháp sư và Giáo hội Cứu thế được biết. Việc sử dụng nó bị nghiêm cấm nếu không có sự đồng ý của họ, và chỉ khi nhân loại bị đe dọa nghiêm trọng thì nghi thức mới được tổ chức. Suy cho cùng, nếu mỗi quốc gia đều tự ý thực hiện nghi thức triệu hồi anh hùng vì lợi ích quốc gia của riêng mình, toàn bộ thế giới sẽ rơi vào hỗn loạn.”
 
 “Có nhiều cuộc khủng hoảng ở thế giới này đến thế sao...?” Reiji nhíu mày. Cậu ta hẳn cũng đang thầm gào thét trong lòng, “Cái thế giới này có quá nhiều cuộc khủng hoảng chết tiệt đe dọa nhân loại rồi đấy!”
 
@@ -182,9 +190,13 @@ Gless đột ngột hướng ánh mắt về phía Reiji. “Do đó, các quố
 
 “Và những người được triệu hồi đến đây là chúng tôi, đúng không?”
 
-Khi Reiji hỏi để xác nhận, Gless nhắm mắt lại gật đầu. “Đúng như ngài nói.”
+Khi Reiji hỏi để xác nhận, Gless nhắm mắt lại gật đầu.
 
-Sau đó, vẻ mặt của Gless chuyển từ u ám sang u ám hơn. “Hiện tại cuộc xâm lăng của quân đội quỷ đã chậm lại, nhưng trong tương lai gần, không chỉ quốc gia này mà toàn bộ thế giới loài người sẽ bị chà đạp dưới chân đội quân quỷ khổng lồ đó. Chúng ta đều sẽ diệt vong như Noshias nếu không hành động.”
+“Đúng như ngài nói.”
+
+Sau đó, vẻ mặt của Gless chuyển từ u ám sang u ám hơn.
+
+“Hiện tại cuộc xâm lăng của quân đội quỷ đã chậm lại, nhưng trong tương lai gần, không chỉ quốc gia này mà toàn bộ thế giới loài người sẽ bị chà đạp dưới chân đội quân quỷ khổng lồ đó. Chúng ta đều sẽ diệt vong như Noshias nếu không hành động.”
 
 Sắc mặt Gless nhợt nhạt đi, giọng ông trở nên u sầu. Việc này trông giống như một màn kịch đáng thương để khơi gợi sự đồng cảm từ họ. Thật là tinh ranh và đáng ghét, nhưng nghĩ đến việc triệu hồi trên đấu trường quốc tế, việc không thể đưa ra một vị anh hùng có lẽ sẽ bị coi là một nỗi sỉ nhục làm lung lay niềm tin của người dân vào Astel. Với tư cách là thừa tướng phải lo nghĩ cho tương lai của đất nước, ông ta đang hành động với thiện chí, nhưng Suimei không thể ngăn nổi làn sóng bực bội đang trào dâng trong lòng. Để lại một khoảng lặng sau lời giải thích của Gless, nhà vua lên tiếng một lần nữa.
 

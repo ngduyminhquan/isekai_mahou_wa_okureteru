@@ -64,7 +64,13 @@ Trời đất ơi, mình đúng là đồ ngốc mà. Suimei đặt tay lên tr�
 
 Suimei tạm thời giải trừ chiêm tinh thuật của mình và đi tìm người. Chắc chắn nếu cậu nói mình bị lạc, ai đó sẽ chỉ đường cho cậu. Nhờ một chút may mắn và đúng thời điểm, sau khi đi dọc theo hành lang một quãng ngắn, cậu nhanh chóng phát hiện ra một bóng người. Tiếp cận từ phía sau, cậu cất tiếng gọi.
 
-“Xin lỗi, cho hỏi một chút.” Bóng người mặc áo choàng dừng bước và duyên dáng quay lại. “Có chuyện... Ôi, là ngài Suimei-dono.” “Hửm? À, nếu tôi nhớ không lầm, cô là...” “Tên tôi là Felmenia Stingray.” Cả giọng nói lẫn gương mặt này đều rất quen thuộc. Sau khi cô lịch sự xưng tên một lần nữa, cậu nhận ra đây chính là thiếu nữ đã tham gia vào buổi triệu hồi Anh hùng—nữ pháp sư hoàng gia có mái tóc bạc Felmenia Stingray. Cậu gật đầu và khẽ “À” lên một tiếng. Thấy vậy, Felmenia khẽ nhíu mày.
+“Xin lỗi, cho hỏi một chút.” Bóng người mặc áo choàng dừng bước và duyên dáng quay lại.
+
+“Có chuyện... Ôi, là ngài Suimei-dono.”
+
+“Hửm? À, nếu tôi nhớ không lầm, cô là...”
+
+“Tên tôi là Felmenia Stingray.” Cả giọng nói lẫn gương mặt này đều rất quen thuộc. Sau khi cô lịch sự xưng tên một lần nữa, cậu nhận ra đây chính là thiếu nữ đã tham gia vào buổi triệu hồi Anh hùng—nữ pháp sư hoàng gia có mái tóc bạc Felmenia Stingray. Cậu gật đầu và khẽ “À” lên một tiếng. Thấy vậy, Felmenia khẽ nhíu mày.
 
 “Ngài đang làm gì ở đây vậy, Suimei-dono?” Đó là một câu hỏi hoàn toàn hợp lý. Sau sự việc ở phòng tiếp kiến, Suimei đã tự giam mình trong căn phòng được ban cho. Nhưng giờ cậu lại đột ngột đi loanh quanh ngoài này mà không có Reiji đi cùng, nên việc cô có chút nghi ngờ là điều dễ hiểu.
 
@@ -76,31 +82,45 @@ Suimei tạm thời giải trừ chiêm tinh thuật của mình và đi tìm ng
 
 “Tuy có hơi ngại khi phải hỏi sau khi cô đã có lòng giúp đỡ như vậy, nhưng cô có thể giới thiệu cho tôi ai đó biết đường quay lại phòng của tôi không?”
 
-“...Ngài đã quên đường đi sao?” “Thật là ngượng ngùng khi phải thừa nhận điều đó.” “Tôi hiểu rồi. Tôi biết phòng của ngài ở đâu, nhưng tôi đang có việc cần giải quyết nên chỉ có thể đi cùng ngài một đoạn đường. Nếu như thế là đủ thì xin mời đi theo tôi.”
+“...Ngài đã quên đường đi sao?”
+
+“Thật là ngượng ngùng khi phải thừa nhận điều đó.”
+
+“Tôi hiểu rồi. Tôi biết phòng của ngài ở đâu, nhưng tôi đang có việc cần giải quyết nên chỉ có thể đi cùng ngài một đoạn đường. Nếu như thế là đủ thì xin mời đi theo tôi.”
 
 “Xin lỗi vì đã làm phiền cô.” Sau khi cúi đầu, Suimei đi theo sau Felmenia khi cô bước dọc theo hành lang. Vì hiện tại cô đang ở trong lâu đài, cô chắc hẳn vừa mới hoàn thành buổi học ma pháp trong ngày với Reiji và Mizuki. Có lẽ cô đang trên đường đi báo cáo với đức vua hay gì đó tương tự. Trong lúc Suimei còn đang thắc mắc không biết cô định làm gì, cô đột ngột dừng bước. Rồi cô quay lại và nói với cậu bằng một giọng trầm thấp.
 
-“Suimei-dono, tôi có thể hỏi ngài một chuyện được không?” “Chuyện gì thế?” Suimei thúc giục cô tiếp tục bằng câu hỏi của mình, nhưng tự hỏi tại sao cô lại tỏ vẻ khách khí như vậy. Có lẽ cô định hỏi cậu về ma pháp cậu đã sử dụng ở phòng tế đàn vào ngày họ gặp nhau. Khả năng cao là cô đã nhận ra điều gì đó. Giữa lúc Suimei đang đưa ra giả định u ám đó, Felmenia cất lời hỏi cậu bằng một giọng có phần sắc sảo.
+“Suimei-dono, tôi có thể hỏi ngài một chuyện được không?”
+
+“Chuyện gì thế?” Suimei thúc giục cô tiếp tục bằng câu hỏi của mình, nhưng tự hỏi tại sao cô lại tỏ vẻ khách khí như vậy. Có lẽ cô định hỏi cậu về ma pháp cậu đã sử dụng ở phòng tế đàn vào ngày họ gặp nhau. Khả năng cao là cô đã nhận ra điều gì đó. Giữa lúc Suimei đang đưa ra giả định u ám đó, Felmenia cất lời hỏi cậu bằng một giọng có phần sắc sảo.
 
 “Suimei-dono, tại sao ngài lại từ chối tham gia vào chiến dịch tiêu diệt Ma Vương?”
 
-“Dù cô có hỏi tại sao đi nữa...” “Ngài Anh hùng là bạn thân của ngài. Vậy tại sao ngài lại không tiến bước và hỗ trợ cậu ấy? Tôi tin chắc rằng ngài hoàn toàn ở vị thế có thể làm được điều đó.”
+“Dù cô có hỏi tại sao đi nữa...”
+
+“Ngài Anh hùng là bạn thân của ngài. Vậy tại sao ngài lại không tiến bước và hỗ trợ cậu ấy? Tôi tin chắc rằng ngài hoàn toàn ở vị thế có thể làm được điều đó.”
 
 Đối với Suimei, những người này triệu hồi cậu chỉ vì sự lười biếng và tiện lợi của họ, nên việc nghe một người trong số họ nói về nghĩa vụ và bổn phận—nhất là đối với cậu—thật nực cười và vô nghĩa. Tất nhiên họ muốn cậu cứu họ, nhưng với cậu, ngay cả ý nghĩ phải làm việc đó cũng khiến cậu bực mình. Nhưng cậu biết rằng việc nổi đóa lên mỗi khi chuyện này được nhắc đến cũng chẳng giải quyết được gì, vì vậy cậu quyết định trả lời một cách thẳng thừng nhất có thể.
 
 “Câu trả lời của tôi dành cho cô cũng giống như những gì tôi đã thưa với Bệ hạ ở phòng tiếp kiến. Tôi thẳng thừng từ chối làm bất cứ việc gì nguy hiểm như thế. Đó là lý do tại sao tôi quyết định không đi cùng họ.”
 
-Vẻ mặt của Felmenia càng trở nên nghiêm nghị hơn. “Ngay cả một cô gái mỏng manh như Mizuki-dono cũng nói rằng cô ấy sẽ đi cùng Anh hùng, vậy mà ngài thì không?”
+Vẻ mặt của Felmenia càng trở nên nghiêm nghị hơn.
+
+“Ngay cả một cô gái mỏng manh như Mizuki-dono cũng nói rằng cô ấy sẽ đi cùng Anh hùng, vậy mà ngài thì không?”
 
 “Tôi không có ý định đưa ra một quyết định mang tính cảm tính để rồi bị kéo theo đâu.”
 
-“...Ngài đang ám chỉ đó là những gì Mizuki-dono đã làm sao?” “Không phải sao? Trong tình cảnh nước sôi lửa bỏng lúc đó, cô ấy còn có thể đưa ra câu trả lời nào khác được chứ?”
+“...Ngài đang ám chỉ đó là những gì Mizuki-dono đã làm sao?”
+
+“Không phải sao? Trong tình cảnh nước sôi lửa bỏng lúc đó, cô ấy còn có thể đưa ra câu trả lời nào khác được chứ?”
 
 Suimei biết mình đang tỏ ra cay nghiệt, nhưng những gì cậu nói vẫn là sự thật. Mizuki đã phạm phải sai lầm tương tự như Reiji khi đưa ra cam kết mà không hiểu rõ tình hình hay dành thời gian thảo luận với bạn bè của mình. Tất cả bọn họ đều đã bị đặt vào thế bí, nhưng Suimei cảm thấy Reiji và Mizuki đã hành động một cách khờ dại.
 
 Khi Suimei rũ bỏ cách nói chuyện khách sáo, thái độ của Felmenia cũng thay đổi theo. Từ nãy đến giờ cô vẫn cư xử với cậu khá lịch thiệp, nhưng tông giọng của cô đột ngột trở nên lạnh băng.
 
-“Hừ, thật là một kẻ đáng khinh bỉ.” “Cô vừa nói cái gì?” Đáp lại, Suimei lập tức tỏ thái độ gây chiến. Nhìn thấy Felmenia nhìn mình bằng ánh mắt đầy khinh bỉ như vậy khiến cậu khó chịu. Nhưng bất chấp sự thay đổi trong tâm trạng của cậu, cô vẫn tiếp tục đổ thêm dầu vào lửa.
+“Hừ, thật là một kẻ đáng khinh bỉ.”
+
+“Cô vừa nói cái gì?” Đáp lại, Suimei lập tức tỏ thái độ gây chiến. Nhìn thấy Felmenia nhìn mình bằng ánh mắt đầy khinh bỉ như vậy khiến cậu khó chịu. Nhưng bất chấp sự thay đổi trong tâm trạng của cậu, cô vẫn tiếp tục đổ thêm dầu vào lửa.
 
 “Tôi nói ngài là kẻ đáng khinh, tên hèn nhát chết nhát. Ngài thực sự nghĩ mình thông minh khi coi thường lòng dũng cảm mà bạn bè ngài đã gom góp được sao? Không, điều đó chỉ khiến ngài trở nên nhỏ nhen và ngu ngốc. Một gã tồi tệ như ngài không có tư cách để tự nhận mình là bạn của Anh hùng.”
 
@@ -114,7 +134,11 @@ Khi Suimei rũ bỏ cách nói chuyện khách sáo, thái độ của Felmenia 
 
 Sau khi Suimei bồi thêm những lời đanh thép đó, Felmenia đành miễn cưỡng thừa nhận rằng cậu có lý.
 
-“...Tôi hiểu những gì ngài đang nói.” “Tốt.” “Nhưng bất luận thế nào, Suimei Yakagi, hành động của ngài chẳng phải là quá hèn hạ nếu so với Ngài Anh hùng và Mizuki-dono sao?”
+“...Tôi hiểu những gì ngài đang nói.”
+
+“Tốt.”
+
+“Nhưng bất luận thế nào, Suimei Yakagi, hành động của ngài chẳng phải là quá hèn hạ nếu so với Ngài Anh hùng và Mizuki-dono sao?”
 
 “Ư...” Suimei không có ý định tranh cãi với cô về vấn đề đó. Cậu không phải là nạn nhân duy nhất trong chuyện này. Cậu không có lý do gì để tỏ ra tử tế với những kẻ đã triệu hồi mình, nhưng như Felmenia đang nói, họ không phải là những người duy nhất cậu nên nghĩ tới. Trong khi Reiji và Mizuki đã quên mình bước lên phía trước dù biết rõ mối nguy hiểm đang chực chờ họ, Suimei vẫn đang giữ kín danh tính thực sự của mình vì lý do cá nhân. Việc đó thật hèn hạ. Thậm chí là ích kỷ. Và cậu tự biết rõ điều đó. Cậu sẽ không bào chữa.
 
@@ -126,15 +150,23 @@ Chậc... Cô nàng này... Tuy nhiên đối với Suimei, sự tức giận c�
 
 Nhưng dù những lời cô khiển trách cậu là hoàn toàn chính xác, cậu không có ý định mở lòng và nói ra sự thật với cô. Luận thuyết của cậu là thứ gì đó rất gần với lý do tồn tại của cậu, nhưng đó là chuyện riêng tư. Vì vậy thay vào đó, cậu thản nhiên nhún vai và trả lời như thể mình không quan tâm chút nào.
 
-“Rồi rồi. Xin lỗi vì chuyện đó nhé.” “Đồ tồi!” Felmenia lộ rõ vẻ không hài lòng trước thái độ vô lễ của Suimei, cô nhìn cậu bằng ánh mắt như muốn phóng dao. Quan trọng hơn, Suimei có thể nhận thấy dòng mana trong cơ thể cô đang bắt đầu dao động dữ dội.
+“Rồi rồi. Xin lỗi vì chuyện đó nhé.”
+
+“Đồ tồi!” Felmenia lộ rõ vẻ không hài lòng trước thái độ vô lễ của Suimei, cô nhìn cậu bằng ánh mắt như muốn phóng dao. Quan trọng hơn, Suimei có thể nhận thấy dòng mana trong cơ thể cô đang bắt đầu dao động dữ dội.
 
 “Này này... cô tính làm cái gì ở một nơi thế này hả?” Một luồng sát khí mạnh mẽ quét qua hành lang đá. Trong khi vẫn tập trung cao độ vào Felmenia khi cơn thịnh nộ của cô tiếp tục dâng cao, Suimei đưa cả hai tay lên ôm lấy đầu. Hành động này trông giống như một cử chỉ bực bội, nhưng cậu đã sẵn sàng ứng phó nếu tình huống xấu nhất xảy ra. Ngay sau đó, Felmenia bắt đầu niệm chú một cách lưu loát.
 
 “Câm miệng đi, tên khốn chết tiệt kia. Ta, Bạch Hỏa Felmenia, sẽ dạy cho ngài một bài học để tỉnh ngộ!”
 
-“Thôi nào... Sao mọi chuyện lại thành ra thế này cơ chứ?” “Ngài nên tự nhìn lại mình trong gương rồi hỏi câu đó đi!” “Ý tôi là, cô muốn nói gì thì nói, nhưng...” Nhìn thấy Felmenia nổi giận quá mức như vậy, Suimei khẽ thở dài đầy bối rối. Việc cô ấy bốc hỏa vô cớ chỉ làm mọi chuyện thêm rắc rối cho cậu. Bản thân Suimei không hề hứng thú với một cuộc giao tranh, nhưng khi Felmenia nhận ra cậu không hề coi trọng lời nói của mình, cô lại càng thêm tức giận.
+“Thôi nào... Sao mọi chuyện lại thành ra thế này cơ chứ?”
 
-“Tên tồi... Ngài có đang nghe tôi nói không hả?!” “Có, tôi nghe rõ lắm mà không cần cô phải hét lên đâu. Nếu cô cứ la hét như vậy thì sẽ bắt đầu làm phiền đến người khác đấy, biết chưa?”
+“Ngài nên tự nhìn lại mình trong gương rồi hỏi câu đó đi!”
+
+“Ý tôi là, cô muốn nói gì thì nói, nhưng...” Nhìn thấy Felmenia nổi giận quá mức như vậy, Suimei khẽ thở dài đầy bối rối. Việc cô ấy bốc hỏa vô cớ chỉ làm mọi chuyện thêm rắc rối cho cậu. Bản thân Suimei không hề hứng thú với một cuộc giao tranh, nhưng khi Felmenia nhận ra cậu không hề coi trọng lời nói của mình, cô lại càng thêm tức giận.
+
+“Tên tồi... Ngài có đang nghe tôi nói không hả?!”
+
+“Có, tôi nghe rõ lắm mà không cần cô phải hét lên đâu. Nếu cô cứ la hét như vậy thì sẽ bắt đầu làm phiền đến người khác đấy, biết chưa?”
 
 “Th-Thật vô lễ... Không, tên khốn này! Ngài cần phải tập trung lắng nghe khi tôi—”
 

@@ -8,7 +8,7 @@ Sau đó, khi nhận định không còn cần thiết phải giữ cảnh giác
 
 Mizuki chợt tỏ vẻ bối rối, như thể rất khó để giải thích thêm. Suimei bị bỏ lửng giữa chừng. Rốt cuộc cô ấy đang e ngại điều gì chứ?
 
-“Mizuki, cậu đang lo lắng điều gì sao?” 
+“Mizuki, cậu đang lo lắng điều gì sao?”
 
 “Ừm, trong những kịch bản kiểu này, một trong những người bạn của anh hùng—trong trường hợp của chúng ta, tức là một trong hai đứa mình—thường sẽ lập khế ước với tà thần và trở thành kẻ phản diện chống lại cậu ấy.”
 
@@ -18,7 +18,7 @@ Mizuki chợt tỏ vẻ bối rối, như thể rất khó để giải thích t
 
 Cậu có thể hiểu được nếu đó chỉ là một phân thân hay hiện thân sức mạnh nào đó của nó, chứ việc triệu hồi một tà thần thực sự sẽ gây ra cái chết cho hàng ngàn sinh mạng. Cho dù người anh hùng được triệu hồi có may mắn sống sót đi chăng nữa, họ cũng sẽ bị một hóa thân nguy hiểm của cái ác nhắm vào mãi mãi về sau. Mà con người thì hiếm khi may mắn được tới hai lần. Nếu không có sự can thiệp nào, có vẻ người anh hùng cuối cùng vẫn sẽ phải nhận một kết cục bất hạnh. Và đó không phải là điều Suimei mong muốn. Nghĩ đến đó khiến cậu khẽ rùng mình ớn lạnh. Trong khi Suimei đang mải chìm đắm trong suy nghĩ riêng, Reiji tiếp tục hỏi Mizuki.
 
-“Kẻ phản diện á? Tại sao một trong hai cậu lại phải chống lại tớ?” 
+“Kẻ phản diện á? Tại sao một trong hai cậu lại phải chống lại tớ?”
 
 “Trong trường hợp này, hoặc tớ hoặc Suimei-kun sẽ phản đối cách suy nghĩ của cậu, Reiji-kun, rồi cuối cùng lập khế ước với tà thần để chống lại cậu.”
 
@@ -28,15 +28,15 @@ Cậu có thể hiểu được nếu đó chỉ là một phân thân hay hiệ
 
 Chắc hẳn cô đã quá xấu hổ để nói thẳng ra trước mặt cậu ta. Giọng cô nhỏ dần rồi tắt hẳn. Reiji sau đó ngượng ngùng quay đầu sang phía Suimei.
 
-“V-Vậy... là cậu sao, Suimei?” 
+“V-Vậy... là cậu sao, Suimei?”
 
 “Hì, thật ra thì tôi vẫn luôn thầm nghĩ cậu là một kẻ khoác lác hạng bét đáng đi chết quách đi cho rồi.”
 
 “—!” Một luồng sát khí đen tối thoáng hiện lên trong mắt Suimei khi cậu nói, khiến Reiji đứng hình không thốt nên lời.
 
-“Tôi đùa thôi...” 
+“Tôi đùa thôi...”
 
-“S-Suimei...” 
+“S-Suimei...”
 
 “Tôi đùa thật đấy. Nếu tôi ghét cậu, tại sao tôi lại cất công chơi chung với cậu suốt sáu năm qua chứ? Thử nghĩ mà xem.”
 
@@ -50,7 +50,7 @@ Chắc hẳn cô đã quá xấu hổ để nói thẳng ra trước mặt cậu
 
 Như để giới thiệu người đồng hành, Công chúa Titania nghiêng nhẹ người sang một bên. Cô gái mặc áo choàng mà cô vừa nhắc tới tiến lên một bước.
 
-“Tôi là Pháp sư Hoàng gia Felmenia Stingray. Rất hân hạnh được gặp các vị.” 
+“Tôi là Pháp sư Hoàng gia Felmenia Stingray. Rất hân hạnh được gặp các vị.”
 
 Đây chính là cô gái trẻ được công chúa gọi là “Bạch Hỏa” trong cuộc trò chuyện lúc trước. Cô sở hữu mái tóc bạc tuyệt đẹp dài đến thắt lưng, với những bím tóc thắt gọn gàng buông xõa hai bên tai. Đôi mắt hơi xếch của cô dường như toát lên vẻ kiêu hãnh. Cô mang lại một ấn tượng mạnh mẽ, khó phai, nhưng đồng thời cũng có những nét rất duyên dáng và dễ mến. Đúng như danh xưng pháp sư hoàng gia, ma lực đang lưu chuyển vô cùng mượt mà khắp cơ thể cô. Công chúa cũng vậy, nhưng cô gái này có vẻ thành thục hơn nhiều trong việc kiểm soát nó.
 
@@ -60,17 +60,17 @@ Như để giới thiệu người đồng hành, Công chúa Titania nghiêng n
 
 Cậu ta học đâu ra cái thói khách sáo thế từ bao giờ vậy? Công chúa Titania và Pháp sư Hoàng gia Felmenia nhìn Reiji với vẻ khá ngưỡng mộ. Bản thân họ cũng rất tao nhã, nhưng dường như họ rất hài lòng trước sự lịch thiệp của Reiji. Ngay khi có cơ hội, Mizuki bước lên tiếp theo.
 
-“Cho phép tôi tự giới thiệu. Tôi tên là Anohara Mizuki...” 
+“Cho phép tôi tự giới thiệu. Tôi tên là Anohara Mizuki...”
 
-Sau khi cô xong, Suimei cũng tiến lên một bước. 
+Sau khi cô xong, Suimei cũng tiến lên một bước.
 
-“Tôi là... Yakagi Suimei.” 
+“Tôi là... Yakagi Suimei.”
 
 Cậu giới thiệu ngắn gọn, súc tích. Cậu thực sự không biết nói gì thêm, và cậu hiểu rõ đây là tình huống cần tránh phát ngôn bừa bãi. Titania đưa mắt nhìn lướt qua cả ba người, rồi nhắm mắt lại như thể đang suy nghĩ lung lắm. Và rồi...
 
 “Ngài Reiji, Tiểu thư Mizuki và Ngài Suimei đúng không ạ? Lý do chúng tôi triệu hồi các vị trong hoàn cảnh như thế này... Thực ra, có một việc chúng tôi muốn thỉnh cầu một trong ba vị.”
 
-“Việc gì vậy?” 
+“Việc gì vậy?”
 
 “Chúng tôi cần các vị tiêu diệt Ma Vương Nakshatra, thủ lĩnh của loài quỷ đang đe dọa nền hòa bình của thế giới này.”
 
@@ -80,29 +80,29 @@ Ngay khoảnh khắc Công chúa Titania dứt lời, ba người bạn nhìn nh
 
 Được triệu hồi sang thế giới khác, chào đón bởi một công chúa và một pháp sư hoàng gia, rồi được cầu xin cứu thế giới. Đúng là motif sách giáo khoa. Ba người bạn cố giữ vẻ bình tĩnh bên ngoài, nhưng trong lòng ai nấy đều cảm thấy như vừa bị đánh gục.
 
-“Trời ạ...” 
+“Trời ạ...”
 
-“Oa...” 
+“Oa...”
 
-“Ôi trời đất ơi...” 
+“Ôi trời đất ơi...”
 
 Cuối cùng, họ vẫn không thể giữ được vẻ thản nhiên. Mỗi người buông một tiếng thở dài khác nhau. Trông họ lúc này như đang bế tắc hoàn toàn vì cú sốc quá lớn, khiến Titania cất tiếng hỏi với vẻ hơi bối rối.
 
 “Vậy nên, tôi xin lỗi vì sự đường đột này, nhưng trong số các vị, ai là ngài Anh hùng đáng kính?”
 
-“Ừm...” 
+“Ừm...”
 
-“Chuyện đó...” 
+“Chuyện đó...”
 
 Đối mặt với câu hỏi của cô, Reiji và Mizuki nhìn nhau ái ngại. Làm sao họ biết được mình có phải là anh hùng hay không chứ? Họ biết thế nào được? Theo như những gì họ biết, họ chỉ là những người dân thường bình thường. Nếu có ai đó hỏi họ có phải anh hùng không, chắc chắn họ sẽ lắc đầu phủ nhận. Vì lẽ đó, dường như không có câu trả lời cho câu hỏi đang được đặt ra lúc này. Nhưng họ không thể cứ đứng đực ra đó mãi; nếu vậy thì mọi chuyện sẽ chẳng đi đến đâu. Thế là Suimei quyết định can thiệp.
 
-“Tôi có thể hỏi một câu được không?” 
+“Tôi có thể hỏi một câu được không?”
 
-“Vâng, xin cứ tự nhiên hỏi bất cứ điều gì ngài muốn.” 
+“Vâng, xin cứ tự nhiên hỏi bất cứ điều gì ngài muốn.”
 
 “Có điều gì để nhận biết ai là mục tiêu của buổi triệu hồi không? Ý tôi là một dấu hiệu chứng minh một trong số chúng tôi là anh hùng ấy?”
 
-“Bằng chứng là anh hùng? Một dấu hiệu sao?” 
+“Bằng chứng là anh hùng? Một dấu hiệu sao?”
 
 Suimei gật đầu, và Titania quay sang nhìn Felmenia. Felmenia đón nhận ánh mắt của công chúa và gật đầu, rồi quay sang trả lời Suimei.
 
@@ -118,15 +118,15 @@ Thế nhưng cách Felmenia diễn đạt lại khiến nó có vẻ như đang 
 
 Nhưng giờ họ đang ở một thế giới khác. Không có gì đảm bảo rằng mọi thứ sẽ vận hành chính xác như những gì Suimei kỳ vọng. Nếu hai thế giới giống hệt nhau, ngay từ đầu đã chẳng cần phải phân chia làm gì. Phải có lý do nào đó khiến hai thế giới này bị chia tách—một điều gì đó tạo nên sự khác biệt cho nơi này. Có lẽ sự khác biệt nằm ở các Tinh linh...
 
-“Vậy ngài chính là ngài Anh hùng đáng kính sao?” 
+“Vậy ngài chính là ngài Anh hùng đáng kính sao?”
 
-“Ừm... Vâng, tôi nghĩ thế.” 
+“Ừm... Vâng, tôi nghĩ thế.”
 
 Trong khi Suimei đang mải suy nghĩ về các Tinh linh, ánh mắt đầy say đắm của Titania đã đổ dồn vào Reiji. Có vẻ như cô có tình cảm đặc biệt nào đó dành cho vị “anh hùng” này. Tất nhiên, việc cậu ta vốn dĩ vô cùng đẹp trai cũng là một điểm cộng lớn. Thấy cô nhìn mình như vậy, Reiji có chút ngỡ ngàng. Càng ngỡ ngàng hơn nữa khi Titania đột nhiên nắm lấy tay cậu.
 
 “Ngài Anh hùng, tuy việc này thật quá đường đột, nhưng xin ngài... Trăm sự nhờ ngài!”
 
-“H-Hả?!” 
+“H-Hả?!”
 
 “Đ-Điện hạ?!”
 
@@ -134,23 +134,23 @@ Có vẻ cô gái mặc áo choàng trắng, Felmenia, cũng ngạc nhiên trư�
 
 “Thật là... Tôi thành thật xin lỗi ngài, ngài Anh hùng. Đáng lẽ tôi không được hành động vô lễ trong hoàn cảnh như thế này... Được rồi, giờ thì tôi tin Bệ hạ sẽ giải thích mọi chuyện tại đại điện chầu, nên xin ngài hãy đưa ra câu trả lời cho chúng tôi lúc đó nhé.”
 
-“T-Tôi hiểu rồi.” 
+“T-Tôi hiểu rồi.”
 
 Vẫn còn trong cơn bối rối, Reiji bằng cách nào đó đã lấy lại bình tĩnh và đưa ra câu trả lời hợp lễ. Felmenia sau đó tiến lên một bước về phía cậu.
 
 “N-Ngài Anh hùng, cho phép tôi được giới thiệu lại bản thân một lần nữa. Tên tôi là Felmenia Stingray.”
 
-“À, vâng. Rất hân hạnh được làm quen với cô.” 
+“À, vâng. Rất hân hạnh được làm quen với cô.”
 
 “Tôi tin rằng chúng ta sẽ còn gặp nhau nhiều sau này. Được đồng hành cùng ngài là vinh hạnh của tôi. Trăm sự nhờ ngài.”
 
-“Dạ? Ồ, vâng, tất nhiên rồi...” 
+“Dạ? Ồ, vâng, tất nhiên rồi...”
 
 Felmenia thản nhiên nhắc lại ý tứ của công chúa trong khi cúi đầu chào, còn Reiji thì lịch sự đáp lại dù bản thân vẫn chưa thực sự hiểu chuyện gì đang xảy ra. Titania tuy nhiên khẽ hắng giọng một cách đầy gượng gạo.
 
-“Khụ, ngài Bạch Hỏa...” 
+“Khụ, ngài Bạch Hỏa...”
 
-“T-Tôi xin lỗi. Tôi hơi hấp tấp quá.” 
+“T-Tôi xin lỗi. Tôi hơi hấp tấp quá.”
 
 “Giờ thì, xin mời đi lối này, thưa các vị. Tôi sẽ đích thân dẫn các vị diện kiến Bệ hạ.”
 
@@ -166,11 +166,11 @@ Ngoại trừ những người lính vô danh hộ tống, họ đã gặp hai c
 
 Mizuki cũng thế, dù với một lý do hoàn toàn khác. Không phải cô là bạn gái của Reiji, nhưng trong số những cô gái cậu ta quen biết, cô chắc chắn là người gần gũi nhất. Và đó cũng là điều cô mong muốn. Vậy mà giờ đây, một cô gái xinh đẹp—lại còn là công chúa—đột nhiên xuất hiện chen ngang và tranh giành sự chú ý của cậu ta. Dù không biểu lộ ra mặt, Mizuki đang cảm thấy khá hụt hẵng trong lòng.
 
-Nhưng rồi còn cô gái thứ hai, Pháp sư Hoàng gia Felmenia. 
+Nhưng rồi còn cô gái thứ hai, Pháp sư Hoàng gia Felmenia.
 
-“Cô cần gì sao?” 
+“Cô cần gì sao?”
 
-“Không, không có gì đặc biệt cả.” 
+“Không, không có gì đặc biệt cả.”
 
 Nãy giờ, Felmenia cứ chốc chốc lại liếc nhìn về phía Suimei, đặc biệt là chăm chú nhìn vào phần bụng của cậu. Suimei cuối cùng cũng hỏi ngược lại bằng một giọng hơi sắc mỏng, nhưng Felmenia chỉ đơn giản quay đi như không có chuyện gì xảy ra và giữ nguyên tư thế đó. Trong thâm tâm, Suimei thầm rên rỉ.
 
@@ -186,43 +186,43 @@ Trực tiếp sử dụng ma thuật sẽ là cách nhanh nhất và dễ dàng 
 
 Titania chỉ vào cánh cửa họ vừa bước tới. Nó trông to lớn đến mức ngay cả những người khổng lồ cũng có thể đi qua, chưa kể đến sự xa hoa và tráng lệ của nó. Một trong những binh sĩ hộ tống họ gọi vọng sang người lính gác đứng ở cửa. Người gác cửa sau đó lầm bầm điều gì đó, và chẳng mấy chốc, cánh cửa từ từ hé mở.
 
-“Ồ!” 
+“Ồ!”
 
-“Hả?!” 
+“Hả?!”
 
 Cả Reiji và Mizuki đều kinh ngạc thốt lên khi nhìn thấy cảnh tượng đó. Đối với họ, việc một cánh cửa tự động mở ra mà không cần tác động lực chắc chắn là một sự bất ngờ lớn. Người gác cửa không hề chạm vào nó, và trông nó cũng không giống loại cửa tự động. Hoàn toàn mù tịt về những gì đang xảy ra, Reiji hỏi Titania.
 
-“L-Làm sao nó mở được thế?” 
+“L-Làm sao nó mở được thế?”
 
-“...Bằng ma pháp đó. Ngài thấy thích chứ?” 
+“...Bằng ma pháp đó. Ngài thấy thích chứ?”
 
-“À, ra vậy, ở đây có ma pháp sao?” 
+“À, ra vậy, ở đây có ma pháp sao?”
 
-“'Ở đây'?” 
+“'Ở đây'?”
 
-“Ở thế giới của chúng tôi không có ma pháp đâu.” 
+“Ở thế giới của chúng tôi không có ma pháp đâu.”
 
-“Thật thế sao?!” 
+“Thật thế sao?!”
 
-“Vâng.” 
+“Vâng.”
 
-“Vậy có nghĩa đây là lần đầu tiên ngài được nhìn thấy nó phải không?” 
+“Vậy có nghĩa đây là lần đầu tiên ngài được nhìn thấy nó phải không?”
 
 Dường như rất vui mừng trước sự trầm trồ của Reiji, Titania cười toe toét từ tai này sang tai kia. Felmenia, tuy nhiên, có vẻ hơi cuống quýt. Cô nhanh chóng muốn thể hiện bản thân trước Reiji.
 
-“V-Việc vặt vãnh này tôi cũng có thể thực hiện dễ dàng.” 
+“V-Việc vặt vãnh này tôi cũng có thể thực hiện dễ dàng.”
 
-“Thật sao?” 
+“Thật sao?”
 
 “Dù trông thế này, tôi vẫn là một trong những pháp sư hoàng gia đầy tự hào của vương quốc Astel đấy chứ.”
 
 “Oa, Felmenia-san cũng thật tuyệt vời nhỉ?”
 
-“K-Không có chi... Hì hì...” 
+“K-Không có chi... Hì hì...”
 
 Thật khó để biết Reiji thực sự ấn tượng hay chỉ là đang lịch sự, nhưng Felmenia bỗng trở nên bẽn lẽn. Có vẻ cô ta rất dễ bị nịnh? Mà có lẽ ai cũng sẽ như vậy thôi nếu được vị anh hùng triệu hồi khen ngợi tài năng của mình. Sự khác biệt giữa khí chất mạnh mẽ thường ngày và nụ cười rạng rỡ, vô lo của cô lúc này trông thật thú vị, nếu không muốn nói là rất đáng yêu. Mặt khác, đôi mắt của Mizuki vẫn lấp lánh khi nhìn cánh cửa khổng lồ mở ra.
 
-“Tuyệt thật... Vậy ra ma pháp thực sự tồn tại...” 
+“Tuyệt thật... Vậy ra ma pháp thực sự tồn tại...”
 
 Có vẻ cô nàng khá hứng thú với bức tranh toàn cảnh này. Nhưng đối với một cô gái mê tiểu thuyết giả tưởng như cô thì điều đó cũng là dễ hiểu. Đây hoàn toàn là sở thích của cô rồi.
 

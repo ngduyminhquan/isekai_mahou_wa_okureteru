@@ -41,8 +41,11 @@ Không, chàng trai trẻ này là một con quái vật ngự trị ở nơi s�
 Không thể nhầm lẫn được. Cậu ta là một ma thuật sư đứng trên đỉnh cao của ma thuật.
 
 “...Anh là ai?” Felmenia hỏi cậu bằng giọng run rẩy.
+
 Chàng trai trẻ vân vê thứ gì đó trên bàn tay với vẻ mặt chán chường, rồi hờ hững đáp lại.
+
 “Ma thuật sư, Yakagi Suimei.”
+
 Đó là lần đầu tiên cậu giới thiệu bản thân mình một cách đàng hoàng.
 
 ---

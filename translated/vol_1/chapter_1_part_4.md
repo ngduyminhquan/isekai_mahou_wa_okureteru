@@ -112,7 +112,9 @@ Nghe thấy những lời đó, huyệt thái dương của Suimei bắt đầu 
 
 ★
 
-Sau sự cố tại điện chầu, một cơn náo loạn chưa từng có tiền lệ kể từ khi thành lập Vương quốc Astel đã nổ ra. Sau khi nghe nhà vua nói rằng mình không thể trở về thế giới cũ, Suimei đã gào thét và nổi trận lôi đình. “Không phải các người quá ngu ngốc khi triệu hồi người ta mà không thể gửi họ về sao?!” và “Dù có bào chữa thế nào đi nữa thì việc đó cũng quá ích kỷ rồi, đồ ngốc!” là một vài trong số những câu từ cay nghiệt phun ra từ miệng cậu trong cơn giận dữ. Và sau khi trút hàng tá lời lăng mạ vào nhà vua, cậu tiến về phía ngai vàng. Tại thời điểm đó, Suimei đã hoàn toàn mất kiểm soát. Cậu không còn suy nghĩ lý trí nữa, và cũng chẳng thèm bận tâm đến việc mình đang ở đâu hay hành động của mình sẽ dẫn đến hậu quả gì—cậu giận đến mức đó cơ mà. Tuy nhiên, cân nhắc đến hoàn cảnh và những gì cậu vừa được nghe, đó có lẽ là một phản ứng hết sức bình thường.
+Sau sự cố tại điện chầu, một cơn náo loạn chưa từng có tiền lệ kể từ khi thành lập Vương quốc Astel đã nổ ra. Sau khi nghe nhà vua nói rằng mình không thể trở về thế giới cũ, Suimei đã gào thét và nổi trận lôi đình.
+
+“Không phải các người quá ngu ngốc khi triệu hồi người ta mà không thể gửi họ về sao?!” và “Dù có bào chữa thế nào đi nữa thì việc đó cũng quá ích kỷ rồi, đồ ngốc!” là một vài trong số những câu từ cay nghiệt phun ra từ miệng cậu trong cơn giận dữ. Và sau khi trút hàng tá lời lăng mạ vào nhà vua, cậu tiến về phía ngai vàng. Tại thời điểm đó, Suimei đã hoàn toàn mất kiểm soát. Cậu không còn suy nghĩ lý trí nữa, và cũng chẳng thèm bận tâm đến việc mình đang ở đâu hay hành động của mình sẽ dẫn đến hậu quả gì—cậu giận đến mức đó cơ mà. Tuy nhiên, cân nhắc đến hoàn cảnh và những gì cậu vừa được nghe, đó có lẽ là một phản ứng hết sức bình thường.
 
 Nhưng đối với những người có mặt, đây là một tình huống đáng sợ. Họ không biết người được triệu hồi có khả năng gì, và liệu Suimei có gây hại cho nhà vua hay không. Khi cậu tiến gần đến ngai vàng, các thủ lĩnh và binh lính có mặt đã vội vã chạy đến để ngăn chặn cậu bằng vũ lực. Mọi chuyện suýt chút nữa đã leo thang thành một vụ việc nghiêm trọng không thể cứu vãn, nhưng ngay khi Reiji và Mizuki cảm nhận được sự căng thẳng trong phòng, họ đã giữ Suimei lại và bằng cách nào đó đã tránh được những rắc rối lớn hơn.
 
@@ -134,7 +136,9 @@ Ngay cả khi giả định rằng hai thế giới này ràng buộc với nhau
 
 “Đã đến nước này thì mình phải tự tạo ra lối về thôi sao?” Thử thách cam go đè nặng lên vai cậu như chưa từng có trước đây, và cậu thở dài một hơi sườn sượt. Cậu luôn có lựa chọn là bỏ cuộc, nhưng để hoàn thành những gì cần làm, cậu bắt buộc phải tìm đường về nhà.
 
-“Hàaa...” Suimei hít một hơi thật sâu, và rồi... “TÔI NHẤT ĐỊNH SẼ TRỞ VỀ, NGHE RÕ CHƯAAAAAA?!” Cậu gầm lên để giải phóng quyết tâm của mình.
+“Hàaa...” Suimei hít một hơi thật sâu, và rồi...
+
+“TÔI NHẤT ĐỊNH SẼ TRỞ VỀ, NGHE RÕ CHƯAAAAAA?!” Cậu gầm lên để giải phóng quyết tâm của mình.
 
 ★
 

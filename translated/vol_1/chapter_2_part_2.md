@@ -2,7 +2,11 @@
 
 “N-Này, khoan đã. Cô sắp...” Ngã. Và ngã một cú cực kỳ oanh liệt. Cô ấy sẽ tự giẫm vào áo choàng của mình và vấp ngã một cách đầy ngoạn mục. Cậu có thể hình dung rõ ràng tương lai đó trong đầu.
 
-“Cái gì?! Tôi sắp cái gì?!” “Tôi chỉ muốn nói là nếu cô cứ tiếp tục thế thì, ờ... Kìa, chân cô...” “Ngài nghĩ tôi sẽ mắc bẫy một trò lừa rẻ tiền như vậy sao, tên khốn kia?! Đừng có sỉ nhục tôi!”
+“Cái gì?! Tôi sắp cái gì?!”
+
+“Tôi chỉ muốn nói là nếu cô cứ tiếp tục thế thì, ờ... Kìa, chân cô...”
+
+“Ngài nghĩ tôi sẽ mắc bẫy một trò lừa rẻ tiền như vậy sao, tên khốn kia?! Đừng có sỉ nhục tôi!”
 
 “Không, tôi không sỉ nhục cô hay gì đâu. Nhưng trời ạ, bình tĩnh lại chút đi. Thật đấy...”
 
@@ -18,33 +22,63 @@ Kết cục thật bi thảm. Bị cơn giận làm mờ mắt, Felmenia hoàn t
 
 Trong lúc giận dữ giãy giụa, Felmenia lại vô tình tự quấn mình trong chiếc áo choàng trông không khác gì một con cá mắc lưới. Việc cô có thể tự trói mình một cách gọn gàng đến thế thực sự cũng là một loại tài năng đáng kinh ngạc theo cách nào đó. Suimei đứng đợi cô tự đứng dậy, nhưng trái với mong đợi của cậu, tất cả những gì phát ra từ đống vải vụn trên sàn chỉ là tiếng thút thít chực khóc.
 
-“Nó không ra... Không ra được ooooo...” “Trời đất ơi. Xem ra mình không còn lựa chọn nào khác rồi...” Mặt hơi đỏ lên, Suimei đặt tay lên trán đầy ngán ngẩm. Cảnh tượng Felmenia bị phơi bày toàn bộ chiếc quần lót cùng với vòng ba căng tròn đang ngọ nguậy trên sàn nhà thực sự trông vô cùng tội nghiệp.
+“Nó không ra... Không ra được ooooo...”
+
+“Trời đất ơi. Xem ra mình không còn lựa chọn nào khác rồi...” Mặt hơi đỏ lên, Suimei đặt tay lên trán đầy ngán ngẩm. Cảnh tượng Felmenia bị phơi bày toàn bộ chiếc quần lót cùng với vòng ba căng tròn đang ngọ nguậy trên sàn nhà thực sự trông vô cùng tội nghiệp.
 
 Cậu không thể cứ thế mà bỏ mặc cô được. Cô cũng chẳng thực sự làm gì xấu xa, nên giúp cô một tay cũng chẳng sao. Cố gắng hết sức để hướng mắt đi nơi khác tránh nhìn vào chiếc quần lót đang phơi bày kia, Suimei gỡ chiếc áo choàng đã quấn chặt lấy cô sau một hồi giãy giụa vô vọng, rồi vòng tay qua người cô để kéo cô đứng dậy.
 
-“OA?! Ng-Ng-Ngài đang làm cái gì thế?!” “Được rồi mà. Đứng yên chút đi... Lên nào.” Suimei phớt lờ những lời phản kháng của cô và đỡ cô đứng dậy. Khi cô đã đứng vững, cậu thậm chí còn chỉnh đốn lại những chỗ áo choàng bị xộc xệch cho cô.
+“OA?! Ng-Ng-Ngài đang làm cái gì thế?!”
 
-“Ah...” “Rồi đó. Cô có sao không?” Felmenia vẫn còn đang ngơ ngác nên không trả lời. Cô chỉ đứng ngây người ra nhìn cậu, và Suimei không thể không để ý thấy những vệt bẩn trên mặt cô. Trông thật chẳng giống một tiểu thư quý tộc chút nào; chắc chắn là do cô lăn lộn trên sàn nhà mà ra rồi. Dù lúc nãy cô có giận dữ với cậu thế nào đi nữa, lúc này nhìn cô thế này cậu lại thấy thương hại. Cậu lấy chiếc khăn tay trong túi ra và bắt đầu lau đi những vệt bẩn trên khuôn mặt Felmenia.
+“Được rồi mà. Đứng yên chút đi... Lên nào.” Suimei phớt lờ những lời phản kháng của cô và đỡ cô đứng dậy. Khi cô đã đứng vững, cậu thậm chí còn chỉnh đốn lại những chỗ áo choàng bị xộc xệch cho cô.
 
-Đúng là rắc rối thật mà... Và khi cậu làm thế... “Ah... Hửm...?” Trông như vẫn chưa hiểu chuyện gì đang xảy ra, đôi mắt Felmenia đảo liên tục như đang cố đánh giá tình hình hiện tại.
+“Ah...”
 
-“ÁÁÁÁÁÁÁÁÁÁÁ!” Cô thét lên. “Oa, lại cái gì nữa đây...?”
+“Rồi đó. Cô có sao không?” Felmenia vẫn còn đang ngơ ngác nên không trả lời. Cô chỉ đứng ngây người ra nhìn cậu, và Suimei không thể không để ý thấy những vệt bẩn trên mặt cô. Trông thật chẳng giống một tiểu thư quý tộc chút nào; chắc chắn là do cô lăn lộn trên sàn nhà mà ra rồi. Dù lúc nãy cô có giận dữ với cậu thế nào đi nữa, lúc này nhìn cô thế này cậu lại thấy thương hại. Cậu lấy chiếc khăn tay trong túi ra và bắt đầu lau đi những vệt bẩn trên khuôn mặt Felmenia.
+
+Đúng là rắc rối thật mà... Và khi cậu làm thế...
+
+“Ah... Hửm...?” Trông như vẫn chưa hiểu chuyện gì đang xảy ra, đôi mắt Felmenia đảo liên tục như đang cố đánh giá tình hình hiện tại.
+
+“ÁÁÁÁÁÁÁÁÁÁÁ!” Cô thét lên.
+
+“Oa, lại cái gì nữa đây...?”
 
 Suimei giật mình nhảy lùi lại phía sau. Felmenia đang lườm cậu với khuôn mặt đỏ bừng như gấc.
 
-“Ng-Ng-Ng-Ngài đang làm cái gì thế hả, tên khốn kia?!” “Tôi đang làm gì à? Nhìn là biết rồi còn hỏi nữa sao?” “Không phải chuyện đó! Ý tôi là, ý tôi là... Tại sao ngài lại làm cái việc như...” “Thì trông cô có vẻ cần giúp đỡ.” “T-Tôi không cần sự giúp đỡ nào hết, tên khốn này! Cho ngài biết là tôi đã sẵn sàng hạ gục ngài rồi đấy! Nhưng tự nhiên mặt tôi...”
+“Ng-Ng-Ng-Ngài đang làm cái gì thế hả, tên khốn kia?!”
+
+“Tôi đang làm gì à? Nhìn là biết rồi còn hỏi nữa sao?”
+
+“Không phải chuyện đó! Ý tôi là, ý tôi là... Tại sao ngài lại làm cái việc như...”
+
+“Thì trông cô có vẻ cần giúp đỡ.”
+
+“T-Tôi không cần sự giúp đỡ nào hết, tên khốn này! Cho ngài biết là tôi đã sẵn sàng hạ gục ngài rồi đấy! Nhưng tự nhiên mặt tôi...”
 
 “Chuyện nào ra chuyện đó chứ. Với lại, cứ để cô đi lại với gương mặt lấm lem như thế thì uổng phí khuôn mặt dễ thương này quá. Ít nhất tôi cũng phải lau sạch vết bẩn đi chứ.”
 
 “?!” Ngay khoảnh khắc Suimei thản nhiên thốt ra những lời đó, Felmenia bỗng đứng thẳng đơ như thể có một cây sào vừa cắm dọc sống lưng cô, toàn thân cứng ngắc.
 
-“Hửm? Có chuyện gì thế?” “D-Dễ thương...” “Hử, cô nói gì cơ?” “Bảo tôi dễ thương thì thật là...” “Có ai ở nhà khônggg?” Trước khi Suimei kịp nhận ra, tâm trí của Felmenia đã bay đi tận phương trời nào rồi. Cậu quơ quơ tay trước đôi mắt vô hồn của cô, và phải mất một lúc cô mới sực tỉnh lại.
+“Hửm? Có chuyện gì thế?”
+
+“D-Dễ thương...”
+
+“Hử, cô nói gì cơ?”
+
+“Bảo tôi dễ thương thì thật là...”
+
+“Có ai ở nhà khônggg?” Trước khi Suimei kịp nhận ra, tâm trí của Felmenia đã bay đi tận phương trời nào rồi. Cậu quơ quơ tay trước đôi mắt vô hồn của cô, và phải mất một lúc cô mới sực tỉnh lại.
 
 “Hả? Á! Đ-Đ-Đủ rồi! Tôi còn có việc phải làm, xin phép đi trước...!”
 
 Mặt của Felmenia chuyển từ đỏ bừng sang đỏ lựng như quả cà chua chín. Có ví khuôn mặt cô lúc này với một quả táo hay quả cà chua thì cũng chẳng sai chút nào. Thế nhưng, sau khi hầm hầm đi được một quãng, cô bỗng dừng lại và quay phắt người lại với một khí thế vô cùng dữ dội.
 
-“T-Tôi sẽ r-r-rút lại những gì mình vừa nói lúc nãy!” “Cái gì cơ?” “Cái câu bảo một tên khốn như ngài là ngu ngốc ấy! V-V-V-Và ngài có thể đi về cái căn phòng ngớ ngẩn của mình bằng cách đi theo lối hành lang này rồi rẽ ở khúc cua, rồi... Ứ, sau đó thì tự đi mà hỏi người khác! Nhưng hãy nhớ lấy điều này, Suimei Yakagi! Nhất định có ngày tôi sẽ trả lại nỗi nhục nhã này gấp triệu lần, nghe rõ chưa?! Đừng có quên đấy! Tuyệt đối không được quên— ÁI UI?!”
+“T-Tôi sẽ r-r-rút lại những gì mình vừa nói lúc nãy!”
+
+“Cái gì cơ?”
+
+“Cái câu bảo một tên khốn như ngài là ngu ngốc ấy! V-V-V-Và ngài có thể đi về cái căn phòng ngớ ngẩn của mình bằng cách đi theo lối hành lang này rồi rẽ ở khúc cua, rồi... Ứ, sau đó thì tự đi mà hỏi người khác! Nhưng hãy nhớ lấy điều này, Suimei Yakagi! Nhất định có ngày tôi sẽ trả lại nỗi nhục nhã này gấp triệu lần, nghe rõ chưa?! Đừng có quên đấy! Tuyệt đối không được quên— ÁI UI?!”
 
 Dù đang đứng yên một chỗ, nhưng vì vừa la hét vừa vung vẩy tay chân quá dữ dội nên cô lại chúi đầu về phía trước như một con cá cắn câu. Và quả nhiên, Felmenia lại vấp ngã thêm một lần nữa. Xem ra ngã sấp mặt chính là thương hiệu của cô nàng này rồi.
 
@@ -74,13 +108,27 @@ Tuy nhiên, mỗi ngày cậu giam mình trong phòng là một ngày người t
 
 Đối với Suimei, đây chỉ là một lớp vỏ bọc, thế nên cậu chẳng mấy bận tâm đến những gì họ nghĩ. Thậm chí, họ càng không muốn dây dưa với cậu bao nhiêu thì càng tốt bấy nhiêu. Nghĩ vậy, Suimei chui tọt vào giường giả vờ như đang dỗi. Vài giây sau, cậu nghe thấy một tiếng gõ cửa dè dặt cùng giọng nói của Reiji.
 
-“Chào buổi sáng, Suimei. Cậu dậy chưa?” “...Ừm, vào đi.” “Xin lỗi vì đã làm phiền nhé.” “Làm phiền cậu nhé, tớ cũng vào đây.” Chờ cho đến khi họ vào phòng, Suimei mới chậm rãi bước xuống giường. Sau khi đợi mọi người yên vị như thường lệ, Suimei mở lời bắt chuyện với Reiji.
+“Chào buổi sáng, Suimei. Cậu dậy chưa?”
 
-“Thế nào rồi? Hôm nay có chuyện gì à?” “Ồ? C-Cậu hỏi đột ngột thế, Suimei.” “Bầu không khí quanh cậu hôm nay trông hơi khác bình thường đấy. Cậu đang bồn chồn phải không?”
+“...Ừm, vào đi.”
 
-“Ahaha, cậu cũng nhận ra à?” “Ừ thì đúng vậy.” Reiji cười trừ như để che giấu sự ngượng ngùng, và Suimei khẽ gật đầu đáp lại. Lúc Reiji mới bước vào phòng, Suimei đã nhận thấy có gì đó bất thường. Trông Reiji vẫn ổn, nhưng lại có vẻ bồn chồn. Cứ như thể vừa có chuyện tốt mà cũng vừa có chuyện đáng ngờ xảy ra vậy—cảm giác kiểu đó đấy. Reiji gượng nở một nụ cười tự tin rồi bắt đầu giải thích.
+“Xin lỗi vì đã làm phiền nhé.”
 
-“Hôm nay tớ đã học được ma pháp cường hóa cơ thể đấy. Muốn xem thử không?” “Thế à? Cho xem thử đi.” Hóa ra là vậy sao? Reiji chỉ đang phấn khích vì học được phép thuật mới thôi à? Suimei hoàn toàn có thể hiểu được cảm giác đó. Việc liên kết một ma pháp mới rồi thi triển nó lần đầu tiên luôn mang lại một cảm giác hưng phấn không gì sánh bằng.
+“Làm phiền cậu nhé, tớ cũng vào đây.” Chờ cho đến khi họ vào phòng, Suimei mới chậm rãi bước xuống giường. Sau khi đợi mọi người yên vị như thường lệ, Suimei mở lời bắt chuyện với Reiji.
+
+“Thế nào rồi? Hôm nay có chuyện gì à?”
+
+“Ồ? C-Cậu hỏi đột ngột thế, Suimei.”
+
+“Bầu không khí quanh cậu hôm nay trông hơi khác bình thường đấy. Cậu đang bồn chồn phải không?”
+
+“Ahaha, cậu cũng nhận ra à?”
+
+“Ừ thì đúng vậy.” Reiji cười trừ như để che giấu sự ngượng ngùng, và Suimei khẽ gật đầu đáp lại. Lúc Reiji mới bước vào phòng, Suimei đã nhận thấy có gì đó bất thường. Trông Reiji vẫn ổn, nhưng lại có vẻ bồn chồn. Cứ như thể vừa có chuyện tốt mà cũng vừa có chuyện đáng ngờ xảy ra vậy—cảm giác kiểu đó đấy. Reiji gượng nở một nụ cười tự tin rồi bắt đầu giải thích.
+
+“Hôm nay tớ đã học được ma pháp cường hóa cơ thể đấy. Muốn xem thử không?”
+
+“Thế à? Cho xem thử đi.” Hóa ra là vậy sao? Reiji chỉ đang phấn khích vì học được phép thuật mới thôi à? Suimei hoàn toàn có thể hiểu được cảm giác đó. Việc liên kết một ma pháp mới rồi thi triển nó lần đầu tiên luôn mang lại một cảm giác hưng phấn không gì sánh bằng.
 
 Reiji bắt đầu xoay khớp và giãn cơ. Đây là ma pháp cường hóa thể chất. Nếu không dùng kết hợp với ma pháp ổn định cơ thể, nó có thể cực kỳ nguy hiểm. Quá trình chuẩn bị này là một việc rất nghiêm túc.
 
@@ -92,11 +140,17 @@ Reiji bắt đầu xoay khớp và giãn cơ. Đây là ma pháp cường hóa t
 
 Cậu ta đã triển khai ma pháp cường hóa cơ thể thuộc tính hỏa, vì vậy ngoài việc nâng cao toàn diện thể chất, nó còn mang lại một sự bùng nổ về mặt sức mạnh cơ bắp. Tương tự như vậy, nếu dùng thuộc tính phong thì sẽ tăng tốc độ một cách chóng mặt, thuộc tính thủy giúp tăng sự linh hoạt, còn thuộc tính thổ sẽ gia tăng sức chịu đựng. Trong lúc Suimei đang suy nghĩ về thuật cường hóa của Reiji và bắt đầu phân tích tác dụng tiềm năng của các thuộc tính khác, Titania tiến lại gần Reiji với ánh mắt đầy say mê.
 
-“Không hổ danh là ngài Reiji. Thật sự vô cùng xuất sắc...” “Ahaha, cảm ơn cô nhé, Tia.” Reiji đáp lại Titania, người đang mỉm cười rạng rỡ với cậu. Có vẻ như quan hệ giữa hai người đã đủ thân thiết để cậu gọi cô bằng biệt danh. Nghe thấy vậy, Mizuki nhìn Titania với vẻ mặt có chút hờn dỗi.
+“Không hổ danh là ngài Reiji. Thật sự vô cùng xuất sắc...”
 
-“Này Tia, cậu có đứng hơi quá gần không đấy?” “Thế có vấn đề gì sao, Mizuki? Bình thường cậu toàn là người đứng sát thế này mà, nên chia sẻ cho tớ một chút cũng được chứ sao.”
+“Ahaha, cảm ơn cô nhé, Tia.” Reiji đáp lại Titania, người đang mỉm cười rạng rỡ với cậu. Có vẻ như quan hệ giữa hai người đã đủ thân thiết để cậu gọi cô bằng biệt danh. Nghe thấy vậy, Mizuki nhìn Titania với vẻ mặt có chút hờn dỗi.
 
-“C-Cái gì? Tớ có bao giờ đứng gần thế đâu!” “Không đúng đâu Mizuki. Cậu lúc nào cũng bám sát ngài Reiji một cách không cần thiết hết á. Thật là bất công mà.”
+“Này Tia, cậu có đứng hơi quá gần không đấy?”
+
+“Thế có vấn đề gì sao, Mizuki? Bình thường cậu toàn là người đứng sát thế này mà, nên chia sẻ cho tớ một chút cũng được chứ sao.”
+
+“C-Cái gì? Tớ có bao giờ đứng gần thế đâu!”
+
+“Không đúng đâu Mizuki. Cậu lúc nào cũng bám sát ngài Reiji một cách không cần thiết hết á. Thật là bất công mà.”
 
 Mặc dù đáng lẽ ma pháp cường hóa của Reiji mới là tâm điểm, nhưng hai cô gái dường như lại bận tâm đến sự chú ý của cậu ta nhiều hơn. Những tia lửa vô hình bắn tung tóe khi họ lườm nguýt nhau. Suimei đã quá ngán ngẩm cảnh tượng này rồi.
 
@@ -110,19 +164,37 @@ Mặc dù đáng lẽ ma pháp cường hóa của Reiji mới là tâm điểm,
 
 Cuối cùng thì Mizuki cũng chen vào được một câu, nhưng cô lại quay sang nói với Reiji chứ không phải Suimei, người mà cô vốn dĩ đến để thăm.
 
-“T-Tớ bây giờ cũng làm được rồi đấy!” “Ra vậy. Cậu cũng đã nỗ lực rất nhiều rồi nhỉ, Mizuki?”
+“T-Tớ bây giờ cũng làm được rồi đấy!”
+
+“Ra vậy. Cậu cũng đã nỗ lực rất nhiều rồi nhỉ, Mizuki?”
 
 “Hả? Ồ, ừ...” Mizuki có vẻ giật mình khi Suimei lại là người trả lời cô. Do mải tranh cãi với Titania, có vẻ như tâm trí Mizuki chỉ dồn hết vào Reiji và hoàn toàn quên mất sự hiện diện của Suimei. Thực ra, cô chỉ muốn được Reiji khen ngợi để lấy đó làm vũ khí chọc tức Titania mà thôi. Dù sao thì, người bạn đứng ngoài quan sát lúc này vừa muốn đấm cho Reiji một trận, vừa cảm thấy buồn cười trước cảnh tượng tấu hài này.
 
-“Hơ...” “C-Có chuyện gì thế Suimei-kun?” “Không có gì. Cứ cố gắng hết sức đi.” “Ừm! Tớ sẽ không thua đâu!” Mà rốt cuộc thì cô ấy quyết tâm không chịu thua ai cơ chứ? Nếu có ai nghe lỏm cuộc trò chuyện này, chắc chắn họ sẽ nghĩ cô ấy đang ám chỉ Ma Vương, nhưng đáp án đó sai hoàn toàn rồi. Và Suimei thì chỉ đổ thêm dầu vào lửa bằng cách cổ vũ cô. Tuy nhiên, cậu nhanh chóng quay lại chủ đề chính với Reiji.
+“Hơ...”
 
-“Thế còn chuyện gì nữa không?” “Hả? À thì, nhiều chuyện lắm...” Reiji trả lời một cách lảng tránh. Rõ ràng là đã có chuyện gì đó xảy ra, nhưng cậu ta có vẻ ngần ngại không muốn nói. Bất kể đó là chuyện gì, nó chắc chắn là nguyên nhân khiến cậu ta có trạng thái phấn chấn kỳ lạ ngày hôm nay.
+“C-Có chuyện gì thế Suimei-kun?”
 
-“Có chuyện gì vậy, ngài Reiji?” “Hả? Ồ, không có gì đâu...” “Công chúa, đã có chuyện gì lạ xảy ra sao?” “Không có chuyện gì lạ cả. Nhưng chúng tôi đã được chứng kiến một màn thể hiện trên cả tuyệt vời của ngài Reiji.”
+“Không có gì. Cứ cố gắng hết sức đi.”
+
+“Ừm! Tớ sẽ không thua đâu!” Mà rốt cuộc thì cô ấy quyết tâm không chịu thua ai cơ chứ? Nếu có ai nghe lỏm cuộc trò chuyện này, chắc chắn họ sẽ nghĩ cô ấy đang ám chỉ Ma Vương, nhưng đáp án đó sai hoàn toàn rồi. Và Suimei thì chỉ đổ thêm dầu vào lửa bằng cách cổ vũ cô. Tuy nhiên, cậu nhanh chóng quay lại chủ đề chính với Reiji.
+
+“Thế còn chuyện gì nữa không?”
+
+“Hả? À thì, nhiều chuyện lắm...” Reiji trả lời một cách lảng tránh. Rõ ràng là đã có chuyện gì đó xảy ra, nhưng cậu ta có vẻ ngần ngại không muốn nói. Bất kể đó là chuyện gì, nó chắc chắn là nguyên nhân khiến cậu ta có trạng thái phấn chấn kỳ lạ ngày hôm nay.
+
+“Có chuyện gì vậy, ngài Reiji?”
+
+“Hả? Ồ, không có gì đâu...”
+
+“Công chúa, đã có chuyện gì lạ xảy ra sao?”
+
+“Không có chuyện gì lạ cả. Nhưng chúng tôi đã được chứng kiến một màn thể hiện trên cả tuyệt vời của ngài Reiji.”
 
 Titania nói với vẻ vừa phấn khích vừa vui mừng. Suimei không nghĩ cô nói dối, nhưng nếu đúng như lời cô kể, tại sao Reiji lại cố gạt đi như vậy?
 
-“Thế rốt cuộc đó là chuyện gì?” “Cái đó, ừm...” Reiji cố lấp liếm câu hỏi của Suimei, nhưng Titania chẳng bận tâm đến thái độ ngập ngừng của cậu. Như thể tự hào về một thành tích do chính mình đạt được, cô bắt đầu giải thích với giọng điệu đầy kiêu hãnh.
+“Thế rốt cuộc đó là chuyện gì?”
+
+“Cái đó, ừm...” Reiji cố lấp liếm câu hỏi của Suimei, nhưng Titania chẳng bận tâm đến thái độ ngập ngừng của cậu. Như thể tự hào về một thành tích do chính mình đạt được, cô bắt đầu giải thích với giọng điệu đầy kiêu hãnh.
 
 “Chuyện là hôm nay, các chuyên gia đại diện cho mọi chi nhánh của Hội Pháp sư thuộc Vương quốc Astel đã đến để so tài ma pháp với ngài Reiji.”
 
@@ -130,15 +202,23 @@ Titania nói với vẻ vừa phấn khích vừa vui mừng. Suimei không ngh�
 
 “Đúng vậy. Chúng tôi đã bàn bạc với họ về việc này từ khá lâu rồi, và hôm nay tất cả mọi người mới có thể tập hợp đông đủ cho sự kiện này.”
 
-“Việc đó khó khăn lắm sao?” “Vâng. Họ đều là những nhân vật có tầm ảnh hưởng lớn và vô cùng bận rộn. Bình thường họ phải bôn ba khắp đất nước để thực hiện các nhiệm vụ khác nhau của mình.”
+“Việc đó khó khăn lắm sao?”
+
+“Vâng. Họ đều là những nhân vật có tầm ảnh hưởng lớn và vô cùng bận rộn. Bình thường họ phải bôn ba khắp đất nước để thực hiện các nhiệm vụ khác nhau của mình.”
 
 Điều đó nghe có vẻ đúng là khó mà tập trung họ lại cùng một lúc thật. Nhưng Suimei quan tâm nhiều hơn đến cụm từ “chuyên gia của từng chi nhánh” mà cô vừa nhắc tới, nên cậu quyết định hỏi sâu hơn.
 
-“Ý cô ‘chuyên gia’ nghĩa là sao?” “Họ là những pháp sư xuất sắc nhất trong tám hệ ma pháp bao gồm Hỏa, Thủy, Phong, Thổ, Lôi, Mộc, Quang và Ám. Mỗi người trong số họ đều có tài năng đủ để đọ sức sòng phẳng với các pháp sư hoàng gia, và họ đều được ban tặng danh hiệu danh dự là Tinh Linh Đế cho tài năng của mình. Chẳng hạn như người đứng đầu hệ hỏa được gọi là Viêm Đế, hệ quang là Diệu Đế, và các hệ khác cũng tương tự như vậy.”
+“Ý cô ‘chuyên gia’ nghĩa là sao?”
+
+“Họ là những pháp sư xuất sắc nhất trong tám hệ ma pháp bao gồm Hỏa, Thủy, Phong, Thổ, Lôi, Mộc, Quang và Ám. Mỗi người trong số họ đều có tài năng đủ để đọ sức sòng phẳng với các pháp sư hoàng gia, và họ đều được ban tặng danh hiệu danh dự là Tinh Linh Đế cho tài năng của mình. Chẳng hạn như người đứng đầu hệ hỏa được gọi là Viêm Đế, hệ quang là Diệu Đế, và các hệ khác cũng tương tự như vậy.”
 
 Thật sao? Từ “Đế” (Emperor) vốn dĩ dùng để chỉ một người ở vị thế tối cao vô cùng tôn quý, vậy mà ở đây lại có tận tám người như thế ư? Ngay cả ở Nhật Bản hiện đại, danh hiệu đó cũng chỉ dành riêng cho người đáng kính nhất đất nước. Suimei tự hỏi liệu có phải ngôn ngữ của Titania khi được ma pháp dịch lại trong đầu cậu đã bị tam sao thất bản ở chỗ nào đó hay không, nhưng dù thế nào đi nữa, điều này vẫn khiến cậu cảm thấy có chút băn khoăn.
 
-“Ngài Suimei, có chuyện gì sao?” “À, không, không có gì. Thế kết quả của các trận đấu thế nào?” “Dĩ nhiên là ngài Reiji đã giành chiến thắng rồi.” Titania ưỡn ngực đầy tự hào như thể chính mình mới là người chiến thắng vậy. Nhưng rồi, cô lại nói ra một câu khiến Suimei phải chú ý.
+“Ngài Suimei, có chuyện gì sao?”
+
+“À, không, không có gì. Thế kết quả của các trận đấu thế nào?”
+
+“Dĩ nhiên là ngài Reiji đã giành chiến thắng rồi.” Titania ưỡn ngực đầy tự hào như thể chính mình mới là người chiến thắng vậy. Nhưng rồi, cô lại nói ra một câu khiến Suimei phải chú ý.
 
 “Nhân dịp đó, ngài Reiji cũng đã được Hội trưởng Hội Pháp sư ban tặng một danh hiệu cho riêng mình.”
 

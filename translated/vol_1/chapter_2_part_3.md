@@ -2,17 +2,31 @@
 
 “C-Có nhất thiết phải nói về chuyện đó không?” Nhận thấy vẻ bối rối của Reiji có vẻ thú vị, Mizuki khẽ phì cười.
 
-“Phụt...” “Sao thế Mizuki?” “Hi hi, không có gì đâu. Cứ đợi nghe đi rồi biết.” “Thế à? Vậy thưa Công chúa, danh hiệu mà Hội trưởng ban tặng cho Reiji là gì thế?”
+“Phụt...”
 
-“Này Suimei, chuyện đó—” “Hội trưởng Hội Pháp sư đã ban tặng cho ngài Reiji, thiên tài kiệt xuất có thể khống chế tất cả các thuộc tính, danh hiệu Bậc Thầy Thuộc Tính (Attribute Master)!”
+“Sao thế Mizuki?”
+
+“Hi hi, không có gì đâu. Cứ đợi nghe đi rồi biết.”
+
+“Thế à? Vậy thưa Công chúa, danh hiệu mà Hội trưởng ban tặng cho Reiji là gì thế?”
+
+“Này Suimei, chuyện đó—”
+
+“Hội trưởng Hội Pháp sư đã ban tặng cho ngài Reiji, thiên tài kiệt xuất có thể khống chế tất cả các thuộc tính, danh hiệu Bậc Thầy Thuộc Tính (Attribute Master)!”
 
 Titania giơ cao nắm đấm đầy tự hào và dõng dạc tuyên bố danh hiệu của Reiji. Căn phòng hoàn toàn đông cứng trong một khoảnh khắc. Nhưng rồi, khi Suimei không thể nhịn nổi nữa, cậu phá lên cười ngặt nghẽo.
 
-“Phụt... ha ha ha!” “Hả...? Ngài Suimei!” “B-Bậc Thầy Thuộc Tính á? Ha ha. Thôi chết rồi, tôi không nhịn nổi nữa, phụt... A ha... A HA HA HA HA!”
+“Phụt... ha ha ha!”
+
+“Hả...? Ngài Suimei!”
+
+“B-Bậc Thầy Thuộc Tính á? Ha ha. Thôi chết rồi, tôi không nhịn nổi nữa, phụt... A ha... A HA HA HA HA!”
 
 Titania hoàn toàn sững sờ trước tràng cười đột ngột của Suimei. Cô bối rối nhìn quanh, trong khi Reiji úp mặt vào cả hai bàn tay và lắc đầu đầy ngao ngán khi mọi chuyện rốt cuộc lại thành ra thế này. Mặt khác, Mizuki lại thích thú ngắm nhìn khuôn mặt đỏ bừng của Reiji như thể đang nhìn món ăn yêu thích của mình. Sau khi để Suimei cười cho đã đời, Reiji cuối cùng cũng lên tiếng đầy hờn dỗi.
 
-“...Đấy, đã bảo là tớ không muốn nói ra rồi mà.” “Tôi... tôi không hiểu. Nhận được danh hiệu là một vinh dự lớn đối với một pháp sư, tại sao ngài Suimei lại...?”
+“...Đấy, đã bảo là tớ không muốn nói ra rồi mà.”
+
+“Tôi... tôi không hiểu. Nhận được danh hiệu là một vinh dự lớn đối với một pháp sư, tại sao ngài Suimei lại...?”
 
 Titania hoàn toàn không thể hiểu nổi phản ứng của Suimei. Cô trông ngơ ngác, nhưng cô không có cách nào biết được rằng tiêu chuẩn về sự “ngầu” giữa các thế giới lại khác biệt đến thế. Mizuki thì đã biết thừa, và đó chính xác là lý do Reiji muốn tránh hoàn toàn việc đề cập đến chuyện này trước mặt Suimei.
 
@@ -80,27 +94,55 @@ Và chắc chắn Reiji không hề nói dối. Ánh mắt thẳng thắn của 
 
 Mải suy nghĩ về những câu hỏi đó trong lúc đi bộ, Felmenia lại một lần nữa bắt gặp bóng dáng Suimei. Cuối cùng cô cũng đuổi kịp cậu, nhưng có vẻ Suimei vẫn chưa nhận ra cô. Cậu cứ thế bước đi với nhịp độ đều đặn và không hề ngoảnh lại phía sau. Cậu hoàn toàn không biết có người đang theo dõi mình. Cô dõi theo bóng cậu biến mất sau một góc cua khác. Cô vội vàng đuổi theo, nhưng khi cô vừa rẽ qua góc cua đó...
 
-“Ối!” “Á!” Felmenia phản xạ theo bản năng khi nghe thấy một tiếng la thất thanh. Ngay khi chuẩn bị va phải ai đó, cô đã kịp bước tránh sang một bên. Khi lấy lại bình tĩnh và nhìn lại, cô thấy một cô hầu gái của lâu đài đang đứng đó với vẻ mặt đầy hoảng hốt. Chắc hẳn cô ấy chính là người vừa la lên.
+“Ối!”
 
-“Tôi xin lỗi. Cô có sao không?” “K-Không, tôi mới là người phải xin lỗi ạ! Tiểu thư Stingray, mặt của cô có bị thương không?”
+“Á!” Felmenia phản xạ theo bản năng khi nghe thấy một tiếng la thất thanh. Ngay khi chuẩn bị va phải ai đó, cô đã kịp bước tránh sang một bên. Khi lấy lại bình tĩnh và nhìn lại, cô thấy một cô hầu gái của lâu đài đang đứng đó với vẻ mặt đầy hoảng hốt. Chắc hẳn cô ấy chính là người vừa la lên.
 
-“Hả? Không, sao vậy? Trông tôi giống bị thương lắm sao?” “V-Vậy cô có bị thương ở chỗ nào khác không?! Á! Tôi phải làm sao bây giờ?!” “Không, tôi hoàn toàn không bị sao cả. Nhờ né kịp thời nên ngay cả một hạt bụi cũng không dính vào người tôi đâu.”
+“Tôi xin lỗi. Cô có sao không?”
+
+“K-Không, tôi mới là người phải xin lỗi ạ! Tiểu thư Stingray, mặt của cô có bị thương không?”
+
+“Hả? Không, sao vậy? Trông tôi giống bị thương lắm sao?”
+
+“V-Vậy cô có bị thương ở chỗ nào khác không?! Á! Tôi phải làm sao bây giờ?!”
+
+“Không, tôi hoàn toàn không bị sao cả. Nhờ né kịp thời nên ngay cả một hạt bụi cũng không dính vào người tôi đâu.”
 
 Có chuyện gì to tát đâu chứ? Họ chỉ suýt chút nữa là va vào nhau, thế nhưng cô hầu gái lại làm ầm lên như thể cô ấy vừa phạm phải tội tày đình với Felmenia vậy. Trong lâu đài này chẳng có ai rảnh rỗi đến mức đi trừng phạt cô hầu gái vì một lỗi nhỏ nhặt như thế. Felmenia cố gắng trấn an cô ấy bằng một nụ cười dịu dàng. Thấy vậy, cô hầu gái thở phào nhẹ nhõm và vẻ mặt giãn ra đôi chút.
 
-“Thật vậy sao ạ...? May quá...” “Xin lỗi vì đã làm cô hoảng hốt nhé.” “K-Không có gì đâu ạ!” “Được rồi.” Felmenia gật đầu một cách lịch thiệp. Điệu bộ của cô rất lịch sự, nhưng không theo kiểu cứng nhắc như lễ nghi triều đình đôi khi yêu cầu. Đó là một cử chỉ bắt chước phong thái của vị hiền giả từng là người thầy dạy dỗ cô. Cô tin rằng việc giữ phong thái như vậy, dù cô còn trẻ, sẽ giúp thể hiện được sự tôn nghiêm của mình mà không quá áp đặt bởi các lễ nghi phiền phức.
+“Thật vậy sao ạ...? May quá...”
+
+“Xin lỗi vì đã làm cô hoảng hốt nhé.”
+
+“K-Không có gì đâu ạ!”
+
+“Được rồi.” Felmenia gật đầu một cách lịch thiệp. Điệu bộ của cô rất lịch sự, nhưng không theo kiểu cứng nhắc như lễ nghi triều đình đôi khi yêu cầu. Đó là một cử chỉ bắt chước phong thái của vị hiền giả từng là người thầy dạy dỗ cô. Cô tin rằng việc giữ phong thái như vậy, dù cô còn trẻ, sẽ giúp thể hiện được sự tôn nghiêm của mình mà không quá áp đặt bởi các lễ nghi phiền phức.
 
 Đáp lại, cô hầu gái chỉ biết ngẩn người ra nhìn cô với ánh mắt đầy ngưỡng mộ. Mất vài giây cô ấy mới nhận ra mình đang thất lễ, và khi nhận thức được, cô ấy ngượng ngùng cúi đầu xuống.
 
-“T-Tôi xin lỗi ạ!” “Không sao đâu.” Sau khi bảo cô hầu gái đừng bận tâm, và sau khi cô ấy cúi đầu chào một lần nữa, Felmenia đang định rời đi thì chợt nhận ra một điều.
+“T-Tôi xin lỗi ạ!”
 
-“Xin lỗi, nhưng tôi có thể phiền cô một chút được không?” “Dạ? A, tất nhiên rồi ạ. Có chuyện gì vậy thưa tiểu thư?” “Ngày trước khi chúng ta suýt va vào nhau, đáng lẽ cô phải đi ngang qua một chàng trai trẻ. Cô có tình cờ thấy cậu ấy đi đâu không?”
+“Không sao đâu.” Sau khi bảo cô hầu gái đừng bận tâm, và sau khi cô ấy cúi đầu chào một lần nữa, Felmenia đang định rời đi thì chợt nhận ra một điều.
+
+“Xin lỗi, nhưng tôi có thể phiền cô một chút được không?”
+
+“Dạ? A, tất nhiên rồi ạ. Có chuyện gì vậy thưa tiểu thư?”
+
+“Ngày trước khi chúng ta suýt va vào nhau, đáng lẽ cô phải đi ngang qua một chàng trai trẻ. Cô có tình cờ thấy cậu ấy đi đâu không?”
 
 “...Dạ không? Từ nãy đến giờ, trước khi gặp tiểu thư Stingray, tôi chưa thấy ai đi qua đây cả...”
 
 “Cái gì?!” Hoàn toàn mất đi vẻ điềm tĩnh thường ngày, Felmenia cao giọng lên hỏi lại. Cô đơn giản là không thể tin nổi những gì cô hầu gái vừa nói.
 
-“Ư-Ưm, có chuyện gì không ổn sao ạ...?” “Tôi hỏi lại một lần nữa: cô thực sự không gặp ai trên hành lang này sao?” “T-Thực sự là không ạ.” “Cô không nói dối chứ?” “Không ạ. Tôi xin thề trước Nữ thần Alshuna. Tôi tuyệt đối không bao giờ nói dối tiểu thư, thưa tiểu thư Stingray.”
+“Ư-Ưm, có chuyện gì không ổn sao ạ...?”
+
+“Tôi hỏi lại một lần nữa: cô thực sự không gặp ai trên hành lang này sao?”
+
+“T-Thực sự là không ạ.”
+
+“Cô không nói dối chứ?”
+
+“Không ạ. Tôi xin thề trước Nữ thần Alshuna. Tôi tuyệt đối không bao giờ nói dối tiểu thư, thưa tiểu thư Stingray.”
 
 Co rúm người lại trước ánh mắt đe dọa của Felmenia, cô hầu gái đã thề dưới danh nghĩa của Nữ thần Alshuna—vị thần duy nhất mà Giáo hội Cứu thế thờ phụng—rằng mình đang nói sự thật. Nhưng điều đó không thể nào đúng được. Không đời nào hai người họ lại không chạm mặt nhau trên lối đi hẹp này. Trong khi những suy nghĩ đó đang xoay mòng mòng trong đầu, Felmenia tiếp tục gặng hỏi cô hầu gái.
 
@@ -108,7 +150,11 @@ Co rúm người lại trước ánh mắt đe dọa của Felmenia, cô hầu g
 
 “Một người bạn của người anh hùng ạ? Nhưng tôi không hề...” Đôi mắt ngơ ngác của cô hầu gái liếc ngang liếc dọc đầy bối rối như thể đang tìm kiếm câu trả lời đúng. Nhìn thấy sự bối rối thực sự của cô hầu gái càng làm cho Felmenia thêm hoang mang.
 
-“Chuyện này rốt cuộc là...” “Ư-Ưm, thưa tiểu thư Stingray, tôi có việc được giao ở dãy phía nam nên... ừm...” “A-À, xin lỗi. Tôi xin lỗi vì đã giữ cô lại vì một chuyện kỳ lạ như thế.”
+“Chuyện này rốt cuộc là...”
+
+“Ư-Ưm, thưa tiểu thư Stingray, tôi có việc được giao ở dãy phía nam nên... ừm...”
+
+“A-À, xin lỗi. Tôi xin lỗi vì đã giữ cô lại vì một chuyện kỳ lạ như thế.”
 
 “Xin tiểu thư đừng bận tâm ạ. Xin phép tiểu thư...” Cô hầu gái cúi chào e lệ rồi rời đi. Felmenia nhìn theo bóng cô hầu gái đi khuất, mắt cô nheo lại khi suy nghĩ về tình huống kỳ lạ này. Rốt cuộc chuyện gì đã xảy ra? Có vẻ như ngay sau khi cô nhìn thấy cậu lần cuối, Suimei đã biến mất một cách đơn giản như vậy.
 
