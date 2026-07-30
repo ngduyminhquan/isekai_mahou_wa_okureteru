@@ -65,3 +65,4 @@
 | **Stone Raid** | Thạch Kích | Ma thuật | Phép thuật hệ thổ của Felmenia, ngưng tụ đá bắn về phía kẻ thù. |
 | **strike magicka** | Đả Kích thuật | Ma thuật | Bí thuật nén và kích nổ không khí không cần niệm chú bằng cách búng tay của Suimei. |
 | **restoration magicka** | Bí thuật phục hồi | Ma thuật | Bí thuật phục hồi trạng thái cũ của vật thể (như quần áo rách, vết bẩn) của Suimei. |
+| **spiritualism and mediumship** | Thông linh thuật và giáng thần thuật | Khái niệm | Các lĩnh vực huyền học/bí thuật mà Suimei đã nghiên cứu để áp dụng cho việc giải mã thuật thức. |

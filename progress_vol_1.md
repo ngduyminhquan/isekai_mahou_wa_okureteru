@@ -12,7 +12,7 @@
 - **Ngày bắt đầu**: 2026-07-30
 - **Ngôn ngữ nguồn**: Tiếng Anh
 - **Ngôn ngữ đích**: Tiếng Việt
-- **Trạng thái hiện tại**: Đang tiến hành (Đã hoàn thành Phase 17: Chapter 3 - Part 5)
+- **Trạng thái hiện tại**: Đang tiến hành (Đã hoàn thành Phase 18: Chapter 3 - Part 6)
 
 
 ---
@@ -42,7 +42,7 @@ Dưới đây là danh sách các Phase tương ứng với từng phần dịch
 | **15** | Chapter 3 - Part 3 | `chapter_3_part_3.txt` | 85 | 169 | 3546 | `chapter_3_part_3.md` | **Hoàn thành** |
 | **16** | Chapter 3 - Part 4 | `chapter_3_part_4.txt` | 85 | 169 | 3433 | `chapter_3_part_4.md` | **Hoàn thành** |
 | **17** | Chapter 3 - Part 5 | `chapter_3_part_5.txt` | 85 | 169 | 3474 | `chapter_3_part_5.md` | **Hoàn thành** |
-| **18** | Chapter 3 - Part 6 | `chapter_3_part_6.txt` | 83 | 165 | 3511 | `chapter_3_part_6.md` | Chưa bắt đầu |
+| **18** | Chapter 3 - Part 6 | `chapter_3_part_6.txt` | 83 | 165 | 3511 | `chapter_3_part_6.md` | **Hoàn thành** |
 | **19** | Chapter 4 - Part 1 | `chapter_4_part_1.txt` | 88 | 175 | 3535 | `chapter_4_part_1.md` | Chưa bắt đầu |
 | **20** | Chapter 4 - Part 2 | `chapter_4_part_2.txt` | 88 | 175 | 3134 | `chapter_4_part_2.md` | Chưa bắt đầu |
 | **21** | **Chapter 4 - Part 3** | `chapter_4_part_3.txt` | 88 | 175 | 3144 | `chapter_4_part_3.md` | Chưa bắt đầu |
