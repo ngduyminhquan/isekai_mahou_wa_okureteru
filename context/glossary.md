@@ -60,3 +60,7 @@
 | **complex number space** | Không gian số phức | Khái niệm | Khái niệm không gian phi thực tế trong kết giới bí thuật của Suimei. |
 | **barrier magicka** | Kết giới bí thuật | Khái niệm | Thuật thức phòng ngự/bẫy nâng cao của ma thuật sư hiện đại. |
 | **Society / Mage's Society** | Hội Bác Học / Hội Bác Học ma thuật | Tổ chức | Hội ma thuật sư nghiên cứu bí thuật ở thế giới cũ của Suimei. |
+| **Starfall** | Tinh Lạc | Ma thuật | Đại bí thuật tinh tú của Suimei, gọi mưa sao băng tấn công diện rộng. |
+| **Mercurial Arm** | Thủy Ngân Binh | Khái niệm | Bí thuật biến đổi thủy ngân thành các dạng vũ khí khác nhau (như kiếm, roi) của Suimei. |
+| **Stone Raid** | Thạch Kích | Ma thuật | Phép thuật hệ thổ của Felmenia, ngưng tụ đá bắn về phía kẻ thù. |
+| **strike magicka** | Đả Kích thuật | Ma thuật | Bí thuật nén và kích nổ không khí không cần niệm chú bằng cách búng tay của Suimei. |
