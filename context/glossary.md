@@ -59,3 +59,4 @@
 | **Phantom road** | Đường ảo | Ma thuật | Bí thuật tạo kết giới không gian của Suimei nơi mọi thứ bị đảo ngược như gương. |
 | **complex number space** | Không gian số phức | Khái niệm | Khái niệm không gian phi thực tế trong kết giới bí thuật của Suimei. |
 | **barrier magicka** | Kết giới bí thuật | Khái niệm | Thuật thức phòng ngự/bẫy nâng cao của ma thuật sư hiện đại. |
+| **Society / Mage's Society** | Hội Bác Học / Hội Bác Học ma thuật | Tổ chức | Hội ma thuật sư nghiên cứu bí thuật ở thế giới cũ của Suimei. |
