@@ -221,4 +221,4 @@ Với nụ cười của một kẻ phản diện vừa mới nghĩ ra một âm
 ---
 
 * **Chương trước:** [Chương 3 - Phần 5](chapter_3_part_5.md)
-* **Chương tiếp theo:** [Chương 4 - Phần 1](../chapter_4/chapter_4_part_1.md)
+* **Chương tiếp theo:** [Chương 4 - Phần 1](chapter_4_part_1.md)

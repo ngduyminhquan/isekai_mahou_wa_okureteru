@@ -12,7 +12,7 @@
 - **Ngày bắt đầu**: 2026-07-30
 - **Ngôn ngữ nguồn**: Tiếng Anh
 - **Ngôn ngữ đích**: Tiếng Việt
-- **Trạng thái hiện tại**: Đang tiến hành (Đã hoàn thành Phase 18: Chapter 3 - Part 6)
+- **Trạng thái hiện tại**: Hoàn thành toàn bộ Tập 1 (Đã hoàn thành Phase 30: Copyright)
 
 
 ---
@@ -43,18 +43,18 @@ Dưới đây là danh sách các Phase tương ứng với từng phần dịch
 | **16** | Chapter 3 - Part 4 | `chapter_3_part_4.txt` | 85 | 169 | 3433 | `chapter_3_part_4.md` | **Hoàn thành** |
 | **17** | Chapter 3 - Part 5 | `chapter_3_part_5.txt` | 85 | 169 | 3474 | `chapter_3_part_5.md` | **Hoàn thành** |
 | **18** | Chapter 3 - Part 6 | `chapter_3_part_6.txt` | 83 | 165 | 3511 | `chapter_3_part_6.md` | **Hoàn thành** |
-| **19** | Chapter 4 - Part 1 | `chapter_4_part_1.txt` | 88 | 175 | 3535 | `chapter_4_part_1.md` | Chưa bắt đầu |
-| **20** | Chapter 4 - Part 2 | `chapter_4_part_2.txt` | 88 | 175 | 3134 | `chapter_4_part_2.md` | Chưa bắt đầu |
-| **21** | **Chapter 4 - Part 3** | `chapter_4_part_3.txt` | 88 | 175 | 3144 | `chapter_4_part_3.md` | Chưa bắt đầu |
-| **22** | **Chapter 4 - Part 4** | `chapter_4_part_4.txt` | 85 | 169 | 3625 | `chapter_4_part_4.md` | Chưa bắt đầu |
-| **23** | Epilogue I | `epilogue_1.txt` | 18 | 35 | 863 | `epilogue_1.md` | Chưa bắt đầu |
-| **24** | Epilogue II | `epilogue_2.txt` | 19 | 37 | 653 | `epilogue_2.md` | Chưa bắt đầu |
-| **25** | Afterword | `afterword.txt` | 14 | 27 | 587 | `afterword.md` | Chưa bắt đầu |
-| **26** | Bonus Short Stories - Part 1 | `bonus_part_1.txt` | 85 | 169 | 3181 | `bonus_part_1.md` | Chưa bắt đầu |
-| **27** | Bonus Short Stories - Part 2 | `bonus_part_2.txt` | 85 | 169 | 2875 | `bonus_part_2.md` | Chưa bắt đầu |
-| **28** | Bonus Short Stories - Part 3 | `bonus_part_3.txt` | 85 | 169 | 2277 | `bonus_part_3.md` | Chưa bắt đầu |
-| **29** | About J-Novel Club | `about.txt` | 6 | 11 | 38 | `about.md` | Chưa bắt đầu |
-| **30** | Copyright | `copyright.txt` | 12 | 23 | 171 | `copyright.md` | Chưa bắt đầu |
+| **19** | Chapter 4 - Part 1 | `chapter_4_part_1.txt` | 88 | 175 | 3535 | `chapter_4_part_1.md` | **Hoàn thành** |
+| **20** | Chapter 4 - Part 2 | `chapter_4_part_2.txt` | 88 | 175 | 3134 | `chapter_4_part_2.md` | **Hoàn thành** |
+| **21** | **Chapter 4 - Part 3** | `chapter_4_part_3.txt` | 88 | 175 | 3144 | `chapter_4_part_3.md` | **Hoàn thành** |
+| **22** | **Chapter 4 - Part 4** | `chapter_4_part_4.txt` | 85 | 169 | 3625 | `chapter_4_part_4.md` | **Hoàn thành** |
+| **23** | Epilogue I | `epilogue_1.txt` | 18 | 35 | 863 | `epilogue_1.md` | **Hoàn thành** |
+| **24** | Epilogue II | `epilogue_2.txt` | 19 | 37 | 653 | `epilogue_2.md` | **Hoàn thành** |
+| **25** | Afterword | `afterword.txt` | 14 | 27 | 587 | `afterword.md` | **Hoàn thành** |
+| **26** | Bonus Short Stories - Part 1 | `bonus_part_1.txt` | 85 | 169 | 3181 | `bonus_part_1.md` | **Hoàn thành** |
+| **27** | Bonus Short Stories - Part 2 | `bonus_part_2.txt` | 85 | 169 | 2875 | `bonus_part_2.md` | **Hoàn thành** |
+| **28** | Bonus Short Stories - Part 3 | `bonus_part_3.txt` | 85 | 169 | 2277 | `bonus_part_3.md` | **Hoàn thành** |
+| **29** | About J-Novel Club | `about.txt` | 6 | 11 | 38 | `about.md` | **Hoàn thành** |
+| **30** | Copyright | `copyright.txt` | 12 | 23 | 171 | `copyright.md` | **Hoàn thành** |
 
 ---
 
