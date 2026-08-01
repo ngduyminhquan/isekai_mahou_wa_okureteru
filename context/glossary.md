@@ -193,6 +193,8 @@
 | **Archiatius / Archiatius overload** | Archiatius / Quá tải Archiatius | Khái niệm / Ma thuật | Lò ma lực / ma thuật cốt lõi giải phóng sức mạnh ma lực của ma thuật sư hiện đại trong thế giới của Suimei. |
 | **Nelferian Empire / Empire of Nelferia** | Đế quốc Nelferia | Địa danh | Quốc gia đồng minh của Astel, ngã ba giao thương trọng yếu giáp ranh ba nước, nơi Suimei dự định đến lập căn cứ sau khi rời lâu đài. |
 | **Saadias Alliance** | Liên bang Saadias | Địa danh | Một trong ba quốc gia đồng minh, điểm đến đầu tiên của nhóm Reiji. |
+| **Thoria** | Thoria | Địa danh | Một quốc gia nằm ở phía bắc của Đế quốc Nelferia và Vương quốc Astel. |
+| **Shaddock** | Shaddock | Địa danh | Một quốc gia nằm ở phía bắc của Đế quốc Nelferia và Vương quốc Astel. |
 | **Kurant City** | Thành phố Kurant | Địa danh | Một thành phố mà Suimei dự định sẽ ghé qua sau khi giải quyết xong mọi việc ở Metel. |
 | **herbal magicka** | Bí thuật thảo mộc / Thảo mộc thuật | Khái niệm | Một dạng bí thuật của Suimei sử dụng tính chất huyền bí của hương thơm cây cỏ, thuộc phù thủy thuật. |
 | **witchcraft** | Phù thủy thuật / Ma thuật phù thủy | Khái niệm | Nhánh ma thuật bí ẩn của ma thuật sư hiện đại, liên quan đến thảo mộc thuật và bùa chú. |
