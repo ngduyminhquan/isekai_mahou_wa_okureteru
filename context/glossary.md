@@ -68,6 +68,8 @@
 | **spiritualism and mediumship** | Thông linh thuật và giáng thần thuật | Khái niệm | Các lĩnh vực huyền học/bí thuật mà Suimei đã nghiên cứu để áp dụng cho việc giải mã thuật thức. |
 | **Archiatius / Archiatius overload** | Archiatius / Quá tải Archiatius | Khái niệm / Ma thuật | Lò ma lực / ma thuật cốt lõi giải phóng sức mạnh ma lực của ma thuật sư hiện đại trong thế giới của Suimei. |
 | **Nelferian Empire / Empire of Nelferia** | Đế quốc Nelferia | Địa danh | Quốc gia đồng minh của Astel, ngã ba giao thương trọng yếu giáp ranh ba nước, nơi Suimei dự định đến lập căn cứ sau khi rời lâu đài. |
+| **Saadia** | Saadia | Địa danh | Một trong ba quốc gia đồng minh. |
+| **Kurant City** | Thành phố Kurant | Địa danh | Một thành phố mà Suimei dự định sẽ ghé qua sau khi giải quyết xong mọi việc ở Metel. |
 | **herbal magicka** | Bí thuật thảo mộc / Thảo mộc thuật | Khái niệm | Một dạng bí thuật của Suimei sử dụng tính chất huyền bí của hương thơm cây cỏ, thuộc phù thủy thuật. |
 | **witchcraft** | Phù thủy thuật / Ma thuật phù thủy | Khái niệm | Nhánh ma thuật bí ẩn của ma thuật sư hiện đại, liên quan đến thảo mộc thuật và bùa chú. |
 | **golem manipulation** | Thuật thao túng golem / Thuật điều khiển golem | Khái niệm | Phép thuật điều khiển thực thể đất/đá nhân tạo (golem), sở trường của Sebastian Kran. |
@@ -118,6 +120,8 @@
 | **liturgical magicka** / **courtesy magicka** / **ritualtype magicka** | bí thuật theo nghi thức / bí thuật lễ nghi / bí thuật dạng nghi lễ | Khái niệm | Một hệ thống bí thuật được thi triển bằng cách thực hiện hành động cụ thể hoặc đọc thần chú. |
 | **manual magicka** | bí thuật thủ công | Khái niệm | Tên gọi hiện đại của liturgical magicka, chỉ các bí thuật kích hoạt theo hành động định sẵn. |
 | **Twilight Pavilion** | Đình Hoàng Hôn | Tổ chức / Địa danh | Hội Mạo hiểm giả chi nhánh Vương đô Metel. |
+| **Twilight-sama** | ngài Twilight | Tên riêng | Có thể là người đứng đầu hoặc một chức danh cao cấp tại Đình Hoàng Hôn. |
+| **Magic Institute** | Học viện Ma pháp | Tổ chức | Cơ quan đầu não nghiên cứu và phát triển ma pháp nằm ở Đế quốc Nelferia, hội tụ học viên từ cả 3 nước đồng minh. |
 | **advanced magic-resistant material** | vật liệu kháng ma pháp tiên tiến | Khái niệm / Đồ vật | Một loại vật liệu mới được phát hiện tại Metel, có đặc tính tự nhiên chống lại ma lực mà không cần ếm thuật thức, được dùng làm sàn và tường khu vực huấn luyện Hội Mạo hiểm giả. |
 | **Notarikon of the Kabbalah** | thuật rút gọn chữ Notarikon của Kabbalah | Khái niệm | Một phương pháp rút gọn chữ trong Kabbalah được Suimei sử dụng để niệm chú bí thuật với tốc độ cực nhanh. |
 | **Kalavinka** | Ca Lăng Tần Già | Khái niệm | Một loài chim thần thoại trong hệ thống Phật giáo, được nhắc đến trong câu thần chú mang tính chất hút cạn ma lực của mục tiêu. |
