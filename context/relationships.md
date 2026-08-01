@@ -12,7 +12,7 @@ Quy tắc xưng hô và đại từ trong hội thoại giữa các nhân vật 
 | **Suimei** | **Mizuki** | Cậu / Mizuki | Cậu / Suimei-kun | Bạn học cùng lớp. Xưng hô thân mật tuổi học trò. |
 | **Reiji** | **Mizuki** | Cậu / Mizuki | Cậu / Reiji-kun | Bạn học cùng lớp. |
 | **Suimei** | **Felmenia** *(Trước trận đấu)* | Cô / Tiểu thư pháp sư (xưng Tôi) | Cậu / Ngài (Suimei-dono) | Felmenia bề ngoài giữ lễ nghi nhưng dễ mất bình tĩnh mắng Suimei là "tên khốn / đồ tồi". Ở Chapter 2, cô bắt đầu đỏ mặt ngượng ngùng dữ dội khi chạm trán vì được Suimei lau mặt & khen dễ thương. Dẫu vậy, cô vẫn nghi kỵ cậu, tự ý đặt bẫy rối tự động; Suimei phát hiện và quyết định "đáp lễ". |
-| **Suimei** | **Felmenia** *(Sau trận đấu)* | Cô / Felmenia (xưng Tôi) | Ngài Suimei (Suimei-dono) | Felmenia hoàn toàn phục tùng và kính sợ Suimei. Gọi Suimei là "Ngài" (xưng "Tôi" hoặc "Kẻ hèn này"). Trong các đoạn cúi đầu trang trọng hoặc xin lỗi chân thành, cô xưng "Thần". LƯU Ý: Suimei tuyệt đối xưng "Tôi", không xưng "Tớ" với Felmenia. |
+| **Suimei** | **Felmenia** *(Sau trận đấu)* | Cô / Felmenia (xưng Tôi) | Ngài Suimei (Suimei-dono) | Felmenia hoàn toàn phục tùng và kính sợ Suimei. Gọi Suimei là "Ngài" (xưng "Tôi" hoặc "Kẻ hèn này"). Trong các đoạn cúi đầu trang trọng hoặc xin lỗi chân thành, cô xưng "Thần". |
 | **Suimei** | **Titania (Tia)** | Cô / Tia (Từ Ch.4) | Suimei / Suimei-san (Từ Ch.4) | Suimei giữ khoảng cách lịch sự lúc đầu. Ở Chapter 4 - Part 4, cả hai đồng ý xưng hô thân mật ("Tia - Suimei") để chính thức trở thành bạn bè thân thiết. |
 | **Reiji** | **Titania (Tia)** | Công chúa Titania / Tia | Ngài Anh hùng / Ngài Reiji | Tiến triển thân thiết hơn ở Chapter 2. Reiji gọi cô bằng biệt danh "Tia", Tia tôn sùng Reiji là vị cứu tinh. |
 | **Mizuki** | **Titania (Tia)** | Tia / Công chúa Titania | Cô Mizuki | Lịch sự giữa hai cô gái. Xuất hiện sự cạnh tranh và ghen tị âm thầm từ Mizuki khi thấy Tia bám sát Reiji ở Chapter 2. |
@@ -24,7 +24,7 @@ Quy tắc xưng hô và đại từ trong hội thoại giữa các nhân vật 
 | **Felmenia** | **Titania (Tia)** | Điện hạ / Công chúa | Ngài Bạch Hỏa / Tiểu thư Stingray | Quan hệ chủ tớ hoàng gia tôn quý. Titania coi trọng năng lực của Felmenia, còn Felmenia trung thành tuyệt đối. |
 | **Suimei** | **Sebastian Kran** | Ông / Sebastian Kran | Cậu / Ngươi | Suimei đối thoại trịch thượng, mỉa mai kẻ thủ ác. Kran gọi Suimei là cậu/ngươi và xưng ta/tôi, thể hiện sự coi thường lúc đầu và hoảng loạn sau đó. |
 | **Felmenia** | **Sebastian Kran** | Ngươi / Tên khốn | Stingray / Con ranh ngu ngốc / Nó | Felmenia cực kỳ phẫn nộ vì bị Kran lừa gạt. Kran đố kỵ Felmenia, gọi cô là con nhóc ngu ngốc ở sau lưng. |
-
+| **Suimei** | **Lefille Grakis** | Cô / Lefille (xưng Tôi) | Cậu / Suimei-kun (xưng Tôi) | Hai người gặp nhau lần đầu tại Hội Mạo hiểm giả. Giao tiếp lịch sự, nhã nhặn. |
 
 ---
 

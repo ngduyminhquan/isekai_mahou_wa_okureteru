@@ -27,7 +27,7 @@ Dưới đây là danh sách các Phase tương ứng với từng phần dịch
 | :---: | :--- | :--- | :---: | :---: | :---: | :--- | :---: |
 | **0** | Khởi tạo dự án và tài nguyên | *N/A* | - | - | - | *N/A* | **Hoàn thành** |
 | **1** | Prologue: The Stormy Journey | `prologue.txt` | 57 | 113 | 2055 | `prologue.md` | **Hoàn thành** |
-| **2** | Chapter 1 - Part 1 | `chapter_1_part_1.txt` | 84 | 167 | 3110 | `chapter_1_part_1.md` | **Chờ dịch** |
+| **2** | Chapter 1 - Part 1 | `chapter_1_part_1.txt` | 84 | 167 | 3110 | `chapter_1_part_1.md` | **Hoàn thành** |
 | **3** | Chapter 1 - Part 2 | `chapter_1_part_2.txt` | 83 | 165 | 2453 | `chapter_1_part_2.md` | **Chờ dịch** |
 | **4** | Chapter 1 - Part 3 | `chapter_1_part_3.txt` | 83 | 165 | 2565 | `chapter_1_part_3.md` | **Chờ dịch** |
 | **5** | Chapter 1 - Part 4 | `chapter_1_part_4.txt` | 83 | 165 | 1733 | `chapter_1_part_4.md` | **Chờ dịch** |
