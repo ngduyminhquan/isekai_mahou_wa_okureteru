@@ -112,8 +112,12 @@ Dưới đây là hồ sơ chi tiết các nhân vật xuất hiện trong Volum
 
 ### 15. Lefille Grakis
 - **Vai trò**: Cô gái với mái tóc màu đỏ thẫm mà Suimei gặp tại Hội Mạo hiểm giả ở Vương đô Metel.
-- **Tính cách**: Lịch sự, tốt bụng. Cô thường đến Giáo hội Cứu thế và nhận được thần dụ của Nữ thần.
-- **Giọng thoại**: Lịch sự, thân thiện. Thường xưng hô "tôi - cậu" với Suimei. Dùng kính ngữ phù hợp.
+- **Tính cách**: 
+  - Lịch sự, tốt bụng, khiêm tốn nhưng mang trong mình sức mạnh vô cùng đáng gờm. Cô có đủ khả năng đánh bại một con ogre (dù luôn miệng nói là nhờ đồng đội).
+  - Thường xuyên đến Giáo hội Cứu thế, sùng đạo và am hiểu về Nữ thần Alshuna.
+  - Mang một bí mật giấu kín (từng bị Suimei bắt gặp đang khóc nức nở trong bộ đồ lót vào buổi sáng sớm).
+- **Vũ khí**: Sử dụng một thanh đại kiếm khổng lồ (được truyền thừa trong gia đình) có kích cỡ đủ để chẻ đôi một con gấu xám, nhưng cô cõng nó trên lưng nhẹ tựa lông hồng.
+- **Giọng thoại**: Lịch sự, thân thiện. Thường xưng hô "tôi - cậu" với Suimei, có lúc gọi là "Suimei-kun". Dùng kính ngữ phù hợp. Đôi lúc tỏ ra ngượng ngùng và lúng túng khi gặp tình huống xấu hổ.
 
 ### 16. Dorothea
 - **Vai trò**: Nhân viên hướng dẫn tân binh tại Hội Mạo hiểm giả chi nhánh Metel.
@@ -135,5 +139,7 @@ Dưới đây là hồ sơ chi tiết các nhân vật xuất hiện trong Volum
 - **Tính cách**: Trầm mặc nhưng tỏa ra sát khí khó gần.
 - **Giọng thoại**: Ít nói, nguy hiểm ngầm.
 
-
-
+### 20. Gallio
+- **Vai trò**: Thương gia điều hành đoàn thương nhân hướng đến Thành phố Kurant.
+- **Tính cách**: Lịch sự, sòng phẳng, biết đánh giá cao những người có năng lực đặc biệt (như khả năng dùng ma pháp hồi phục của Suimei).
+- **Giọng thoại**: Lịch thiệp, chuẩn mực của một thương nhân.

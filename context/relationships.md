@@ -67,3 +67,5 @@ Quy tắc xưng hô và đại từ trong hội thoại giữa các nhân vật 
 
 ### Suimei <-> Lefille Grakis (Diễn biến ở Volume 2)
 - **Sự đồng điệu ở Hội Mạo hiểm giả**: Mặc dù ban đầu gặp nhau trong hoàn cảnh hiểu lầm tại quầy tiếp tân, cả hai nhanh chóng nhận ra sự tương đồng trong tính cách (đều có thực lực, tự tin và yêu cầu đánh cùng lúc 2 giám khảo). Họ trò chuyện khá ăn ý và vui vẻ cười đùa cùng nhau, cho thấy một khởi đầu khá tốt đẹp.
+- **Sự cố ngượng ngùng (Chương 2)**: Suimei vô tình đụng mặt Lefille đang khóc nức nở trong bộ đồ lót vào lúc rạng sáng. Cả hai vô cùng ngượng ngùng nhưng sau đó đã cố gắng nói chuyện bình thường trở lại khi cùng đồng hành trong đoàn thương nhân.
+- **Bạn đồng hành**: Cả hai trở thành đồng đội khi cùng gia nhập đoàn thương nhân đi từ Metel đến Kurant. Lefille trở thành người hướng dẫn kiến thức cho Suimei về tôn giáo (Nữ thần Alshuna) và hệ sinh thái quái vật của thế giới này. Mối quan hệ dần trở nên cởi mở và thân thiện hơn.
