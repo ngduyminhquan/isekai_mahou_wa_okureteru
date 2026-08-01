@@ -14,7 +14,7 @@ Dưới đây là hồ sơ chi tiết các nhân vật xuất hiện trong Volum
   - Trang bị & Bí thuật (Chapter 3 & 4): Sở hữu một chiếc túi ma thuật (ma cụ) có thể chứa dung tích lớn gấp nhiều lần kích thước thực tế để mang theo các vật phẩm nghiên cứu và trang phục chiến đấu. Trang phục chiến đấu (combat suit) là một bộ măng tô đen tuyền thêu hoa hồng xanh trên ve áo, kết hợp sơ mi trắng và quần tây đen. Ở Chapter 4, cậu thi triển đại bí thuật hệ thiên không "Thanh Lam Khắc Trảm" (Azure Engraved Beheading) kết hợp giữa thuật số học Kabbalah và bí thuật thời tiết để dễ dàng tiêu diệt dị vật cấp B.
 - **Giọng thoại**:
   - Giao tiếp với bạn bè (Reiji, Mizuki): Tự nhiên, suồng sã, bình đẳng ("cậu - tớ", "tôi - ông").
-  - Giao tiếp với người thế giới mới: Có chừng mực, khách sáo nhưng ẩn chứa sự sắc bén, mỉa mai ngầm khi cần.
+  - Giao tiếp với người thế giới mới: Có chừng mực, khách sáo nhưng ẩn chứa sự sắc bén, mỉa mai ngầm khi cần (luôn xưng "tôi", tuyệt đối không xưng "tớ").
   - Khi độc thoại hoặc bàn về ma thuật: Trầm lắng, uyên bác, mang đậm tính chuyên môn và triết lý pháp thuật.
 
 ### 2. Shana Reiji (遮那黎二)
