@@ -24,7 +24,7 @@ Quy tắc xưng hô và đại từ trong hội thoại giữa các nhân vật 
 | **Felmenia** | **Titania (Tia)** | Điện hạ / Công chúa | Ngài Bạch Hỏa / Tiểu thư Stingray | Quan hệ chủ tớ hoàng gia tôn quý. Titania coi trọng năng lực của Felmenia, còn Felmenia trung thành tuyệt đối. |
 | **Suimei** | **Sebastian Kran** | Ông / Sebastian Kran | Cậu / Ngươi | Suimei đối thoại trịch thượng, mỉa mai kẻ thủ ác. Kran gọi Suimei là cậu/ngươi và xưng ta/tôi, thể hiện sự coi thường lúc đầu và hoảng loạn sau đó. |
 | **Felmenia** | **Sebastian Kran** | Ngươi / Tên khốn | Stingray / Con ranh ngu ngốc / Nó | Felmenia cực kỳ phẫn nộ vì bị Kran lừa gạt. Kran đố kỵ Felmenia, gọi cô là con nhóc ngu ngốc ở sau lưng. |
-| **Suimei** | **Lefille Grakis** | Cô / Lefille | Cậu / Suimei | Hai người gặp nhau lần đầu tại Hội Mạo hiểm giả. Giao tiếp ban đầu lịch sự. Từ Chương 2 Phần 3, hai người chuyển sang xưng hô thoải mái ("tôi - cậu") và bỏ kính ngữ. |
+| **Rajas** | **Lefille / Suimei** | Ta - ngươi | Cô bé / Tên nhãi ranh | Rajas thể hiện thái độ khinh khỉnh, kẻ cả. Với Lefille, hắn gọi là "cô bé", "tên sống sót chết tiệt". Với Suimei, hắn gọi là "thằng nhãi ranh", "tên nhãi nhép chết tiệt". |
 | **Suimei** | **Rikus / Enmarph** | Tôi / Các anh | Thằng nhãi / Mày | Rikus và Enmarph coi thường và hách dịch với Suimei. Suimei đáp trả một cách thản nhiên, không kiêng nể. |
 
 ---

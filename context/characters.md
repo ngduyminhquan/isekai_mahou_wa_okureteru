@@ -39,6 +39,15 @@ Dưới đây là hồ sơ chi tiết các nhân vật xuất hiện trong Volum
 - **Giọng thoại**:
   - Nhẹ nhàng, nữ tính, đôi khi lo lắng hoặc ngạc nhiên. Xưng hô thân mật ("tớ - cậu").
 
+### 2. Các thực thể khác
+
+| Tên nhân vật / Thực thể | Bí danh / Chức danh | Vai trò & Đặc điểm | Ngoại hình & Nhận dạng | Tình trạng |
+| :--- | :--- | :--- | :--- | :--- |
+| **Bạch Hỏa** (White Flame) | Bạch Hỏa Chân Thực | Ngọn lửa ma thuật tối cao do Felmenia khám phá. Có khả năng tự phân biệt bạn/thù và thiêu rụi mục tiêu không để lại tro tàn. | Ngọn lửa màu trắng tinh khiết. | Tồn tại dưới dạng ma pháp |
+| **Goddess Alshuna** | Nữ thần Alshuna | Vị thần duy nhất được Giáo hội Cứu thế tôn thờ, người được cho là đã gửi thần dụ về việc triệu hồi Anh hùng. | Không rõ (Thực thể thần thánh) | Tồn tại trong tín ngưỡng |
+| **Demon Lord Nakshatra** | Ma Vương Nakshatra | Thủ lĩnh của loài quỷ (demon). Kẻ thù lớn nhất của nhân loại mà các Anh hùng được triệu hồi đến để tiêu diệt. | Không rõ | Đang hoạt động |
+| **Rajas** | Ma Tướng Rajas | Một trong bảy Ma Tướng được Ma Vương Nakshatra giao phó một đội quân. Là kẻ đã chỉ huy cuộc tấn công tiêu diệt Vương quốc Noshias. | Cơ thể cao gần hai mét, chân tay to như khúc gỗ, mang lại cảm giác bạo lực thuần túy. Hắn tự xưng là một trong bảy con quỷ được tin tưởng nhất. | Đang hoạt động |
+
 ### 4. Felmenia Stingray (フェルメニア・スティングレイ)
 - **Vai trò**: Pháp sư triều đình Astel, được mệnh danh là thiên tài nhờ phát hiện ra Bạch Hỏa.
 - **Tính cách**:
