@@ -264,4 +264,5 @@
 | **O-Oh Flames! Stain Scarlet!** | H-Hỡi Ngọn Lửa! Nhuộm Đỏ Thẫm! | Ma thuật | Phép thuật hệ hỏa cấp thấp (thanh tẩy màu đỏ thẫm) do Mizuki sử dụng. |
 | **orichalcum sword** | thanh kiếm orichalcum | Đồ vật / Khái niệm | Món vũ khí tuyệt hảo nhất của Vương quốc Astel được Reiji sử dụng. |
 | **chuunibyou** | chuunibyou / trung nhị bệnh | Khái niệm | "Căn bệnh" của thế giới Suimei và nhóm bạn, hội chứng ảo tưởng tuổi teen mà Mizuki từng mắc phải và cực kỳ xấu hổ khi bị nhắc lại. |
-
+| **Evil God** | Tà Thần | Khái niệm | Vị thần độc ác có mối liên hệ mật thiết với nguồn gốc của loài quỷ. |
+| **mana furnace** | lò phản ứng ma lực / lò ma lực | Khái niệm | Lò ma thuật cốt lõi của ma thuật sư hiện đại, còn gọi là Archiatius. |
