@@ -114,10 +114,14 @@
 | **Magicka** / **Mysteries** | Bí thuật / Bí ẩn | Khái niệm | Hệ thống phép thuật của Trái Đất (thế giới của Suimei), bao gồm nhiều nhánh như Thuật giả kim (Alchemy), Bí thuật tự nhiên (Nature magicka), Tinh linh thuật, v.v. Không bị phụ thuộc vào nguyên tố. |
 | **Magic** | Ma pháp | Khái niệm | Hệ thống phép thuật của dị giới. Tất cả ma pháp đều bắt buộc phải thông qua sự trung gian (vay mượn sức mạnh) của 8 nguyên tố cốt lõi (Elements) mới có thể hình thành thuật thức. Suimei coi đây là một phiên bản "nhái" và kém hiệu quả của Bí thuật tự nhiên. |
 | **Holy Inquisition** | Tòa án dị giáo | Tổ chức | Tổ chức cuồng tín ở thế giới cũ của Suimei, săn lùng các ma thuật sư vì cho rằng chỉ có thần linh mới tạo ra phép màu. |
+| **Geo Malifex** | Geo Malifex | Tên riêng | Nữ pháp sư hùng mạnh của Đế quốc Nelferia, người có khả năng nghiền nát toàn bộ một chiến trường chỉ bằng một đòn tấn công. |
 | **liturgical magicka** / **courtesy magicka** / **ritualtype magicka** | bí thuật theo nghi thức / bí thuật lễ nghi / bí thuật dạng nghi lễ | Khái niệm | Một hệ thống bí thuật được thi triển bằng cách thực hiện hành động cụ thể hoặc đọc thần chú. |
 | **manual magicka** | bí thuật thủ công | Khái niệm | Tên gọi hiện đại của liturgical magicka, chỉ các bí thuật kích hoạt theo hành động định sẵn. |
 | **Twilight Pavilion** | Đình Hoàng Hôn | Tổ chức / Địa danh | Hội Mạo hiểm giả chi nhánh Vương đô Metel. |
 | **advanced magic-resistant material** | vật liệu kháng ma pháp tiên tiến | Khái niệm / Đồ vật | Một loại vật liệu mới được phát hiện tại Metel, có đặc tính tự nhiên chống lại ma lực mà không cần ếm thuật thức, được dùng làm sàn và tường khu vực huấn luyện Hội Mạo hiểm giả. |
+| **Notarikon of the Kabbalah** | thuật rút gọn chữ Notarikon của Kabbalah | Khái niệm | Một phương pháp rút gọn chữ trong Kabbalah được Suimei sử dụng để niệm chú bí thuật với tốc độ cực nhanh. |
+| **Kalavinka** | Ca Lăng Tần Già | Khái niệm | Một loài chim thần thoại trong hệ thống Phật giáo, được nhắc đến trong câu thần chú mang tính chất hút cạn ma lực của mục tiêu. |
+| **Esoteric Buddhist systems** | hệ thống Phật giáo Mật tông / Mật giáo | Khái niệm | Một nhánh triết học/tôn giáo mà Suimei tích hợp vào trong bí thuật của mình. |
 
 
 
