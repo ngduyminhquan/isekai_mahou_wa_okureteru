@@ -192,7 +192,7 @@
 | **spiritualism and mediumship** | Thông linh thuật và giáng thần thuật | Khái niệm | Các lĩnh vực huyền học/bí thuật mà Suimei đã nghiên cứu để áp dụng cho việc giải mã thuật thức. |
 | **Archiatius / Archiatius overload** | Archiatius / Quá tải Archiatius | Khái niệm / Ma thuật | Lò ma lực / ma thuật cốt lõi giải phóng sức mạnh ma lực của ma thuật sư hiện đại trong thế giới của Suimei. |
 | **Nelferian Empire / Empire of Nelferia** | Đế quốc Nelferia | Địa danh | Quốc gia đồng minh của Astel, ngã ba giao thương trọng yếu giáp ranh ba nước, nơi Suimei dự định đến lập căn cứ sau khi rời lâu đài. |
-| **Saadia** | Saadia | Địa danh | Một trong ba quốc gia đồng minh. |
+| **Saadias Alliance** | Liên bang Saadias | Địa danh | Một trong ba quốc gia đồng minh, điểm đến đầu tiên của nhóm Reiji. |
 | **Kurant City** | Thành phố Kurant | Địa danh | Một thành phố mà Suimei dự định sẽ ghé qua sau khi giải quyết xong mọi việc ở Metel. |
 | **herbal magicka** | Bí thuật thảo mộc / Thảo mộc thuật | Khái niệm | Một dạng bí thuật của Suimei sử dụng tính chất huyền bí của hương thơm cây cỏ, thuộc phù thủy thuật. |
 | **witchcraft** | Phù thủy thuật / Ma thuật phù thủy | Khái niệm | Nhánh ma thuật bí ẩn của ma thuật sư hiện đại, liên quan đến thảo mộc thuật và bùa chú. |
@@ -259,3 +259,6 @@
 | **dwarf** / **dwarves** | người lùn / Dwarf | Khái niệm | Chủng tộc á nhân người lùn. |
 | **therianthrope** / **therianthropes** | thú nhân | Khái niệm | Chủng tộc á nhân mang đặc điểm của thú vật. |
 | **dragonnewt** / **dragonnewts** | long nhân | Khái niệm | Chủng tộc á nhân mang đặc điểm của rồng. |
+| **O-Oh Flames! Stain Scarlet!** | H-Hỡi Ngọn Lửa! Nhuộm Đỏ Thẫm! | Ma thuật | Phép thuật hệ hỏa cấp thấp (thanh tẩy màu đỏ thẫm) do Mizuki sử dụng. |
+| **orichalcum sword** | thanh kiếm orichalcum | Đồ vật / Khái niệm | Món vũ khí tuyệt hảo nhất của Vương quốc Astel được Reiji sử dụng. |
+
