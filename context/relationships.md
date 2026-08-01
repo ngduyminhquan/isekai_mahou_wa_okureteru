@@ -25,6 +25,7 @@ Quy tắc xưng hô và đại từ trong hội thoại giữa các nhân vật 
 | **Suimei** | **Sebastian Kran** | Ông / Sebastian Kran | Cậu / Ngươi | Suimei đối thoại trịch thượng, mỉa mai kẻ thủ ác. Kran gọi Suimei là cậu/ngươi và xưng ta/tôi, thể hiện sự coi thường lúc đầu và hoảng loạn sau đó. |
 | **Felmenia** | **Sebastian Kran** | Ngươi / Tên khốn | Stingray / Con ranh ngu ngốc / Nó | Felmenia cực kỳ phẫn nộ vì bị Kran lừa gạt. Kran đố kỵ Felmenia, gọi cô là con nhóc ngu ngốc ở sau lưng. |
 | **Suimei** | **Lefille Grakis** | Cô / Lefille (xưng Tôi) | Cậu / Suimei-kun (xưng Tôi) | Hai người gặp nhau lần đầu tại Hội Mạo hiểm giả. Giao tiếp lịch sự, nhã nhặn. |
+| **Suimei** | **Rikus / Enmarph** | Tôi / Các anh | Thằng nhãi / Mày | Rikus và Enmarph coi thường và hách dịch với Suimei. Suimei đáp trả một cách thản nhiên, không kiêng nể. |
 
 ---
 
@@ -63,3 +64,6 @@ Quy tắc xưng hô và đại từ trong hội thoại giữa các nhân vật 
 ### Felmenia <-> Sebastian Kran (Diễn biến ở Chapter 2 & Chapter 4)
 - **Sự lừa gạt ở Chapter 2**: Sebastian Kran chủ động báo tin giả rằng Suimei muốn mưu hại đức vua và đã phá hủy các công cụ phát hiện kẻ đột nhập. Bằng cách kích động lòng kiêu hãnh của cô và thi triển ma pháp gây ảo giác, hắn lừa cô tự mình ra tay đối phó Suimei để giật dây tạo nên xung đột.
 - **Vạch trần và vây bắt ở Chapter 4**: Suimei dùng "Bí thuật thảo mộc" khiến Kran mất tự chủ và tự thú nhận toàn bộ âm mưu trước mặt Suimei và Felmenia. Felmenia phẫn nộ xông vào bắt giữ nhưng Kran nhảy bàn trốn thoát. Cả hai cùng đuổi theo hắn.
+
+### Suimei <-> Lefille Grakis (Diễn biến ở Volume 2)
+- **Sự đồng điệu ở Hội Mạo hiểm giả**: Mặc dù ban đầu gặp nhau trong hoàn cảnh hiểu lầm tại quầy tiếp tân, cả hai nhanh chóng nhận ra sự tương đồng trong tính cách (đều có thực lực, tự tin và yêu cầu đánh cùng lúc 2 giám khảo). Họ trò chuyện khá ăn ý và vui vẻ cười đùa cùng nhau, cho thấy một khởi đầu khá tốt đẹp.

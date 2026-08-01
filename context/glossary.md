@@ -116,6 +116,7 @@
 | **liturgical magicka** / **courtesy magicka** / **ritualtype magicka** | bí thuật theo nghi thức / bí thuật lễ nghi / bí thuật dạng nghi lễ | Khái niệm | Một hệ thống bí thuật được thi triển bằng cách thực hiện hành động cụ thể hoặc đọc thần chú. |
 | **manual magicka** | bí thuật thủ công | Khái niệm | Tên gọi hiện đại của liturgical magicka, chỉ các bí thuật kích hoạt theo hành động định sẵn. |
 | **Twilight Pavilion** | Đình Hoàng Hôn | Tổ chức / Địa danh | Hội Mạo hiểm giả chi nhánh Vương đô Metel. |
+| **advanced magic-resistant material** | vật liệu kháng ma pháp tiên tiến | Khái niệm / Đồ vật | Một loại vật liệu mới được phát hiện tại Metel, có đặc tính tự nhiên chống lại ma lực mà không cần ếm thuật thức, được dùng làm sàn và tường khu vực huấn luyện Hội Mạo hiểm giả. |
 
 
 
