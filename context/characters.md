@@ -11,6 +11,7 @@ Dưới đây là hồ sơ chi tiết các nhân vật xuất hiện trong Volum
   - Rất có kiến thức, tôn trọng tri thức ma thuật và coi thường sự kém phát triển của ma pháp thế giới mới.
   - Thường ngày tỏ ra lười biếng, bình thường, nhưng khi chiến đấu cực kỳ nghiêm túc, quyết đoán và sắc sảo.
   - Động cơ cốt lõi: Quyết tâm giải mã trận pháp triệu hồi để quay về Trái Đất bằng mọi giá nhằm hoàn thiện luận văn bí thuật do người cha quá cố giao phó. Cậu âm thầm quan tâm và nhận thức được nỗi nhớ nhà cũng như sự sợ hãi của Reiji và Mizuki.
+  - Về thể thuật: Dù luôn tỏ ra không biết chiến đấu cận chiến, nhưng thực chất cậu đã theo học tại một võ đường cổ võ thuật (bề ngoài ngụy trang thành lớp dạy võ tự vệ cho phụ nữ) và có kỹ năng kiếm thuật đáng gờm.
   - Trang bị & Bí thuật (Chapter 3 & 4): Sở hữu một chiếc túi ma thuật (ma cụ) có thể chứa dung tích lớn gấp nhiều lần kích thước thực tế để mang theo các vật phẩm nghiên cứu và trang phục chiến đấu. Trang phục chiến đấu (combat suit) là một bộ măng tô đen tuyền thêu hoa hồng xanh trên ve áo, kết hợp sơ mi trắng và quần tây đen. Ở Chapter 4, cậu thi triển đại bí thuật hệ thiên không "Thanh Lam Khắc Trảm" (Azure Engraved Beheading) kết hợp giữa thuật số học Kabbalah và bí thuật thời tiết để dễ dàng tiêu diệt dị vật cấp B.
 - **Giọng thoại**:
   - Giao tiếp với bạn bè (Reiji, Mizuki): Tự nhiên, suồng sã, bình đẳng ("cậu - tớ", "tôi - ông").
