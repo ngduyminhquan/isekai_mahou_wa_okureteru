@@ -115,6 +115,7 @@
 | **Holy Inquisition** | Tòa án dị giáo | Tổ chức | Tổ chức cuồng tín ở thế giới cũ của Suimei, săn lùng các ma thuật sư vì cho rằng chỉ có thần linh mới tạo ra phép màu. |
 | **liturgical magicka** / **courtesy magicka** / **ritualtype magicka** | bí thuật theo nghi thức / bí thuật lễ nghi / bí thuật dạng nghi lễ | Khái niệm | Một hệ thống bí thuật được thi triển bằng cách thực hiện hành động cụ thể hoặc đọc thần chú. |
 | **manual magicka** | bí thuật thủ công | Khái niệm | Tên gọi hiện đại của liturgical magicka, chỉ các bí thuật kích hoạt theo hành động định sẵn. |
+| **Twilight Pavilion** | Đình Hoàng Hôn | Tổ chức / Địa danh | Hội Mạo hiểm giả chi nhánh Vương đô Metel. |
 
 
 

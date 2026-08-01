@@ -125,5 +125,15 @@ Dưới đây là hồ sơ chi tiết các nhân vật xuất hiện trong Volum
 - **Tính cách**: Nóng tính, hay kiếm chuyện với người lạ nhưng thực chất khá sòng phẳng, biết nhận lỗi khi làm sai.
 - **Giọng thoại**: Thô bạo, hay dùng ngôn từ mạnh bạo ("tao - mày") khi tức giận.
 
+### 18. Rikus
+- **Vai trò**: Một chiến binh làm nhiệm vụ đánh giá năng lực tại Hội Mạo hiểm giả.
+- **Tính cách**: Hách dịch, kiêu ngạo, thô lỗ với người mới.
+- **Giọng thoại**: Cộc lốc, hay kiếm chuyện và coi thường.
+
+### 19. Enmarph
+- **Vai trò**: Một pháp sư làm nhiệm vụ đánh giá năng lực tại Hội Mạo hiểm giả.
+- **Tính cách**: Trầm mặc nhưng tỏa ra sát khí khó gần.
+- **Giọng thoại**: Ít nói, nguy hiểm ngầm.
+
 
 
