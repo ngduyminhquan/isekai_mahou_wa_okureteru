@@ -126,6 +126,7 @@
 | **Notarikon of the Kabbalah** | thuật rút gọn chữ Notarikon của Kabbalah | Khái niệm | Một phương pháp rút gọn chữ trong Kabbalah được Suimei sử dụng để niệm chú bí thuật với tốc độ cực nhanh. |
 | **Kalavinka** | Ca Lăng Tần Già | Khái niệm | Một loài chim thần thoại trong hệ thống Phật giáo, được nhắc đến trong câu thần chú mang tính chất hút cạn ma lực của mục tiêu. |
 | **Esoteric Buddhist systems** | hệ thống Phật giáo Mật tông / Mật giáo | Khái niệm | Một nhánh triết học/tôn giáo mà Suimei tích hợp vào trong bí thuật của mình. |
-
-
-
+| **Gallio** | Gallio | Tên riêng | Thương gia điều hành đoàn thương nhân hướng đến Thành phố Kurant. |
+| **ogre** | ogre | Khái niệm / Quái vật | Một phân loài của người khổng lồ (tộc bán cự nhân), chuyên sử dụng sức mạnh thể chất thuần túy, đủ sức đánh sập một pháo đài nhỏ. |
+| **half-giant** | bán cự nhân | Khái niệm / Quái vật | Tộc bán cự nhân, phân loài nhỏ hơn của người khổng lồ, bao gồm cả ogre. |
+| **trade corps** / **caravan** | đoàn thương nhân / caravan | Khái niệm | Nhóm những người tập hợp lại với nhau để vận chuyển hàng hóa qua những chặng đường dài. |
