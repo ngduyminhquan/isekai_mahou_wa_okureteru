@@ -261,4 +261,5 @@
 | **dragonnewt** / **dragonnewts** | long nhân | Khái niệm | Chủng tộc á nhân mang đặc điểm của rồng. |
 | **O-Oh Flames! Stain Scarlet!** | H-Hỡi Ngọn Lửa! Nhuộm Đỏ Thẫm! | Ma thuật | Phép thuật hệ hỏa cấp thấp (thanh tẩy màu đỏ thẫm) do Mizuki sử dụng. |
 | **orichalcum sword** | thanh kiếm orichalcum | Đồ vật / Khái niệm | Món vũ khí tuyệt hảo nhất của Vương quốc Astel được Reiji sử dụng. |
+| **chuunibyou** | chuunibyou / trung nhị bệnh | Khái niệm | "Căn bệnh" của thế giới Suimei và nhóm bạn, hội chứng ảo tưởng tuổi teen mà Mizuki từng mắc phải và cực kỳ xấu hổ khi bị nhắc lại. |
 
