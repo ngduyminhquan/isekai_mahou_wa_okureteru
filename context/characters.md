@@ -115,5 +115,15 @@ Dưới đây là hồ sơ chi tiết các nhân vật xuất hiện trong Volum
 - **Tính cách**: Lịch sự, tốt bụng. Cô thường đến Giáo hội Cứu thế và nhận được thần dụ của Nữ thần.
 - **Giọng thoại**: Lịch sự, thân thiện. Thường xưng hô "tôi - cậu" với Suimei. Dùng kính ngữ phù hợp.
 
+### 16. Dorothea
+- **Vai trò**: Nhân viên hướng dẫn tân binh tại Hội Mạo hiểm giả chi nhánh Metel.
+- **Tính cách**: Thân thiện, tràn đầy năng lượng, cởi mở, có phần sùng bái anh hùng và rất hy vọng vào việc anh hùng sẽ cứu thế giới.
+- **Giọng thoại**: Nhiệt tình, thân thiện. Xưng "tôi - cậu" với Suimei. Dễ chịu, không câu nệ lễ tiết quá nhiều.
+
+### 17. Roha
+- **Vai trò**: Một chiến binh nóng tính tại Hội Mạo hiểm giả.
+- **Tính cách**: Nóng tính, hay kiếm chuyện với người lạ nhưng thực chất khá sòng phẳng, biết nhận lỗi khi làm sai.
+- **Giọng thoại**: Thô bạo, hay dùng ngôn từ mạnh bạo ("tao - mày") khi tức giận.
+
 
 
