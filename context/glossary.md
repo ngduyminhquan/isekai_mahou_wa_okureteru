@@ -181,3 +181,5 @@
 | **homunculus** | người nhân tạo / homunculus | Khái niệm | Một sinh vật nhân tạo được tạo ra bởi ma thuật giả kim (như Hydemary). |
 | **Georg Bettendorf** | Georg Bettendorf | Tên riêng | Bạn thân của cha Suimei, chuyên gia vũ trang của Hội Bác Học. |
 | **Alto Schloss** | Alto Schloss | Địa danh | Trụ sở của Hội Bác Học nằm trên dãy núi Harz, miền trung nước Đức. |
+| **Kurant City** | Thành phố Kurant | Địa danh | Thành phố nơi Suimei và Lefille dừng chân mua sắm. |
+| **Nelferian Empire** | Đế quốc Nelferian | Địa danh | Một quốc gia nằm sát biên giới Vương quốc Astel, nơi nhóm Reiji đặt chân đến đầu tiên. |
