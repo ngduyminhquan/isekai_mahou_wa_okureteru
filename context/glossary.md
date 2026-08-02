@@ -136,6 +136,10 @@
 
 | **mana furnace** | lò phản ứng ma lực / lò phản ứng | Khái niệm | Nguồn chứa và sản sinh ma lực bên trong cơ thể pháp sư hiện đại. |
 
+| **Moenia, quinquepartita expansio!** | Thành lũy, mở rộng gấp năm lần! | Ma thuật | Một câu thần chú kích hoạt phòng thủ ma thuật của Suimei. |
+
+| **dampening rampart** | thành lũy giảm chấn | Ma thuật | Hệ thống phòng thủ của Suimei. |
+
 
 
 | Thuật ngữ gốc (English) | Bản dịch tiếng Việt | Loại thuật ngữ | Ghi chú & Ngữ cảnh |
