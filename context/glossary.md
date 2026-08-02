@@ -140,6 +140,8 @@
 
 | **dampening rampart** | thành lũy giảm chấn | Ma thuật | Hệ thống phòng thủ của Suimei. |
 
+| **Ishaktney** | Ishaktney | Tinh linh | Hỏa tinh linh / Tinh linh đỏ mà Lefille mượn sức mạnh. |
+
 
 
 | Thuật ngữ gốc (English) | Bản dịch tiếng Việt | Loại thuật ngữ | Ghi chú & Ngữ cảnh |
