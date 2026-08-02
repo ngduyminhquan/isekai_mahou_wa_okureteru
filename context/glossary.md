@@ -146,6 +146,8 @@
 
 | **Abra-Melin Abraham system of magicka** | hệ thống bí thuật Abra-Melin Abraham | Khái niệm | Hay còn gọi là thánh thuật (sacred magicka / holy magicka). Loại bí thuật mượn sức mạnh của thiên thần hộ mệnh, dùng để xua đuổi và tiêu diệt ác quỷ. |
 
+| **Evil God** | Ác Thần | Khái niệm | Vị thần độc ác mà loài quỷ tôn sùng. |
+
 
 
 | Thuật ngữ gốc (English) | Bản dịch tiếng Việt | Loại thuật ngữ | Ghi chú & Ngữ cảnh |
