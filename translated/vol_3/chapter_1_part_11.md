@@ -20,11 +20,11 @@ Một giọng nói nghiêm khắc gọi Hadorious. Thật đáng ngạc nhiên, 
 
 Bắn cả câu thần chú và từ khóa vào Rajas, Graziella đập mạnh xuống mặt đất dưới chân mình. Trong chớp mắt, mặt đất xung quanh cô vỡ vụn thành từng mảnh như thể vừa xảy ra một trận động đất cục bộ, và vô số tảng đá đâm tua tủa lên. Giống như thể thạch anh hay thạch cao bắn ra từ mặt đất, và ngay sau cú vung tay dữ dội của Rajas về phía Hadorious, tất cả những tảng đá khổng lồ, thuôn dài đều lao thẳng vào con ác quỷ.
 
-Đó là ma thuật vót nhọn đỉnh của các tảng đá thành mũi nhọn, gia tốc chúng như những quả đạn pháo, và ban cho chúng độ cứng và sức nặng. Và ngay khi những tảng đá chuẩn bị đâm sầm vào Rajas, trong tích tắc trước khi chúng có thể chạm vào, một luồng khí đen tuyền cuộn quanh cơ thể Rajas như thể bám chặt lấy hắn. Ma tướng bị chôn vùi dưới vô số những cột đá. Nhưng nó chỉ kéo dài vài khoảnh khắc. Hắn đấm và xé toạc chúng, đập vỡ tất cả. Rajas vẫn đứng đó, dường như chẳng hề hấn gì.
+Đó là ma pháp vót nhọn đỉnh của các tảng đá thành mũi nhọn, gia tốc chúng như những quả đạn pháo, và ban cho chúng độ cứng và sức nặng. Và ngay khi những tảng đá chuẩn bị đâm sầm vào Rajas, trong tích tắc trước khi chúng có thể chạm vào, một luồng khí đen tuyền cuộn quanh cơ thể Rajas như thể bám chặt lấy hắn. Ma tướng bị chôn vùi dưới vô số những cột đá. Nhưng nó chỉ kéo dài vài khoảnh khắc. Hắn đấm và xé toạc chúng, đập vỡ tất cả. Rajas vẫn đứng đó, dường như chẳng hề hấn gì.
 
 "Ôi chao, vậy mà lại không có tác dụng sao."
 
-Cái luồng khí đen tuyền mà hắn khoác lên người đó có phải là kỹ năng phòng ngự của Rajas không? Sau khi luồng khí tản đi, không hề có dấu hiệu của bất kỳ vết thương mới nào trên thân hình đồ sộ của hắn. Ma pháp mà Graziella thi triển nằm trên cấp độ trung cấp, vậy nên đối với một ma thuật mạnh mẽ như vậy mà không có bất kỳ tác dụng nào, nó đã chứng minh cho sự bất thường trong sức chịu đựng của hắn. Graziella kinh ngạc, nhưng cô ta không hề bộc lộ một chút hoảng loạn nào. Và ngay lúc đó...
+Cái luồng khí đen tuyền mà hắn khoác lên người đó có phải là kỹ năng phòng ngự của Rajas không? Sau khi luồng khí tản đi, không hề có dấu hiệu của bất kỳ vết thương mới nào trên thân hình đồ sộ của hắn. Ma pháp mà Graziella thi triển nằm trên cấp độ trung cấp, vậy nên đối với một ma pháp mạnh mẽ như vậy mà không có bất kỳ tác dụng nào, nó đã chứng minh cho sự bất thường trong sức chịu đựng của hắn. Graziella kinh ngạc, nhưng cô ta không hề bộc lộ một chút hoảng loạn nào. Và ngay lúc đó...
 
 "OOOOOOOOH!"
 
@@ -32,7 +32,7 @@ Rajas gầm lên một tiếng xung trận. Giống như thể hắn đang cố 
 
 Chết tiệt...!
 
-Đánh giá khoảng cách giữa bản thân và Rajas, Reiji nếm một mùi vị cay đắng trong miệng. Mười mét giữa họ là quá gần. Cậu sẽ bị thương nặng hoặc tệ hơn ở khoảng cách này, nhưng cơ thể Reiji vẫn đang tê liệt. Cậu không thể di chuyển. Ma thuật phòng ngự của cậu cũng sẽ không kịp được kích hoạt.
+Đánh giá khoảng cách giữa bản thân và Rajas, Reiji nếm một mùi vị cay đắng trong miệng. Mười mét giữa họ là quá gần. Cậu sẽ bị thương nặng hoặc tệ hơn ở khoảng cách này, nhưng cơ thể Reiji vẫn đang tê liệt. Cậu không thể di chuyển. Ma pháp phòng ngự của cậu cũng sẽ không kịp được kích hoạt.
 
 Một cảm giác như cái lạnh buốt giá của sự tái mét hòa quyện với sức nóng rực cháy của sự thiếu kiên nhẫn tấn công cánh tay đang tê dại của cậu. Ngay khi cậu nghiến răng chuẩn bị nhận lấy đòn tấn công mà không có bất kỳ sự phòng bị nào, cơ thể Reiji bị một thứ gì đó cuốn đi.
 
@@ -92,7 +92,7 @@ Ma pháp mà mình có thể sử dụng là...
 
 "Ah..."
 
-Nó đột nhiên lóe lên trong cô. Một hình ảnh và những ngôn từ rõ ràng. Một giọng nói mà cô chưa từng nghe bao giờ vang lên trong đầu cô, và biến trực giác của cô thành niềm tin chắc chắn. Ma thuật này có thể đánh bại hắn. Cô tự hỏi tại sao nó lại xảy ra vào lúc này, nhưng trong thâm tâm, cô cũng biết lý do tại sao. Trước đây, Titania và Felmenia đã nói rằng đôi khi ma pháp sẽ xuất hiện trong đầu ai đó từ hư vô. Khi Reiji lần đầu tiên sử dụng ma pháp, cậu đã nói một điều gì đó tương tự đã xảy ra. Vậy thì đây có khả năng là những gì họ đang nói đến.
+Nó đột nhiên lóe lên trong cô. Một hình ảnh và những ngôn từ rõ ràng. Một giọng nói mà cô chưa từng nghe bao giờ vang lên trong đầu cô, và biến trực giác của cô thành niềm tin chắc chắn. Ma pháp này có thể đánh bại hắn. Cô tự hỏi tại sao nó lại xảy ra vào lúc này, nhưng trong thâm tâm, cô cũng biết lý do tại sao. Trước đây, Titania và Felmenia đã nói rằng đôi khi ma pháp sẽ xuất hiện trong đầu ai đó từ hư vô. Khi Reiji lần đầu tiên sử dụng ma pháp, cậu đã nói một điều gì đó tương tự đã xảy ra. Vậy thì đây có khả năng là những gì họ đang nói đến.
 
 Điều đó có nghĩa là không có lý do gì khiến cô không thể đưa nó vào sử dụng. Việc còn lại chỉ là thu hết can đảm để thực sự thi triển nó. Và trước khi kịp nhận ra, cô đã nhảy xuống khỏi con ngựa của Luka.
 
@@ -112,7 +112,7 @@ Trước khi cô kịp khai hỏa, Rajas đã quay lại. Khi hắn dán ánh m�
 
 "Hừm, vậy ra một con nhãi ngu ngốc lại cả gan dám tự mình dâng xác đến trước mặt ta, huh?"
 
-Giọng nói của Titania và Rajas vỡ vụn trong đầu cô và chạy hỗn loạn. Cô thậm chí còn không thể phân biệt được bọn họ đã nói gì. Tất cả những gì cô có thể tập trung vào là cánh tay khổng lồ của Rajas. Chỉ cần bị chạm nhẹ bởi thứ đó thôi, cơ thể cô rất có thể sẽ vỡ vụn thành từng mảnh. Suy nghĩ về việc bị đánh bằng cánh tay như một cái búa tạ đó và những gì nó sẽ gây ra cho cô lấp đầy toàn bộ dung lượng não bộ của cô. Cô không thể di chuyển.
+Giọng nói của Titania và Rajas vang lên rời rạc trong đầu cô và trở nên hỗn loạn. Cô thậm chí còn không thể phân biệt được bọn họ đã nói gì. Tất cả những gì cô có thể tập trung vào là cánh tay khổng lồ của Rajas. Chỉ cần bị chạm nhẹ bởi thứ đó thôi, cơ thể cô rất có thể sẽ vỡ vụn thành từng mảnh. Suy nghĩ về việc bị đánh bằng cánh tay như một cái búa tạ đó và những gì nó sẽ gây ra cho cô lấp đầy toàn bộ dung lượng não bộ của cô. Cô không thể di chuyển.
 
 Suy cho cùng thì vẫn không được. Với tất cả những gì cô đã cảm nhận được, cô không thể gom đủ dũng khí vào lúc quan trọng nhất này.
 
