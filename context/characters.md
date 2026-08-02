@@ -163,3 +163,13 @@ Dưới đây là hồ sơ chi tiết các nhân vật xuất hiện trong Volum
 - **Vai trò**: Thành viên trong tổ đội mạo hiểm giả cũ của Lefille.
 - **Tính cách**: Dù từng là bạn đồng hành thân thiết, nhưng trong thời khắc tuyệt vọng trước sự tàn sát của Rajas, cô đã đổ lỗi, căm hận và nguyền rủa Lefille cho đến lúc chết.
 - **Giọng thoại**: Oán hận, cay độc, tuyệt vọng (trong khoảnh khắc hấp hối).
+
+### 22. Zandyke
+- **Vai trò**: Một nữ quân nhân mang quân hàm Thiếu úy (Second Lieutenant) của lực lượng quân cảnh Nelferian, xuất hiện tại trạm kiểm soát cổng thành Đế đô Filas Philia.
+- **Ngoại hình**:
+  - Tầm tuổi đầu thiếu niên.
+  - Tóc buộc hai bên (twintails) màu đỏ tím.
+  - Sắc mặt có vẻ ốm yếu, đeo một miếng che mắt (eyepatch) bên mắt phải.
+  - Ăn mặc theo phong cách Lolita gothic kết hợp với áo khoác kiểu quân đội và găng tay dài.
+- **Tính cách**: Hành xử vô cùng lạnh lùng, dứt khoát đến mức máy móc. Trái ngược với vẻ ngoài có phần kỳ dị và lập dị, cô dường như rất có uy quyền và khiến các quân cảnh khác phải e dè, nghiêm túc thi hành lệnh.
+- **Giọng thoại**: Cực kỳ lạnh lẽo, cộc lốc và nghiêm ngặt.
