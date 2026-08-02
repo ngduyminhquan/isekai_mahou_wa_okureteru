@@ -164,8 +164,8 @@ Dưới đây là hồ sơ chi tiết các nhân vật xuất hiện trong Volum
 - **Tính cách**: Dù từng là bạn đồng hành thân thiết, nhưng trong thời khắc tuyệt vọng trước sự tàn sát của Rajas, cô đã đổ lỗi, căm hận và nguyền rủa Lefille cho đến lúc chết.
 - **Giọng thoại**: Oán hận, cay độc, tuyệt vọng (trong khoảnh khắc hấp hối).
 
-### 22. Zandyke
-- **Vai trò**: Một nữ quân nhân mang quân hàm Thiếu úy (Second Lieutenant) của lực lượng quân cảnh Nelferian, xuất hiện tại trạm kiểm soát cổng thành Đế đô Filas Philia.
+### 22. Liliana Zandyke
+- **Vai trò**: Một nữ quân nhân mang quân hàm Thiếu úy (Second Lieutenant) của lực lượng quân cảnh Nelferian. Cô là con gái của Rogue Zandyke (một trong Thất Kiếm) và là một trong Thập Nhị Tinh Anh Đế Quốc.
 - **Ngoại hình**:
   - Tầm tuổi đầu thiếu niên.
   - Tóc buộc hai bên (twintails) màu đỏ tím.

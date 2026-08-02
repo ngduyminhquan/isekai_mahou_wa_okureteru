@@ -191,3 +191,5 @@
 | **Theory of forms** | Thuyết Ý niệm | Khái niệm | Một học thuyết triết học (của Plato ở thế giới cũ) cho rằng vạn vật chỉ là hình chiếu ảo của "ý niệm" hay bản chất thực sự của chúng. |
 | **Trembling Flash of Lightning** | Lôi Điện Chấn Quang | Ma thuật | Một kỹ thuật chiến đấu (võ thuật kết hợp bí thuật) của cha Suimei. |
 | **Saadias Alliance** | Liên minh Saadias | Địa danh | Một khu tự trị (từng là một quốc gia theo chế độ độc tài bị tiêu diệt bởi anh hùng trong quá khứ). |
+| **Seven Swords** | Thất Kiếm | Danh hiệu | Một danh hiệu đặc biệt (tương tự như những danh hiệu được phong tặng cho các kiếm sĩ xuất chúng). Cha của Liliana Zandyke, Rogue Zandyke là một trong số đó. |
+| **Imperial Elite Twelve** | Thập Nhị Tinh Anh Đế Quốc | Danh hiệu | Một danh hiệu vinh dự trong Đế quốc Nelferian. Liliana Zandyke được phong tặng danh hiệu này dù tuổi đời còn rất trẻ. |
