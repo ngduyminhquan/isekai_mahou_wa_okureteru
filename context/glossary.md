@@ -184,3 +184,5 @@
 | **Kurant City** | Thành phố Kurant | Địa danh | Thành phố nơi Suimei và Lefille dừng chân mua sắm. |
 | **Nelferian Empire** | Đế quốc Nelferian | Địa danh | Một quốc gia nằm sát biên giới Vương quốc Astel, nơi nhóm Reiji đặt chân đến đầu tiên. |
 | **medohava** | bánh medohava / kẹo medohava | Đồ ăn | Một loại đồ ngọt làm từ bột mì trộn với mật ong phơi nắng rồi nướng lên, dễ sinh men khiến người ăn bị say. |
+| **acute mana failure** | hội chứng suy kiệt ma lực cấp tính / AMF | Khái niệm | Tình trạng xảy ra khi tiêu thụ ma lực đến mức cực hạn trong thời gian ngắn, gây suy giảm chức năng nội tạng và mất khả năng vận động. |
+| **chronic mana failure** | hội chứng suy kiệt ma lực mãn tính / CMF | Khái niệm | Thuật ngữ giả định chỉ tình trạng một người sinh ra hoàn toàn không có ma lực (đồng nghĩa với việc không tồn tại sự sống có nhận thức). |

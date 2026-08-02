@@ -150,5 +150,27 @@ Mizuki nhoài người tới khi cô thúc giục cậu trả lời. Suimei là 
 
 Reiji và Mizuki nhìn nhau và dường như cả hai đều nhận ra cùng một lúc. Suimei không còn một người thân ruột thịt nào cả. Mẹ cậu qua đời ngay sau khi sinh cậu; cậu thậm chí còn chưa từng biết mặt bà. Reiji đã quen biết với cha của Suimei, nhưng ông ấy đã qua đời thảm khốc trong một tai nạn giao thông ngay trước mắt Suimei hai năm trước. Điều đó khiến Suimei trở thành trẻ mồ côi. Vậy nên nếu cậu khao khát một loại ma pháp như thế, cũng không khó để hiểu tại sao.
 
+"Ừ, nên là... thế đó. Nếu có thể sử dụng ma pháp, tớ muốn dùng nó để khiến ai đó hạnh phúc. Vì bố mẹ tớ không còn nữa, tớ không thể làm được gì nhiều cho bản thân mình. Nhưng với sức mạnh đó, tớ muốn giúp đỡ những người bất hạnh khác. Sao? Nghe không giống tớ chút nào à?"
+
+"Không... Không phải thế đâu, hihi."
+
+"Trời ạ, xấu hổ chết đi được. Tớ đáng lẽ không nên nói một chữ nào hết... Thật tình."
+
+"Nhưng nó mang lại một cảm giác hơi kỳ lạ. Suimei, trong giấc mơ của tớ, cậu đã nói rằng nhiệm vụ của tớ là hoàn toàn bất khả thi. Rằng chúng ta không có nghĩa vụ phải cứu những người ở thế giới đó. Và rằng cá nhân cậu từ chối đi cùng."
+
+"Sao cũng được. Đó chỉ là giấc mơ của cậu thôi, đúng không? Đừng có vơ đũa cả nắm giữa tớ và phiên bản trong mơ của tớ chứ."
+
+"Cậu nói đúng... Heh, ừ, cậu nói đúng. Cho dù điều đó có thốt ra từ cậu, thì nó cũng không có gì kỳ lạ lắm, hả?"
+
+Quả thực, ước muốn của Suimei là rất chân thành. Và nếu cậu thực sự mong muốn điều đó, nó là một điều mà Reiji sẽ không bao giờ cười nhạo. Và rồi, như thể làm mới lại quyết tâm của mình, Suimei nắm chặt tay lại.
+
+"Ừ, đúng vậy. Tớ chắc chắn sẽ tìm ra nó. Một tương lai có sự cứu rỗi. Để chứng minh một cách dứt khoát rằng không có ai trên thế giới này không thể có được hạnh phúc, tớ sẽ tìm ra—"
+
+Cuối cùng Suimei đã nói gì vậy? Vì một lý do nào đó, Reiji hoàn toàn không thể nghe rõ được.
+
+"Suimei? Cậu vừa...?"
+
+Và ngay khi cậu định hỏi lại, ánh hoàng hôn chói lòa đã nhấn chìm mọi thứ trong tầm mắt.
+
 ---
 [« Chương trước](bonus_part_3.md) | [Chương tiếp theo »](bonus_part_5.md)
