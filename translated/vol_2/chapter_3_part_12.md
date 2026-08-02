@@ -128,7 +128,7 @@ Suimei khó có thể đo đếm được sự hối hận mà cô đang mang th
 
 "Cậu đã bao giờ thử hóa giải lời nguyền chưa?"
 
-"Tôi đã thử, nhưng tôi không phải là pháp sư. Nó vượt quá xa khả năng của tôi, nhưng ngay cả những vị pháp sư danh tiếng và các linh mục của Giáo hội Cứu rỗi cũng phải bỏ cuộc với nó."
+"Tôi đã thử, nhưng tôi không phải là pháp sư. Nó vượt quá xa khả năng của tôi, nhưng ngay cả những vị pháp sư danh tiếng và các linh mục của Giáo hội Cứu thế cũng phải bỏ cuộc với nó."
 
 Điều đó có nghĩa là cô ấy đã phải chịu đựng lời nguyền của mình suốt thời gian qua. Không có một phép thuật nào để loại bỏ hay xoa dịu nó, cô sẽ tiếp tục lang thang trong vô thức và làm những việc như thế này. Chỉ có một thân một mình, cô chỉ biết cam chịu đựng nó.
 

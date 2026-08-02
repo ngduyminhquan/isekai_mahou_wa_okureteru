@@ -155,3 +155,8 @@ Dưới đây là hồ sơ chi tiết các nhân vật xuất hiện trong Volum
 - **Vai trò**: Thương gia điều hành đoàn thương nhân hướng đến Thành phố Kurant.
 - **Tính cách**: Lịch sự, sòng phẳng, biết đánh giá cao những người có năng lực đặc biệt (như khả năng dùng ma pháp hồi phục của Suimei).
 - **Giọng thoại**: Lịch thiệp, chuẩn mực của một thương nhân.
+
+### 21. Nữ pháp sư (vô danh)
+- **Vai trò**: Thành viên trong tổ đội mạo hiểm giả cũ của Lefille.
+- **Tính cách**: Dù từng là bạn đồng hành thân thiết, nhưng trong thời khắc tuyệt vọng trước sự tàn sát của Rajas, cô đã đổ lỗi, căm hận và nguyền rủa Lefille cho đến lúc chết.
+- **Giọng thoại**: Oán hận, cay độc, tuyệt vọng (trong khoảnh khắc hấp hối).
