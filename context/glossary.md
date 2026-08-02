@@ -183,3 +183,4 @@
 | **Alto Schloss** | Alto Schloss | Địa danh | Trụ sở của Hội Bác Học nằm trên dãy núi Harz, miền trung nước Đức. |
 | **Kurant City** | Thành phố Kurant | Địa danh | Thành phố nơi Suimei và Lefille dừng chân mua sắm. |
 | **Nelferian Empire** | Đế quốc Nelferian | Địa danh | Một quốc gia nằm sát biên giới Vương quốc Astel, nơi nhóm Reiji đặt chân đến đầu tiên. |
+| **medohava** | bánh medohava / kẹo medohava | Đồ ăn | Một loại đồ ngọt làm từ bột mì trộn với mật ong phơi nắng rồi nướng lên, dễ sinh men khiến người ăn bị say. |
