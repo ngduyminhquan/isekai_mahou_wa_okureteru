@@ -152,5 +152,9 @@ Sao mọi chuyện lại thành ra thế này? Chẳng thèm để ý đến ti�
 
 Trong lúc Mizuki bắt đầu gào khóc và vùng vẫy, Titania và những người khác cố gắng ngăn cô đi quá giới hạn.
 
+"Ai đó, làm gì đi chứ..."
+
+Reiji hoàn toàn cạn lời. Tại sao cái gã bình thường sẽ làm gì đó trong những tình huống như thế này lại không có mặt ở đây chứ?
+
 ---
 [« Chương trước](bonus_part_2.md) | [Chương tiếp theo »](bonus_part_4.md)

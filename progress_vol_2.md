@@ -68,7 +68,7 @@ Dưới đây là danh sách các Phase tương ứng với từng phần dịch
 | **40** | Bonus Short Stories - Part 1 | `bonus_part_1.txt` | 78 | 155 | 1265 | `bonus_part_1.md` | **Hoàn thành** |
 | **41** | Bonus Short Stories - Part 2 | `bonus_part_2.txt` | 77 | 153 | 1526 | `bonus_part_2.md` | **Hoàn thành** |
 | **42** | Bonus Short Stories - Part 3 | `bonus_part_3.txt` | 77 | 153 | 1169 | `bonus_part_3.md` | **Hoàn thành** |
-| **43** | Bonus Short Stories - Part 4 | `bonus_part_4.txt` | 78 | 155 | 1122 | `bonus_part_4.md` | **Chờ dịch** |
+| **43** | Bonus Short Stories - Part 4 | `bonus_part_4.txt` | 78 | 155 | 1122 | `bonus_part_4.md` | **Hoàn thành** |
 | **44** | Bonus Short Stories - Part 5 | `bonus_part_5.txt` | 78 | 155 | 1852 | `bonus_part_5.md` | **Chờ dịch** |
 | **45** | About J-Novel Club | `about.txt` | 5 | 9 | 37 | `about.md` | **Chờ dịch** |
 | **46** | Copyright | `copyright.txt` | 19 | 37 | 168 | `copyright.md` | **Chờ dịch** |
