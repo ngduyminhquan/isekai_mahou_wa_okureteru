@@ -64,7 +64,7 @@ Dưới đây là danh sách các Phase tương ứng với từng phần dịch
 | **36** | Chapter 4 - Part 5 | `chapter_4_part_5.txt` | 88 | 175 | 2696 | `chapter_4_part_5.md` | **Hoàn thành** |
 | **37** | Epilogue I | `epilogue_1.txt` | 79 | 157 | 2245 | `epilogue_1.md` | **Hoàn thành** |
 | **38** | Epilogue II | `epilogue_2.txt` | 79 | 157 | 1660 | `epilogue_2.md` | **Hoàn thành** |
-| **39** | Afterword | `afterword.txt` | 10 | 19 | 238 | `afterword.md` | **Chờ dịch** |
+| **39** | Afterword | `afterword.txt` | 10 | 19 | 238 | `afterword.md` | **Hoàn thành** |
 | **40** | Bonus Short Stories - Part 1 | `bonus_part_1.txt` | 78 | 155 | 1265 | `bonus_part_1.md` | **Chờ dịch** |
 | **41** | Bonus Short Stories - Part 2 | `bonus_part_2.txt` | 77 | 153 | 1526 | `bonus_part_2.md` | **Chờ dịch** |
 | **42** | Bonus Short Stories - Part 3 | `bonus_part_3.txt` | 77 | 153 | 1169 | `bonus_part_3.md` | **Chờ dịch** |
