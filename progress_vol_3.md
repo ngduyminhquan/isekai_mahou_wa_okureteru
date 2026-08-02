@@ -28,7 +28,7 @@ Dưới đây là danh sách các Phase tương ứng với từng phần dịch
 | **0** | Khởi tạo dự án và tài nguyên | *N/A* | - | - | - | *N/A* | **Hoàn thành** |
 | **1** | Prologue | `prologue.txt` | 123 | 126 | 1262 | `prologue.md` | **Hoàn thành** |
 | **2** | Chapter 1 - Part 1 | `chapter_1_part_1.txt` | 194 | 200 | 2109 | `chapter_1_part_1.md` | **Hoàn thành** |
-| **3** | Chapter 1 - Part 2 | `chapter_1_part_2.txt` | 194 | 200 | 2049 | `chapter_1_part_2.md` | Chưa bắt đầu |
+| **3** | Chapter 1 - Part 2 | `chapter_1_part_2.txt` | 194 | 200 | 2049 | `chapter_1_part_2.md` | **Hoàn thành** |
 | **4** | Chapter 1 - Part 3 | `chapter_1_part_3.txt` | 195 | 200 | 1980 | `chapter_1_part_3.md` | Chưa bắt đầu |
 | **5** | Chapter 1 - Part 4 | `chapter_1_part_4.txt` | 193 | 200 | 1904 | `chapter_1_part_4.md` | Chưa bắt đầu |
 | **6** | Chapter 1 - Part 5 | `chapter_1_part_5.txt` | 195 | 200 | 1926 | `chapter_1_part_5.md` | Chưa bắt đầu |

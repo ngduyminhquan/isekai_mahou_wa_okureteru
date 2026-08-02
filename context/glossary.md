@@ -189,3 +189,5 @@
 | **Darkness Torment** | Hắc Ám Đọa Đày | Ma thuật | Một phép thuật hắc ám xuất hiện trong đoạn mở đầu Volume 3. |
 | **Filas Philia** | Filas Philia | Địa danh | Thủ đô của Đế quốc Nelferian. |
 | **Theory of forms** | Thuyết Ý niệm | Khái niệm | Một học thuyết triết học (của Plato ở thế giới cũ) cho rằng vạn vật chỉ là hình chiếu ảo của "ý niệm" hay bản chất thực sự của chúng. |
+| **Trembling Flash of Lightning** | Lôi Điện Chấn Quang | Ma thuật | Một kỹ thuật chiến đấu (võ thuật kết hợp bí thuật) của cha Suimei. |
+| **Saadias Alliance** | Liên minh Saadias | Địa danh | Một khu tự trị (từng là một quốc gia theo chế độ độc tài bị tiêu diệt bởi anh hùng trong quá khứ). |
