@@ -270,3 +270,4 @@
 | **Ashurbanipal's flame** | ngọn lửa của Ashurbanipal | Khái niệm | Ngọn lửa từ viên ngọc ma lực Ashurbanipal. |
 | **Occultist Taoism** | Đạo giáo Huyền bí | Khái niệm | Một trong những hệ thống bí thuật từ thế giới của Suimei. |
 | **wizardry** | wizardry | Khái niệm | Hệ thống bí thuật lớn nhất trên lục địa ở thế giới của Suimei. Giữ nguyên tiếng Anh để phân biệt với ma pháp (magic). |
+| **Telesma** | telesma | Kh�i ni?m | M?t thu?t ng? ch? s?c m?nh tinh linh ho?c quy?n nang t? th? gi?i c?a Suimei. |
