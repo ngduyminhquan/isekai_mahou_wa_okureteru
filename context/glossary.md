@@ -186,3 +186,6 @@
 | **medohava** | bánh medohava / kẹo medohava | Đồ ăn | Một loại đồ ngọt làm từ bột mì trộn với mật ong phơi nắng rồi nướng lên, dễ sinh men khiến người ăn bị say. |
 | **acute mana failure** | hội chứng suy kiệt ma lực cấp tính / AMF | Khái niệm | Tình trạng xảy ra khi tiêu thụ ma lực đến mức cực hạn trong thời gian ngắn, gây suy giảm chức năng nội tạng và mất khả năng vận động. |
 | **chronic mana failure** | hội chứng suy kiệt ma lực mãn tính / CMF | Khái niệm | Thuật ngữ giả định chỉ tình trạng một người sinh ra hoàn toàn không có ma lực (đồng nghĩa với việc không tồn tại sự sống có nhận thức). |
+| **Darkness Torment** | Hắc Ám Đọa Đày | Ma thuật | Một phép thuật hắc ám xuất hiện trong đoạn mở đầu Volume 3. |
+| **Filas Philia** | Filas Philia | Địa danh | Thủ đô của Đế quốc Nelferian. |
+| **Theory of forms** | Thuyết Ý niệm | Khái niệm | Một học thuyết triết học (của Plato ở thế giới cũ) cho rằng vạn vật chỉ là hình chiếu ảo của "ý niệm" hay bản chất thực sự của chúng. |
