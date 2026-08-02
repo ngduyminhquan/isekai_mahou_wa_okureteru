@@ -78,9 +78,10 @@ Dưới đây là hồ sơ chi tiết các nhân vật xuất hiện trong Volum
 - **Giọng thoại**: Sắc sảo, chuyên nghiệp.
 
 ### 8. Hydemary Alzbayne (ハイデマリー)
-- **Vai trò**: Nữ pháp sư thiên tài ở thế giới cũ (Trái Đất), đồng nghiệp hoặc đối thủ cũ của Suimei.
+- **Vai trò**: Nữ pháp sư thiên tài ở thế giới cũ (Trái Đất), đồng nghiệp hoặc cộng sự cũ của Suimei trong Hội Bác Học.
 - **Tính cách**: Trêu chọc, tự tin, giỏi giang.
-- **Giọng thoại**: Suồng sã, tự tin khi nói chuyện với Suimei.
+- **Đặc điểm**: Thực chất cô là một homunculus (người nhân tạo) có tuổi đời chỉ 6 năm, mang vóc dáng của một đứa trẻ sáu tuổi nhưng sở hữu trí tuệ và tài năng bí thuật vượt trội.
+- **Giọng thoại**: Suồng sã, tự tin khi nói chuyện với Suimei. Dù mang hình hài trẻ con nhưng cách nói chuyện khá chững chạc và thanh lịch.
 
 ### 9. Sebastian Kran (Lord Kran / Ngài Kran)
 - **Vai trò**: Pháp sư triều đình của Vương quốc Astel, kiêm giảng sư tại Hội Pháp sư. 
@@ -98,6 +99,7 @@ Dưới đây là hồ sơ chi tiết các nhân vật xuất hiện trong Volum
 - **Cô gái mang chiếc bóng màu xanh lam**: Bị nguyền rủa bởi Ludwig.
 - **Hiệp sĩ đoàn Hồng Thập Tự (Chivalric Order of the Rose Cross)**: Tổ chức pháp sư/kỵ sĩ có thành viên là người quen cấp tiến cực kỳ nghiêm túc của Suimei.
 - **Cô bạn thanh mai trúc mã**: Bạn thuở nhỏ của Suimei, người kế thừa võ đường kiếm thuật gần nhà cậu.
+- **Georg Bettendorf**: Bạn thân của cha Suimei, chuyên gia chiến đấu vũ trang xuất sắc nhất trong Hội Bác Học. Suimei từng nhờ ông huấn luyện cận chiến.
 
 ### 11. Alexis Van Meizan
 - **Vai trò**: Nữ kỵ sĩ kiêm pháp sư xuất sắc của Hiệp sĩ đoàn Hồng Thập Tự (Chivalric Order of the Rose Cross) ở thế giới cũ của Suimei. Cô coi Suimei là đối thủ và luôn tìm cách "cảm hóa" đưa cậu rời khỏi Hội Bác Học (Society) để gia nhập hiệp sĩ đoàn.

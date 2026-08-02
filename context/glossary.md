@@ -178,3 +178,6 @@
 | **Lishbaum** | Lishbaum | Tên riêng | Một trong các Ma Tướng phục vụ dưới trướng Ma Vương Nakshatra. |
 | **Vuishta** | Vuishta | Tên riêng | Một con quỷ được Ma Vương Nakshatra ra lệnh tập hợp lực lượng. |
 | **Moolah** | Moolah | Tên riêng | Một con quỷ được Ma Vương Nakshatra ra lệnh tập hợp lực lượng. |
+| **homunculus** | người nhân tạo / homunculus | Khái niệm | Một sinh vật nhân tạo được tạo ra bởi ma thuật giả kim (như Hydemary). |
+| **Georg Bettendorf** | Georg Bettendorf | Tên riêng | Bạn thân của cha Suimei, chuyên gia vũ trang của Hội Bác Học. |
+| **Alto Schloss** | Alto Schloss | Địa danh | Trụ sở của Hội Bác Học nằm trên dãy núi Harz, miền trung nước Đức. |
