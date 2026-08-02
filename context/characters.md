@@ -173,3 +173,8 @@ Dưới đây là hồ sơ chi tiết các nhân vật xuất hiện, định h�
   - Ăn mặc theo phong cách Lolita gothic kết hợp với áo khoác kiểu quân đội và găng tay dài.
 - **Tính cách**: Hành xử vô cùng lạnh lùng, dứt khoát đến mức máy móc. Trái ngược với vẻ ngoài có phần kỳ dị và lập dị, cô dường như rất có uy quyền và khiến các quân cảnh khác phải e dè, nghiêm túc thi hành lệnh.
 - **Giọng thoại**: Cực kỳ lạnh lẽo, cộc lốc và nghiêm ngặt.
+
+### 23. Graziella Filas Rieseld
+- **Vai trò**: Tam Công chúa của Đế quốc Nelferian. Cô còn được biết đến với biệt danh "Geo Malifex", pháp sư mạnh nhất sử dụng thuộc tính thổ trong toàn Đế quốc.
+- **Tính cách**: Uy quyền, bạo dạn, kiêu ngạo, mang phong thái của một kẻ cai trị. Có nụ cười không hề sợ hãi và một cái nhìn chèn ép khiến người khác phải e dè. Cô ta khá độc mồm độc miệng và thích chế nhạo đối thủ.
+- **Giọng thoại**: Hách dịch, tự tin, mang phong cách hoàng gia nhưng có phần chèn ép ("Ngươi - ta", "Ngài - tôi" khi nói với Titania).

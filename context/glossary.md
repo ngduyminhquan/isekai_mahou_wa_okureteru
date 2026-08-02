@@ -171,3 +171,6 @@
 | **Saadias Alliance** | Liên minh Saadias | Địa danh | Một khu tự trị (từng là một quốc gia theo chế độ độc tài bị tiêu diệt bởi anh hùng trong quá khứ). |
 | **Seven Swords** | Thất Kiếm | Danh hiệu | Một danh hiệu đặc biệt (tương tự như những danh hiệu được phong tặng cho các kiếm sĩ xuất chúng). Cha của Liliana Zandyke, Rogue Zandyke là một trong số đó. |
 | **Imperial Elite Twelve** | Thập Nhị Tinh Anh Đế Quốc | Danh hiệu | Một danh hiệu vinh dự trong Đế quốc Nelferian. Liliana Zandyke được phong tặng danh hiệu này dù tuổi đời còn rất trẻ. |
+| **Graziella Filas Rieseld** | Graziella Filas Rieseld / Graziella Điện hạ | Tên riêng | Tam Công chúa của Đế quốc Nelferian. |
+| **Geo Malifex** | Geo Malifex | Danh hiệu | Biệt danh của Graziella, pháp sư mạnh nhất sử dụng thuộc tính thổ của Đế quốc. |
+| **Holy State** | Thánh quốc | Địa danh | Một quốc gia tôn giáo có tiếng nói lớn, thường liên minh cùng Đế quốc Nelferian và Liên minh Saadias. |
