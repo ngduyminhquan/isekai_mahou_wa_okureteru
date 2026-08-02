@@ -174,3 +174,7 @@
 | **astral plane** | cõi linh giới | Khái niệm | Khoảng không gian nằm giữa những thế giới, nơi cư ngụ của các tinh linh và Tà Thần. |
 | **Church of Salvation** | Giáo hội Cứu thế | Tổ chức | Một tổ chức tôn giáo ở thế giới này, có các linh mục chữa trị hoặc giải trừ lời nguyền. |
 | **astral body** | thể linh hồn | Khái niệm | Lớp vỏ bọc đóng vai trò làm vật chứa cho linh hồn. |
+| **spiritual body** | cơ thể tâm linh | Khái niệm | Một cấu trúc bổ sung giúp duy trì sự tồn tại của những sinh vật mang nửa dòng máu tinh linh như Lefille. |
+| **Lishbaum** | Lishbaum | Tên riêng | Một trong các Ma Tướng phục vụ dưới trướng Ma Vương Nakshatra. |
+| **Vuishta** | Vuishta | Tên riêng | Một con quỷ được Ma Vương Nakshatra ra lệnh tập hợp lực lượng. |
+| **Moolah** | Moolah | Tên riêng | Một con quỷ được Ma Vương Nakshatra ra lệnh tập hợp lực lượng. |
