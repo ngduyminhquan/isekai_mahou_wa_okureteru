@@ -273,3 +273,4 @@
 | **Telesma** | telesma | Khái ni?m | M?t thu?t ng? ch? s?c m?nh tinh linh ho?c quy?n nang t? th? gi?i c?a Suimei. |
 | **astral plane** | cõi linh gi?i | Khái ni?m | Kho?ng không gian n?m gi?a nh?ng th? gi?i, noi cu ng? c?a các tinh linh và Tà Th?n. |
 | **Church of Salvation** | Giáo h?i C?u r?i | T? ch?c | M?t t? ch?c tôn giáo ? th? gi?i này, có các linh m?c ch?a tr? ho?c gi?i tr? l?i nguy?n. |
+| **astral body** | th? linh h?n | Khái ni?m | L?p v? b?c dóng vai trò làm v?t ch?a cho linh h?n. |
