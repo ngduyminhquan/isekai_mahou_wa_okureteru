@@ -122,6 +122,20 @@
 
 | **Society / Mage's Society** | Hội Bác Học / Hội Bác Học ma thuật | Tổ chức | Hội ma thuật sư nghiên cứu bí thuật ở thế giới cũ của Suimei. |
 
+| **Yakagi Kazamitsu** | Yakagi Kazamitsu | Tên riêng | Cha của Suimei, một ma thuật sư từ Phương Đông. Đã hy sinh để bảo vệ Suimei trong trận chiến với rồng cổ đại. |
+
+| **Shizuma** | Shizuma | Tên riêng | Mẹ của Suimei. |
+
+| **Akashic Records** | Bản Ghi Akashic | Khái niệm | Bản ghi chép của quá khứ, hiện tại, tương lai, và các thế giới song song. Mục tiêu cuối cùng của Hội Bác Học. |
+
+| **Evanescito et exito** | Tiêu tan và biến mất | Ma thuật | Một ma pháp tấn công chớp nhoáng của Suimei. |
+
+| **Volvito** | Quỳ rạp xuống | Ma thuật | Một câu lệnh ma thuật của Suimei dùng để đè bẹp kẻ thù. |
+
+| **Archiatius overload** | Archiatius overload | Ma thuật | Câu lệnh giải phóng giới hạn lò phản ứng ma lực của Suimei. |
+
+| **mana furnace** | lò phản ứng ma lực / lò phản ứng | Khái niệm | Nguồn chứa và sản sinh ma lực bên trong cơ thể pháp sư hiện đại. |
+
 
 
 | Thuật ngữ gốc (English) | Bản dịch tiếng Việt | Loại thuật ngữ | Ghi chú & Ngữ cảnh |
