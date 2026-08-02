@@ -142,6 +142,10 @@
 
 | **Ishaktney** | Ishaktney | Tinh linh | Hỏa tinh linh / Tinh linh đỏ mà Lefille mượn sức mạnh. |
 
+| **Gala Valner** | Gala Valner | Kỹ năng | Đòn tấn công kết liễu bằng sức mạnh của Hỏa tinh linh do Lefille thực hiện. |
+
+| **Abra-Melin Abraham system of magicka** | hệ thống bí thuật Abra-Melin Abraham | Khái niệm | Hay còn gọi là thánh thuật (sacred magicka / holy magicka). Loại bí thuật mượn sức mạnh của thiên thần hộ mệnh, dùng để xua đuổi và tiêu diệt ác quỷ. |
+
 
 
 | Thuật ngữ gốc (English) | Bản dịch tiếng Việt | Loại thuật ngữ | Ghi chú & Ngữ cảnh |
