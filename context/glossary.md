@@ -148,28 +148,6 @@
 
 | **Evil God** | Ác Thần | Khái niệm | Vị thần độc ác mà loài quỷ tôn sùng. |
 
-
-
-| Thuật ngữ gốc (English) | Bản dịch tiếng Việt | Loại thuật ngữ | Ghi chú & Ngữ cảnh |
-
-| :--- | :--- | :--- | :--- |
-
-| **Yakagi Suimei** | Yakagi Suimei | Tên riêng | Nhân vật chính, ma thuật sư hiện đại từ Trái Đất. Giữ nguyên Romaji. |
-
-| **Shana Reiji** | Shana Reiji | Tên riêng | Bạn thân của Suimei, dũng sĩ/anh hùng được triệu hồi chính thức. Giữ nguyên Romaji. |
-
-| **Anohara Mizuki** | Anohara Mizuki | Tên riêng | Bạn cùng lớp của Suimei và Reiji, bị triệu hồi cùng. Giữ nguyên Romaji. |
-
-| **Felmenia Stingray** | Felmenia Stingray | Tên riêng | Pháp sư hoàng gia tài năng của Astel, người khám phá ra Bạch Hỏa. |
-
-| **Titania Root Astel** / **Tia** | Titania Root Astel / Tia | Tên riêng | Công chúa Vương quốc Astel. |
-
-| **Almadious Root Astel** | Almadious Root Astel | Tên riêng | Vua của Vương quốc Astel. |
-
-| **Gless Dillez** | Gless Dillez | Tên riêng | Thủ tướng/Thừa tướng của Vương quốc Astel. |
-
-| **Sebastian Kran** | Sebastian Kran | Tên riêng | Pháp sư triều đình của Vương quốc Astel, kẻ có dã tâm đố kỵ và đứng sau âm mưu lừa Felmenia đối đầu với Suimei. |
-
 | **Telesma** | telesma | Khái niệm | Một thuật ngữ chỉ sức mạnh tinh linh hoặc quyền năng từ thế giới của Suimei. |
 | **astral plane** | cõi linh giới | Khái niệm | Khoảng không gian nằm giữa những thế giới, nơi cư ngụ của các tinh linh và Tà Thần. |
 | **Church of Salvation** | Giáo hội Cứu thế | Tổ chức | Một tổ chức tôn giáo ở thế giới này, có các linh mục chữa trị hoặc giải trừ lời nguyền. |

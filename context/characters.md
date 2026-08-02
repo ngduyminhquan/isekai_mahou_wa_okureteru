@@ -1,6 +1,6 @@
-# Characters - Hồ sơ nhân vật (Volume 1)
+# Characters - Hồ sơ nhân vật
 
-Dưới đây là hồ sơ chi tiết các nhân vật xuất hiện trong Volume 1, định hình tính cách và giọng văn khi dịch hội thoại sang tiếng Việt.
+Dưới đây là hồ sơ chi tiết các nhân vật xuất hiện, định hình tính cách và giọng văn khi dịch hội thoại sang tiếng Việt.
 
 ---
 
