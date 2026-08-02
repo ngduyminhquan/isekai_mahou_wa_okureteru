@@ -174,3 +174,4 @@
 | **Graziella Filas Rieseld** | Graziella Filas Rieseld / Graziella Điện hạ | Tên riêng | Tam Công chúa của Đế quốc Nelferian. |
 | **Geo Malifex** | Geo Malifex | Danh hiệu | Biệt danh của Graziella, pháp sư mạnh nhất sử dụng thuộc tính thổ của Đế quốc. |
 | **Holy State** | Thánh quốc | Địa danh | Một quốc gia tôn giáo có tiếng nói lớn, thường liên minh cùng Đế quốc Nelferian và Liên minh Saadias. |
+| **Crystal Raid** | Pha Lê Đột Kích | Ma thuật | Phép thuật hệ thổ (Thổ ma pháp) của Graziella dùng để tạo ra vô số cột đá nhọn đâm vào mục tiêu. |
