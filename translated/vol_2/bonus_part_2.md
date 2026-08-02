@@ -1,5 +1,3 @@
-Trông cô có vẻ đang trong tâm trạng khá tốt. Và dù bằng cách này hay cách khác, cô gái này có lẽ đã trở nên giống con người hơn đáng kể.
-
 ## Lefille và Kẹo bông gòn
 
 Vào ngày Suimei và Lefille đến Thành phố Kurant an toàn, họ đã đi mua sắm để chuẩn bị cho chặng tiếp theo của cuộc hành trình đến Đế quốc Nelferian. Sau khi lo xong mọi việc mua bán lặt vặt trong ngày, giờ họ đang cùng nhau tản bộ cách con phố chính một chút. Có nhiều quầy hàng khác nhau xếp dọc hai bên đường, mang lại cảm giác giống như một khu mua sắm hoặc chợ trời. Có một gian hàng đặc biệt có một thứ đã thu hút sự tò mò của Suimei.

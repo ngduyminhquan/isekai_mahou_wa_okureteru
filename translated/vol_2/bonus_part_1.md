@@ -152,5 +152,7 @@ Nếu cô hài lòng, Suimei nghĩ cô ít nhất cũng nên thể hiện điề
 
 "Được đút ăn... mang lại cảm giác hơi khác so với bình thường. Ừm, nó không tệ."
 
+Trông cô có vẻ đang trong tâm trạng khá tốt. Và dù bằng cách này hay cách khác, cô gái này có lẽ đã trở nên giống con người hơn đáng kể.
+
 ---
 [« Chương trước](afterword.md) | [Chương tiếp theo »](bonus_part_2.md)
