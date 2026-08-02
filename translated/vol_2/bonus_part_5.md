@@ -24,19 +24,19 @@ Tóm lại, để ngăn ngừa việc tiêu thụ quá mức ma lực, cơ chế
 
 "Vậy nếu cậu tiêu thụ hoàn toàn tất cả ma lực của mình, đó là kết cục của cậu sao?"
 
-"Ừ, nó được gọi là hội chứng suy kiệt ma lực cấp tính, hay AMF. Đó là những gì xảy ra khi cô tiêu thụ ma lực của mình đến mức cực hạn."
+"Ừ, nó được gọi là hội chứng suy kiệt ma lực cấp tính, hay AMF. Đó là những gì xảy ra khi cậu tiêu thụ ma lực của mình đến mức cực hạn."
 
 "Ồ?"
 
-"Khi cô vắt kiệt ma lực của mình trong một khoảng thời gian ngắn, não bộ sẽ hiểu nhầm đó là trạng thái mệt mỏi về thể chất. Lưu lượng máu, cùng với những thứ khác, sẽ chậm lại và nó sẽ ảnh hưởng đến chức năng của hầu hết các cơ quan nội tạng. Và rồi, giống như những gì đã xảy ra với tôi, cô sẽ kết thúc trong tình trạng không thể cử động."
+"Khi cậu vắt kiệt ma lực của mình trong một khoảng thời gian ngắn, não bộ sẽ hiểu nhầm đó là trạng thái mệt mỏi về thể chất. Lưu lượng máu, cùng với những thứ khác, sẽ chậm lại và nó sẽ ảnh hưởng đến chức năng của hầu hết các cơ quan nội tạng. Và rồi, giống như những gì đã xảy ra với tôi, cậu sẽ kết thúc trong tình trạng không thể cử động."
 
 "Nó khiến cậu hoàn toàn không có khả năng phòng vệ, đúng không?"
 
-"Cô không sai đâu. Đó quả là một sai lầm chết người đối với một ma thuật sư, tôi phải nói như vậy. Nhưng ngay cả những gì tôi vừa trải qua cũng chưa phải là quá nghiêm trọng."
+"Cậu không sai đâu. Đó quả là một sai lầm chết người đối với một ma thuật sư, tôi phải nói như vậy. Nhưng ngay cả những gì tôi vừa trải qua cũng chưa phải là quá nghiêm trọng."
 
 "Chuyện gì sẽ xảy ra khi nó trở nên nghiêm trọng?"
 
-"Chức năng của các cơ quan nội tạng chậm lại đến mức, bên cạnh việc không thể cử động, cô sẽ gặp phải những triệu chứng như co giật, đau dây thần kinh, và thậm chí là nôn ra máu."
+"Chức năng của các cơ quan nội tạng chậm lại đến mức, bên cạnh việc không thể cử động, cậu sẽ gặp phải những triệu chứng như co giật, đau dây thần kinh, và thậm chí là nôn ra máu."
 
 "Đó là một tình trạng khá nguy hiểm, tôi hiểu rồi."
 
@@ -56,7 +56,7 @@ Dù Suimei nói vậy bằng một giọng điệu an ủi, dường như nó l�
 
 "Cái gì? Thật sao?"
 
-"Ừ. Đó là một chủ đề hơi phức tạp một chút, nhưng... Như một lời mở đầu, khi nói về những thứ huyền bí và những địa điểm huyền bí—nói cách khác, những nơi mà ma lực tồn tại—có một cách suy nghĩ cho rằng những nơi như vậy tồn tại chính xác là vì những sinh vật có trí tuệ tin rằng những thứ huyền bí ở những nơi đó là huyền bí. Lấy một ví dụ, khi nhắc đến những nơi rùng rợn, cô có thể cảm nhận và nhận ra chúng bằng một thứ gì đó khác ngoài năm giác quan của mình, đúng chứ?"
+"Ừ. Đó là một chủ đề hơi phức tạp một chút, nhưng... Như một lời mở đầu, khi nói về những thứ huyền bí và những địa điểm huyền bí—nói cách khác, những nơi mà ma lực tồn tại—có một cách suy nghĩ cho rằng những nơi như vậy tồn tại chính xác là vì những sinh vật có trí tuệ tin rằng những thứ huyền bí ở những nơi đó là huyền bí. Lấy một ví dụ, khi nhắc đến những nơi rùng rợn, cậu có thể cảm nhận và nhận ra chúng bằng một thứ gì đó khác ngoài năm giác quan của mình, đúng chứ?"
 
 "Chắc chắn rồi. Nhưng điều đó đúng với tất cả mọi người, phải không?"
 
@@ -64,7 +64,7 @@ Dù Suimei nói vậy bằng một giọng điệu an ủi, dường như nó l�
 
 "Nhưng ngay cả khi người ta không cảm nhận được, những không gian huyền bí vẫn sẽ tồn tại mà, không phải sao?"
 
-Đúng như cô nói. Những nơi đó luôn ở đó dù có người hay không. Nó có vẻ rất đơn giản theo nghĩa đó. Tuy nhiên, dưới góc độ của bí thuật học, nó lại hơi khác một chút.
+Đúng như cậu nói. Những nơi đó luôn ở đó dù có người hay không. Nó có vẻ rất đơn giản theo nghĩa đó. Tuy nhiên, dưới góc độ của bí thuật học, nó lại hơi khác một chút.
 
 "Không hoàn toàn đúng. Nếu không ai tin một nơi nào đó là huyền bí, nó sẽ không nắm giữ sức mạnh nào dưới tư cách là một địa điểm huyền bí. Nếu không có con người, sẽ không có ai để quyết định một cách dứt khoát rằng những điều huyền bí tồn tại ở đó."
 
@@ -72,7 +72,7 @@ Khuôn mặt của Lefille ngày càng trở nên dễ thương hơn khi cô ng�
 
 "Hừm..."
 
-"Trông cô có vẻ không bị thuyết phục nhỉ."
+"Trông cậu có vẻ không bị thuyết phục nhỉ."
 
 "Rõ ràng là vậy. Rốt cuộc thì, thật kỳ lạ khi nói rằng nếu không có ai xung quanh, thì những không gian kiểu đó sẽ không tồn tại. Dù sao thì, chuyện này có mối liên hệ gì với cuộc nói chuyện của chúng ta về ma lực?"
 
@@ -92,11 +92,11 @@ Khuôn mặt của Lefille ngày càng trở nên dễ thương hơn khi cô ng�
 
 "Nhưng để chứng minh những gì cậu đang gợi ý, có vẻ như cậu đang giả định quá nhiều điều."
 
-"Vậy để tôi hỏi cô điều này: nó khác gì với việc nhìn vào tự nhiên và cố gắng hợp lý hóa nó? Dù là trường hợp nào, chúng ta cũng chỉ đang diễn giải những gì xung quanh mình theo một cách thuận tiện thôi, phải không?"
+"Vậy để tôi hỏi cậu điều này: nó khác gì với việc nhìn vào tự nhiên và cố gắng hợp lý hóa nó? Dù là trường hợp nào, chúng ta cũng chỉ đang diễn giải những gì xung quanh mình theo một cách thuận tiện thôi, phải không?"
 
 "Nhưng..."
 
-"Lefille, phương trình thực sự hoàn hảo mà cô đang nói đến—câu trả lời đúng đắn tuyệt đối—là một thứ mà chỉ có một đấng toàn năng mới biết được. Những người còn lại trong chúng ta chỉ đang vật lộn hết từ lý thuyết này đến lý thuyết khác để cố gắng tiến gần hơn đến nó, dù là trong vật lý học hay bí thuật học."
+"Lefille, phương trình thực sự hoàn hảo mà cậu đang nói đến—câu trả lời đúng đắn tuyệt đối—là một thứ mà chỉ có một đấng toàn năng mới biết được. Những người còn lại trong chúng ta chỉ đang vật lộn hết từ lý thuyết này đến lý thuyết khác để cố gắng tiến gần hơn đến nó, dù là trong vật lý học hay bí thuật học."
 
 "...Tôi cảm thấy cuộc nói chuyện này sẽ khiến tôi phát điên mất."
 
