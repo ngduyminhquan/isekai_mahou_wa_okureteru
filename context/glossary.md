@@ -272,3 +272,4 @@
 | **wizardry** | wizardry | KhÃ¡i niá»‡m | Há»‡ thá»‘ng bÃ­ thuáº­t lá»›n nháº¥t trÃªn lá»¥c Ä‘á»‹a á»Ÿ tháº¿ giá»›i cá»§a Suimei. Giá»¯ nguyÃªn tiáº¿ng Anh Ä‘á»ƒ phÃ¢n biá»‡t vá»›i ma phÃ¡p (magic). |
 | **Telesma** | telesma | Khái ni?m | M?t thu?t ng? ch? s?c m?nh tinh linh ho?c quy?n nang t? th? gi?i c?a Suimei. |
 | **astral plane** | cõi linh gi?i | Khái ni?m | Kho?ng không gian n?m gi?a nh?ng th? gi?i, noi cu ng? c?a các tinh linh và Tà Th?n. |
+| **Church of Salvation** | Giáo h?i C?u r?i | T? ch?c | M?t t? ch?c tôn giáo ? th? gi?i này, có các linh m?c ch?a tr? ho?c gi?i tr? l?i nguy?n. |
