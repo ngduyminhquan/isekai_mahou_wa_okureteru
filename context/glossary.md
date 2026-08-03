@@ -181,3 +181,5 @@
 | **Magic Institute** | Học viện Ma pháp | Tổ chức | Một viện nghiên cứu ma thuật hợp tác giữa Vương quốc Astel, Liên minh Saadias và Đế quốc Nelferian. |
 | **Evil God Zekaraia** | Ác Thần Zekaraia | Tên riêng | Vị Ác Thần đã chiến đấu với cánh tay phải của Nữ thần Alshuna (Ishaktney) trong truyền thuyết. |
 | **Holy Inquisition** | Tòa án Dị giáo | Tổ chức | Tổ chức ở thế giới của Suimei coi bí thuật là tà giáo và săn lùng các ma thuật sư. |
+| **therianthrope** | thú nhân | Khái niệm | Một chủng tộc bản địa ở dị giới, mang một số đặc điểm của động vật và sở hữu sức mạnh vượt trội so với người bình thường. |
+| **aether** | năng lượng aether | Khái niệm | Một dạng năng lượng linh khí, liên quan đến thần thuật của Giáo hội Cứu thế. |
