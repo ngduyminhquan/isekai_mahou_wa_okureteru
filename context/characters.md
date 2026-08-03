@@ -193,3 +193,8 @@ Dưới đây là hồ sơ chi tiết các nhân vật xuất hiện, định h�
 - **Vai trò**: Một nữ tu sĩ (Sơ) người thú (therianthrope) thuộc Giáo hội Cứu thế.
 - **Tính cách**: Nhanh trí, dũng cảm và linh hoạt. Không bị ràng buộc mù quáng bởi giáo điều, cô dám mạo danh thần dụ để ngăn cản cuộc ẩu đả giữa Suimei và Elliot, cứu Elliot khỏi việc bị Suimei đánh bại.
 - **Giọng thoại**: Tôn nghiêm và trang trọng khi giả vờ truyền đạt thần dụ, nhưng trở nên tinh quái và cởi mở khi thì thầm nói thật với Suimei.
+
+### 27. Chiếc bóng cao lớn (The tall shadow)
+- **Vai trò**: Một thực thể hay nhân vật bí ẩn xuất hiện ở cuối Tập 3. Hắn ta đứng trên đỉnh tháp chuông Nhà thờ Filas Philia quan sát nhóm Suimei và Liliana. Là kẻ giật dây Liliana gây ra vụ hỗn loạn và coi cô như một công cụ có "giá trị lợi dụng".
+- **Tính cách**: Lạnh lùng, tàn nhẫn, luôn nở nụ cười chế nhạo và tính toán.
+- **Giọng thoại**: Bề trên, lạnh nhạt ("Tôi - cô" với Liliana).
