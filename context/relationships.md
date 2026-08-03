@@ -26,6 +26,7 @@ Quy tắc xưng hô và đại từ trong hội thoại giữa các nhân vật 
 | **Felmenia** | **Sebastian Kran** | Ngươi / Tên khốn | Stingray / Con ranh ngu ngốc / Nó | Felmenia cực kỳ phẫn nộ vì bị Kran lừa gạt. Kran đố kỵ Felmenia, gọi cô là con nhóc ngu ngốc ở sau lưng. |
 | **Rajas** | **Lefille / Suimei** | Ta - ngươi | Cô bé / Tên nhãi ranh | Rajas thể hiện thái độ khinh khỉnh, kẻ cả. Với Lefille, hắn gọi là "cô bé", "tên sống sót chết tiệt". Với Suimei, hắn gọi là "thằng nhãi ranh", "tên nhãi nhép chết tiệt". |
 | **Suimei** | **Rikus / Enmarph** | Tôi / Các anh | Thằng nhãi / Mày | Rikus và Enmarph coi thường và hách dịch với Suimei. Suimei đáp trả một cách thản nhiên, không kiêng nể. |
+| **Lefille** | **Felmenia** | Cô / Tiểu thư Felmenia | Cô / Lefille | Cả hai là đồng đội và là bạn bè. Lịch sự và tôn trọng lẫn nhau (xưng "tôi - cô"). |
 
 ---
 

@@ -40,7 +40,7 @@ Không ai ngờ rằng cuối cùng họ lại phải cạnh tranh xem ai có th
 
 "Xin lỗi... Vì thần dụ của tôi mà ngay cả Tiểu thư Felmenia cũng bị kéo vào chuyện này..."
 
-"K-Không, em không có gì phải lo lắng đâu, Lefille! Dù nguồn cơn có là gì đi chăng nữa, tất cả những gì chúng ta phải làm là giành chiến thắng trong trận đấu này! Phải không, Ngài Suimei?"
+"K-Không, cô không có gì phải lo lắng đâu, Lefille! Dù nguồn cơn có là gì đi chăng nữa, tất cả những gì chúng ta phải làm là giành chiến thắng trong trận đấu này! Phải không, Ngài Suimei?"
 
 Khi Felmenia nhận ra rằng cô đã diễn đạt chưa được chuẩn xác cho lắm, cô quay sang Suimei. Tuy nhiên, Suimei chỉ đứng khoanh tay ở đó và hoàn toàn không đáp lại cô. Tất cả những gì cậu làm là nhìn chằm chằm xuống mặt đất. Cảm thấy thái độ của cậu có phần khó hiểu, Felmenia lại lo lắng gọi cậu.
 

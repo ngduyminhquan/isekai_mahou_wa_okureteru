@@ -120,7 +120,7 @@ Suimei nghe thấy tiếng Lefille cười khúc khích khi cô vung hai tay lê
 
 "Tôi đã về rồi đây."
 
-"Ôi, mừng em trở về, vị cứu tinh của anh..."
+"Ôi, mừng cô trở về, vị cứu tinh của tôi..."
 
 Khi Suimei nói điều đó với Felmenia, người vừa trở về sau khi hoàn thành việc thu thập thông tin, cậu đẩy cô ra phía trước và làm ra vẻ thản nhiên lẻn ra trốn phía sau cô.
 
@@ -148,7 +148,7 @@ Và cùng với đó, Suimei vỗ nhẹ lên cả hai vai của Felmenia.
 
 Với một giọng nói bồn chồn, Felmenia bắt đầu hoảng loạn.
 
-"Anh nói đúng đấy. Đây là một cơ hội tốt. Hôm nay tôi sẽ dạy cho em những đặc tính tuyệt vời của một bồn tắm ngon lành!"
+"Anh nói đúng đấy. Đây là một cơ hội tốt. Hôm nay tôi sẽ dạy cho cô những đặc tính tuyệt vời của một bồn tắm ngon lành!"
 
 "Khônggg..."
 
@@ -178,7 +178,7 @@ Trông có vẻ như Lefille đã sẵn sàng nuốt trôi cái lý do nghe có 
 
 Mặc dù mọi chuyện sẽ diễn ra theo chiều hướng có lợi cho cô nếu cô chỉ cần kiên trì thêm một chút nữa, nhưng Felmenia vốn dĩ là một người ngay thẳng từ tận trong cốt lõi, và không thể tiếp tục lời nói dối.
 
-"Tiểu thư Felmenia, em không biết khi nào nên bỏ cuộc nhỉ? Hãy cam chịu số phận và vào tắm cùng tôi đi."
+"Tiểu thư Felmenia, cô không biết khi nào nên bỏ cuộc nhỉ? Hãy cam chịu số phận và vào tắm cùng tôi đi."
 
 "Nếu vậy thì, tôi sẽ để lại việc đun nước tắm cho hai người đấy nhé."
 
@@ -202,23 +202,23 @@ Từ phòng thay đồ, Suimei có thể nghe thấy sự kinh ngạc trong gi�
 
 Rốt cuộc thì cô ấy bị sốc vì nhìn thấy thứ gì vậy? Suimei hoàn toàn không biết gì, nhưng Felmenia dường như đã hiểu ra.
 
-"Em không thực sự hiểu cho lắm... nhưng chuyện này là về ngực của em sao?"
+"Tôi không thực sự hiểu cho lắm... nhưng chuyện này là về ngực của tôi sao?"
 
-"Đúng vậy đấy. Tiểu thư Felmenia, rốt cuộc thì em đã ăn cái quái gì để có thể phát triển được như vậy chứ?"
+"Đúng vậy đấy. Tiểu thư Felmenia, rốt cuộc thì cô đã ăn cái quái gì để có thể phát triển được như vậy chứ?"
 
-"Không có gì đặc biệt mà em biết cả..."
+"Không có gì đặc biệt mà tôi biết cả..."
 
-"Em đang cố giữ bí mật đấy à? Không có tác dụng đâu!"
+"Cô đang cố giữ bí mật đấy à? Không có tác dụng đâu!"
 
 "Không sao đâu. Dần dần rồi của cô cũng sẽ phát triển to lên thôi, Lefille."
 
 Felmenia ân cần khuyên nhủ Lefille, nhưng Lefille lại tập hợp tinh thần cạnh tranh của mình.
 
-"N-Nếu tôi trở lại hình dáng nguyên thủy của mình... Um, tôi sẽ không... to được như em đâu, nhưng..."
+"N-Nếu tôi trở lại hình dáng nguyên thủy của mình... Um, tôi sẽ không... to được như cô đâu, nhưng..."
 
 "Hình dáng nguyên thủy... cô nói sao? Cô đã nói về thứ đó được một lúc lâu rồi đấy, nhưng rốt cuộc thì cô có ý gì khi nói vậy?"
 
-"Sự thật là, hình dáng trẻ con mà tôi đang sở hữu lúc này không phải là hình dáng thực sự của tôi. Trên thực tế, tôi vừa lớn tuổi hơn lại vừa cao hơn em."
+"Sự thật là, hình dáng trẻ con mà tôi đang sở hữu lúc này không phải là hình dáng thực sự của tôi. Trên thực tế, tôi vừa lớn tuổi hơn lại vừa cao hơn cô."
 
 "U-Umm..."
 
