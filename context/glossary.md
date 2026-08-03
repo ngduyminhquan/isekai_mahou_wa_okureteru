@@ -208,3 +208,7 @@
 | **Hand of Frenzy** | Bàn Tay Điên Loạn | Ma thuật | Một hắc ma pháp đặc chế làm mất ổn định thuật thức đối thủ. |
 | **Phenomenon Mixer** | Máy Trộn Hiện Tượng | Khái niệm | Quy luật ma thuật đánh cắp và kiểm soát ma pháp đối thủ của Suimei. |
 | **Hateful Red Retaliation** | Hồng Sắc Trả Đũa Đáng Hận | Ma thuật | Một hắc ma pháp được cường hóa bởi những từ ngữ cấm kỵ. |
+| **Goetia** | Goetia | Khái niệm | Một nhánh bí thuật/tà thuật của Trái Đất chuyên triệu hồi/điều khiển ác quỷ. |
+| **Gand** | bí thuật Gand / Gand | Khái niệm | Một loại lời nguyền/bí thuật cổ đại của thế giới cũ. |
+| **phlogiston theory** | thuyết phlogiston | Khái niệm | Một lý thuyết khoa học cổ đại về sự cháy ở thế giới cũ. |
+| **avidya** | vô minh (avidya) | Khái niệm | Trạng thái hư vô tuyệt đối hoặc sự ngu muội trong triết học thế giới cũ. |
