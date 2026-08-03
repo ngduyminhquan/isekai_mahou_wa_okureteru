@@ -183,3 +183,5 @@
 | **Holy Inquisition** | Tòa án Dị giáo | Tổ chức | Tổ chức ở thế giới của Suimei coi bí thuật là tà giáo và săn lùng các ma thuật sư. |
 | **therianthrope** | thú nhân | Khái niệm | Một chủng tộc bản địa ở dị giới, mang một số đặc điểm của động vật và sở hữu sức mạnh vượt trội so với người bình thường. |
 | **aether** | năng lượng aether | Khái niệm | Một dạng năng lượng linh khí, liên quan đến thần thuật của Giáo hội Cứu thế. |
+| **Holy State of El Meide** | Thánh quốc El Meide | Địa danh | Quốc gia tôn giáo trung lập nằm ở phía nam Đế quốc, nơi cũng triệu hồi một anh hùng. |
+| **Sword King** | Kiếm Vương | Danh hiệu | Danh hiệu của đại vương tử của Minh chủ Liên minh Saadias. |
