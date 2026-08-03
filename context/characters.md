@@ -188,3 +188,8 @@ Dưới đây là hồ sơ chi tiết các nhân vật xuất hiện, định h�
 - **Vai trò**: Nữ tư tế của Giáo hội Cứu thế đồng hành cùng Elliot.
 - **Tính cách**: Căng thẳng, nhạy cảm, dễ kích động và vô cùng cuồng tín. Cô ta sẵn sàng lợi dụng đám đông và kích động sự sùng đạo để đàn áp những người bất đồng quan điểm.
 - **Giọng thoại**: Gay gắt, the thé, hằn học khi có người nghi ngờ hoặc chống lại thần dụ.
+
+### 26. Clarissa
+- **Vai trò**: Một nữ tu sĩ (Sơ) người thú (therianthrope) thuộc Giáo hội Cứu thế.
+- **Tính cách**: Nhanh trí, dũng cảm và linh hoạt. Không bị ràng buộc mù quáng bởi giáo điều, cô dám mạo danh thần dụ để ngăn cản cuộc ẩu đả giữa Suimei và Elliot, cứu Elliot khỏi việc bị Suimei đánh bại.
+- **Giọng thoại**: Tôn nghiêm và trang trọng khi giả vờ truyền đạt thần dụ, nhưng trở nên tinh quái và cởi mở khi thì thầm nói thật với Suimei.

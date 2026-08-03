@@ -198,3 +198,7 @@
 | **Elliot Austin** | Elliot Austin / Elliot | Tên riêng | Anh hùng được triệu hồi ở Thánh quốc El Meide. |
 | **Christa** | Christa | Tên riêng | Nữ tư tế của Giáo hội Cứu thế đồng hành cùng Elliot. |
 | **Fem Ray** | Fem Ray | Tên riêng | Bí danh mà Felmenia sử dụng để che giấu thân phận thật sự của mình khi ở trong Đế quốc Nelferian. |
+| **Clarissa** | Clarissa | Tên riêng | Sơ (nữ tu) thú nhân thuộc Giáo hội Cứu thế. |
+| **Blitz Shot** | Thiểm Kích / Tia Chớp Nhanh | Ma thuật | Phép thuật hệ lôi (Lightning) của Christa. |
+| **Mantra of Light** | Chân ngôn Ánh sáng | Khái niệm | Một thuật thức tụng niệm trong bí thuật của Suimei. |
+| **Kalavinka** | Ca Lăng Tần Già | Khái niệm | Giọng hát ngọt ngào dùng để giải phóng ma lực đối thủ trong bí thuật của Suimei. |
