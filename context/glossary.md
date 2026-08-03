@@ -188,3 +188,6 @@
 | **Salvation School** | Trường Cứu thế | Tổ chức | Ngôi trường thuộc Giáo hội Cứu thế, nơi đào tạo hoặc giáo dục trẻ em/tín đồ. |
 | **dwarf** | người lùn / dwarf | Khái niệm | Một chủng tộc á nhân có thân hình nhỏ bé, xuất sắc trong nghề rèn. Còn được gọi là dvergar hoặc hắc tinh linh. |
 | **Jillbert Griga** | Jillbert Griga | Tên riêng | Người quản lý bất động sản tại Filas Philia, một cô gái người lùn (dwarf) 21 tuổi. |
+| **Metel** | Vương đô Metel | Địa danh | Vương đô của Vương quốc Astel, thủ đô của quốc gia này. |
+| **Duke Hadorious** | Công tước Hadorious | Tên riêng | Một đại quý tộc của Vương quốc Astel cai quản Thành phố Kurant. |
+| **Rajas** | Tướng quỷ Rajas | Tên riêng | Một tướng quỷ đã bị nhóm của Reiji đánh bại trước đó. |
