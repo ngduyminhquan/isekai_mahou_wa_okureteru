@@ -212,3 +212,4 @@
 | **Gand** | bí thuật Gand / Gand | Khái niệm | Một loại lời nguyền/bí thuật cổ đại của thế giới cũ. |
 | **phlogiston theory** | thuyết phlogiston | Khái niệm | Một lý thuyết khoa học cổ đại về sự cháy ở thế giới cũ. |
 | **avidya** | vô minh (avidya) | Khái niệm | Trạng thái hư vô tuyệt đối hoặc sự ngu muội trong triết học thế giới cũ. |
+| **savage name** | hung danh | Khái niệm | Những từ ngữ bị nguyền rủa từ thời cổ đại dùng để khuếch đại sức mạnh của hắc ma pháp (ví dụ: Baybaron). |
