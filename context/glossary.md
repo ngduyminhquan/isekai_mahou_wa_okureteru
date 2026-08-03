@@ -176,3 +176,8 @@
 | **Holy State** | Thánh quốc | Địa danh | Một quốc gia tôn giáo có tiếng nói lớn, thường liên minh cùng Đế quốc Nelferian và Liên minh Saadias. |
 | **Crystal Raid** | Pha Lê Đột Kích | Ma thuật | Phép thuật hệ thổ (Thổ ma pháp) của Graziella dùng để tạo ra vô số cột đá nhọn đâm vào mục tiêu. |
 | **orichalcum sword** | thanh kiếm orichalcum | Vật phẩm | Thanh kiếm được làm từ orichalcum của Reiji. |
+| **Filas Philia Cathedral** | Nhà thờ Filas Philia | Địa danh | Một nhà thờ lớn nổi tiếng tại thủ đô của Đế quốc Nelferian. |
+| **Imperial University Library** | Thư viện Đại học Đế quốc | Địa danh | Thư viện lớn nhất trong ba quốc gia đồng minh, nằm ở Filas Philia. |
+| **Magic Institute** | Học viện Ma pháp | Tổ chức | Một viện nghiên cứu ma thuật hợp tác giữa Vương quốc Astel, Liên minh Saadias và Đế quốc Nelferian. |
+| **Evil God Zekaraia** | Ác Thần Zekaraia | Tên riêng | Vị Ác Thần đã chiến đấu với cánh tay phải của Nữ thần Alshuna (Ishaktney) trong truyền thuyết. |
+| **Holy Inquisition** | Tòa án Dị giáo | Tổ chức | Tổ chức ở thế giới của Suimei coi bí thuật là tà giáo và săn lùng các ma thuật sư. |
