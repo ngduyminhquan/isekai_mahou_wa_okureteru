@@ -214,3 +214,5 @@
 | **avidya** | vô minh (avidya) | Khái niệm | Trạng thái hư vô tuyệt đối hoặc sự ngu muội trong triết học thế giới cũ. |
 | **savage name** | hung danh | Khái niệm | Những từ ngữ bị nguyền rủa từ thời cổ đại dùng để khuếch đại sức mạnh của hắc ma pháp (ví dụ: Baybaron). |
 | **Transient Hope** | Ảo Vọng Phù Du / Transient Hope | Ma thuật | Một hắc ma pháp cực kỳ hùng mạnh của Liliana tạo ra những bọt khí hắc ám. |
+| **Left-Hand Sorcerer** | Tả Đạo Ma Thuật Sư / Tả Đạo | Danh hiệu | Danh xưng chỉ những ma thuật sư bước vào con đường hắc ám, thao túng ác linh và sự trái đạo đức. |
+| **Thrust of Darkness** | Hắc Ám Xung Kích | Ma thuật | Phép thuật hắc ám phóng ra một luồng xung kích nhanh nhẹn của Liliana. |
