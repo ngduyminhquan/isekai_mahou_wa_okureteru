@@ -202,3 +202,6 @@
 | **Blitz Shot** | Thiểm Kích / Tia Chớp Nhanh | Ma thuật | Phép thuật hệ lôi (Lightning) của Christa. |
 | **Mantra of Light** | Chân ngôn Ánh sáng | Khái niệm | Một thuật thức tụng niệm trong bí thuật của Suimei. |
 | **Kalavinka** | Ca Lăng Tần Già | Khái niệm | Giọng hát ngọt ngào dùng để giải phóng ma lực đối thủ trong bí thuật của Suimei. |
+| **Darkness Punisher** | Hắc Ám Trừng Phạt | Ma thuật | Một phép thuật hắc ám tạo ra bức màn đen đè bẹp kẻ thù. |
+| **Permutato, coagulato, lotum artificium existito** | Biến đổi, đông đặc, trở thành tạo tác thủ công tinh xảo | Ma thuật | Câu lệnh biến đổi vật chất trong bí thuật của Suimei. |
+| **Arma Argentum Vivum** | Vũ Khí Thủy Ngân | Ma thuật | Ma pháp biến đổi chất lỏng thủy ngân thành vũ khí kim loại của Suimei. |
