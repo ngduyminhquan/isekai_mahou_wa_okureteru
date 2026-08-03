@@ -56,7 +56,7 @@ Khi Suimei chuyển chủ đề, Jillbert trả lời có phần cộc lốc và
 
 Lefille hỏi cậu bằng một giọng hào hứng, nhưng người quay lại và trả lời thay cho Suimei lại là Jillbert.
 
-"Tất nhiên là có rồi. Đây là thủ đô đế quốc đấy, cậu biết không. Tất nhiên nhà ở đây phải có bồn tắm rồi. Đó là điều hiển nhiên."
+"Tất nhiên là có rồi. Đây là thủ đô Đế quốc đấy, cậu biết không. Tất nhiên nhà ở đây phải có bồn tắm rồi. Đó là điều hiển nhiên."
 
 Một lần nữa, cô ả về cơ bản lại đang khoe khoang. Nhưng ngay khoảnh khắc nhận được lời xác nhận mong muốn, Lefille chạy về phía Jillbert như thể cô đang bay vậy. Suimei đi theo họ, và cả nhóm đến một phòng tắm được xây bằng những phiến đá và thạch cao được đánh bóng cẩn thận. Bên trong căn phòng, một chiếc bồn tắm bằng gỗ trông có vẻ mới toanh đã được lắp đặt sẵn. Vỗ mạnh vào nó, Jillbert lại tiếp tục khoe khoang.
 

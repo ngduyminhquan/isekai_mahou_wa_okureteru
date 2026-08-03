@@ -8,7 +8,7 @@ Khu vực ngoại ô của thành phố chủ yếu là các ngôi nhà bằng g
 
 Màu đỏ dường như là màu sắc được ưa chuộng trong vật liệu xây dựng và nhiều thứ khác, bởi vì vị hoàng đế từ năm thế hệ trước đã hết lời ca ngợi nó. Đó có lẽ chỉ là vấn đề sở thích cá nhân, nhưng ở thế giới của Suimei, màu đỏ — chủ yếu ở Châu Âu — được sử dụng để tượng trưng cho dòng máu tuôn rơi của các vị thánh và đã được trân trọng từ thời cổ đại. Nó cũng thường được sử dụng cho áo choàng của các hiệp sĩ và binh lính như một biểu tượng ca tụng chiến trận. Do đó, đối với thế giới này, đặc biệt là ở một quốc gia quân sự hóa như Nelferia, việc sử dụng màu đỏ một cách nổi bật như vậy lại là một sự trùng hợp khá thú vị.
 
-Vừa nghĩ về những điều đó, Suimei vừa ngước mắt lên nhìn bầu trời. Thủ đô đế quốc không chỉ có hệ thống đường phố rộng lớn, thênh thang mà còn có vô số những tòa nhà cao chót vót nối tiếp nhau. Bức tường thành bên ngoài bảo vệ chu vi của thành phố khá cao, dường như đã làm tăng giới hạn an toàn khi xây dựng các công trình bên trong. Chúng cao hơn rất nhiều so với bất cứ thứ gì cậu từng thấy cho đến nay.
+Vừa nghĩ về những điều đó, Suimei vừa ngước mắt lên nhìn bầu trời. Thủ đô Đế quốc không chỉ có hệ thống đường phố rộng lớn, thênh thang mà còn có vô số những tòa nhà cao chót vót nối tiếp nhau. Bức tường thành bên ngoài bảo vệ chu vi của thành phố khá cao, dường như đã làm tăng giới hạn an toàn khi xây dựng các công trình bên trong. Chúng cao hơn rất nhiều so với bất cứ thứ gì cậu từng thấy cho đến nay.
 
 Ngay cả đối với một người ngoài như Suimei, Filas Philia vẫn mang lại một ấn tượng khác biệt rõ rệt so với vương đô Metel của Vương quốc Astel. Ở Metel có rất đông người, nhưng nơi này lại mang lại cảm giác hiện đại hơn. Cả hai thành phố đều có công viên, cửa hàng và những thứ tương tự, nhưng việc bảo trì những nơi đó cũng như các nhu cầu cơ bản như hệ thống quản lý nước và nước thải ở đây lại cực kỳ ấn tượng. Vì vậy, xét về mặt phát triển, Filas Philia dường như là nơi tiên tiến hơn.
 
@@ -58,7 +58,7 @@ Hé lộ nụ cười điềm tĩnh thường ngày, Lefille hăng hái giơ n�
 
 ★
 
-Suimei đi theo Lefille, và họ đến một khu vực gần cổng của bức tường ngoài. Nơi đó sừng sững một trong số vài Giáo hội Cứu thế được dựng lên ở nhiều nơi khác nhau khắp thủ đô đế quốc.
+Suimei đi theo Lefille, và họ đến một khu vực gần cổng của bức tường ngoài. Nơi đó sừng sững một trong số vài Giáo hội Cứu thế được dựng lên ở nhiều nơi khác nhau khắp thủ đô Đế quốc.
 
 Đây sẽ là lần đầu tiên Suimei tiếp cận một tổ chức của tôn giáo lớn nhất thế giới này, nhưng khi bước về phía nó, cậu không thể không chú ý rằng nó mang lại một ấn tượng khác biệt so với phần còn lại của thành phố. Lối đi dẫn đến đó chuyển từ lát gạch sang rải đá cuội. Ở đó có một bồn hoa được chăm sóc kỹ lưỡng, và cả một cái ao nhỏ. Thậm chí còn có những hàng cây mọc san sát nhau, biến khu vực này thành nơi duy nhất gần đó có chút mảng xanh. Lắng nghe kỹ, cậu có thể nghe thấy tiếng hót của những chú chim nhỏ. Nó thực sự giống như một thánh địa xanh tươi và trong lành. Và nằm giữa tất cả những thứ đó là một tòa nhà màu trắng.
 

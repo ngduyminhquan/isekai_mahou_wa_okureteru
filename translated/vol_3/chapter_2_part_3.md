@@ -30,11 +30,11 @@ Thấy cô phản ứng như vậy, Suimei nở một nụ cười sảng khoái
 
 Cùng với đó, biểu cảm dịu dàng của vị sơ chuyển sang vẻ nghiêm nghị, và cô bắt đầu nói như thể đang đưa ra lời khuyên cho cậu.
 
-"Cậu nói rằng cậu chỉ vừa mới đến thủ đô đế quốc, nhưng nếu vậy, xin hãy cẩn thận khi ra ngoài vào ban đêm. Gần đây, đã có những vụ việc đáng lo ngại xảy ra trong thành phố."
+"Cậu nói rằng cậu chỉ vừa mới đến thủ đô Đế quốc, nhưng nếu vậy, xin hãy cẩn thận khi ra ngoài vào ban đêm. Gần đây, đã có những vụ việc đáng lo ngại xảy ra trong thành phố."
 
 "Những vụ việc đáng lo ngại, ý cô là sao?"
 
-"Vâng. Tôi tin là nó bắt đầu từ khoảng một tháng trước. Khi trời sáng, người ta thường xuyên phát hiện những người rơi vào trạng thái hôn mê, và điều đó đang thổi bùng lên sự lo âu của người dân sinh sống tại thủ đô đế quốc."
+"Vâng. Tôi tin là nó bắt đầu từ khoảng một tháng trước. Khi trời sáng, người ta thường xuyên phát hiện những người rơi vào trạng thái hôn mê, và điều đó đang thổi bùng lên sự lo âu của người dân sinh sống tại thủ đô Đế quốc."
 
 "Đó đúng là một câu chuyện không đùa được, phải không? Có phải nó giống như một gã côn đồ nào đó đi tấn công người khác và khiến họ hôn mê không?"
 
@@ -60,7 +60,7 @@ Như để chứng minh cho thính giác nhạy bén của mình, đôi tai cô 
 
 "Thật sao?"
 
-"Vâng. Việc này vẫn chưa được công bố rộng rãi cho công chúng, nhưng có lẽ nó sẽ sớm được chính quyền đế quốc và Giáo hội Cứu thế tiết lộ. Đó chẳng phải là một tin tốt sao?"
+"Vâng. Việc này vẫn chưa được công bố rộng rãi cho công chúng, nhưng có lẽ nó sẽ sớm được chính quyền Đế quốc và Giáo hội Cứu thế tiết lộ. Đó chẳng phải là một tin tốt sao?"
 
 Vậy sao? Dù thế nào đi nữa, nó cũng đã khơi dậy sự hứng thú của Suimei. Thánh quốc El Meide là một quốc gia tôn giáo trung lập nằm ở phía nam của Đế quốc, và không có lý do gì Suimei lại không tò mò muốn biết kiểu anh hùng nào đã được triệu hồi ở đó. Cậu vô cùng muốn tìm hiểu xem những anh hùng khác ngoài Reiji là người như thế nào, hy vọng nó có thể giúp cậu nắm bắt được xu hướng đằng sau những đợt triệu hồi.
 
@@ -116,9 +116,9 @@ Việc cô trở nên hoảng loạn như vậy hoàn toàn không bình thườ
 
 Vài ngày sau khi Suimei và Lefille đến thủ đô của Đế quốc Nelferian, họ đã có một chuyến đi khảo sát vào khu vực phía sau khu dân cư nằm ở phía tây bắc Filas Philia.
 
-Đương nhiên, các tòa nhà được xếp san sát nhau như ở bất kỳ thành phố nào, và đặc trưng riêng của thủ đô đế quốc là có rất nhiều tòa nhà cao tầng. Có lẽ vì vậy, dù đang là ban ngày nhưng nơi này khá u ám. Ở thế giới hiện đại, chắc chắn sẽ có những vụ kiện về quyền được hưởng ánh sáng mặt trời của người dân. Tình cờ nhìn lên và nhìn xuống những ngóc ngách của các con hẻm, có những đám cỏ dại nhỏ bé, thảm hại mọc rải rác đây đó, nhưng ngoài ra, tất cả chỉ là bóng tối. Giống như bất kỳ tia nắng nào lọt xuống cũng ngay lập tức bị sự u ám nuốt chửng. Nếu đem so sánh với một nơi nào đó ở thế giới của cậu, thì đây chính là một khu ổ chuột. Một khu ổ chuột trong hẻm sâu mô tả nó một cách hoàn hảo. Nhìn thoáng qua, hầu hết các cấu trúc xung quanh đều trông có vẻ rẻ tiền.
+Đương nhiên, các tòa nhà được xếp san sát nhau như ở bất kỳ thành phố nào, và đặc trưng riêng của thủ đô Đế quốc là có rất nhiều tòa nhà cao tầng. Có lẽ vì vậy, dù đang là ban ngày nhưng nơi này khá u ám. Ở thế giới hiện đại, chắc chắn sẽ có những vụ kiện về quyền được hưởng ánh sáng mặt trời của người dân. Tình cờ nhìn lên và nhìn xuống những ngóc ngách của các con hẻm, có những đám cỏ dại nhỏ bé, thảm hại mọc rải rác đây đó, nhưng ngoài ra, tất cả chỉ là bóng tối. Giống như bất kỳ tia nắng nào lọt xuống cũng ngay lập tức bị sự u ám nuốt chửng. Nếu đem so sánh với một nơi nào đó ở thế giới của cậu, thì đây chính là một khu ổ chuột. Một khu ổ chuột trong hẻm sâu mô tả nó một cách hoàn hảo. Nhìn thoáng qua, hầu hết các cấu trúc xung quanh đều trông có vẻ rẻ tiền.
 
-Nhưng đó chính xác là lý do họ đến đây. Đúng vậy, việc đầu tiên thực sự cần làm của họ sau khi đến Đế quốc là đảm bảo một nơi để sống. Suimei định thu thập thông tin và hàng hóa ở Nelferia, còn Lefille muốn theo học tại Học viện Ma pháp. Sau khi rời khỏi nhà thờ vào ngày đầu tiên ở thị trấn, họ đã đi tìm những thương gia môi giới bán nhà ở. Vì phần lớn thủ đô đế quốc đều nằm dưới sự quản lý của chính quyền đế quốc, họ cuối cùng đã tìm đường đến một văn phòng chính phủ. Từ đó, họ được giới thiệu đến viên quản lý của một quận có chứa một khu nhà ở phù hợp với yêu cầu của họ. Và hôm nay, họ đã hẹn gặp viên quản lý này để xem khu bất động sản đó.
+Nhưng đó chính xác là lý do họ đến đây. Đúng vậy, việc đầu tiên thực sự cần làm của họ sau khi đến Đế quốc là đảm bảo một nơi để sống. Suimei định thu thập thông tin và hàng hóa ở Nelferia, còn Lefille muốn theo học tại Học viện Ma pháp. Sau khi rời khỏi nhà thờ vào ngày đầu tiên ở thị trấn, họ đã đi tìm những thương gia môi giới bán nhà ở. Vì phần lớn thủ đô Đế quốc đều nằm dưới sự quản lý của chính quyền Đế quốc, họ cuối cùng đã tìm đường đến một văn phòng chính phủ. Từ đó, họ được giới thiệu đến viên quản lý của một quận có chứa một khu nhà ở phù hợp với yêu cầu của họ. Và hôm nay, họ đã hẹn gặp viên quản lý này để xem khu bất động sản đó.
 
 Họ đã dừng lại dọc theo con phố và không tiến xa hơn nữa. Không phải vì họ bị bao trùm bởi sự u ám, mặc dù Lefille ngước nhìn Suimei một cách đầy lo âu.
 
@@ -144,7 +144,7 @@ Ngay cả khi Suimei cố gắng nói với cô rằng mọi chuyện sẽ ổn 
 
 Bởi một thần dụ như thế, ý cô là lời của Nữ thần mà cô nhận được tại Giáo hội Cứu thế địa phương vượt xa những gì cô có thể tưởng tượng được. Thật vậy, chỉ thị được truyền lại cho Lefille là: "Hãy hành động cùng với vị anh hùng đang lưu lại Đế quốc, và chiến đấu với lũ quỷ."
 
-Rõ ràng Nữ thần muốn cô đi theo một người mà cô thậm chí còn chưa từng gặp mặt — vị anh hùng được triệu hồi ở El Meide. Đối với Lefille, người chỉ vừa mới đến thủ đô đế quốc để theo đuổi mục tiêu của riêng mình, điều này có vẻ quá đỗi đột ngột. Thực tế, có vẻ như Lefille hoàn toàn phản đối thần dụ mà cô nhận được. Cô đã nổi cơn thịnh nộ trong nhà thờ khi lần đầu tiên nghe thấy nó, và sau khi cuối cùng cũng bình tĩnh lại, cô đã rơi vào trạng thái suy sụp hiện tại. Tuy nhiên, Suimei lại nghĩ giải pháp khá rõ ràng.
+Rõ ràng Nữ thần muốn cô đi theo một người mà cô thậm chí còn chưa từng gặp mặt — vị anh hùng được triệu hồi ở El Meide. Đối với Lefille, người chỉ vừa mới đến thủ đô Đế quốc để theo đuổi mục tiêu của riêng mình, điều này có vẻ quá đỗi đột ngột. Thực tế, có vẻ như Lefille hoàn toàn phản đối thần dụ mà cô nhận được. Cô đã nổi cơn thịnh nộ trong nhà thờ khi lần đầu tiên nghe thấy nó, và sau khi cuối cùng cũng bình tĩnh lại, cô đã rơi vào trạng thái suy sụp hiện tại. Tuy nhiên, Suimei lại nghĩ giải pháp khá rõ ràng.
 
 "Nếu cậu không muốn nghe theo Alshuna hay ai đó, thì tôi nghĩ có lẽ sẽ ổn thôi nếu cậu không làm vậy. Cậu có thể giả vờ quên đi mà."
 
