@@ -205,3 +205,6 @@
 | **Darkness Punisher** | Hắc Ám Trừng Phạt | Ma thuật | Một phép thuật hắc ám tạo ra bức màn đen đè bẹp kẻ thù. |
 | **Permutato, coagulato, lotum artificium existito** | Biến đổi, đông đặc, trở thành tạo tác thủ công tinh xảo | Ma thuật | Câu lệnh biến đổi vật chất trong bí thuật của Suimei. |
 | **Arma Argentum Vivum** | Vũ Khí Thủy Ngân | Ma thuật | Ma pháp biến đổi chất lỏng thủy ngân thành vũ khí kim loại của Suimei. |
+| **Hand of Frenzy** | Bàn Tay Điên Loạn | Ma thuật | Một hắc ma pháp đặc chế làm mất ổn định thuật thức đối thủ. |
+| **Phenomenon Mixer** | Máy Trộn Hiện Tượng | Khái niệm | Quy luật ma thuật đánh cắp và kiểm soát ma pháp đối thủ của Suimei. |
+| **Hateful Red Retaliation** | Hồng Sắc Trả Đũa Đáng Hận | Ma thuật | Một hắc ma pháp được cường hóa bởi những từ ngữ cấm kỵ. |
