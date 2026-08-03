@@ -178,3 +178,13 @@ Dưới đây là hồ sơ chi tiết các nhân vật xuất hiện, định h�
 - **Vai trò**: Tam Công chúa của Đế quốc Nelferian. Cô còn được biết đến với biệt danh "Geo Malifex", pháp sư mạnh nhất sử dụng thuộc tính thổ trong toàn Đế quốc.
 - **Tính cách**: Uy quyền, bạo dạn, kiêu ngạo, mang phong thái của một kẻ cai trị. Có nụ cười không hề sợ hãi và một cái nhìn chèn ép khiến người khác phải e dè. Cô ta khá độc mồm độc miệng và thích chế nhạo đối thủ.
 - **Giọng thoại**: Hách dịch, tự tin, mang phong cách hoàng gia nhưng có phần chèn ép ("Ngươi - ta", "Ngài - tôi" khi nói với Titania).
+
+### 24. Elliot Austin
+- **Vai trò**: Anh hùng được triệu hồi ở Thánh quốc El Meide.
+- **Tính cách**: Tự tin, kiêu ngạo ngầm và cuồng tín vào ý chí của Nữ thần. Cậu ta coi thần dụ là tuyệt đối và yêu cầu người khác phải tuân theo bất chấp lý lẽ hay mong muốn cá nhân.
+- **Giọng thoại**: Bề ngoài có vẻ lịch sự, sảng khoái nhưng thực chất rất hống hách và không chấp nhận sự phản đối ("Tôi - cô/anh").
+
+### 25. Christa
+- **Vai trò**: Nữ tư tế của Giáo hội Cứu thế đồng hành cùng Elliot.
+- **Tính cách**: Căng thẳng, nhạy cảm, dễ kích động và vô cùng cuồng tín. Cô ta sẵn sàng lợi dụng đám đông và kích động sự sùng đạo để đàn áp những người bất đồng quan điểm.
+- **Giọng thoại**: Gay gắt, the thé, hằn học khi có người nghi ngờ hoặc chống lại thần dụ.

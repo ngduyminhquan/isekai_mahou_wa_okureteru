@@ -195,3 +195,6 @@
 | **gloves of discord** | đôi găng tay bất hòa | Vật phẩm | Một ma cụ của Suimei có khả năng xáo trộn tín hiệu từ đám rối thần kinh, gây đau đớn tột cùng cho đối thủ. |
 | **A Study of the Hero Summoning Ritual and the History of the Summoned Heroes** | Một nghiên cứu về Nghi lễ Triệu hồi Anh hùng và Lịch sử của Các Anh hùng Được Triệu hồi | Vật phẩm | Cuốn tài liệu cổ mà Felmenia lấy từ thư viện hoàng gia Astel để mang theo cho Suimei. |
 | **Lefi** | Lefi | Tên riêng | Biệt danh thân mật mà Lefille bắt ép Suimei phải gọi mình (xuất hiện ở Volume 3). |
+| **Elliot Austin** | Elliot Austin / Elliot | Tên riêng | Anh hùng được triệu hồi ở Thánh quốc El Meide. |
+| **Christa** | Christa | Tên riêng | Nữ tư tế của Giáo hội Cứu thế đồng hành cùng Elliot. |
+| **Fem Ray** | Fem Ray | Tên riêng | Bí danh mà Felmenia sử dụng để che giấu thân phận thật sự của mình khi ở trong Đế quốc Nelferian. |
