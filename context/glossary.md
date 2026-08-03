@@ -191,3 +191,5 @@
 | **Metel** | Vương đô Metel | Địa danh | Vương đô của Vương quốc Astel, thủ đô của quốc gia này. |
 | **Duke Hadorious** | Công tước Hadorious | Tên riêng | Một đại quý tộc của Vương quốc Astel cai quản Thành phố Kurant. |
 | **Rajas** | Tướng quỷ Rajas | Tên riêng | Một tướng quỷ đã bị nhóm của Reiji đánh bại trước đó. |
+| **Romeon** | Romeon | Tên riêng | Một nam tinh linh (elf) làm thủ thư tại Thư viện Đại học Đế quốc. |
+| **gloves of discord** | đôi găng tay bất hòa | Vật phẩm | Một ma cụ của Suimei có khả năng xáo trộn tín hiệu từ đám rối thần kinh, gây đau đớn tột cùng cho đối thủ. |
