@@ -213,3 +213,4 @@
 | **phlogiston theory** | thuyết phlogiston | Khái niệm | Một lý thuyết khoa học cổ đại về sự cháy ở thế giới cũ. |
 | **avidya** | vô minh (avidya) | Khái niệm | Trạng thái hư vô tuyệt đối hoặc sự ngu muội trong triết học thế giới cũ. |
 | **savage name** | hung danh | Khái niệm | Những từ ngữ bị nguyền rủa từ thời cổ đại dùng để khuếch đại sức mạnh của hắc ma pháp (ví dụ: Baybaron). |
+| **Transient Hope** | Ảo Vọng Phù Du / Transient Hope | Ma thuật | Một hắc ma pháp cực kỳ hùng mạnh của Liliana tạo ra những bọt khí hắc ám. |
