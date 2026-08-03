@@ -75,6 +75,8 @@ Quy tắc xưng hô và đại từ trong hội thoại giữa các nhân vật 
 - **Bạn đồng hành**: Cả hai trở thành đồng đội khi cùng gia nhập đoàn thương nhân đi từ Metel đến Kurant. Lefille trở thành người hướng dẫn kiến thức cho Suimei về tôn giáo (Nữ thần Alshuna) và hệ sinh thái quái vật của thế giới này. Mối quan hệ dần trở nên cởi mở và thân thiện hơn.
 - **Bỏ kính ngữ (Chương 2 Phần 3)**: Lefille chủ động đề nghị Suimei nói chuyện thoải mái, không cần câu nệ lễ nghi và yêu cầu cậu gọi cô là "Lefille" thay vì "Grakis-san". Suimei đồng ý và hai người đổi sang cách nói chuyện thân mật, suồng sã hơn ("tôi - cậu").
 
+### Suimei <-> Lefille Grakis (Diễn biến ở Volume 3)
+- **Đổi xưng hô thân mật (Chapter 2)**: Lefille tỏ ra ghen tị khi thấy Felmenia có biệt danh thân mật "Menia" do Suimei gọi. Cô dỗi và mạnh mẽ bắt ép Suimei cũng phải gọi mình bằng biệt danh thân mật "Lefi" ngay lập tức. Cậu đồng ý và từ đó cô rất mãn nguyện.
 ### Suimei <-> Liliana Zandyke (Diễn biến ở Volume 3)
 - **Cuộc chạm trán tại thủ đô (Chapter 2)**: Suimei chủ động xen vào giải vây cho Liliana khi cô bị Hội Pháp sư Đế quốc gây sự, bất chấp việc cô liên tục xua đuổi, hắt hủi và đe dọa. Suimei sử dụng thái độ bông đùa, lỳ lợm để phá vỡ lớp vỏ bọc cảnh giác của cô.
 - **Thái độ của Liliana**: Ban đầu coi Suimei là kẻ tọc mạch "ngu ngốc", thậm chí đe dọa bằng ma lực và nghi ngờ cậu là kẻ bám đuôi (stalker). Tuy nhiên, cô dần bất ngờ vì cậu không hề sợ hãi áp lực của mình và cuối cùng chịu nhượng bộ (như việc miễn cưỡng dẫn cậu đến thư viện). Xưng hô: "Ta - ngươi" (Liliana), "Tôi - cô" (Suimei).
