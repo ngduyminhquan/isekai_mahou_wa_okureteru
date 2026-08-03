@@ -66,7 +66,7 @@ Dưới đây là danh sách các Phase tương ứng với từng phần dịch
 | **38** | Chapter 4 - Part 4 | `chapter_4_part_4.txt` | 194 | 200 | 1893 | `chapter_4_part_4.md` | **Hoàn thành** |
 | **39** | Chapter 4 - Part 5 | `chapter_4_part_5.txt` | 195 | 200 | 2072 | `chapter_4_part_5.md` | **Hoàn thành** |
 | **40** | Chapter 4 - Part 6 | `chapter_4_part_6.txt` | 193 | 200 | 2081 | `chapter_4_part_6.md` | **Hoàn thành** |
-| **41** | Chapter 4 - Part 7 | `chapter_4_part_7.txt` | 195 | 200 | 2053 | `chapter_4_part_7.md` | Chưa bắt đầu |
+| **41** | Chapter 4 - Part 7 | `chapter_4_part_7.txt` | 195 | 200 | 2053 | `chapter_4_part_7.md` | **Hoàn thành** |
 | **42** | Chapter 4 - Part 8 | `chapter_4_part_8.txt` | 52 | 53 | 449 | `chapter_4_part_8.md` | Chưa bắt đầu |
 | **43** | Epilogue | `epilogue.txt` | 31 | 32 | 345 | `epilogue.md` | Chưa bắt đầu |
 | **44** | Afterword | `afterword.txt` | 82 | 85 | 885 | `afterword.md` | Chưa bắt đầu |

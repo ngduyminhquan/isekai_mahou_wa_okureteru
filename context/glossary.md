@@ -216,3 +216,6 @@
 | **Transient Hope** | Ảo Vọng Phù Du / Transient Hope | Ma thuật | Một hắc ma pháp cực kỳ hùng mạnh của Liliana tạo ra những bọt khí hắc ám. |
 | **Left-Hand Sorcerer** | Tả Đạo Ma Thuật Sư / Tả Đạo | Danh hiệu | Danh xưng chỉ những ma thuật sư bước vào con đường hắc ám, thao túng ác linh và sự trái đạo đức. |
 | **Thrust of Darkness** | Hắc Ám Xung Kích | Ma thuật | Phép thuật hắc ám phóng ra một luồng xung kích nhanh nhẹn của Liliana. |
+| **Manafield vibration** | Chấn động trường ma lực | Khái niệm | Sự rung lắc không gian do tập hợp lượng ác ý và ma lực quá lớn. |
+| **Thelema Hexagram** | Lục Mang Tinh Thelema | Ma thuật | Một hình vẽ ma pháp bằng tay của Suimei dùng làm tiền đề thi triển bí thuật. |
+| **Bless Blade** | Bless Blade | Ma thuật | Một loại ma pháp của Suimei nhưng không thể sử dụng vào ban đêm. |
