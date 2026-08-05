@@ -417,3 +417,7 @@
 | **Castle Groschler** | Lâu đài Groschler | Địa danh | Lâu đài khổng lồ nằm ở phía nam thủ đô Đế quốc Nelferian, là cơ quan chính phủ đầu não. |
 | **Reanat Filas Rieseld** | Đại hoàng tử Reanat / Reanat Filas Rieseld | Tên riêng | Đại hoàng tử của Đế quốc Nelferian. |
 | **Ruby Palace** | Cung điện Hồng Ngọc | Địa danh | Một trong những biệt thự hoàng gia của Đế quốc Nelferian. |
+| **Call Arming** | Vũ Trang / Call Arming | Ma thuật | Bí thuật/Phép thuật triệu hồi trang bị và vũ khí của Elliot. |
+| **Stone Raid** | Thạch Đột Kích / Stone Raid | Ma thuật | Phép thuật hệ thổ tạo ra vô số viên đá nhọn tấn công kẻ thù. |
+| **Force Grant** | Ban Phước Sức Mạnh / Force Grant | Ma thuật | Phép thuật cường hóa năng lực thể chất của Elliot. |
+| **darkwood** | hắc mộc / darkwood | Vật phẩm | Một loại gỗ có nguồn gốc từ phương bắc, cứng như thép nhưng nhẹ, có đặc tính chống ma lực, dùng làm trang bị cho pháp sư. |
