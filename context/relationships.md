@@ -27,6 +27,8 @@ Quy tắc xưng hô và đại từ trong hội thoại giữa các nhân vật 
 | **Rajas** | **Lefille / Suimei** | Ta - ngươi | Cô bé / Tên nhãi ranh | Rajas thể hiện thái độ khinh khỉnh, kẻ cả. Với Lefille, hắn gọi là "cô bé", "tên sống sót chết tiệt". Với Suimei, hắn gọi là "thằng nhãi ranh", "tên nhãi nhép chết tiệt". |
 | **Suimei** | **Rikus / Enmarph** | Tôi / Các anh | Thằng nhãi / Mày | Rikus và Enmarph coi thường và hách dịch với Suimei. Suimei đáp trả một cách thản nhiên, không kiêng nể. |
 | **Lefille** | **Felmenia** | Cô / Tiểu thư Felmenia | Cô / Lefille | Cả hai là đồng đội và là bạn bè. Lịch sự và tôn trọng lẫn nhau (xưng "tôi - cô"). |
+| **Graziella** | **Elliot** | Ngươi / Tên khốn / Tên anh hùng khốn kiếp | Điện hạ / Người | Công chúa kiêu ngạo, hống hách, gọi Elliot là tên khốn. Elliot vẫn giữ phép lịch sự bề ngoài dù rất chán ghét. |
+| **Graziella** | **Suimei** | Ngươi / Tên khốn | Cô / Con ranh ngu ngốc | Graziella kiêu ngạo áp đặt và khinh thường. Suimei đáp trả thô bạo, chửi thẳng mặt cô là con ranh con, không nể nang. |
 
 ---
 

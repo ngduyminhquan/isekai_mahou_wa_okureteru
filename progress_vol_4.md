@@ -19,7 +19,7 @@
 - [x] chapter_1_part3.txt
 - [x] chapter_1_part4.txt
 - [x] chapter_1_part5.txt
-- [ ] chapter_1_part6.txt
+- [x] chapter_1_part6.txt
 - [ ] chapter_1_part7.txt
 - [ ] chapter_1_part8.txt
 - [ ] chapter_1_part9.txt
