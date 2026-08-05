@@ -26,7 +26,7 @@
 
 ### Phase 3: Chapter 2: The Happy Dream Was Certainly in This Place
 - [x] chapter_2_part1.txt
-- [ ] chapter_2_part2.txt
+- [x] chapter_2_part2.txt
 - [ ] chapter_2_part3.txt
 - [ ] chapter_2_part4.txt
 - [ ] chapter_2_part5.txt
