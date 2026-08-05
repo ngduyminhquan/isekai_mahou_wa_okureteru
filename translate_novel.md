@@ -30,7 +30,7 @@ Mỗi dự án dịch tiểu thuyết phải tuân thủ đúng cấu trúc thư
    - Đơn vị mặc định: 1 chapter = 1 phase.
    - Trường hợp chapter > 5000 từ: Chia thành các sub-sections (3000-5000 từ/chunk).
    - **Giới hạn dòng raw**: Phân rã (break) bản raw của mỗi chương dài hơn 200 dòng thành các part, mỗi part tối đa 200 dòng.
-4. **Khởi tạo progress log**: Đưa metadata (tên gốc, tên dịch, tác giả, tổng số từ, ngày bắt đầu) và danh sách phases vào `progress.md`.
+4. **Khởi tạo progress log**: Đưa metadata (tên gốc, tên dịch, tác giả, tổng số từ, ngày bắt đầu) và danh sách phases vào `progress.md` theo cấu trúc mẫu tiêu chuẩn bên dưới.
 5. **Khởi tạo context files ban đầu**:
    - `context/glossary.md`: Nạp tên nhân vật chính, địa danh lớn, thuật ngữ nổi bật.
    - `context/characters.md`: Nạp hồ sơ nhân vật chính và phong cách thoại sơ bộ.
@@ -108,6 +108,9 @@ Xác định cặp xưng hô dựa trên 5 yếu tố ưu tiên:
 - **Địa danh hư cấu**: Giữ nguyên tên gốc hoặc dịch nghĩa tùy theo quy ước trong `glossary.md`.
 - **Skill / Phép thuật / Vật phẩm**: Dịch nghĩa tiếng Việt + ghi chú tên gốc tiếng Anh trong ngoặc đơn ở lần xuất hiện đầu tiên (vd: *Cầu Lửa (Fireball)*).
 
+### 3.4 Quy tắc Định dạng (Formatting)
+- **Ngắt dòng đoạn văn/thoại (Breaklines)**: Mỗi đoạn văn, mỗi lời thoại của các nhân vật phải được tách biệt bằng một dòng trống (double newline trong Markdown) để đảm bảo trình bày không bị dính chữ trên giao diện. Đặc biệt không gộp nhiều lời thoại của các nhân vật khác nhau trên cùng một dòng.
+
 ---
 
 ## 4. AGENT TASK DISPATCH HANDLERS
@@ -125,4 +128,49 @@ Khi nhận yêu cầu từ người dùng, Agent kích hoạt nhánh xử lý t�
 
 - **Mệnh lệnh**: *"Tiến độ dịch thế nào?"*
   -> **Action**: Đọc `progress.md` và tóm tắt trạng thái hoàn thành.
+
+---
+
+## 5. DEFAULT PROGRESS LOG TEMPLATE
+
+Khi tạo file `progress.md` (ví dụ `progress_vol_1.md`), hãy sử dụng đúng template dưới đây:
+
+```markdown
+# Progress Log - Tiến độ dịch thuật Volume [X]
+
+---
+
+## 1. Project Metadata
+
+- **Tên tác phẩm gốc**: *[Tên tiếng Anh/gốc]*
+- **Tên tác phẩm dịch (tạm dịch)**: *[Tên tiếng Việt]*
+- **Tác giả**: [Tên]
+- **Minh họa**: [Tên]
+- **Nguồn bản dịch**: [Nguồn]
+- **Ngày bắt đầu**: [YYYY-MM-DD]
+- **Ngôn ngữ nguồn**: Tiếng Anh
+- **Ngôn ngữ đích**: Tiếng Việt
+- **Tổng số từ nguồn**: [X] từ
+- **Tổng số đoạn**: [X] đoạn
+- **Tổng số dòng**: [X] dòng
+- **Trạng thái hiện tại**: [Chưa bắt đầu / Đang tiến hành / Hoàn thành]
+
+---
+
+## 2. Translation Phases & Progress List
+
+Dưới đây là danh sách các Phase tương ứng với từng phần dịch (chunk). Mỗi phần sẽ được dịch, áp dụng glossary/character/relationship và ghi nhận kết quả vào thư mục `translated/vol_[X]/`.
+
+| Phase | Nội dung dịch | File nguồn thô (Raw File) | Số đoạn (Paras) | Số dòng (Lines) | Số từ nguồn (Words) | File kết quả dịch (Translated) | Trạng thái |
+| :---: | :--- | :--- | :---: | :---: | :---: | :--- | :---: |
+| **0** | Khởi tạo dự án và tài nguyên | *N/A* | - | - | - | *N/A* | **Hoàn thành** |
+| **1** | Prologue | `prologue.txt` | [X] | [X] | [X] | `prologue.md` | **[Hoàn thành / Chưa bắt đầu]** |
+| **2** | Chapter 1 - Part 1 | `chapter_1_part_1.txt` | [X] | [X] | [X] | `chapter_1_part_1.md` | **Chưa bắt đầu** |
+<!-- Thêm các phase khác tương tự -->
+
+---
+
+## 3. Quy tắc định dạng & Ghi chú dịch thuật
+- **Ngắt dòng thoại**: Mọi lời thoại của các nhân vật phải được tách biệt hoàn toàn trên các dòng riêng biệt (không gộp nhiều lời thoại của các nhân vật khác nhau trên cùng một dòng), và được phân tách với nhau bằng một dòng trống.
+```
 
