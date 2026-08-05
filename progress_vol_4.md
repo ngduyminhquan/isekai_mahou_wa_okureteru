@@ -16,7 +16,7 @@
 ### Phase 2: Chapter 1: Geo Malifex
 - [x] chapter_1_part1.txt
 - [x] chapter_1_part2.txt
-- [ ] chapter_1_part3.txt
+- [x] chapter_1_part3.txt
 - [ ] chapter_1_part4.txt
 - [ ] chapter_1_part5.txt
 - [ ] chapter_1_part6.txt
