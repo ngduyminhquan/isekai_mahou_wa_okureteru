@@ -32,55 +32,13 @@ Quy tắc xưng hô và đại từ trong hội thoại giữa các nhân vật 
 
 ---
 
-## 2. Chi tiết và biến đổi theo chương
+## 2. Trạng thái mối quan hệ hiện tại (Cập nhật đến Volume 4)
 
-### Suimei <-> Reiji (Biến đổi ở Chapter 2 Vol 2)
-- Mặc dù Suimei luôn tỏ ra yếu đuối, Reiji thực tế biết rõ Suimei từng học cổ võ thuật và rất giỏi kiếm thuật. Reiji cực kỳ tin tưởng vào khả năng sinh tồn của Suimei kể cả khi cậu ra ngoài một mình mà không có ma lực.
-
-### Suimei <-> Mizuki (Biến đổi ở Chapter 2 Vol 2)
-- Mizuki cảm thấy tức tối và ganh tị khi phát hiện Suimei lén lút học cổ võ thuật hệt như một kẻ mắc bệnh chuunibyou nhưng lại giấu giếm, trong khi quá khứ chuunibyou của chính cô lại là nỗi nhục nhã mà cô muốn chôn vùi. 
-
-### Suimei <-> Felmenia (Diễn biến trong Chapter 2)
-- **Sự cố vấp ngã và ngượng ngùng**: Felmenia liên tục tự vấp ngã vì áo choàng và được Suimei đỡ dậy, lau sạch mặt bằng khăn tay và khen dễ thương. Điều này làm cô đỏ mặt, bối rối mãnh liệt nhưng bên ngoài vẫn mắng cậu là "đồ tồi" vì thái độ thờ ơ của cậu với nhóm bạn Reiji.
-- **Sự nghi kỵ và chiếc bẫy**: Felmenia phát hiện Suimei đột nhập kho lưu trữ cấm và phòng nghi lễ. Cô âm thầm chống lệnh đức vua để tự ý đặt bẫy bằng một con rối tự động (Automaton) nhằm trừng phạt Suimei. Suimei phá hủy lõi con rối và dùng phép phục hồi `Renovato` đưa nó về nguyên trạng để giữ bí mật, đồng thời quyết định sẽ "đáp lễ tương xứng" cho cô.
-
-### Suimei <-> Felmenia (Trận đấu phép thuật ở Chapter 3)
-- **Bắt đầu đối đầu (Chapter 3 - Part 1)**: Suimei chủ động lừa Felmenia vào kết giới không gian gương đảo ngược (Đường ảo - Phantom road) của cậu. Cậu mặc trang phục chiến đấu mang tô đen thêu hồng xanh và đối chất trực diện với cô.
-- **Trước trận đấu**: Felmenia xem Suimei là kẻ hèn nhát, vô ơn. Dùng giọng kẻ cả của pháp sư hoàng gia: *"Cậu..."*. Suimei giả vờ là người bình thường yếu ớt: *"Tôi..."* (nhưng khi đã lừa cô vào kết giới thì cậu nói chuyện rất bình tĩnh, tự tin và trịch thượng bằng danh xưng *"tôi - cô"*).
-- **Sau khi Suimei bẻ gãy Bạch Hỏa**: Felmenia nhận ra Suimei là quái vật ma thuật thực sự. Giọng điệu chuyển sang tôn kính tối thượng.
-  - Từ ngữ trong bản dịch tiếng Việt của Felmenia phải dùng các từ trang trọng, cung kính như: *"Xin ngài..."*, *"Kẻ hèn này..."*, *"Ngài Suimei..."*.
-  - Suimei dùng vị thế kẻ trên để chỉ dạy và cảnh cáo Felmenia không được tiết lộ bí mật của mình: xưng *"Tôi"*, gọi *"Cô"*.
-- **Hủy bỏ khế ước (Chapter 3 - Part 6)**: Suimei tự tay xé bản giao kèo giao ước máu trước mặt Felmenia và đức vua, giải phóng cô khỏi ràng buộc ma thuật. Cậu khuyên cô hãy tận trung và biết ơn đức vua đã đánh cược tính mạng vì cô. Cuối chương, cậu chủ động rủ cô đi điều tra một bí mật thú vị mới phát hiện.
-
-### Suimei <-> Felmenia (Biến đổi ở Chapter 4)
-- **Thấu hiểu và hòa giải (Chapter 4 - Part 1)**: Sau khi cùng nhau vây bắt Kran, Felmenia cúi đầu xin lỗi vì những rắc rối đã gây ra cho Suimei. Suimei xua tay bảo không cần bận tâm và bất ngờ xin lỗi ngược lại vì đã cư xử hơi ác ý để bịt miệng cô ở chương 3. Suimei nhận ra cô thực chất là một cô gái nghiêm túc, lương thiện và có phần ngây ngô chứ không hề xấu tính.
-- **Sự cố bay và đối thoại ma pháp (Chapter 4 - Part 2)**: Khi Kran kích hoạt triệu hồi bạo tẩu, Suimei kịp thời ôm chặt Felmenia bằng tay trái, dùng ma pháp bay (flight magicka) đưa cả hai bay lên không trung để tránh vụ nổ. Felmenia vô cùng ngượng ngùng khi phải đụng chạm thân thể với "quý ông" nhưng vì sợ độ cao nên đành ôm chặt cậu. Cô vô cùng kinh ngạc khi thấy Suimei biết bay (điều vốn không tồn tại ở thế giới này) và nể phục kiến thức của cậu khi giải thích về các quy luật vũ trụ cùng thực thể dị vật (apparition) từ thế giới cũ.
-- **Sự tôn sùng tối thượng và xưng hô thân mật (Chapter 4 - Part 3)**: Sau khi chứng kiến Suimei thi triển đại bí thuật Thanh Lam Khắc Trảm tiêu diệt dị vật cấp B dễ dàng, Felmenia hoàn toàn rơi vào trạng thái sùng bái thái quá. Cô khẽ đỏ mặt kéo tay cậu áp lên ngực mình để bày tỏ lòng kính trọng sâu sắc và xin phép cậu từ giờ hãy gọi mình bằng biệt danh thân mật "Menia". Suimei tuy rất bối rối nhưng rốt cuộc vẫn gọi cô bằng cái tên "Menia", khiến cô vui mừng xoay tròn như một chú cún con nhận được lời khen của chủ nhân.
-- **Tình cảm đơn phương và quyết tâm đi theo (Epilogue II)**: Felmenia chính thức nhận ra cảm xúc trào dâng trong lòng mình dành cho Suimei chính là tình yêu. Cô quyết định từ chức Pháp sư Hoàng gia để đuổi theo và giúp đỡ cậu, bất chấp nỗi lo âu thầm kín rằng một khi Suimei đạt được mục tiêu trở về thế giới cũ, hai người sẽ vĩnh viễn chia lìa.
-
-### Suimei <-> Titania (Tia) (Biến đổi ở Chapter 4)
-- **Xưng hô thân mật và tình bạn chính thức (Chapter 4 - Part 4)**: Titania không muốn bị bỏ rơi khỏi mối quan hệ thân thiết giữa Reiji, Mizuki và Suimei. Cô đề nghị Suimei dừng nói chuyện khách sáo, đồng thời muốn cậu gọi cô là "Tia" và xưng "Tia - Suimei". Cả hai trao nhau nụ cười và chính thức xem đối phương là những người bạn tốt không thể thay thế.
-
-### Suimei <-> Vua Almadious (Diễn biến trong Chapter 3)
-- **Đối chất và thấu hiểu (Chapter 3 - Part 5 & 6)**: Vua Almadious triệu tập Suimei nói chuyện riêng để làm rõ việc Felmenia bị khống chế điểm yếu. Suimei đã thể hiện bản ngã ma thuật sư của mình và đối chất với nhà vua. Nhận thấy sự chân thành và khiêm nhường của nhà vua (nhà vua cúi đầu xin lỗi và tự nhận lỗi lầm triệu hồi), Suimei đã thay đổi thái độ thành kính trọng sâu sắc, chuyển sang xưng "thần" gọi "Bệ hạ/Người". Cậu tự nguyện xé bỏ khế ước ràng buộc Felmenia để xóa bỏ ác cảm và chia sẻ kế hoạch rời lâu đài đi Nelferia, đồng thời từ chối sự hỗ trợ của nhà vua để bảo vệ uy tín của ông trước dư luận.
-
-### Mizuki <-> Titania (Tia) (Diễn biến trong Chapter 2)
-- Mizuki tỏ rõ vẻ ghen tị khi thấy Titania quấn quýt lấy Reiji. Cô cố gắng học ma pháp thật tốt để được Reiji khen ngợi nhằm cạnh tranh và không thua kém Titania.
-- **Sự cố suối nước nóng (Ngoại truyện III)**: Sự ghen tị và tính cạnh tranh tình cảm của Mizuki bộc lộ rõ rệt khi Titania (vốn e ngại và coi tắm rửa là một thử thách có hại) đỏ mặt xin Reiji trực tiếp "chỉ dạy cách tắm". Mizuki đã hốt hoảng và phẫn nộ ngăn cản không cho cả hai tắm chung.
-
-### Felmenia <-> Sebastian Kran (Diễn biến ở Chapter 2 & Chapter 4)
-- **Sự lừa gạt ở Chapter 2**: Sebastian Kran chủ động báo tin giả rằng Suimei muốn mưu hại đức vua và đã phá hủy các công cụ phát hiện kẻ đột nhập. Bằng cách kích động lòng kiêu hãnh của cô và thi triển ma pháp gây ảo giác, hắn lừa cô tự mình ra tay đối phó Suimei để giật dây tạo nên xung đột.
-- **Vạch trần và vây bắt ở Chapter 4**: Suimei dùng "Bí thuật thảo mộc" khiến Kran mất tự chủ và tự thú nhận toàn bộ âm mưu trước mặt Suimei và Felmenia. Felmenia phẫn nộ xông vào bắt giữ nhưng Kran nhảy bàn trốn thoát. Cả hai cùng đuổi theo hắn.
-
-### Suimei <-> Lefille Grakis (Diễn biến ở Volume 2)
-- **Sự đồng điệu ở Hội Mạo hiểm giả**: Mặc dù ban đầu gặp nhau trong hoàn cảnh hiểu lầm tại quầy tiếp tân, cả hai nhanh chóng nhận ra sự tương đồng trong tính cách (đều có thực lực, tự tin và yêu cầu đánh cùng lúc 2 giám khảo). Họ trò chuyện khá ăn ý và vui vẻ cười đùa cùng nhau, cho thấy một khởi đầu khá tốt đẹp.
-- **Sự cố ngượng ngùng (Chương 2)**: Suimei vô tình đụng mặt Lefille đang khóc nức nở trong bộ đồ lót vào lúc rạng sáng. Cả hai vô cùng ngượng ngùng nhưng sau đó đã cố gắng nói chuyện bình thường trở lại khi cùng đồng hành trong đoàn thương nhân.
-- **Bạn đồng hành**: Cả hai trở thành đồng đội khi cùng gia nhập đoàn thương nhân đi từ Metel đến Kurant. Lefille trở thành người hướng dẫn kiến thức cho Suimei về tôn giáo (Nữ thần Alshuna) và hệ sinh thái quái vật của thế giới này. Mối quan hệ dần trở nên cởi mở và thân thiện hơn.
-- **Bỏ kính ngữ (Chương 2 Phần 3)**: Lefille chủ động đề nghị Suimei nói chuyện thoải mái, không cần câu nệ lễ nghi và yêu cầu cậu gọi cô là "Lefille" thay vì "Grakis-san". Suimei đồng ý và hai người đổi sang cách nói chuyện thân mật, suồng sã hơn ("tôi - cậu").
-
-### Suimei <-> Lefille Grakis (Diễn biến ở Volume 3)
-- **Đổi xưng hô thân mật (Chapter 2)**: Lefille tỏ ra ghen tị khi thấy Felmenia có biệt danh thân mật "Menia" do Suimei gọi. Cô dỗi và mạnh mẽ bắt ép Suimei cũng phải gọi mình bằng biệt danh thân mật "Lefi" ngay lập tức. Cậu đồng ý và từ đó cô rất mãn nguyện.
-
-### Suimei <-> Liliana Zandyke (Diễn biến ở Volume 3)
-- **Cuộc chạm trán tại thủ đô (Chapter 2)**: Suimei chủ động xen vào giải vây cho Liliana khi cô bị Hội Pháp sư Đế quốc gây sự, bất chấp việc cô liên tục xua đuổi, hắt hủi và đe dọa. Suimei sử dụng thái độ bông đùa, lỳ lợm để phá vỡ lớp vỏ bọc cảnh giác của cô.
-- **Thái độ của Liliana**: Ban đầu coi Suimei là kẻ tọc mạch "ngu ngốc", thậm chí đe dọa bằng ma lực và nghi ngờ cậu là kẻ bám đuôi (stalker). Tuy nhiên, cô dần bất ngờ vì cậu không hề sợ hãi áp lực của mình và cuối cùng chịu nhượng bộ (như việc miễn cưỡng dẫn cậu đến thư viện). Xưng hô: "Ta - ngươi" (Liliana), "Tôi - cô" (Suimei).
+- **Suimei <-> Reiji & Mizuki**: Suimei giữ kín thân phận ma thuật sư để bảo vệ bạn bè. Reiji tin tưởng tuyệt đối vào khả năng sinh tồn của Suimei. Mizuki đôi lúc cãi vã, ghen tị nhưng vẫn xem Suimei là bạn tốt. Cả ba xưng hô tự nhiên, thân thiết (Cậu - Tớ / Ông / Mizuki).
+- **Suimei <-> Felmenia (Menia)**: Felmenia đã từ chức Pháp sư Hoàng gia để đi theo Suimei, vô cùng sùng bái và dành tình yêu sâu đậm cho cậu. Suimei tin tưởng cô, gọi bằng biệt danh "Menia". Felmenia gọi cậu là "Ngài Suimei".
+- **Suimei <-> Titania (Tia)**: Cả hai là bạn bè thân thiết, đồng ý gạt bỏ lễ nghi hoàng gia để xưng hô bằng biệt danh thân mật (Tia - Suimei).
+- **Suimei <-> Lefille (Lefi)**: Trở thành đồng đội gắn bó sau nhiều biến cố. Lefille chủ động yêu cầu xưng hô suồng sã và ép Suimei gọi mình bằng biệt danh "Lefi". Xưng hô (Tôi - Cậu).
+- **Lefille <-> Felmenia**: Là đồng đội và bạn bè, quan hệ ngày càng gắn bó. Xưng hô gần gũi (Tôi - Cậu) và gọi tên/biệt danh (Lefi - Menia).
+- **Suimei <-> Liliana**: Vẫn giữ khoảng cách và cảnh giác sau cuộc đụng độ ở thủ đô, nhưng Liliana đã phần nào nhượng bộ trước thái độ lỳ lợm của Suimei. Xưng hô (Ta - Ngươi đối với Liliana, Tôi - Cô đối với Suimei).
+- **Suimei <-> Vua Almadious**: Có sự thấu hiểu ngầm; nhà vua tôn trọng và giữ bí mật về ma thuật sư của Suimei, Suimei đáp lại bằng thái độ kính trọng (Thần - Bệ hạ).
+- **Graziella <-> Suimei/Elliot**: Graziella mang phong thái kiêu ngạo, áp đặt, coi thường cả Suimei lẫn Elliot (xưng "Ta", gọi "Ngươi/tên khốn"). Suimei không nể nang, đáp trả gay gắt; trong khi Elliot miễn cưỡng giữ phép lịch sự bề ngoài.
