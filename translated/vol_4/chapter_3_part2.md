@@ -162,7 +162,7 @@ Sau khi cúi đầu thật sâu và đủ lâu để thể hiện sự tôn tr�
 
 Một sự trùng hợp. Và còn là một sự trùng hợp khá đáng chú ý nữa. Felmenia trông vẫn rất ngạc nhiên. Reiji sau đó liền chuyển câu hỏi sang phía cô.
 
-"Cô giáo, tại sao cô lại ở đây? Tớ tưởng cô đang hành động dưới mệnh lệnh trực tiếp của Vua Almadious cơ mà?"
+"Cô giáo, tại sao cô lại ở đây? Tôi tưởng cô đang hành động dưới mệnh lệnh trực tiếp của Vua Almadious cơ mà?"
 
 "Ừm... Đúng là như vậy. Hãy để chúng ta nói về những chi tiết cụ thể hơn ở bên trong nhé."
 
