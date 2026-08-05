@@ -429,3 +429,5 @@
 | **sinister being** | tà linh / sinister being | Khái niệm | Thuật ngữ bí thuật học chỉ một sinh vật tà ác được hình thành từ sự ác ý. |
 | **astrosus** | astrosus | Khái niệm | Một trạng thái hoặc mức độ đậm đặc của ma lực/ác ý trong cõi linh giới. |
 | **the faceless** | kẻ vô diện / the faceless | Khái niệm | Một khái niệm tồn tại trong cõi linh giới (astral plane). |
+| **Twilight** | Chạng vạng / Twilight | Danh hiệu | Danh hiệu của Titania Root Astel với tư cách là một trong Thất Kiếm. |
+| **wicked sword style** | trường phái tà kiếm | Khái niệm | Phong cách kiếm thuật kỳ lạ và đáng sợ của Titania, chém đứt vật thể bằng những nhát kiếm uốn lượn trong không khí. |

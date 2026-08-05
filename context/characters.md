@@ -65,7 +65,8 @@ Dưới đây là hồ sơ chi tiết các nhân vật xuất hiện, định h�
 ### 5. Titania Root Astel / Tia (チタニア・ルート・アステル)
 - **Vai trò**: Công chúa vương quốc Astel.
 - **Tính cách**: Khôn ngoan, điềm đạm, có trách nhiệm lớn với quốc gia. Cô là người đứng ra thuyết phục Reiji làm anh hùng và sắp xếp chỗ ở cho nhóm Suimei.
-- **Giọng thoại**: Trang trọng, lịch thiệp, dịu dàng chuẩn mực hoàng gia. Ở Chapter 4, cô chủ động đề nghị Suimei dừng nói chuyện khách sáo và gọi cô bằng biệt danh thân mật "Tia", đồng thời cô cũng xưng hô bằng tên "Suimei" thay vì "ngài Suimei" để cả 4 người chính thức trở thành bạn thân.
+- **Khả năng chiến đấu (Tiết lộ ở Vol 4 - Ch 3)**: Cô có một thân phận khác - một trong Thất Kiếm, với danh hiệu "Chạng vạng" (Twilight). Cô sở hữu "trường phái tà kiếm" (wicked sword style) vô cùng đáng sợ, sử dụng song kiếm làm bằng bạc với hai thanh trường kiếm có độ dài hơi chênh lệch. Tốc độ và lực đột kích cực kỳ cao, những nhát chém có thể uốn lượn trong không khí và cắt đứt mọi thứ.
+- **Giọng thoại**: Trang trọng, lịch thiệp, dịu dàng chuẩn mực hoàng gia. Ở Chapter 4, cô chủ động đề nghị Suimei dừng nói chuyện khách sáo và gọi cô bằng biệt danh thân mật "Tia", đồng thời cô cũng xưng hô bằng tên "Suimei" thay vì "ngài Suimei" để cả 4 người chính thức trở thành bạn thân. Tuy nhiên, khi trở thành kiếm sĩ "Chạng vạng" đối đầu với Suimei, cô trở nên sắc bén, lạnh lùng và dùng sự đe dọa vũ lực để ép buộc cậu.
 
 ### 6. Almadious Root Astel
 - **Vai trò**: Vua vương quốc Astel.
