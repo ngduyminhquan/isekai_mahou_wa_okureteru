@@ -431,3 +431,7 @@
 | **the faceless** | kẻ vô diện / the faceless | Khái niệm | Một khái niệm tồn tại trong cõi linh giới (astral plane). |
 | **Twilight** | Chạng vạng / Twilight | Danh hiệu | Danh hiệu của Titania Root Astel với tư cách là một trong Thất Kiếm. |
 | **wicked sword style** | trường phái tà kiếm | Khái niệm | Phong cách kiếm thuật kỳ lạ và đáng sợ của Titania, chém đứt vật thể bằng những nhát kiếm uốn lượn trong không khí. |
+| **Primum moenia, expansio localis!** | Bức tường thứ nhất, mở rộng cục bộ! | Ma thuật | Câu lệnh triển khai bức tường phòng thủ thứ nhất của Suimei. |
+| **Permutato, coagulato, vis existito!** | Biến đổi, đông đặc, trở thành sức mạnh! | Ma thuật | Câu lệnh biến đổi vật chất thành vũ khí của Suimei. |
+| **Augoeides** | Augoeides | Khái niệm | Một thuật ngữ/thực thể trong bí thuật được Suimei triệu hồi. |
+| **Carpet Bombing** | Rải Thảm Oanh Tạc / Carpet Bombing | Ma thuật | Một chiêu thức bí thuật tạo ra hàng loạt vòng tròn ma pháp oanh tạc. |
