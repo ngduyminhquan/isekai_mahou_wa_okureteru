@@ -435,3 +435,4 @@
 | **Permutato, coagulato, vis existito!** | Biến đổi, đông đặc, trở thành sức mạnh! | Ma thuật | Câu lệnh biến đổi vật chất thành vũ khí của Suimei. |
 | **Augoeides** | Augoeides | Khái niệm | Một thuật ngữ/thực thể trong bí thuật được Suimei triệu hồi. |
 | **Carpet Bombing** | Rải Thảm Oanh Tạc / Carpet Bombing | Ma thuật | Một chiêu thức bí thuật tạo ra hàng loạt vòng tròn ma pháp oanh tạc. |
+| **alkahest** | dung môi Alkahest / Alkahest | Khái niệm | Một loại dung môi vạn năng trong giả kim thuật có khả năng phân giải mọi vật chất. |
