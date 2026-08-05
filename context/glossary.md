@@ -424,3 +424,4 @@
 | **Stone Iridescence** | Thạch Lăng Quang | Ma thuật | Phép thuật hệ thổ tạo ra khối khoáng chất lấp lánh cầu vồng gây nhiễu loạn thị giác đối thủ. |
 | **Devil Connect** | Ác Ma Kết Nối | Ma thuật | Phép thuật dịch chuyển tức thời không dùng nguyên tố, được Graziella dùng để chuyển dời vật thể khổng lồ từ xa. |
 | **Secundum moenia, expansio localis** | Bức tường thứ hai, mở rộng cục bộ | Ma thuật | Câu lệnh triển khai bức tường phòng thủ thứ hai của Suimei. |
+| **White Flame Hyacinth** | Bạch Hỏa Dạ Lan Hương | Ma thuật | Một chiêu thức Bạch Hỏa mạnh mẽ của Felmenia, phóng ra những dải băng lửa trắng để cản đường đối thủ. |

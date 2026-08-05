@@ -1,5 +1,5 @@
 ...nhanh chóng và súc tích, cùng với sức mạnh cũng rất đáng nể. Nhưng nhìn chung tất cả đều hơi nhàm chán vì khá dễ đoán.
-"Khiên và áo giáp là các ma pháp phòng thủ khác nhau. Trên hết, còn có ma pháp cường hóa thể chất và ma pháp tấn công mà cậu ta đang sử dụng. Đó là một sự kết hợp hoàn hảo, phải không?"
+"Khiên và áo giáp là các ma pháp phòng thủ khác nhau. Trên hết, còn có ma pháp cường hóa thể chất và bí thuật tấn công mà cậu ta đang sử dụng. Đó là một sự kết hợp hoàn hảo, phải không?"
 "Chắc chắn là rất đáng khen ngợi. Cậu ta có thể bao quát cả cận chiến và chiến đấu bằng ma pháp tầm xa. Hơn nữa, nó còn rất đáng tin cậy. Tuy nhiên..."
 Xét về lượng ma lực được sử dụng, tốc độ thi triển các ma pháp và hiệu quả của chúng, Graziella đều vượt trội hơn ở mọi mặt. Elliot chỉ có ma pháp sấm sét của mình, nhưng Graziella liên tục gọi ra các thổ ma pháp mới ở tứ phía trong khi vẫn đang giao tranh cận chiến.
 "Tôi từng cứ đinh ninh rằng các pháp sư của thế giới này không sử dụng các kỹ thuật chiến đấu tay không."
