@@ -8,9 +8,9 @@ Quy mô của tòa nhà thật đồ sộ và toàn bộ mặt ngoài được x
 Giữa khung cảnh đó, Suimei và Felmenia đến đích và được quân cảnh yêu cầu đợi ở góc quảng trường gần một gian đình. Cho rằng Graziella sẽ ở đó, họ tiến về hướng được chỉ định và phát hiện ra một bóng dáng quen thuộc từ xa. Cậu ta có một hình bóng khá nữ tính, vóc dáng uyển chuyển, mái tóc vàng và đôi mắt xanh lam được làm nổi bật bởi hàng lông mi dài. Thoạt nhìn, cậu ta có thể bị nhầm là một cô gái, nhưng đây chính là vị anh hùng xinh đẹp Elliot Austin. Cậu ta đang ngồi một cách duyên dáng trên những viên gạch đỏ bao quanh một luống hoa trong khi nói chuyện với nữ tư tế hộ tống của mình, Christa.
 "Anh là..."
 Suimei vô tình thốt ra một lời ngạc nhiên. Nghe thấy vậy, Elliot đứng dậy.
-"Ra vậy. Vậy ra cậu cũng được gọi đến đây à?"
+"Ra vậy. Vậy ra anh cũng được gọi đến đây à?"
 Elliot có vẻ cũng ngạc nhiên, nhưng chỉ để lộ điều đó trong chốc lát trước khi vuốt ngược mái tóc vàng của mình ra sau. Sau đó cậu ta lên tiếng với một chút mỉa mai.
-"Vết thương của cậu đã lành chưa?"
+"Vết thương của anh đã lành chưa?"
 "Gì chứ, anh đang lo lắng cho tôi à?"
 "Đừng có đùa. Chẳng đời nào tôi lại thế."
 "Cũng phải."
@@ -33,7 +33,7 @@ Christa bối rối khi nhận được một lời giải thích hoàn toàn c�
 "Thật vậy sao?"
 Elliot giờ đang trêu chọc Christa và chờ đợi động thái tiếp theo của cô ta. Đối với bất kỳ ai đang theo dõi họ, nó chỉ giống như hai con người xinh đẹp đang tán tỉnh lẫn nhau. Và buộc phải chứng kiến cảnh này sau khi bị lôi ra khỏi nhà trong khi vẫn đang hồi phục, Suimei có chút bực mình. Vừa cau mày nhìn Elliot, kẻ đang cố gắng tự tạo cho mình một mối tình tay ba...
 "Tốt nhất là anh nổ tung đi."
-"Cậu nói gì cơ?"
+"Anh nói gì cơ?"
 "Im đi. Không có gì đâu."
 
 Mặc dù nói vậy, Suimei vẫn tiếp tục lẩm bẩm từ "nổ tung" lặp đi lặp lại với chính mình như một loại lời nguyền nào đó. Ba người kia hoàn toàn không biết cậu đang nói gì, và chỉ có thể nghiêng đầu thắc mắc. Khi Suimei không có ý định che giấu sự bực tức của mình, Felmenia quay sang hai người kia.

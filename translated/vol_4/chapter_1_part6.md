@@ -70,7 +70,7 @@ Trong khi xem nhẹ tình hình, Suimei vào thế thủ. Graziella đã chuẩn
 "Cái gì cơ?"
 "Không rõ ràng sao? Khuôn mặt của ngươi."
 Đó là một lời chế nhạo trắng trợn. Và khi nét mặt của Suimei cứng đờ lại, Graziella cất lên một tiếng cười khúc khích đầy phấn khích.
-"Ohoho, đừng có mà phật ý. Ngươi không phải là ngọc ngà gì, nhưng ta đánh giá một tên khốn như ngươi không phải là kẻ có thể bị coi thường... Theo như những câu chuyện, ngươi có thể ngang hàng với Thập Nhị Tinh Anh Đế Quốc (Elite Twelve) đấy."
+"Ohoho, đừng có mà phật ý. Ngươi không phải là ngọc ngà gì, nhưng ta đánh giá một tên khốn như ngươi không phải là kẻ có thể bị coi thường... Theo như những câu chuyện, ngươi có thể ngang hàng với Thập Nhị Tinh Anh Đế Quốc đấy."
 Cô ta cười lớn, nhưng rồi giọng điệu của cô ta trở nên sắc bén và cô ta nhìn Suimei bằng một cái nhìn sắc lẹm. Có vẻ như cô ta thực sự coi trọng cậu. Liliana là một trong Thập Nhị Tinh Anh Đế Quốc, nên nếu Graziella giả định rằng cô bé là thủ phạm mà Suimei đã đánh nhau cùng trong vụ án, thì cô ta hoàn toàn có lý do để đề phòng cậu.
 "Hỏi câu này hơi muộn một chút, nhưng ngươi là người đã dồn thủ phạm vào chân tường, đúng chứ?"
 "Ai mà biết được? Tôi không biết ai đã nói với cô điều đó, nhưng tôi không có ký ức gì về việc làm chuyện đó cả."
