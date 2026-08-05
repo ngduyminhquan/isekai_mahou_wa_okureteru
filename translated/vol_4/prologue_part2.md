@@ -33,3 +33,4 @@ Reiji và Mizuki đều khá hứng thú, nhưng Titania thì không hề có ý
 Và trong khi cô đang làm ầm lên, Gregory và Roffrey cuối cùng cũng đã hoàn thành việc kiểm tra và tiến về phía cả nhóm cùng với bầy ngựa. Đập vào mắt họ là cảnh Mizuki đang vui vẻ vẫy tay chào, còn Titania thì trông như thể cô đã hoàn toàn bó tay với Luka. Reiji dịu dàng dõi theo họ, rồi phóng tầm mắt nhìn ra xa xăm vào sâu bên trong Đế quốc. Thời tiết vô cùng hoàn hảo cho một cuộc hành trình, nhưng Reiji vẫn lo lắng về những chỉ thị của Hadorious. Rốt cuộc thì có thứ gì đang chờ đợi họ ở phía trước cơ chứ?
 
 [Chương tiếp theo: Chương 1 - Phần 1](./chapter_1_part1.md)
+

@@ -143,3 +143,4 @@ Viên cảnh sát lịch sự đáp lại Suimei, người đang giả vờ như
 "Chúng tôi biết rõ hoàn cảnh của cậu, nhưng tôi e rằng tôi phải yêu cầu cậu đi cùng tôi. Cậu sẽ đi chứ?"
 
 [Chương tiếp theo: Chương 1 - Phần 3](./chapter_1_part3.md)
+

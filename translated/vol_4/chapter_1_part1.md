@@ -157,3 +157,4 @@ Có một bầu không khí căng thẳng đang bao trùm cả căn phòng lúc 
 Cúi gằm mặt xuống, Rogue trình diện theo đúng như cách người ta mong đợi khi đứng trước hoàng gia. Sau khi xưng danh, một trong số những người lớn tuổi...
 
 [Chương tiếp theo: Chương 1 - Phần 2](./chapter_1_part2.md)
+

@@ -169,3 +169,4 @@ Vừa nói vậy, Reiji vừa thu kiếm vào vỏ và sau đó quay sang nhìn 
 Hiếm khi thấy Titania bộc lộ sự khó chịu của mình một cách rõ ràng đến thế. Có vẻ như cô thực sự không hề hòa hợp với Hadorious chút nào. Vị công tước đã bảo họ ở Thành phố Kurant rằng hãy đi đến Đế quốc, và Reiji nhớ rất rõ cô đã bùng nổ phản đối như thế nào.
 
 [Tiếp theo: Phần 2](./prologue_part2.md)
+
