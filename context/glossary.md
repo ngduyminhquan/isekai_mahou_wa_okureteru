@@ -425,3 +425,7 @@
 | **Devil Connect** | Ác Ma Kết Nối | Ma thuật | Phép thuật dịch chuyển tức thời không dùng nguyên tố, được Graziella dùng để chuyển dời vật thể khổng lồ từ xa. |
 | **Secundum moenia, expansio localis** | Bức tường thứ hai, mở rộng cục bộ | Ma thuật | Câu lệnh triển khai bức tường phòng thủ thứ hai của Suimei. |
 | **White Flame Hyacinth** | Bạch Hỏa Dạ Lan Hương | Ma thuật | Một chiêu thức Bạch Hỏa mạnh mẽ của Felmenia, phóng ra những dải băng lửa trắng để cản đường đối thủ. |
+| **sinful figure** | hình hài tội lỗi / sinful figure | Khái niệm | Một thực thể (tà linh) là sự kết tụ của những ác ý đã được tinh luyện trong bí thuật học. |
+| **sinister being** | tà linh / sinister being | Khái niệm | Thuật ngữ bí thuật học chỉ một sinh vật tà ác được hình thành từ sự ác ý. |
+| **astrosus** | astrosus | Khái niệm | Một trạng thái hoặc mức độ đậm đặc của ma lực/ác ý trong cõi linh giới. |
+| **the faceless** | kẻ vô diện / the faceless | Khái niệm | Một khái niệm tồn tại trong cõi linh giới (astral plane). |
