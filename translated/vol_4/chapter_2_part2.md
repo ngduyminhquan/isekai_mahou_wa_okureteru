@@ -1,13 +1,13 @@
 lâu đài hoàng gia, ngài đã nói rằng mình không muốn vướng vào bất kỳ nguy hiểm nào. Nhưng bây giờ ở đế đô này, ngài lại đang tự nguyện đuổi theo nó.”
 Giọng nói của Felmenia khi cô thốt ra những lời đó trong sự kinh ngạc pha lẫn một tiếng thở dài nhẹ. Ý kiến của cô hoàn toàn đồng tình với Lefille. Và khi bị nói trúng điểm yếu của mình, Suimei yếu ớt nhăn mặt.
-“T-Tôi hiểu mà... Nhưng chuyện này là về việc chọn lựa trận chiến của mình, hai cô hiểu chứ? Cũng giống như bất kỳ ai khác, có những lúc tôi phải bỏ qua, và có những lúc tôi phải hành động.”
+“T-Tôi hiểu mà... Nhưng chuyện này là về việc chọn lựa trận chiến của mình, hai người hiểu chứ? Cũng giống như bất kỳ ai khác, có những lúc tôi phải bỏ qua, và có những lúc tôi phải hành động.”
 “Chắc chắn là vậy rồi, nhưng...”
 “Đối với tôi, đây chính là một trong những lúc đó. Đó là lý do tại sao tôi phải đi.”
 Nghe vậy, Lefille cau mày và thẳng thắn đưa ra ý kiến của mình.
 “Chà, tôi hiểu là có những lúc cậu phải làm những gì mình cần làm, Suimei-kun. Nhưng cậu sẽ lại bị ăn mắng đấy.”
 “Aw, thôi nào, Lefi. Làm ơn tha cho tôi màn trách mắng đi.”
 “Không. Chỉ nhìn về phía trước thôi là chưa đủ đâu. Tôi cảm thấy sẽ tốt hơn nếu tất cả chúng ta cùng nhau thảo luận chuyện đó.”
-“Hiểu rồi. Tôi sẽ dành cho cô bao nhiêu thời gian tùy thích sau chuyện này. Ít nhất hãy cho tôi chừng đó thời gian... Thấy sao?”
+“Hiểu rồi. Tôi sẽ dành cho cậu bao nhiêu thời gian tùy thích sau chuyện này. Ít nhất hãy cho tôi chừng đó thời gian... Thấy sao?”
 Suimei một lần nữa nài nỉ họ, và Lefille lần này tỏ thái độ nghiêm khắc.
 “Với điều kiện là cậu không được hành động liều lĩnh cho đến khi cơ thể cậu bình phục.”
 “Được rồi. Đã rõ.”

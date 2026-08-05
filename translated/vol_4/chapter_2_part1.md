@@ -31,16 +31,16 @@ Giọng nói đầy cám dỗ thì thầm sát bên tai cô.
 
 Sau khi chạy thoát khỏi quảng trường phía nam thành công, Felmenia, cảnh giác với bất kỳ kẻ truy đuổi nào, đã thay đổi tuyến đường trốn thoát của mình từ những con phố chính sang các con hẻm.
 Không lâu sau, cô hối hả chạy xuống con hẻm nơi có dinh thự nhà Yakagi. Khi đến đó, sau khi đẩy vài chiếc ghế sang một bên, cô đặt Suimei nằm xuống một chiếc bàn được bày ở bên ngoài. Khi cô vừa làm vậy, Lefille — người đang lo lắng chờ đợi họ trở về ở bên ngoài — vội vã chạy đến với khuôn mặt nhợt nhạt.
-"T-Tiểu thư Felmenia! Có chuyện gì vậy?!"
+"F-Felmenia! Có chuyện gì vậy?!"
 Lefille hoảng hốt nhìn cả Suimei và Felmenia. Felmenia tiếp tục giải thích những gì đã xảy ra ở quảng trường phía nam với vẻ mặt bối rối.
 Về việc Elliot cũng ở đó. Về việc Graziella đã ra lệnh cưỡng chế họ phải truy tìm hung thủ. Và về việc Suimei đã chiến đấu với Graziella trong một trận chiến ma pháp để cố gắng tránh né điều đó.
 Sau khi nắm được đại ý sự việc từ Felmenia, Lefille rên rỉ với sắc mặt nhăn nhó.
-"Ngay cả với Suimei-kun, việc chiến đấu với Đệ nhị Hoàng nữ Graziella với những vết thương đó cũng quá sức chịu đựng nhỉ..."
+"Ngay cả với Suimei-kun, việc chiến đấu với Hoàng nữ Graziella với những vết thương đó cũng quá sức chịu đựng nhỉ..."
 "Tôi cảm thấy thật xấu hổ sau khi đã bảo cô cứ giao mọi việc cho tôi. Tôi hoàn toàn không thể xen vào cuộc chiến của ngài Suimei và Hoàng nữ Điện hạ Graziella. Tôi chỉ có thể chạy trốn..."
-"Không, với Hoàng nữ Graziella là đối thủ, cô đã xoay sở trốn thoát thành công trong khi còn đang vác theo một người. Đó là một kỳ tích mà chỉ cô mới có thể làm được, tiểu thư Felmenia. Nhưng cái ả Graziella chết tiệt đó... Ả ta thực sự chỉ làm theo bất cứ thứ gì mình muốn."
+"Không, với Hoàng nữ Graziella là đối thủ, cậu đã xoay sở trốn thoát thành công trong khi còn đang vác theo một người. Đó là một kỳ tích mà chỉ cậu mới có thể làm được, Felmenia. Nhưng cái ả Graziella chết tiệt đó... Ả ta thực sự chỉ làm theo bất cứ thứ gì mình muốn."
 Phải chăng sự thay đổi trong giọng điệu của cô là do tức giận? Lefille trừng mắt nhìn về phía xa xăm như thể đang nhìn vị hoàng nữ đế quốc đó, và nắm chặt nắm đấm của mình lại.
 "Lefille?"
-"...Hmm? Ồ, trời ạ, không có gì đâu. Gác chuyện đó sang một bên, tiểu thư Felmenia, Suimei-kun thế nào rồi?"
+"...Hmm? Ồ, trời ạ, không có gì đâu. Gác chuyện đó sang một bên, Felmenia, Suimei-kun thế nào rồi?"
 "Về những vết thương ngoài da thì có vẻ không có gì quá tệ cả. Điều này có thể là do sự bành trướng và suy giảm ma lực của ngài ấy ngay trong tích tắc. Mặc dù vậy..."
 "Cậu ấy đang vô cùng đau đớn."
 Suimei, người đang nằm trên bàn, nhắm nghiền mắt và rên rỉ trong đau đớn. Trông cứ như thể cậu đang gặp ác mộng vậy.
@@ -98,10 +98,10 @@ Suimei đứng dậy khỏi ghế khi nghe câu trả lời của Felmenia, mặ
 "S-Suimei-kun! Chẳng phải chúng tôi vừa bảo cậu không được đi sao?"
 "Tôi sẽ nghỉ ngơi một lát. Nhưng nói thật đấy, nếu chúng ta không hành động ngay bây giờ, mọi chuyện có thể sẽ trở nên khá rắc rối."
 "Tại sao lại là bây giờ? Tại sao cậu lại phải vội vàng đến thế? Không giống cậu chút nào."
-"Đúng, tôi đang rất vội. Nếu chỉ là người phụ nữ nguy hiểm đó thì vẫn ổn. Nhưng có thể còn nhiều chuyện hơn thế đang xảy ra. Xin lỗi, nhưng tôi sẽ phải nhờ hai cô chia nhau ra và cũng đi tìm Liliana nữa. Xin hãy giúp tôi."
+"Đúng, tôi đang rất vội. Nếu chỉ là người phụ nữ nguy hiểm đó thì vẫn ổn. Nhưng có thể còn nhiều chuyện hơn thế đang xảy ra. Xin lỗi, nhưng tôi sẽ phải nhờ hai người chia nhau ra và cũng đi tìm Liliana nữa. Xin hãy giúp tôi."
 Có một sự khẩn trương nhất định trong giọng nói của cậu... Cậu nói như thể đang lịch sự cố gắng đưa ra một yêu cầu đối với những người xa lạ. Nghe cậu nói như vậy, Lefille khẽ thở dài.
 "Hahh..."
-"Cô không muốn sao?"
+"Cậu không muốn sao?"
 "Không phải vậy. Nhưng—"
 "Ngài Suimei, nói thế nào nhỉ...? Những gì ngài đang nói rất kỳ lạ. Lúc ở—"
 
