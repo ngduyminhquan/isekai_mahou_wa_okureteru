@@ -61,7 +61,7 @@ Người đàn ông mặc bộ trang phục màu đen xa lạ đó đang ngân n
 
 Nhưng người đàn ông đó không dừng lại. Tiếng gõ liên tục từ những bước chân của anh ta vang lên trong không khí khi anh ta tiến lại gần.
 
-"...Bọn mày không bao giờ học được bài học nhỉ? Hành hạ người khác vui đến thế cơ à?"
+"...Các người không bao giờ học được bài học nhỉ? Hành hạ người khác vui đến thế cơ à?"
 
 Giọng nói bực tức của người đàn ông vang vọng khắp con hẻm. Với cái đầu cúi gằm, Liliana không thể nhìn thấy anh ta đang làm ra vẻ mặt như thế nào. Anh ta giống như một mặt nước tĩnh lặng không một gợn sóng, đang than khóc cho những kẻ bất lực trước mặt mình. Tên ma thuật sư thô lỗ quay lại đối mặt với người đàn ông này, và khi anh ta lọt vào tầm mắt của hắn, đôi mắt hắn mở to vì kinh ngạc.
 
@@ -81,17 +81,17 @@ Gã ma thuật sư lịch sự trong hai người dường như đã nhận ra a
 
 Liliana nghe thấy một tràng cười chế nhạo. Sau đó, người đàn ông mặc áo đen khịt mũi như thể anh ta chẳng thấy có gì thú vị cả.
 
-"Một ác nhân sao? Những ác nhân chính là bọn mày, đúng không?"
+"Một ác nhân sao? Những ác nhân chính là các người, đúng không?"
 
 "Mày nói cái gì?"
 
-"Tao không biết mày đang cố nói cái gì. Có muốn khai sáng cho tao không?"
+"Tôi không biết các người đang cố nói cái gì. Có muốn khai sáng cho tôi không?"
 
-"Cái việc mà bọn mày còn phải hỏi... Có gì đó cực kỳ không ổn với bọn mày rồi đấy."
+"Cái việc mà các người còn phải hỏi... Có gì đó cực kỳ không ổn với các người rồi đấy."
 
 "Cái gììì?!"
 
-"Đến tai bọn mày cũng hỏng rồi à? Thật tình, hai cái tên ngốc ngông cuồng như bọn mày thì hết cách cứu chữa rồi, đúng không?"
+"Đến tai các người cũng hỏng rồi à? Thật tình, hai cái tên ngốc ngông cuồng như các người thì hết cách cứu chữa rồi, đúng không?"
 
 Có lẽ vì cảm nhận được sự thù địch trong lời tuyên bố lạnh lùng đó, những tên ma thuật sư bắt đầu nâng cao cảnh giác.
 
@@ -99,7 +99,7 @@ Có lẽ vì cảm nhận được sự thù địch trong lời tuyên bố l�
 
 "Không thể nào... Mày định hỗ trợ tên tội phạm này sao?"
 
-"Đúng vậy, giống như mày nói đấy. Tao ở đây để làm cái điều không thể đó."
+"Đúng vậy, giống như các người nói đấy. Tôi ở đây để làm cái điều không thể đó."
 
 Nghe vậy, gã ma thuật sư lịch sự chế nhạo và nhún vai.
 
@@ -156,11 +156,11 @@ Khi Yakagi Suimei thốt lên những từ khóa, ánh sáng đỏ rực rỡ b�
 
 Khi ánh sáng chói lóa phía bên kia mí mắt cô bắt đầu phai nhạt đi, Liliana từ từ mở mắt ra. Đập vào mắt cô là hai tên ma thuật sư, cả hai đều đã ngã gục xuống mặt đường lát đá sau khi bị cướp đi gần như toàn bộ ma lực của chúng. Không hề có một dấu hiệu chuyển động nào từ bọn chúng. Nói cách khác, khi con chim bay lên đó thăng thiên, nó đã mang theo sức mạnh của bọn chúng cùng với nó.
 
-"Đối với một ma thuật sư thiếu kinh nghiệm, việc nghe thấy phúc âm đó quá sớm không khác gì thuốc độc cả. Khi một ma thuật sư cấp thấp tiếp xúc với cái tôi ở trật tự cao hơn đó, sự ích kỷ của cái tôi yếu ớt của chúng sẽ trở nên hỗn loạn và biến mất. Sức mạnh của ma lực, thứ vốn là hiện thân cho dục vọng của chúng, cũng như phương thức sử dụng nó, bao gồm cả việc kiểm soát các câu thần chú của chúng... Tất cả đều bị tước bỏ. Đó là sức mạnh từ giọng nói ngọt ngào của Ca Lăng Tần Già. Nó là một loại bí thuật chống lại pháp sư được dùng để đối phó với những kẻ như bọn mày."
+"Đối với một ma thuật sư thiếu kinh nghiệm, việc nghe thấy phúc âm đó quá sớm không khác gì thuốc độc cả. Khi một ma thuật sư cấp thấp tiếp xúc với cái tôi ở trật tự cao hơn đó, sự ích kỷ của cái tôi yếu ớt của chúng sẽ trở nên hỗn loạn và biến mất. Sức mạnh của ma lực, thứ vốn là hiện thân cho dục vọng của chúng, cũng như phương thức sử dụng nó, bao gồm cả việc kiểm soát các câu thần chú của chúng... Tất cả đều bị tước bỏ. Đó là sức mạnh từ giọng nói ngọt ngào của Ca Lăng Tần Già. Nó là một loại bí thuật chống lại pháp sư được dùng để đối phó với những kẻ như các người."
 
 Khi Suimei nói, hai gã đàn ông liếc nhìn cậu.
 
-"Đừng có bao giờ ôm ảo tưởng rằng bọn mày là những ma thuật sư mạnh mẽ nữa. Lũ ngốc xuẩn ngốc."
+"Đừng có bao giờ ôm ảo tưởng rằng các người là những ma thuật sư mạnh mẽ nữa. Lũ xuẩn ngốc."
 
 ---
 

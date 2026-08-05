@@ -138,7 +138,7 @@ Liliana đã bình tĩnh lại sau khi nghe lời trấn an của cậu, nhưng 
 
 "Vâng. Bọn chúng là... một trong những hình thức quấy rối đó. Ác ý đó chưa bao giờ dừng lại, và đúng như dự đoán, nó cuối cùng cũng ảnh hưởng đến nhiệm vụ và hành động của ngài đại tá. Tôi đã không thể chịu đựng được nữa. Tôi đã mất kiên nhẫn, và vào lúc đó, người đó đã tiếp cận tôi."
 
-"Ngươi không muốn cứu cha mình sao?"
+"Cô không muốn cứu cha mình sao?"
 
 "Cái tên áo choàng đen kia à?"
 
