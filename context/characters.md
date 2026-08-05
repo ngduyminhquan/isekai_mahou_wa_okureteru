@@ -198,3 +198,8 @@ Dưới đây là hồ sơ chi tiết các nhân vật xuất hiện, định h�
 - **Vai trò**: Một thực thể hay nhân vật bí ẩn xuất hiện ở cuối Tập 3. Hắn ta đứng trên đỉnh tháp chuông Nhà thờ Filas Philia quan sát nhóm Suimei và Liliana. Là kẻ giật dây Liliana gây ra vụ hỗn loạn và coi cô như một công cụ có "giá trị lợi dụng".
 - **Tính cách**: Lạnh lùng, tàn nhẫn, luôn nở nụ cười chế nhạo và tính toán.
 - **Giọng thoại**: Bề trên, lạnh nhạt ("Tôi - cô" với Liliana).
+
+### 28. Romeon
+- **Vai trò**: Nam nhân viên tộc elf làm việc tại Thư viện Đại học Đế quốc, đồng thời có kinh nghiệm làm ma y.
+- **Tính cách**: Tốt bụng, chu đáo, hay lo lắng cho người khác.
+- **Giọng thoại**: Lịch sự, quan tâm ("Tôi - cậu/cô").

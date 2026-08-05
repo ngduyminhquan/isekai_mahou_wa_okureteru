@@ -42,3 +42,4 @@ Quy tắc xưng hô và đại từ trong hội thoại giữa các nhân vật 
 - **Suimei <-> Liliana**: Vẫn giữ khoảng cách và cảnh giác sau cuộc đụng độ ở thủ đô, nhưng Liliana đã phần nào nhượng bộ trước thái độ lỳ lợm của Suimei. Xưng hô (Ta - Ngươi đối với Liliana, Tôi - Cô đối với Suimei).
 - **Suimei <-> Vua Almadious**: Có sự thấu hiểu ngầm; nhà vua tôn trọng và giữ bí mật về ma thuật sư của Suimei, Suimei đáp lại bằng thái độ kính trọng (Thần - Bệ hạ).
 - **Graziella <-> Suimei/Elliot**: Graziella mang phong thái kiêu ngạo, áp đặt, coi thường cả Suimei lẫn Elliot (xưng "Ta", gọi "Ngươi/tên khốn"). Suimei không nể nang, đáp trả gay gắt; trong khi Elliot miễn cưỡng giữ phép lịch sự bề ngoài.
+- **Romeon <-> Suimei/Felmenia**: Romeon quan tâm hỏi han (xưng "Tôi", gọi "Cậu Yakagi / Cô Stingray"). Suimei lịch sự từ chối ("Tôi - Anh thủ thư"). Felmenia tôn trọng ("Tôi - Ngài Romeon").
