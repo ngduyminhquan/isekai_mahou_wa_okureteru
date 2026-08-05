@@ -39,7 +39,7 @@ Quy tắc xưng hô và đại từ trong hội thoại giữa các nhân vật 
 - **Suimei <-> Titania (Tia)**: Cả hai là bạn bè thân thiết, đồng ý gạt bỏ lễ nghi hoàng gia để xưng hô bằng biệt danh thân mật (Tia - Suimei).
 - **Suimei <-> Lefille (Lefi)**: Trở thành đồng đội gắn bó sau nhiều biến cố. Lefille chủ động yêu cầu xưng hô suồng sã và ép Suimei gọi mình bằng biệt danh "Lefi". Xưng hô (Tôi - Cậu).
 - **Lefille <-> Felmenia**: Là đồng đội và bạn bè, quan hệ ngày càng gắn bó. Xưng hô gần gũi (Tôi - Cậu) và gọi tên/biệt danh (Lefi - Menia).
-- **Suimei <-> Liliana**: Vẫn giữ khoảng cách và cảnh giác sau cuộc đụng độ ở thủ đô, nhưng Liliana đã phần nào nhượng bộ trước thái độ lỳ lợm của Suimei. Xưng hô (Ta - Ngươi đối với Liliana, Tôi - Cô đối với Suimei).
+- **Suimei <-> Liliana**: Từ Volume 4 Chapter 2, sau khi được Suimei cứu, Liliana đã thay đổi thái độ, trở nên mở lòng và biết ơn cậu. Xưng hô của Liliana thay đổi từ (Ta - Ngươi) sang (Tôi - Anh). Suimei vẫn xưng hô (Tôi - Cô).
 - **Suimei <-> Vua Almadious**: Có sự thấu hiểu ngầm; nhà vua tôn trọng và giữ bí mật về ma thuật sư của Suimei, Suimei đáp lại bằng thái độ kính trọng (Thần - Bệ hạ).
 - **Graziella <-> Suimei/Elliot**: Graziella mang phong thái kiêu ngạo, áp đặt, coi thường cả Suimei lẫn Elliot (xưng "Ta", gọi "Ngươi/tên khốn"). Suimei không nể nang, đáp trả gay gắt; trong khi Elliot miễn cưỡng giữ phép lịch sự bề ngoài.
 - **Romeon <-> Suimei/Felmenia**: Romeon quan tâm hỏi han (xưng "Tôi", gọi "Cậu Yakagi / Cô Stingray"). Suimei lịch sự từ chối ("Tôi - Anh thủ thư"). Felmenia tôn trọng ("Tôi - Ngài Romeon").
