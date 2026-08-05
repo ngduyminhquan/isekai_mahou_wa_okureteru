@@ -220,3 +220,4 @@
 | **Thelema Hexagram** | Lục Mang Tinh Thelema | Ma thuật | Một hình vẽ ma pháp bằng tay của Suimei dùng làm tiền đề thi triển bí thuật. |
 | **Bless Blade** | Bless Blade | Ma thuật | Một loại ma pháp của Suimei nhưng không thể sử dụng vào ban đêm. |
 | **Lonely Shadow** | Cô Độc Chi Ảnh / Lonely Shadow | Danh hiệu | Kiếm sĩ được mệnh danh là mạnh nhất của Đế quốc Nelferian. |
+| **Castle Groschler** | Lâu đài Groschler | Địa danh | Lâu đài khổng lồ nằm ở phía nam thủ đô Đế quốc Nelferian, là cơ quan chính phủ đầu não. |
