@@ -421,3 +421,6 @@
 | **Stone Raid** | Thạch Đột Kích / Stone Raid | Ma thuật | Phép thuật hệ thổ tạo ra vô số viên đá nhọn tấn công kẻ thù. |
 | **Force Grant** | Ban Phước Sức Mạnh / Force Grant | Ma thuật | Phép thuật cường hóa năng lực thể chất của Elliot. |
 | **darkwood** | hắc mộc / darkwood | Vật phẩm | Một loại gỗ có nguồn gốc từ phương bắc, cứng như thép nhưng nhẹ, có đặc tính chống ma lực, dùng làm trang bị cho pháp sư. |
+| **Stone Iridescence** | Thạch Lăng Quang | Ma thuật | Phép thuật hệ thổ tạo ra khối khoáng chất lấp lánh cầu vồng gây nhiễu loạn thị giác đối thủ. |
+| **Devil Connect** | Ác Ma Kết Nối | Ma thuật | Phép thuật dịch chuyển tức thời không dùng nguyên tố, được Graziella dùng để chuyển dời vật thể khổng lồ từ xa. |
+| **Secundum moenia, expansio localis** | Bức tường thứ hai, mở rộng cục bộ | Ma thuật | Câu lệnh triển khai bức tường phòng thủ thứ hai của Suimei. |
