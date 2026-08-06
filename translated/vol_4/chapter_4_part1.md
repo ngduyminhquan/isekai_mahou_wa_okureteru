@@ -34,17 +34,17 @@ Khi Felmenia và Suimei đang nói chuyện, những binh lính đang tiến t�
 
 Graziella nhổ toẹt những lời của mình ra như thể cô ta đang thất vọng trước sự khiêm tốn giả tạo của Suimei. Tiếp đó, đến lượt Elliot lên tiếng.
 
-"Không ngờ ngươi lại là kẻ che giấu cho con nhóc đó..."
+"Không ngờ anh lại là người che giấu cho con nhóc đó..."
 
 "Bất ngờ lắm sao?"
 
-"Tất nhiên rồi. Ta chưa bao giờ nghĩ rằng kẻ đang cạnh tranh với ta để tìm ra hung thủ lại đang bảo vệ cho một trong những nghi phạm."
+"Tất nhiên rồi. Tôi chưa bao giờ nghĩ rằng kẻ đang cạnh tranh với tôi để tìm ra hung thủ lại đang bảo vệ cho một trong những nghi phạm."
 
 "Chà, nói vậy cũng đúng."
 
 Khi Suimei nhún vai mà không thèm biện hộ, Elliot nhíu chặt đôi mắt xanh của mình khi nhìn chằm chằm vào cậu.
 
-"Vậy, tại sao ngươi lại làm thế?"
+"Vậy, tại sao anh lại làm thế?"
 
 "Sẽ mất rất nhiều thời gian để giải thích, và tôi không có thời gian để nói rõ ràng từng chữ cho cậu hiểu đâu."
 
