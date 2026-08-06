@@ -455,3 +455,5 @@
 | **Blade Discharge** | Phóng Điện Nhận / Blade Discharge | Ma thuật | Kỹ năng/ma thuật phóng điện từ vũ khí của Elliot. |
 | **magicka melt** | tan chảy bí thuật / magicka melt | Khái niệm | Hiện tượng ma pháp không thể kích hoạt do sự gia tăng cực đoan của entropy bí thuật. |
 | **Red Gale** | Cuồng Phong Đỏ / Red Gale | Khái niệm | Ngọn gió đỏ huyền thoại gắn liền với sức mạnh của tinh linh Ishaktney (hoặc Thánh nữ Alshalia). |
+| **Reanat Filas Rieseld** | Reanat Filas Rieseld / Reanat Điện hạ | Tên riêng | Đại hoàng tử (Thái tử) của Đế quốc Nelferian, anh trai của Graziella. |
+| **Starfall** | Sao Băng / Starfall | Ma thuật | Bí thuật của Suimei mượn sức mạnh từ các vì sao để giáng xuống những luồng ánh sáng khổng lồ (được Felmenia mượn dùng). |
