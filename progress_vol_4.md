@@ -67,7 +67,7 @@ Dưới đây là danh sách các Phase tương ứng với từng phần dịch
 | **41** | Chapter 4 - Part 10 | `chapter_4_part10.txt` | 169 | 173 | 1639 | `chapter_4_part10.md` | **Hoàn thành** |
 | **42** | Epilogue 1 - Part 1 | `epilogue_1_part1.txt` | 195 | 200 | 2014 | `epilogue_1_part1.md` | **Hoàn thành** |
 | **43** | Epilogue 1 - Part 2 | `epilogue_1_part2.txt` | 67 | 69 | 718 | `epilogue_1_part2.md` | **Hoàn thành** |
-| **44** | Epilogue 2 - Part 1 | `epilogue_2_part1.txt` | 164 | 168 | 1831 | `epilogue_2_part1.md` | **Chưa bắt đầu** |
+| **44** | Epilogue 2 - Part 1 | `epilogue_2_part1.txt` | 164 | 168 | 1831 | `epilogue_2_part1.md` | **Hoàn thành** |
 
 ---
 

@@ -204,3 +204,8 @@ Dưới đây là hồ sơ chi tiết các nhân vật xuất hiện, định h�
 - **Vai trò**: Nam nhân viên tộc elf làm việc tại Thư viện Đại học Đế quốc, đồng thời có kinh nghiệm làm ma y.
 - **Tính cách**: Tốt bụng, chu đáo, hay lo lắng cho người khác.
 - **Giọng thoại**: Lịch sự, quan tâm ("Tôi - cậu/cô").
+
+### 29. Gottfried
+- **Vai trò**: Một người đàn ông bí ẩn xuất hiện trước mặt Rogue Zandyke ở cuối Tập 4. Hắn âm mưu lật đổ Nữ thần Alshuna và muốn mượn sức mạnh của Rogue.
+- **Tính cách**: Điềm tĩnh, tự tin, mang phong thái quý tộc thanh lịch nhưng mang tư tưởng cực đoan (chống lại Nữ thần). Hắn có vẻ sở hữu quyền lực hoặc sức mạnh đáng sợ để thực hiện lời hứa xóa sổ những kẻ xa lánh Liliana.
+- **Giọng thoại**: Lịch sự, bề ngoài cung kính nhưng ẩn chứa sự kiêu ngạo ngầm ("Tôi - Ngài / dono"). Hắn ăn nói thong thả, tự tin như nắm rõ mọi thứ.

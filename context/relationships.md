@@ -43,3 +43,4 @@ Quy tắc xưng hô và đại từ trong hội thoại giữa các nhân vật 
 - **Suimei <-> Vua Almadious**: Có sự thấu hiểu ngầm; nhà vua tôn trọng và giữ bí mật về ma thuật sư của Suimei, Suimei đáp lại bằng thái độ kính trọng (Thần - Bệ hạ).
 - **Graziella <-> Suimei/Elliot**: Graziella mang phong thái kiêu ngạo, áp đặt, coi thường cả Suimei lẫn Elliot (xưng "Ta", gọi "Ngươi/tên khốn"). Suimei không nể nang, đáp trả gay gắt; trong khi Elliot miễn cưỡng giữ phép lịch sự bề ngoài.
 - **Romeon <-> Suimei/Felmenia**: Romeon quan tâm hỏi han (xưng "Tôi", gọi "Cậu Yakagi / Cô Stingray"). Suimei lịch sự từ chối ("Tôi - Anh thủ thư"). Felmenia tôn trọng ("Tôi - Ngài Romeon").
+- **Rogue Zandyke <-> Gottfried**: Gottfried tiếp cận Rogue với lời đề nghị hợp tác lật đổ Nữ thần, hứa sẽ dọn dẹp những kẻ đe dọa Liliana. Gottfried tỏ ra lịch sự nhưng đầy tự tin (xưng "Tôi", gọi "Zandyke-dono / Ngài"). Rogue ban đầu cảnh giác, tra hỏi (xưng "Ta", gọi "Ngươi"), nhưng sau đó xuôi theo thỏa thuận.
