@@ -475,3 +475,4 @@
 | **liturgy / liturgical reduction of magicka** | nghi thức / giản lược nghi thức bí thuật | Khái niệm | Một kỹ thuật lấy các quá trình phức tạp cần thiết để sử dụng bí thuật và đơn giản hóa chúng thành những hành động đơn giản. |
 | **mnemonics** | thuật ghi nhớ | Khái niệm | Khả năng trích xuất chính xác những nội dung đã được ghi nhớ ra khỏi đầu, ứng dụng trong bí thuật. |
 | **strike magicka** | xung kích bí thuật | Ma thuật | Một loại bí thuật dễ hiểu có sử dụng nghi thức, tạo hiệu ứng khi búng tay. |
+| **The Valley Which Peeks Into Evil** | Thung Lũng Nhìn Trộm Ác Quỷ / The Valley Which Peeks Into Evil | Địa danh | Một thung lũng (vết nứt) khổng lồ sâu hoắm đóng vai trò ranh giới giữa Đế quốc, Liên minh và bang tự trị. |
