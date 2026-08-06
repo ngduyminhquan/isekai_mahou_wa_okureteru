@@ -457,3 +457,6 @@
 | **Red Gale** | Cuồng Phong Đỏ / Red Gale | Khái niệm | Ngọn gió đỏ huyền thoại gắn liền với sức mạnh của tinh linh Ishaktney (hoặc Thánh nữ Alshalia). |
 | **Reanat Filas Rieseld** | Reanat Filas Rieseld / Reanat Điện hạ | Tên riêng | Đại hoàng tử (Thái tử) của Đế quốc Nelferian, anh trai của Graziella. |
 | **Starfall** | Sao Băng / Starfall | Ma thuật | Bí thuật của Suimei mượn sức mạnh từ các vì sao để giáng xuống những luồng ánh sáng khổng lồ (được Felmenia mượn dùng). |
+| **dragonnewt** | long nhân / dragonnewt | Khái niệm | Một chủng tộc á nhân mang đặc điểm của rồng, có sừng. |
+| **Eanru** | Eanru | Tên riêng | Một người đàn ông long nhân mặc trang phục kiểu Nhật, có sừng bạc. |
+| **Crimson Pain** | Nỗi đau Đỏ Thẫm / Crimson Pain | Danh hiệu | Một nhân vật mạnh mẽ bí ẩn được nhắc đến bởi nhóm của Clarissa, là con người nhưng rất mạnh. |
