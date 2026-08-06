@@ -451,3 +451,6 @@
 | **Intra velum. Noctis lacrimarum potestas. Insigne Olympus et terrae pingito. Infestato ad irrationabilis veritas. Caecato, pluvia incessabilis. Ea qui lugent sunt vitium. Ea qui fatentur sunt bonitas. Omne perveniunt ex luce supra tumultum, ex coruscis stellis.** | Bên dưới bức màn. Sự uy nghiêm của những giọt lệ tuôn rơi trong đêm. Được tô điểm bởi biểu tượng của trời và đất. Lây lan hướng tới chân lý phi lý. Tỏa sáng rực rỡ, cơn mưa không ngớt. Kẻ than khóc là cái ác. Người thú nhận là đức hạnh. Mọi thứ đều đến từ ánh sáng vượt ngoài hỗn mang kia, từ những vì sao lấp lánh. | Ma thuật | Câu chú niệm để kích hoạt bí thuật vĩ đại Enth Astrarle của Suimei. |
 | **Aqua Bullet** | Thủy Đạn / Aqua Bullet | Ma thuật | Phép thuật hệ thủy bắn ra đạn nước của Christa. |
 | **Vortex Obstacle** | Lốc Xoáy Cản Trở / Vortex Obstacle | Ma thuật | Phép thuật hệ phong tạo khiên lốc xoáy phòng ngự của Mizuki. |
+| **Clauneck's Wind** | Ngọn Gió Của Clauneck / Clauneck's Wind | Ma thuật | Một bí thuật tấn công hệ phong của Felmenia. |
+| **Blade Discharge** | Phóng Điện Nhận / Blade Discharge | Ma thuật | Kỹ năng/ma thuật phóng điện từ vũ khí của Elliot. |
+| **magicka melt** | tan chảy bí thuật / magicka melt | Khái niệm | Hiện tượng ma pháp không thể kích hoạt do sự gia tăng cực đoan của entropy bí thuật. |
