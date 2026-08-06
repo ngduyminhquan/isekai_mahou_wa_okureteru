@@ -222,7 +222,7 @@ Dưới đây là hồ sơ chi tiết các nhân vật xuất hiện, định h�
 - **Tính cách**: Sảng khoái, mạnh mẽ.
 
 ### 32. Selphy Fittney
-- **Vai trò**: Nữ pháp sư từ bang tự trị Selphy, đồng đội của Hatsumi.
+- **Vai trò**: Nữ pháp sư từ bang tự trị, đồng đội của Hatsumi.
 - **Tính cách**: Điềm tĩnh, đáng tin cậy.
 
 ### 33. Weitzer Ryerzen

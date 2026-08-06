@@ -464,7 +464,7 @@
 
 | **Kuchiba Hatsumi** | Kuchiba Hatsumi | Tên riêng | Anh hùng của Liên minh Saadias. |
 | **Gaius Forvan** | Gaius Forvan | Tên riêng | Võ sư từ quốc gia Larsheem thuộc Liên minh. |
-| **Selphy Fittney** | Selphy Fittney | Tên riêng | Nữ pháp sư từ bang tự trị Selphy. |
+| **Selphy Fittney** | Selphy Fittney | Tên riêng | Nữ pháp sư từ bang tự trị. |
 | **Weitzer Ryerzen** | Weitzer Ryerzen | Tên riêng | Hoàng tử kiêm kiếm sĩ của quốc gia Miazen thuộc Liên minh. Một trong Thất Kiếm. |
 | **Mauhario** | Mauhario | Tên riêng | Một Ma Tướng, tự xưng là Cuồng Phong Chớp Nhoáng (Violent Flickering Wind). |
 | **Norfolk** | Norfolk | Địa danh | Tên một vùng đất hoang. |
