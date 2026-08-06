@@ -74,7 +74,7 @@ Cô bé đang mặc đồ ngủ, và thay vì buộc lại thành kiểu tóc ha
 
 "Có chuyện gì vậy, Liliana?"
 
-"Em thấy cô đơn."
+"Tôi thấy cô đơn."
 
 "Có chuyện gì xảy ra với Lefi và Menia rồi?"
 
