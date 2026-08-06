@@ -27,7 +27,7 @@ Dưới đây là danh sách các Phase tương ứng với từng phần dịch
 | :---: | :--- | :--- | :---: | :---: | :---: | :--- | :---: |
 | **0** | Khởi tạo dự án và tài nguyên | *N/A* | - | - | - | *N/A* | **Hoàn thành** |
 | **1** | Prologue: The Third Hero - Part 1 | `prologue_part_1.txt` | 200 | 200 | 2226 | `prologue_part_1.md` | **Hoàn thành** |
-| **2** | Prologue: The Third Hero - Part 2 | `prologue_part_2.txt` | 152 | 152 | 1482 | `prologue_part_2.md` | **Chưa bắt đầu** |
+| **2** | Prologue: The Third Hero - Part 2 | `prologue_part_2.txt` | 152 | 152 | 1482 | `prologue_part_2.md` | **Hoàn thành** |
 | **3** | Chapter 1: To the Saadias Alliance - Part 1 | `chapter_1_part_1.txt` | 200 | 200 | 1998 | `chapter_1_part_1.md` | **Chưa bắt đầu** |
 | **4** | Chapter 1: To the Saadias Alliance - Part 2 | `chapter_1_part_2.txt` | 200 | 200 | 1900 | `chapter_1_part_2.md` | **Chưa bắt đầu** |
 | **5** | Chapter 1: To the Saadias Alliance - Part 3 | `chapter_1_part_3.txt` | 200 | 200 | 2132 | `chapter_1_part_3.md` | **Chưa bắt đầu** |
