@@ -72,7 +72,7 @@ Rogue lại ném thêm một câu hỏi nữa về phía người đàn ông có
 
 Bất ngờ trước phỏng đoán của gã đàn ông, Rogue vô tình buột miệng thừa nhận những gì hắn nói. Đó là sự thật. Ông đã cầu nguyện cho cơ thể đang bị ăn mòn của Liliana được Nữ thần chữa lành. Mỗi buổi sáng, không trượt ngày nào, ông đều đi bộ đến Giáo hội Cứu thế. Tuy nhiên, dù ông có dâng lên bao nhiêu lời cầu nguyện đi chăng nữa, chúng không bao giờ được lắng nghe.
 
-"Dù có thể hơi tự phụ, nhưng tôi tin là mình thấu hiểu được cảm xúc của ngài đối với thế giới," người đàn ông nói, chĩa đôi mắt màu xám lạnh lẽo của mình thẳng vào Rogue. "Khu vườn thu nhỏ do Nữ thần tạo ra này vốn được tạo ra để trở nên phi lý. Không phải đó là lý do tại sao ma tộc tồn tại sao? Rốt cuộc thì bản thân sự tồn tại của Nữ thần đã là một mớ hỗn độn của sự phi lý rồi."
+"Dù có thể hơi tự phụ, nhưng tôi tin là mình thấu hiểu được cảm xúc của ngài đối với thế giới," người đàn ông nói, chĩa đôi mắt màu xám lạnh lẽo của mình thẳng vào Rogue. "Khu vườn thu nhỏ do Nữ thần tạo ra này vốn được tạo ra để trở nên phi lý. Không phải đó là lý do tại sao loài quỷ tồn tại sao? Rốt cuộc thì bản thân sự tồn tại của Nữ thần đã là một mớ hỗn độn của sự phi lý rồi."
 
 Trong thế giới nơi Nữ thần được tôn thờ như mọi thứ đức hạnh, người đàn ông này đang thể hiện sự khinh miệt đối với bà ta mà không có lấy một chút do dự. Hắn chắc hẳn phải có lý do để lớn tiếng khẳng định tất cả những điều này, bất chấp sự thật là nếu có ai nghe thấy, hắn sẽ bị coi là kẻ khả nghi ngay lập tức.
 
