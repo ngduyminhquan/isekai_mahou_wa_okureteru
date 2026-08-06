@@ -478,3 +478,4 @@
 | **The Valley Which Peeks Into Evil** | Thung Lũng Nhìn Trộm Ác Quỷ / The Valley Which Peeks Into Evil | Địa danh | Một thung lũng (vết nứt) khổng lồ sâu hoắm đóng vai trò ranh giới giữa Đế quốc, Liên minh và bang tự trị. |
 | **Grafille** | Grafille | Địa danh | Tên một quốc gia thuộc Liên minh Saadias. |
 | **Anti-Goddess Cult** | Giáo phái Chống Nữ thần | Tổ chức | Một tổ chức tôn giáo kêu gọi người dân từ bỏ đức tin vào Nữ thần Alshuna. |
+| **Twilight Pavilion** | Twilight Pavilion | Tổ chức | Một cơ quan có thẩm quyền ở Liên minh, có thể cấp giấy phép cho kiếm sĩ. |
