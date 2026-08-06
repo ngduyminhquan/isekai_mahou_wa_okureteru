@@ -44,3 +44,11 @@ Quy tắc xưng hô và đại từ trong hội thoại giữa các nhân vật 
 - **Graziella <-> Suimei/Elliot**: Graziella mang phong thái kiêu ngạo, áp đặt, coi thường cả Suimei lẫn Elliot (xưng "Ta", gọi "Ngươi/tên khốn"). Suimei không nể nang, đáp trả gay gắt; trong khi Elliot miễn cưỡng giữ phép lịch sự bề ngoài.
 - **Romeon <-> Suimei/Felmenia**: Romeon quan tâm hỏi han (xưng "Tôi", gọi "Cậu Yakagi / Cô Stingray"). Suimei lịch sự từ chối ("Tôi - Anh thủ thư"). Felmenia tôn trọng ("Tôi - Ngài Romeon").
 - **Rogue Zandyke <-> Gottfried**: Gottfried tiếp cận Rogue với lời đề nghị hợp tác lật đổ Nữ thần, hứa sẽ dọn dẹp những kẻ đe dọa Liliana. Gottfried tỏ ra lịch sự nhưng đầy tự tin (xưng "Tôi", gọi "Zandyke-dono / Ngài"). Rogue ban đầu cảnh giác, tra hỏi (xưng "Ta", gọi "Ngươi"), nhưng sau đó xuôi theo thỏa thuận.
+
+
+### Weitzer Ryerzen
+- **Với Kuchiba Hatsumi**: Tôn kính, khâm phục sức mạnh. Gọi cô là "Anh hùng-dono".
+
+### Mauhario
+- **Với Kuchiba Hatsumi**: Coi là kẻ thù cần tiêu diệt để dâng đầu cho Nakshatra. Gọi cô là "Anh hùng của Liên minh" với thái độ khinh miệt và căm thù.
+- **Với Nakshatra**: Cuồng tín, gọi là "Ngài Nakshatra" (Nakshatra-sama).

@@ -461,3 +461,13 @@
 | **Eanru** | Eanru | Tên riêng | Một người đàn ông long nhân mặc trang phục kiểu Nhật, có sừng bạc. |
 | **Crimson Pain** | Nỗi đau Đỏ Thẫm / Crimson Pain | Danh hiệu | Một nhân vật mạnh mẽ bí ẩn được nhắc đến bởi nhóm của Clarissa, là con người nhưng rất mạnh. |
 | **theory of universal eternity** | lý thuyết vĩnh hằng phổ quát | Khái niệm | Hệ thống các định luật vật lý cấu tạo nên thế giới, nơi mà quy luật vật lý duy trì sự cân bằng và tồn tại vĩnh hằng. |
+
+| **Kuchiba Hatsumi** | Kuchiba Hatsumi | Tên riêng | Anh hùng của Liên minh Saadias. |
+| **Gaius Forvan** | Gaius Forvan | Tên riêng | Võ sư từ quốc gia Larsheem thuộc Liên minh. |
+| **Selphy Fittney** | Selphy Fittney | Tên riêng | Nữ pháp sư từ bang tự trị Selphy. |
+| **Weitzer Ryerzen** | Weitzer Ryerzen | Tên riêng | Hoàng tử kiêm kiếm sĩ của quốc gia Miazen thuộc Liên minh. Một trong Thất Kiếm. |
+| **Mauhario** | Mauhario | Tên riêng | Một Ma Tướng, tự xưng là Cuồng Phong Chớp Nhoáng (Violent Flickering Wind). |
+| **Norfolk** | Norfolk | Địa danh | Tên một vùng đất hoang. |
+| **Larsheem** | Larsheem | Địa danh | Tên một quốc gia thuộc Liên minh. |
+| **Miazen** | Miazen | Địa danh | Tên một quốc gia có chủ quyền thuộc Liên minh. |
+| **The Phantom Sword of the Kurikara Dharani, the Longsword of the Absolute Blade** | Ảo Kiếm Câu Lợi Già La Đà La Ni, Tuyệt Kiếm Trường Đao | Chiêu thức | Đòn tấn công tối thượng bằng kiếm của Hatsumi. |

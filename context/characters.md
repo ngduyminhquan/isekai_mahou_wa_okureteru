@@ -209,3 +209,28 @@ Dưới đây là hồ sơ chi tiết các nhân vật xuất hiện, định h�
 - **Vai trò**: Một người đàn ông bí ẩn xuất hiện trước mặt Rogue Zandyke ở cuối Tập 4. Hắn âm mưu lật đổ Nữ thần Alshuna và muốn mượn sức mạnh của Rogue.
 - **Tính cách**: Điềm tĩnh, tự tin, mang phong thái quý tộc thanh lịch nhưng mang tư tưởng cực đoan (chống lại Nữ thần). Hắn có vẻ sở hữu quyền lực hoặc sức mạnh đáng sợ để thực hiện lời hứa xóa sổ những kẻ xa lánh Liliana.
 - **Giọng thoại**: Lịch sự, bề ngoài cung kính nhưng ẩn chứa sự kiêu ngạo ngầm ("Tôi - Ngài / dono"). Hắn ăn nói thong thả, tự tin như nắm rõ mọi thứ.
+
+
+### 30. Kuchiba Hatsumi
+- **Vai trò**: Anh hùng của Liên minh Saadias, sở hữu sức mạnh và kỹ năng kiếm thuật siêu phàm.
+- **Tính cách**: Lạnh lùng, quả quyết, điềm tĩnh trong chiến đấu và có phong thái dẫn dắt như một thủ lĩnh.
+- **Vũ khí**: Một thanh uchigatana mithril dài gần 120cm được thợ rèn người lùn chế tạo.
+- **Giọng thoại**: Lạnh nhạt, tự tin, mang hơi hướng chiến binh dạn dày kinh nghiệm.
+
+### 31. Gaius Forvan
+- **Vai trò**: Võ sư từ quốc gia Larsheem, đồng đội của Hatsumi.
+- **Tính cách**: Sảng khoái, mạnh mẽ.
+
+### 32. Selphy Fittney
+- **Vai trò**: Nữ pháp sư từ bang tự trị Selphy, đồng đội của Hatsumi.
+- **Tính cách**: Điềm tĩnh, đáng tin cậy.
+
+### 33. Weitzer Ryerzen
+- **Vai trò**: Kiếm sĩ, hoàng tử của quốc gia Miazen, một trong Thất Kiếm, đồng đội của Hatsumi.
+- **Tính cách**: Kiên định, trang trọng, tôn kính Hatsumi.
+- **Giọng thoại**: Tôn kính, xưng hô lịch sự với Hatsumi ("Anh hùng-dono").
+
+### 34. Mauhario
+- **Vai trò**: Ma Tướng phục vụ Ma Vương Nakshatra. Tự xưng là Cuồng Phong Chớp Nhoáng.
+- **Tính cách**: Hiếu chiến, kiêu ngạo, thiên về sử dụng tốc độ trong chiến đấu.
+- **Giọng thoại**: Hung hãn, thét lác, cuồng tín với Ma Vương Nakshatra.
