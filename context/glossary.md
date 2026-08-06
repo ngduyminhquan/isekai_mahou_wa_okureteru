@@ -443,3 +443,6 @@
 | **Crowley era** | thời đại Crowley | Khái niệm | Một mốc thời gian khoảng 100 năm trước ở thế giới của Suimei, liên quan đến nguồn gốc hung danh. |
 | **Kenneth Grant** | Kenneth Grant | Tên riêng | Một người ở thế giới của Suimei, đã thiết lập hoàn chỉnh khái niệm về hung danh khoảng 50 năm trước. |
 | **nomina barbara** | nomina barbara | Khái niệm | Tên gọi khác (bằng tiếng Latinh) của hung danh (savage names) trong bí thuật học ở thế giới của Suimei. |
+| **Mea acies est facta invisibilis, sed est instar adamantinum acre, et demergit meus inimicum in sanguis.** | Lưỡi kiếm của ta được tạo ra vô hình, nhưng sắc bén như thép, nó dìm kẻ thù của ta vào vũng máu. | Ma thuật | Câu lệnh thi triển bí thuật tung vô số nhát chém vô hình của Suimei. |
+| **Dark Embrace** | Vòng Ôm Hắc Ám / Dark Embrace | Ma thuật | Một hắc ma pháp của Romeon tạo ra một cơn sóng bóng tối nuốt chửng mọi thứ. |
+| **Conluceto! O Ashurbanipalis fulgidus lapillus!** | Tỏa sáng! Hỡi viên ngọc rực rỡ của Ashurbanipal! | Ma thuật | Câu lệnh kích hoạt bí thuật thuộc tính hỏa của Suimei. |
