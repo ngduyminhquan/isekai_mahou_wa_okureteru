@@ -454,3 +454,4 @@
 | **Clauneck's Wind** | Ngọn Gió Của Clauneck / Clauneck's Wind | Ma thuật | Một bí thuật tấn công hệ phong của Felmenia. |
 | **Blade Discharge** | Phóng Điện Nhận / Blade Discharge | Ma thuật | Kỹ năng/ma thuật phóng điện từ vũ khí của Elliot. |
 | **magicka melt** | tan chảy bí thuật / magicka melt | Khái niệm | Hiện tượng ma pháp không thể kích hoạt do sự gia tăng cực đoan của entropy bí thuật. |
+| **Red Gale** | Cuồng Phong Đỏ / Red Gale | Khái niệm | Ngọn gió đỏ huyền thoại gắn liền với sức mạnh của tinh linh Ishaktney (hoặc Thánh nữ Alshalia). |
