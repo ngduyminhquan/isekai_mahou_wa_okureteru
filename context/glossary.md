@@ -476,3 +476,5 @@
 | **mnemonics** | thuật ghi nhớ | Khái niệm | Khả năng trích xuất chính xác những nội dung đã được ghi nhớ ra khỏi đầu, ứng dụng trong bí thuật. |
 | **strike magicka** | xung kích bí thuật | Ma thuật | Một loại bí thuật dễ hiểu có sử dụng nghi thức, tạo hiệu ứng khi búng tay. |
 | **The Valley Which Peeks Into Evil** | Thung Lũng Nhìn Trộm Ác Quỷ / The Valley Which Peeks Into Evil | Địa danh | Một thung lũng (vết nứt) khổng lồ sâu hoắm đóng vai trò ranh giới giữa Đế quốc, Liên minh và bang tự trị. |
+| **Grafille** | Grafille | Địa danh | Tên một quốc gia thuộc Liên minh Saadias. |
+| **Anti-Goddess Cult** | Giáo phái Chống Nữ thần | Tổ chức | Một tổ chức tôn giáo kêu gọi người dân từ bỏ đức tin vào Nữ thần Alshuna. |
