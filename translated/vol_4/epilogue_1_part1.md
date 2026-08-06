@@ -72,11 +72,11 @@ Khi Mizuki nghiêng đầu sang một bên, Reiji trả lời cô ấy khi một
 
 Nghe thấy điều này, Titania ném một cái nhìn trách móc về phía Suimei.
 
-"Suimei, anh nói rằng anh đang tìm đường về, nhưng điều đó có nghĩa là một khi anh tìm thấy nó, anh định sẽ bỏ lại Liliana một mình sao?"
+"Suimei, cậu nói rằng cậu đang tìm đường về, nhưng điều đó có nghĩa là một khi cậu tìm thấy nó, cậu định sẽ bỏ lại Liliana một mình sao?"
 
 Những lời của Titania dành cho cậu còn gai góc hơn bao giờ hết. Nhưng điều đó là có thể hiểu được. Một mặt, Suimei đang nói rằng cậu sẽ chăm sóc Liliana, trong khi mặt khác, cậu lại nói rằng mình muốn trở về thế giới của mình. Nghe chúng nối tiếp nhau, chúng nghe như những lời tuyên bố mâu thuẫn. Nhưng bản thân Suimei cũng đã nghĩ về chuyện này.
 
-"Tất nhiên là không rồi. Một khi tôi tìm được đường về, tôi sẽ đưa Liliana đi cùng và chăm sóc con bé đàng hoàng. Rốt cuộc thì việc tôi làm một điều gì đó cho đến khi con bé có thể tự đứng trên đôi chân của mình là điều hoàn toàn hợp lý mà."
+"Tất nhiên là không rồi. Một khi tớ tìm được đường về, tớ sẽ đưa Liliana đi cùng và chăm sóc con bé đàng hoàng. Rốt cuộc thì việc tớ làm một điều gì đó cho đến khi con bé có thể tự đứng trên đôi chân của mình là điều hoàn toàn hợp lý mà."
 
 "V-Vâng, đó là... hiển nhiên rồi. Nếu Suimei bỏ tôi lại và tự mình đi mất... sẽ là một vấn đề lớn đấy!"
 
