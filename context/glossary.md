@@ -440,3 +440,6 @@
 | **mystical entropy** | entropy bí thuật | Khái niệm | Một định luật trong lý thuyết bí thuật, đo lường sự hỗn loạn khi các thành phần quy luật bí thuật và vật lý xung đột. |
 | **mystical laws** | quy luật bí thuật / định luật bí thuật | Khái niệm | Các quy luật gây ra hiện tượng bí thuật. |
 | **physical laws** | quy luật vật lý / định luật vật lý | Khái niệm | Các quy luật chi phối hiện tượng vật lý thông thường trong thế giới. |
+| **Crowley era** | thời đại Crowley | Khái niệm | Một mốc thời gian khoảng 100 năm trước ở thế giới của Suimei, liên quan đến nguồn gốc hung danh. |
+| **Kenneth Grant** | Kenneth Grant | Tên riêng | Một người ở thế giới của Suimei, đã thiết lập hoàn chỉnh khái niệm về hung danh khoảng 50 năm trước. |
+| **nomina barbara** | nomina barbara | Khái niệm | Tên gọi khác (bằng tiếng Latinh) của hung danh (savage names) trong bí thuật học ở thế giới của Suimei. |
