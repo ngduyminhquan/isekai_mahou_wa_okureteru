@@ -130,7 +130,7 @@ Cuối cùng, ánh sáng cũng rút đi. Có vẻ như không có ai bị thươ
 
 "Cái gì?! Có thật không, Cô giáo?!"
 
-"Hả? Ồ... ừm, đúng vậy. Đó là một ma pháp được chuẩn bị từ trước... ừm... Mọichuyệnkhôngnhưcậuthấyđâu."
+"Hả? Ồ... ừm, đúng vậy. Đó là một ma pháp được chuẩn bị từ trước... ừm... Mọichuyệnkhôngnhưngàithấyđâu."
 
 Felmenia cố gắng duy trì màn kịch khi Reiji gặng hỏi. Sau đó, với một thái độ có phần gượng gạo, cô hắng giọng và quay sang Graziella.
 
