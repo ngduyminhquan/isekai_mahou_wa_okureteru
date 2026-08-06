@@ -460,3 +460,4 @@
 | **dragonnewt** | long nhân / dragonnewt | Khái niệm | Một chủng tộc á nhân mang đặc điểm của rồng, có sừng. |
 | **Eanru** | Eanru | Tên riêng | Một người đàn ông long nhân mặc trang phục kiểu Nhật, có sừng bạc. |
 | **Crimson Pain** | Nỗi đau Đỏ Thẫm / Crimson Pain | Danh hiệu | Một nhân vật mạnh mẽ bí ẩn được nhắc đến bởi nhóm của Clarissa, là con người nhưng rất mạnh. |
+| **theory of universal eternity** | lý thuyết vĩnh hằng phổ quát | Khái niệm | Hệ thống các định luật vật lý cấu tạo nên thế giới, nơi mà quy luật vật lý duy trì sự cân bằng và tồn tại vĩnh hằng. |
