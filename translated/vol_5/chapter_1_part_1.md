@@ -41,7 +41,7 @@ Hai cô gái vội vã cắm cúi ghi chép lại những gì Suimei đang nói.
 
 "Bằng cách cắt giảm những phần dư thừa, làm giảm bớt lượng thông tin liên quan và đơn giản hóa những hành động cần thiết, bí thuật sẽ trở nên dễ sử dụng hơn. Thậm chí ngay cả trong những tình huống mà người dùng không thể lên tiếng hoặc cử động bị hạn chế, các cô vẫn có thể thi triển bí thuật. Và phần này khá quan trọng, những bí thuật cần nhiều quá trình thao tác cũng có thể được rút ngắn thời gian kích hoạt."
 
-"Làm thế nào anh làm được điều đó vậy, Suimei?"
+"Làm thế nào anh làm được điều đó vậy, anh Suimei?"
 
 "Lấy ví dụ, giả sử cô có một câu chú gồm năm đoạn để thi triển một phép thuật. Khoảng thời gian cần thiết để đọc hết năm đoạn đó chính là thời gian kích hoạt của phép thuật. Nhưng giả sử chúng ta thay thế hai đoạn chú trong số đó bằng một cử chỉ tay. Bằng cách đó, khi chúng ta đọc câu chú..."
 
