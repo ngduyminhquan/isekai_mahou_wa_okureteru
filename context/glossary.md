@@ -437,3 +437,6 @@
 | **Augoeides** | Augoeides | Khái niệm | Một thuật ngữ/thực thể trong bí thuật được Suimei triệu hồi. |
 | **Carpet Bombing** | Rải Thảm Oanh Tạc / Carpet Bombing | Ma thuật | Một chiêu thức bí thuật tạo ra hàng loạt vòng tròn ma pháp oanh tạc. |
 | **alkahest** | dung môi Alkahest / Alkahest | Khái niệm | Một loại dung môi vạn năng trong giả kim thuật có khả năng phân giải mọi vật chất. |
+| **mystical entropy** | entropy bí thuật | Khái niệm | Một định luật trong lý thuyết bí thuật, đo lường sự hỗn loạn khi các thành phần quy luật bí thuật và vật lý xung đột. |
+| **mystical laws** | quy luật bí thuật / định luật bí thuật | Khái niệm | Các quy luật gây ra hiện tượng bí thuật. |
+| **physical laws** | quy luật vật lý / định luật vật lý | Khái niệm | Các quy luật chi phối hiện tượng vật lý thông thường trong thế giới. |
