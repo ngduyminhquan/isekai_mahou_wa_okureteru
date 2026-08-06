@@ -55,7 +55,7 @@ Dưới đây là danh sách các Phase tương ứng với từng phần dịch
 | **29** | Chapter 3 - Part 11 | `chapter_3_part11.txt` | 194 | 200 | 1792 | `chapter_3_part11.md` | **Hoàn thành** |
 | **30** | Chapter 3 - Part 12 | `chapter_3_part12.txt` | 195 | 200 | 1788 | `chapter_3_part12.md` | **Hoàn thành** |
 | **31** | Chapter 3 - Part 13 | `chapter_3_part13.txt` | 188 | 193 | 1883 | `chapter_3_part13.md` | **Hoàn thành** |
-| **32** | Chapter 4 - Part 1 | `chapter_4_part1.txt` | 195 | 200 | 1824 | `chapter_4_part1.md` | **Chưa bắt đầu** |
+| **32** | Chapter 4 - Part 1 | `chapter_4_part1.txt` | 195 | 200 | 1824 | `chapter_4_part1.md` | **Hoàn thành** |
 | **33** | Chapter 4 - Part 2 | `chapter_4_part2.txt` | 194 | 200 | 1946 | `chapter_4_part2.md` | **Chưa bắt đầu** |
 | **34** | Chapter 4 - Part 3 | `chapter_4_part3.txt` | 195 | 200 | 1944 | `chapter_4_part3.md` | **Chưa bắt đầu** |
 | **35** | Chapter 4 - Part 4 | `chapter_4_part4.txt` | 195 | 200 | 2005 | `chapter_4_part4.md` | **Chưa bắt đầu** |
