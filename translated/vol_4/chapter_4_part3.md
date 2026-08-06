@@ -152,7 +152,7 @@ Những câu thần chú của Suimei và Romeon hoàn toàn chồng chéo lên 
 
 [Tỏa sáng! Hỡi viên ngọc rực rỡ của Ashurbanipal!]
 
-Suimei và Romeon kích hoạt từ khóa của họ cùng một lúc. Bóng tối sinh ra đằng sau Romeon lao về phía trước và nuốt chửng mọi thứ trên đường đi của nó, trải dài ra như một cơn sóng lớn. Suimei bóp nát ngọn lửa đang tỏa sáng trong lòng bàn tay khi những ngọn lửa bùng nổ chen chúc xung quanh Romeon. Bên trong thư viện đang rung chuyển với một tiếng gầm gầm sấm sét, luồng sáng chói lóa...
+Suimei và Romeon kích hoạt từ khóa của họ cùng một lúc. Bóng tối sinh ra đằng sau Romeon lao về phía trước và nuốt chửng mọi thứ trên đường đi của nó, trải dài ra như một cơn sóng lớn. Suimei bóp nát ngọn lửa đang tỏa sáng trong lòng bàn tay khi những ngọn lửa bùng nổ chen chúc xung quanh Romeon. Bên trong thư viện đang rung chuyển với một tiếng gầm như sấm sét, luồng sáng chói lóa...
 
 ---
 
