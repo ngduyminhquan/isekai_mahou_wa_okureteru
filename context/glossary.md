@@ -471,3 +471,7 @@
 | **Larsheem** | Larsheem | Địa danh | Tên một quốc gia thuộc Liên minh. |
 | **Miazen** | Miazen | Địa danh | Tên một quốc gia có chủ quyền thuộc Liên minh. |
 | **The Phantom Sword of the Kurikara Dharani, the Longsword of the Absolute Blade** | Ảo Kiếm Câu Lợi Già La Đà La Ni, Tuyệt Kiếm Trường Đao | Chiêu thức | Đòn tấn công tối thượng bằng kiếm của Hatsumi. |
+| **cowhorn** | bò sừng dài / cowhorn | Sinh vật | Một sinh vật có sừng lớn và lông dài dùng để kéo xe. |
+| **liturgy / liturgical reduction of magicka** | nghi thức / giản lược nghi thức bí thuật | Khái niệm | Một kỹ thuật lấy các quá trình phức tạp cần thiết để sử dụng bí thuật và đơn giản hóa chúng thành những hành động đơn giản. |
+| **mnemonics** | thuật ghi nhớ | Khái niệm | Khả năng trích xuất chính xác những nội dung đã được ghi nhớ ra khỏi đầu, ứng dụng trong bí thuật. |
+| **strike magicka** | xung kích bí thuật | Ma thuật | Một loại bí thuật dễ hiểu có sử dụng nghi thức, tạo hiệu ứng khi búng tay. |
