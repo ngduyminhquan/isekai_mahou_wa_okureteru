@@ -426,6 +426,7 @@
 | **Secundum moenia, expansio localis** | Bức tường thứ hai, mở rộng cục bộ | Ma thuật | Câu lệnh triển khai bức tường phòng thủ thứ hai của Suimei. |
 | **White Flame Hyacinth** | Bạch Hỏa Dạ Lan Hương | Ma thuật | Một chiêu thức Bạch Hỏa mạnh mẽ của Felmenia, phóng ra những dải băng lửa trắng để cản đường đối thủ. |
 | **sinful figure** | hình hài tội lỗi / sinful figure | Khái niệm | Một thực thể (tà linh) là sự kết tụ của những ác ý đã được tinh luyện trong bí thuật học. |
+| **coma incidents** | các vụ hôn mê / sự kiện hôn mê | Sự kiện | Chuỗi các sự kiện người dân ở thủ đô Đế quốc đột nhiên rơi vào trạng thái hôn mê bí ẩn. |
 | **sinister being** | tà linh / sinister being | Khái niệm | Thuật ngữ bí thuật học chỉ một sinh vật tà ác được hình thành từ sự ác ý. |
 | **astrosus** | astrosus | Khái niệm | Một trạng thái hoặc mức độ đậm đặc của ma lực/ác ý trong cõi linh giới. |
 | **the faceless** | kẻ vô diện / the faceless | Khái niệm | Một khái niệm tồn tại trong cõi linh giới (astral plane). |
