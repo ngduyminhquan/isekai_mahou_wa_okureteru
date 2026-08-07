@@ -44,7 +44,7 @@ Dưới đây là danh sách các Phase tương ứng với từng phần dịch
 | **16** | Chapter 2: Relation of the Summoned - Part 2 | `chapter_2_part_2.txt` | 200 | 200 | 1926 | `chapter_2_part_2.md` | **Hoàn thành** |
 | **17** | Chapter 2: Relation of the Summoned - Part 3 | `chapter_2_part_3.txt` | 200 | 200 | 2087 | `chapter_2_part_3.md` | **Hoàn thành** |
 | **18** | Chapter 2: Relation of the Summoned - Part 4 | `chapter_2_part_4.txt` | 200 | 200 | 2017 | `chapter_2_part_4.md` | **Hoàn thành** |
-| **19** | Chapter 2: Relation of the Summoned - Part 5 | `chapter_2_part_5.txt` | 200 | 200 | 1995 | `chapter_2_part_5.md` | **Chưa bắt đầu** |
+| **19** | Chapter 2: Relation of the Summoned - Part 5 | `chapter_2_part_5.txt` | 200 | 200 | 1995 | `chapter_2_part_5.md` | **Hoàn thành** |
 | **20** | Chapter 2: Relation of the Summoned - Part 6 | `chapter_2_part_6.txt` | 200 | 200 | 2032 | `chapter_2_part_6.md` | **Chưa bắt đầu** |
 | **21** | Chapter 2: Relation of the Summoned - Part 7 | `chapter_2_part_7.txt` | 200 | 200 | 2074 | `chapter_2_part_7.md` | **Chưa bắt đầu** |
 | **22** | Chapter 2: Relation of the Summoned - Part 8 | `chapter_2_part_8.txt` | 200 | 200 | 1934 | `chapter_2_part_8.md` | **Chưa bắt đầu** |
