@@ -40,7 +40,7 @@ Mizuki cất tiếng gọi tên cậu bằng một giọng đầy lo lắng khi 
 
 "Tôi sẽ lặp lại một câu hỏi mà tôi từng hỏi, thưa ngài Reiji, ngài đã nói rằng mình hoàn toàn xa lạ với kiếm thuật, ma pháp và chiến đấu khi mới đến thế giới này, đúng không?"
 
-"...Đúng vậy, nhưng Elliot lại tỏ ra điềm tĩnh hơn tôi rất nhiều, cô biết chứ?"
+"...Đúng vậy, nhưng Elliot lại tỏ ra điềm tĩnh hơn tôi rất nhiều, cậu biết chứ?"
 
 "Tôi từng nghe nói rằng Anh hùng của El Meide vốn dĩ đã là một chiến binh dũng cảm ở thế giới của ngài ấy rồi. Khoảng cách giữa hai ngài đã tồn tại ngay từ khi bắt đầu. Tôi tin rằng việc ngài đã có thể thu hẹp khoảng cách với ngài ấy mới là điều đáng kinh ngạc hơn."
 

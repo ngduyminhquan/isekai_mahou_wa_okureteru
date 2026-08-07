@@ -70,7 +70,7 @@ Liliana có vẻ không thích bị Gaius đối xử như một đứa trẻ. C
 
 "Mối quan hệ giữa Liên minh và Đế quốc rất căng thẳng sao?"
 
-"Cậu không biết điều đó sao? Cậu quả là mù tịt về thế giới này nhỉ, đúng không? Đế quốc công khai hợp tác với Astel và Quốc gia tự trị, nhưng khi nói đến Liên minh thì chúng tôi chỉ là những người hàng xóm mà thôi, cậu hiểu chứ. Theo những gì tôi nghe được, dạo gần đây Đế quốc thậm chí còn đang rục rịch nhắm vào các quốc gia đồng minh nữa kìa."
+"Cậu không biết điều đó sao? Cậu quả là mù tịt về thế giới này nhỉ, đúng không? Đế quốc công khai hợp tác với Astel và bang tự trị, nhưng khi nói đến Liên minh thì chúng tôi chỉ là những người hàng xóm mà thôi, cậu hiểu chứ. Theo những gì tôi nghe được, dạo gần đây Đế quốc thậm chí còn đang rục rịch nhắm vào các quốc gia đồng minh nữa kìa."
 
 "Hả..."
 
@@ -128,7 +128,7 @@ Mizuki kiệt sức đáp lại như thể cô chỉ có mặt ở đó bằng t
 
 "Vâng. Mặc dù tôi cũng phần nào quen với việc này, nhưng tôi cũng gặp đôi chút khó khăn khi đối mặt với Bệ hạ Hoàng đế."
 
-"Tớ đoán vị thế của ông ấy... quả thực rất đáng kinh ngạc."
+"Tôi đoán vị thế của ông ấy... quả thực rất đáng kinh ngạc."
 
 "So với các hoàng tộc khác, Bệ hạ Hoàng đế quả thực rất khác biệt. Ngài ấy giống hệt như một loài thú săn mồi vậy."
 
