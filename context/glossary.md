@@ -488,3 +488,6 @@
 | **Empress of the Sword Dance** | N? Ð? Ki?m Vu | Danh hi?u | M?t danh hi?u khác c?a Rumeya (Camellia Sasanqua). |
 | **Aldephize** | Aldephize | Tên riêng | Cha c?a Lefille. C?u chi?n binh dã hi sinh d? câu gi? cho Lefille ch?y tr?n. |
 | **Kuchiba Kiyoshiro** | Kuchiba Kiyoshiro | Tên riêng | B?c th?y ki?m thu?t hàng d?u ? Nh?t B?n (th? gi?i cu), ngu?i dã d?y ki?m thu?t cho Suimei. |
+| **mystical entropy** | entropy huy?n bí | Khái ni?m | S? h?n lo?n ma l?c, liên quan d?n các gi?i h?n khi thi tri?n bí thu?t liên t?c trong m?t khu v?c. |
+| **Anti-Goddess Cult** | Giáo phái ch?ng N? th?n | T? ch?c | M?t t? ch?c d? giáo kêu g?i m?i ngu?i ru b? d?c tin và gông cùm c?a N? th?n. |
+| **Twilight Beheading Princess** | Công chúa Tr?m Th? Ch?ng V?ng | Danh hi?u | Danh hi?u trong Th?t Ki?m c?a công chúa Titania. |
