@@ -482,4 +482,9 @@
 | **self-governed state** | bang tự trị / quốc gia tự trị | Địa danh | Một bang hoặc quốc gia tự trị hợp tác với Đế quốc. |
 | **Thoria** | Thoria | Địa danh | Tên một thành phố/quốc gia thuộc Liên minh, nơi có một vị Anh hùng đang ở. |
 | **Sacrament** | Sacrament / Thánh tích | Vật phẩm | Một loại vũ khí huyền thoại do vị Anh hùng trong quá khứ để lại tại bang tự trị. |
-| **Nioh** | Kim Cương Lực Sĩ / Nioh | Khái niệm | Hai vị hung thần bảo hộ trong Phật giáo (thế giới cũ), được dùng để ví von một người đang tức giận. |
+| **Nioh** | Kim Cương Lực Sĩ / Nioh | Khái niệm | Hai vị hung thần bảo hộ trong Phật giáo (thế giới cũ), được dùng để ví von một người đang tức giận. || **Miazen** | Miazen | �?a danh | Qu?c gia c� ch? quy?n (minh ch?) c?a Li�n minh Saadias, du?c m?nh danh l� Th? d� c?a nh?ng thanh ki?m. |
+| **Rumeya** | Rumeya | T�n ri�ng | H?i tru?ng H?i M?o hi?m gi? chi nh�nh Miazen, th� nh�n t?c c�o v�ng. L� m?t trong Th?t Ki?m. |
+| **Camellia Sasanqua** | Camellia Sasanqua | Danh hi?u | Danh hi?u c?a Rumeya trong Th?t Ki?m, c�n du?c bi?t d?n v?i t�n g?i N? �? Ki?m Vu. |
+| **Empress of the Sword Dance** | N? �? Ki?m Vu | Danh hi?u | M?t danh hi?u kh�c c?a Rumeya (Camellia Sasanqua). |
+| **Aldephize** | Aldephize | T�n ri�ng | Cha c?a Lefille. C?u chi?n binh d� hi sinh d? c�u gi? cho Lefille ch?y tr?n. |
+| **Kuchiba Kiyoshiro** | Kuchiba Kiyoshiro | T�n ri�ng | B?c th?y ki?m thu?t h�ng d?u ? Nh?t B?n (th? gi?i cu), ngu?i d� d?y ki?m thu?t cho Suimei. |
