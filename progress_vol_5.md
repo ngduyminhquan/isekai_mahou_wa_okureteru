@@ -42,7 +42,7 @@ Dưới đây là danh sách các Phase tương ứng với từng phần dịch
 | **14** | Chapter 1: To the Saadias Alliance - Part 12 | `chapter_1_part_12.txt` | 188 | 188 | 1839 | `chapter_1_part_12.md` | **Hoàn thành** |
 | **15** | Chapter 2: Relation of the Summoned - Part 1 | `chapter_2_part_1.txt` | 200 | 200 | 1999 | `chapter_2_part_1.md` | **Hoàn thành** |
 | **16** | Chapter 2: Relation of the Summoned - Part 2 | `chapter_2_part_2.txt` | 200 | 200 | 1926 | `chapter_2_part_2.md` | **Hoàn thành** |
-| **17** | Chapter 2: Relation of the Summoned - Part 3 | `chapter_2_part_3.txt` | 200 | 200 | 2087 | `chapter_2_part_3.md` | **Chưa bắt đầu** |
+| **17** | Chapter 2: Relation of the Summoned - Part 3 | `chapter_2_part_3.txt` | 200 | 200 | 2087 | `chapter_2_part_3.md` | **Hoàn thành** |
 | **18** | Chapter 2: Relation of the Summoned - Part 4 | `chapter_2_part_4.txt` | 200 | 200 | 2017 | `chapter_2_part_4.md` | **Chưa bắt đầu** |
 | **19** | Chapter 2: Relation of the Summoned - Part 5 | `chapter_2_part_5.txt` | 200 | 200 | 1995 | `chapter_2_part_5.md` | **Chưa bắt đầu** |
 | **20** | Chapter 2: Relation of the Summoned - Part 6 | `chapter_2_part_6.txt` | 200 | 200 | 2032 | `chapter_2_part_6.md` | **Chưa bắt đầu** |

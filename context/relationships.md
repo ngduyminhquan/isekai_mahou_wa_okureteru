@@ -44,10 +44,13 @@ Quy tắc xưng hô và đại từ trong hội thoại giữa các nhân vật 
 - **Graziella <-> Suimei/Elliot**: Graziella mang phong thái kiêu ngạo, áp đặt, coi thường cả Suimei lẫn Elliot (xưng "Ta", gọi "Ngươi/tên khốn"). Suimei không nể nang, đáp trả gay gắt; trong khi Elliot miễn cưỡng giữ phép lịch sự bề ngoài.
 - **Romeon <-> Suimei/Felmenia**: Romeon quan tâm hỏi han (xưng "Tôi", gọi "Cậu Yakagi / Cô Stingray"). Suimei lịch sự từ chối ("Tôi - Anh thủ thư"). Felmenia tôn trọng ("Tôi - Ngài Romeon").
 - **Rogue Zandyke <-> Gottfried**: Gottfried tiếp cận Rogue với lời đề nghị hợp tác lật đổ Nữ thần, hứa sẽ dọn dẹp những kẻ đe dọa Liliana. Gottfried tỏ ra lịch sự nhưng đầy tự tin (xưng "Tôi", gọi "Zandyke-dono / Ngài"). Rogue ban đầu cảnh giác, tra hỏi (xưng "Ta", gọi "Ngươi"), nhưng sau đó xuôi theo thỏa thuận.
+- **Suimei <-> Rumeya**: Rumeya coi Suimei như một cậu nhóc thú vị để trêu chọc (xưng "Tôi", gọi "Cậu / Cậu bé hư hỏng"). Suimei có chút cảnh giác nhưng vẫn giữ lịch sự tối thiểu (xưng "Tôi", gọi "Bà / Rumeya-dono").
 
-
-### Weitzer Ryerzen
-- **Với Kuchiba Hatsumi**: Tôn kính, khâm phục sức mạnh. Gọi cô là "Anh hùng-dono".
+### Nhóm Anh hùng của Liên minh Saadias (Hatsumi's Party)
+- **Hatsumi <-> Selphy**: Bạn bè thân thiết, đồng đội vào sinh ra tử. Xưng hô hoàn toàn tự nhiên và thân mật (Cậu - Tớ).
+- **Hatsumi <-> Gaius**: Gaius là một võ sư lớn tuổi, ăn nói suồng sã, dân dã (xưng "Tôi", gọi Hatsumi bằng tên hoặc "Cô"). Dù hay trêu đùa gọi Hatsumi là "Vị anh hùng ngủ nướng", ông vẫn rất tin tưởng cô. Hatsumi tôn trọng nhưng đối đáp bình đẳng (xưng "Tôi", gọi "Ông / Gaius").
+- **Hatsumi <-> Weitzer**: Weitzer là hoàng tử luôn giữ phép tắc, ăn nói cực kì trang trọng và tôn kính Hatsumi (xưng "Tôi", gọi "Anh hùng-dono / Ngài"). Hatsumi cư xử bình đẳng nhưng thân thiện (xưng "Tôi", gọi "Cậu").
+- **Gaius <-> Weitzer**: Gaius dân dã, thường xuyên trêu chọc hoàng tử (xưng "Tôi", gọi "Cậu"). Weitzer đôi lúc khó chịu trước thái độ thiếu lễ độ của Gaius nhưng vẫn giữ phép lịch sự bề ngoài (xưng "Tôi", gọi "Ông").
 
 ### Mauhario
 - **Với Kuchiba Hatsumi**: Coi là kẻ thù cần tiêu diệt để dâng đầu cho Nakshatra. Gọi cô là "Anh hùng của Liên minh" với thái độ khinh miệt và căm thù.
