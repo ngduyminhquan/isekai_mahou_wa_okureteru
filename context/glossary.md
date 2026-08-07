@@ -480,3 +480,6 @@
 | **Anti-Goddess Cult** | Giáo phái Chống Nữ thần | Tổ chức | Một tổ chức tôn giáo kêu gọi người dân từ bỏ đức tin vào Nữ thần Alshuna. |
 | **Twilight Pavilion** | Twilight Pavilion | Tổ chức | Một cơ quan có thẩm quyền ở Liên minh, có thể cấp giấy phép cho kiếm sĩ. |
 | **self-governed state** | bang tự trị / quốc gia tự trị | Địa danh | Một bang hoặc quốc gia tự trị hợp tác với Đế quốc. |
+| **Thoria** | Thoria | Địa danh | Tên một thành phố/quốc gia thuộc Liên minh, nơi có một vị Anh hùng đang ở. |
+| **Sacrament** | Sacrament / Thánh tích | Vật phẩm | Một loại vũ khí huyền thoại do vị Anh hùng trong quá khứ để lại tại bang tự trị. |
+| **Nioh** | Kim Cương Lực Sĩ / Nioh | Khái niệm | Hai vị hung thần bảo hộ trong Phật giáo (thế giới cũ), được dùng để ví von một người đang tức giận. |
