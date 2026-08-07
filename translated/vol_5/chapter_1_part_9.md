@@ -114,11 +114,11 @@ Suimei ghét việc suy nghĩ quá nhiều, vì vậy cậu nhanh chóng lắc �
 
 "Có vẻ như chúng ta đã đi khá xa chủ đề chính rồi nhỉ? Ban đầu chúng ta đang nói về cái gì ấy nhỉ?" cô hỏi.
 
-"Về việc liệu... Suimei có phải là một kẻ nói dối hay không... đúng chứ?"
+"Về việc liệu... anh Suimei có phải là một kẻ nói dối hay không... đúng chứ?"
 
 "Này, Liliana, đừng nói dối tỉnh bơ như vậy chứ."
 
-"Tôi xin lỗi. Ý tôi là... liệu cậu ta có phải... là một kẻ cực kỳ dối trá hay không."
+"Tôi xin lỗi. Ý tôi là... liệu anh ấy có phải... là một kẻ cực kỳ dối trá hay không."
 
 "Này..."
 

@@ -100,7 +100,7 @@ Tin tưởng Lefille và lời nói của cô, Rumeya cười để lộ những
 
 Nghe Lefille nói một cách khiêm tốn như vậy, Rumeya nở một nụ cười ranh mãnh. Có lẽ cô đã nhìn thấu Lefille và có thể biết chính xác cô thực sự mạnh đến mức nào. Sự nhạy bén của một kiếm sĩ lành nghề quả thực rất đáng sợ. Suimei không hề nghi ngờ việc sức mạnh của Lefille có thể sánh ngang với một trong Thất Kiếm, nhưng...
 
-"Nhân tiện thì, tại sao Lefi không phải là một trong Thất Kiếm? Cô cũng mạnh cỡ đó mà, phải không?"
+"Nhân tiện thì, tại sao Lefi không phải là một trong Thất Kiếm? Cậu cũng mạnh cỡ đó mà, phải không?"
 
 Suimei đã từng thắc mắc về điều đó trước đây, nhưng cuộc trò chuyện này lại khơi dậy câu hỏi đó trong tâm trí cậu. Lefille là người trả lời cậu.
 
