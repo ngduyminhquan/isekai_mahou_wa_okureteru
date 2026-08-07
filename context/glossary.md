@@ -479,3 +479,4 @@
 | **Grafille** | Grafille | Địa danh | Tên một quốc gia thuộc Liên minh Saadias. |
 | **Anti-Goddess Cult** | Giáo phái Chống Nữ thần | Tổ chức | Một tổ chức tôn giáo kêu gọi người dân từ bỏ đức tin vào Nữ thần Alshuna. |
 | **Twilight Pavilion** | Twilight Pavilion | Tổ chức | Một cơ quan có thẩm quyền ở Liên minh, có thể cấp giấy phép cho kiếm sĩ. |
+| **self-governed state** | bang tự trị / quốc gia tự trị | Địa danh | Một bang hoặc quốc gia tự trị hợp tác với Đế quốc. |
