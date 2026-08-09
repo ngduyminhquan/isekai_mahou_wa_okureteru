@@ -491,3 +491,9 @@
 | **mystical entropy** | entropy huy?n b� | Kh�i ni?m | S? h?n lo?n ma l?c, li�n quan d?n c�c gi?i h?n khi thi tri?n b� thu?t li�n t?c trong m?t khu v?c. |
 | **Anti-Goddess Cult** | Gi�o ph�i ch?ng N? th?n | T? ch?c | M?t t? ch?c d? gi�o k�u g?i m?i ngu?i ru b? d?c tin v� g�ng c�m c?a N? th?n. |
 | **Twilight Beheading Princess** | C�ng ch�a Tr?m Th? Ch?ng V?ng | Danh hi?u | Danh hi?u trong Th?t Ki?m c?a c�ng ch�a Titania. |
+| **Loud Tyrant** | Loud Tyrant / Bạo chúa Cuồng nộ | Ma thuật | Ma pháp gió của Selphy tạo ra nhiều lốc xoáy. |
+| **Vortex Blockade** | Vortex Blockade / Vòng lốc xoáy Phòng ngự | Ma thuật | Ma pháp phòng ngự gió của Selphy tạo thành lốc xoáy chặn đòn tấn công. |
+| **Ephemeral Razing** | Ephemeral Razing / Bão tuyết Hủy diệt | Ma thuật | Ma pháp băng/gió mạnh nhất của Selphy, tạo ra một nhà ngục bão tuyết. |
+| **O flammae, legito. Pro venefici doloris clamore...** | O flammae, legito. Pro venefici doloris clamore... | Bí thuật | Câu niệm chú bí thuật hỏa của Suimei (Hỡi ngọn lửa, hãy tập hợp lại. Tựa như tiếng thét của sự phẫn uất từ ma thuật sư...). |
+| **Parito colluctatione et aestuato. Deferto impedimentum fatum atrox.** | Parito colluctatione et aestuato. Deferto impedimentum fatum atrox. | Bí thuật | Câu niệm chú bí thuật hỏa của Suimei (Hãy trao hình hài cho nỗi đau đớn của cái chết và bùng cháy. Ban cho kẻ cản bước ta một số phận kinh hoàng.). |
+| **Conluceto. O Ashurbanipalis fulgidus lapillus.** | Conluceto. O Ashurbanipalis fulgidus lapillus. | Bí thuật | Câu niệm chú bí thuật hỏa của Suimei (Tỏa sáng đi. Hỡi viên ngọc chói lọi của Ashurbanipal.). |

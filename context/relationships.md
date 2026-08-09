@@ -57,6 +57,10 @@ Quy tắc xưng hô và đại từ trong hội thoại giữa các nhân vật 
 - **Với Nakshatra**: Cuồng tín, gọi là "Ngài Nakshatra" (Nakshatra-sama).
 
 ### Tương tác với Hatsumi's Party (Volume 5)
-- **Suimei <-> Hatsumi (Mất trí nhớ)**: Suimei cố gắng tiếp cận với tư cách bạn thuở nhỏ (xưng "Tớ", gọi "Cậu"). Hatsumi xem cậu là kẻ đột nhập xa lạ, cảnh giác và thù địch (xưng "Tôi", gọi "Cậu").
+- **Suimei <-> Hatsumi (Mất trí nhớ)**: Suimei cố gắng tiếp cận với tư cách bạn thuở nhỏ (thực chất là em họ) (xưng "Tớ", gọi "Cậu"). Hatsumi xem cậu là kẻ đột nhập xa lạ, cảnh giác và thù địch (xưng "Tôi", gọi "Cậu").
 - **Suimei <-> Gaius**: Gaius xem Suimei là một tên nhóc thú vị nhưng đáng ngờ (xưng "Tôi", gọi "Nhóc / Cậu"). Suimei đáp trả một cách thoải mái, dân dã (xưng "Tôi", gọi "Lão già / Ông").
 - **Suimei <-> Weitzer**: Weitzer coi Suimei là kẻ thù xâm phạm tôn nghiêm của Anh hùng, thái độ lạnh lùng, sắc bén (xưng "Ta" (hoặc ẩn danh), gọi "Ngươi / Tên vô lại"). Suimei giữ thái độ bình tĩnh, có phần nhượng bộ nhưng không sợ hãi (xưng "Tôi", gọi "Anh / Hoàng tử").
+
+### Nhóm của Clarissa (Volume 5)
+- **Clarissa <-> Jillbert**: Quen biết từ lâu, thân thiết. Clarissa lịch sự, kiểu cách nhưng thân thiện (xưng "Tôi", gọi "Cô / Jill"). Jillbert dân dã, đôi khi cộc cằn nhưng quan tâm (xưng "Tớ", gọi "Cậu / Clara"). Cả hai đều có chung bí mật về "bóng tối".
+- **Eanru <-> Clarissa/Jillbert**: Eanru xuề xòa, thân thiện, hay bị Jillbert mắng vì không biết đọc bầu không khí (xưng "Tôi", gọi "Hai người"). Jillbert tỏ ra bực bội nhưng vẫn nói chuyện bình thường (gọi "Ngươi / Tên rồng / Con rồng kia"). Clarissa giao tiếp lịch sự nhưng trực tiếp với Eanru (xưng "Tôi").

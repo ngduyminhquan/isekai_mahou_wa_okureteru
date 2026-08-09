@@ -45,13 +45,13 @@ Dưới đây là danh sách các Phase tương ứng với từng phần dịch
 | **17** | Chapter 2: Relation of the Summoned - Part 3 | `chapter_2_part_3.txt` | 200 | 200 | 2087 | `chapter_2_part_3.md` | **Hoàn thành** |
 | **18** | Chapter 2: Relation of the Summoned - Part 4 | `chapter_2_part_4.txt` | 200 | 200 | 2017 | `chapter_2_part_4.md` | **Hoàn thành** |
 | **19** | Chapter 2: Relation of the Summoned - Part 5 | `chapter_2_part_5.txt` | 200 | 200 | 1995 | `chapter_2_part_5.md` | **Hoàn thành** |
-| **20** | Chapter 2: Relation of the Summoned - Part 6 | `chapter_2_part_6.txt` | 200 | 200 | 2032 | `chapter_2_part_6.md` | **Chưa bắt đầu** |
-| **21** | Chapter 2: Relation of the Summoned - Part 7 | `chapter_2_part_7.txt` | 200 | 200 | 2074 | `chapter_2_part_7.md` | **Chưa bắt đầu** |
-| **22** | Chapter 2: Relation of the Summoned - Part 8 | `chapter_2_part_8.txt` | 200 | 200 | 1934 | `chapter_2_part_8.md` | **Chưa bắt đầu** |
-| **23** | Chapter 2: Relation of the Summoned - Part 9 | `chapter_2_part_9.txt` | 200 | 200 | 1996 | `chapter_2_part_9.md` | **Chưa bắt đầu** |
-| **24** | Chapter 2: Relation of the Summoned - Part 10 | `chapter_2_part_10.txt` | 200 | 200 | 2059 | `chapter_2_part_10.md` | **Chưa bắt đầu** |
-| **25** | Chapter 2: Relation of the Summoned - Part 11 | `chapter_2_part_11.txt` | 200 | 200 | 1849 | `chapter_2_part_11.md` | **Chưa bắt đầu** |
-| **26** | Chapter 2: Relation of the Summoned - Part 12 | `chapter_2_part_12.txt` | 200 | 200 | 1937 | `chapter_2_part_12.md` | **Chưa bắt đầu** |
+| **20** | Chapter 2: Relation of the Summoned - Part 6 | `chapter_2_part_6.txt` | 200 | 200 | 2032 | `chapter_2_part_6.md` | **Hoàn thành** |
+| **21** | Chapter 2: Relation of the Summoned - Part 7 | `chapter_2_part_7.txt` | 200 | 200 | 2074 | `chapter_2_part_7.md` | **Hoàn thành** |
+| **22** | Chapter 2: Relation of the Summoned - Part 8 | `chapter_2_part_8.txt` | 200 | 200 | 1934 | `chapter_2_part_8.md` | **Hoàn thành** |
+| **23** | Chapter 2: Relation of the Summoned - Part 9 | `chapter_2_part_9.txt` | 200 | 200 | 1996 | `chapter_2_part_9.md` | **Hoàn thành** |
+| **24** | Chapter 2: Relation of the Summoned - Part 10 | `chapter_2_part_10.txt` | 200 | 200 | 2059 | `chapter_2_part_10.md` | **Hoàn thành** |
+| **25** | Chapter 2: Relation of the Summoned - Part 11 | `chapter_2_part_11.txt` | 200 | 200 | 1849 | `chapter_2_part_11.md` | **Hoàn thành** |
+| **26** | Chapter 2: Relation of the Summoned - Part 12 | `chapter_2_part_12.txt` | 200 | 200 | 1937 | `chapter_2_part_12.md` | **Hoàn thành** |
 | **27** | Chapter 2: Relation of the Summoned - Part 13 | `chapter_2_part_13.txt` | 200 | 200 | 1976 | `chapter_2_part_13.md` | **Chưa bắt đầu** |
 | **28** | Chapter 2: Relation of the Summoned - Part 14 | `chapter_2_part_14.txt` | 134 | 134 | 1306 | `chapter_2_part_14.md` | **Chưa bắt đầu** |
 | **29** | Chapter 3: On the Evening of the New - Part 1 | `chapter_3_part_1.txt` | 200 | 200 | 2158 | `chapter_3_part_1.md` | **Chưa bắt đầu** |
