@@ -110,4 +110,4 @@ Trong những lời nói đó, Lishbaum đã bộc lộ những cảm xúc mà h
 
 ---
 [<<< Điều hướng >>>]
-[Chương trước](./chapter_2_part_13.md) | [Chương sau](../chapter_3_part_1.md)
+[Chương trước](./chapter_2_part_13.md) | [Chương sau](./chapter_3_part_1.md)
