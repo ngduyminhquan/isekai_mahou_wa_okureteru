@@ -123,6 +123,8 @@ Quy tắc xưng hô và đại từ trong hội thoại giữa các nhân vật 
 - **Suimei <-> Hatsumi (Mất trí nhớ)**: Suimei cố gắng tiếp cận với tư cách bạn thuở nhỏ (thực chất là anh em họ) (xưng "Tớ", gọi "Cậu"). Hatsumi bước đầu tin tưởng Suimei khi biết cậu là người thân từ thế giới cũ nhưng vẫn giữ thái độ cảnh giác (xưng "Tôi", gọi "Cậu").
 - **Suimei <-> Gaius**: Gaius xem Suimei là một tên nhóc thú vị nhưng đáng ngờ (xưng "Tôi", gọi "Nhóc / Cậu"). Suimei đáp trả một cách thoải mái, dân dã (xưng "Tôi", gọi "Lão già / Ông").
 - **Suimei <-> Weitzer**: Weitzer coi Suimei là kẻ thù xâm phạm tôn nghiêm của Anh hùng, thái độ lạnh lùng, sắc bén (xưng "Ta" (hoặc ẩn danh), gọi "Ngươi / Tên vô lại"). Suimei giữ thái độ bình tĩnh, có phần nhượng bộ nhưng không sợ hãi (xưng "Tôi", gọi "Anh / Hoàng tử").
+- **Eanru <-> Suimei**: Eanru ban đầu coi thường và muốn giết Suimei vì nghĩ cậu là kẻ yếu đuối nhát gan (xưng "Ta", gọi "Ngươi / Tên khốn"). Sau khi Suimei đỡ được đòn tấn công, Eanru trở nên phấn khích cuồng độ, công nhận sức mạnh và sự dũng cảm của Suimei. Suimei tỏ ra run rẩy, sợ hãi trước sát khí áp đảo của Eanru.
+- **Eanru <-> Hatsumi**: Eanru phớt lờ Hatsumi dù cô là Anh hùng, chỉ xem cô như một chiến lợi phẩm và tuyên bố sẽ bắt cô đi (xưng "Ta", gọi "Cô"). Hatsumi cảnh giác và hoang mang trước sức mạnh của hắn.
 
 ### Nhóm của Clarissa (Volume 5)
 - **Clarissa <-> Jillbert**: Quen biết từ lâu, thân thiết. Clarissa lịch sự, kiểu cách nhưng thân thiện (xưng "Tôi", gọi "Cô / Jill"). Jillbert dân dã, đôi khi cộc cằn nhưng quan tâm (xưng "Tớ", gọi "Cậu / Clara"). Cả hai đều có chung bí mật về "bóng tối".

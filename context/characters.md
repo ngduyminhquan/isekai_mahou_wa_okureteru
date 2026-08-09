@@ -1,4 +1,4 @@
-﻿# Characters - Há»“ sÆ¡ nhÃ¢n váº­t
+# Characters - Há»“ sÆ¡ nhÃ¢n váº­t
 
 DÆ°á»›i Ä‘Ã¢y lÃ  há»“ sÆ¡ chi tiáº¿t cÃ¡c nhÃ¢n váº­t xuáº¥t hiá»‡n, Ä‘á»‹nh hÃ¬nh tÃ­nh cÃ¡ch vÃ  giá»ng vÄƒn khi dá»‹ch há»™i thoáº¡i sang tiáº¿ng Viá»‡t.
 
@@ -245,3 +245,8 @@ DÆ°á»›i Ä‘Ã¢y lÃ  há»“ sÆ¡ chi tiáº¿t cÃ¡c nhÃ¢n váº
 - **Vai trò**: Một nữ Ma Tướng phục vụ dưới trướng Ma Vương Nakshatra, mang hình dáng một cô gái trẻ độ xuân thì có đôi cánh dơi đen nhánh.
 - **Tính cách**: Dâm đãng, tàn độc, thích đùa giỡn và đập nát kẻ thù.
 - **Giọng thoại**: Cợt nhả, chế giễu (thường cười Ahahaha).
+
+### 37. Eanru
+- **Vai trò**: Một Long nhân (Dragonnewt), có sừng bạc, được xưng tụng là Anh hùng của Liên minh Saadias.
+- **Tính cách**: Xuề xòa, thân thiện (với đồng minh), nhưng lại cực kỳ hiếu chiến, hung tợn và cuồng tín khi gặp kẻ mạnh. Khinh thường kẻ yếu hèn, nhưng tôn trọng sức mạnh thực sự và những hành động dũng cảm bảo vệ người khác.
+- **Giọng thoại**: Ngạo mạn, trịch thượng (xưng "Ta", gọi đối thủ là "Ngươi", "Tên khốn"), nhưng khi hưng phấn sẽ bật cười lớn và dành những lời khen ngợi cuồng nhiệt ("Bravo!").
