@@ -12,7 +12,7 @@ Tất cả lũ quỷ có cánh đều đã hoàn toàn biến mất, nhưng Vuis
 
 Đòn tấn công của Suimei vừa rồi thậm chí không chừa lại lấy một kẽ hở ba xăng-ti-mét nào để một con chuột có thể trốn thoát. Ngay cả những cây hắc mộc (darkwood) cứng cáp trong khu vực cũng bị thổi bay hoặc đốn ngã một cách tàn nhẫn. Cơn bão ánh sáng dữ dội đến mức có cả những tảng đất lớn bị xới tung lên. Nhưng mặc dù vậy, Vuishta vẫn bình an vô sự. Như thể chưa từng có chuyện gì xảy ra, chiếc áo choàng của hắn vẫn khẽ tung bay giữa không trung. Suimei chứng kiến cảnh này và buông một tiếng rên rỉ đầy phiền não.
 
-"Ngay cả đại bí thuật cũng không có tác dụng sao...? Đòn vừa rồi chẳng phải đã đủ tốt để xóa sổ những con khác rồi ư? Không, chỉ là ma pháp đã không xuyên qua được cơ thể hắn..."
+"Ngay cả đại bí thuật cũng không có tác dụng sao...? Đòn vừa rồi chẳng phải đã đủ mạnh để xóa sổ những con khác rồi ư? Không, chỉ là ma pháp đã không xuyên qua được cơ thể hắn..."
 
 Hatsumi có thể nghe thấy cậu đang nói với một giọng điệu đầy bối rối pha trộn một vài thuật ngữ chuyên môn. Có vẻ như cậu cũng không biết lý do tại sao các đòn tấn công của họ lại không có tác dụng với Vuishta. Bất chấp sự hoang mang của mình, Suimei một lần nữa mở miệng.
 
@@ -114,7 +114,7 @@ Sau khi cậu ta nói xong, Vuishta bắn ra sức mạnh tà ác mà hắn đã
 
 "Gì cơ...? Thì là, để sống sót, hay gì đó..."
 
-"Không. Nếu không thể thắng, chúng ta chỉ việc chạy. Cậu... Khi mất đi trí nhớ, cậu cũng đánh mất luôn não của mình rồi à?"
+"Không. Nếu không thể thắng, chúng ta chỉ việc bỏ chạy thôi. Cậu... Khi mất đi trí nhớ, cậu cũng đánh mất luôn não của mình rồi à?"
 
 "Cậu bảo ai ngốc hả?!"
 

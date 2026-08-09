@@ -120,7 +120,7 @@ Hatsumi cũng có cùng suy nghĩ đó. Bản thân cô đã từng tự mình �
 
 Suimei dừng lại ở đó một lúc trước khi tiếp tục.
 
-"Có thể sẽ ổn nếu cậu chưa đánh bại tên ma tướng nói trên. Việc bỏ chạy ngay bây giờ và đánh cược vào việc sẽ chạm trán hắn ta một lần nữa sau khi cậu tập hợp lại lực lượng là một sự lựa chọn hoàn toàn hợp lệ. Nhưng, về mặt cá nhân mà nói, tớ có một lý do chính đáng để hạ gục hắn ngay tại đây và ngay lúc này."
+"Có thể sẽ chẳng sao nếu cậu chưa đánh bại tên ma tướng đó. Việc bỏ chạy ngay bây giờ và đánh cược vào việc sẽ chạm trán hắn ta một lần nữa sau khi cậu tập hợp lại lực lượng là một sự lựa chọn hoàn toàn hợp lý. Nhưng, về mặt cá nhân mà nói, tớ có một lý do chính đáng để hạ gục hắn ngay tại đây và ngay lúc này."
 
 "T-Tại sao lại vậy?"
 
@@ -178,7 +178,7 @@ Hắn ta nói với một giọng điệu kiêu ngạo, thực chất chỉ đ�
 
 "Kẻ đứng cạnh ngươi có vẻ không sở hữu bất kỳ đặc điểm nào của những người được mô tả trong các báo cáo, nhưng ngươi có phải là một trong những người đồng đội của anh hùng không?"
 
-"Không phải. Ta là người thân."
+"Không phải. Tôi là người thân."
 
 "..."
 
@@ -188,7 +188,7 @@ Thật vô lý. Đột nhiên, Vuishta bắt đầu bật cười.
 
 "Ta đã nhận được báo cáo rằng chúng ta đã mất dấu ngươi và có hơi hoảng hốt một chút, nhưng ngươi thực sự đã giúp chúng ta đỡ mất công tìm kiếm ngươi đấy. Xét cho cùng, như thể muốn thông báo rằng mình đang ở đây, ngươi đã luôn rải ra ma lực một cách quá rõ ràng như vậy mà."
 
-"Vậy ra việc sử dụng sức mạnh của ta hóa ra lại hữu ích nhỉ? Chà, thế thì tốt rồi. Ngươi nghĩ sao về việc trao cho ta một phần thưởng vì công sức này nhỉ?"
+"Vậy ra việc sử dụng sức mạnh của tôi hóa ra lại hữu ích nhỉ? Chà, thế thì tốt rồi. Ngươi nghĩ sao về việc trao cho tôi một phần thưởng vì công sức này nhỉ?"
 
 "Được, tất nhiên rồi. Ta sẽ đền bù cho ngươi bằng máu. Heh heh heh..."
 

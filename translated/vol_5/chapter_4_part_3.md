@@ -46,7 +46,7 @@ Con người bình thường không có đủ phương tiện để đối phó 
 
 Trước khi lũ quỷ lọt vào tầm tấn công, Hatsumi lao về phía trước như một cơn gió lốc hướng tới con gần nhất. Con quỷ không kịp ngạc nhiên trước bộ pháp của cô, thứ đã rút ngắn khoảng cách giữa chúng về không chỉ trong nháy mắt. Trước khi biểu cảm của nó kịp thay đổi, đầu nó đã lăn lông lốc trên mặt đất. Và rồi, không để mất đi chút đà nào, Hatsumi chuyển sang con quỷ tiếp theo. Cô lao tới con đang dở dang phản ứng với việc con đầu tiên bị chém hạ. Nhận thấy con quỷ này cao hơn mình, Hatsumi vung cánh tay phải ra và đâm thẳng vào mặt nó.
 
-Khi đối đầu với số lượng lớn kẻ thù, đâm là một lựa chọn di chuyển rất tồi. Đó là một kỹ thuật mạnh mẽ, nhưng yêu cầu phải rút lưỡi kiếm lại ngay sau đó, điều này có thể để lộ sơ hở và làm chậm trễ nước đi tiếp theo của người tấn công.
+Khi đối đầu với số lượng lớn kẻ thù, đâm là một đòn tấn công rất tồi. Đó là một kỹ thuật mạnh mẽ, nhưng yêu cầu phải rút lưỡi kiếm lại ngay sau đó, điều này có thể để lộ sơ hở và làm chậm trễ đòn đánh tiếp theo.
 
 Tuy nhiên, điều đó không thành vấn đề với một người lão luyện như Hatsumi. Sau khi đâm vào mặt con quỷ, cô chỉ đơn giản là rướn người tới và ấn lưỡi kiếm sâu hơn. Bất chấp những tia máu, thịt và chất xám bắn tung tóe, cô vung kiếm chém toạc qua nửa đầu con quỷ để tấn công mục tiêu tiếp theo.
 
