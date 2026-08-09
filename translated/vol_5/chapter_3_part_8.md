@@ -174,7 +174,7 @@ Suimei gạt phăng mọi lo lắng của họ như thể chúng chẳng là gì
 
 Ngay khi Felmenia định đề nghị đi cùng cậu, Lefille đã ngăn cô lại.
 
-"Không, Tiểu thư Felmenia. Chúng ta sẽ ở lại đây."
+"Không, Menia. Chúng ta sẽ ở lại đây."
 
 "Hả? Tại sao?!"
 

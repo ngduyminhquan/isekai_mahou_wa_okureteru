@@ -506,3 +506,6 @@
 | **Empress of the Sword Dance** | Kiếm Vũ Nữ Hoàng | Danh hiệu | Danh hiệu của Camellia Sasanqua. |
 | **White Flame Hyacinth** | Bạch Hỏa Dạ Lan Hương | Ma thuật | Một phép thuật Bạch Hỏa càn quét diện rộng. |
 | **General of the Fist** | Quyền Tướng | Danh hiệu | Danh hiệu của Gaius Forvan (hoặc một số võ sư hạng cao) từ quốc gia Larsheem. |
+
+| **Cloud of Death** | Đám Mây Chết | Danh hiệu | Danh hiệu của Weitzer Ryerzen. |
+| **The Bloody Art of the Fallen Flower** | Huyết Kỹ Hoa Rơi | Kỹ năng | Kiếm kỹ của Camellia Sasanqua, chém mọi thứ xung quanh thành từng mảnh tạo thành hoa văn như bông hoa trà. |
