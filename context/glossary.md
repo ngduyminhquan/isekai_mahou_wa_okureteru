@@ -501,3 +501,7 @@
 | **Latora** | Latora | Tên riêng | Một nữ Ma Tướng phục vụ dưới trướng Ma Vương Nakshatra, có đôi cánh dơi. |
 | **Grallajearus** | Grallajearus | Tên riêng | Một Ma Tướng phục vụ dưới trướng Ma Vương Nakshatra. |
 | **Striga** | Striga | Tên riêng | Một Ma Tướng phục vụ dưới trướng Ma Vương Nakshatra. |
+| **Twilight Pavilion** | Lữ quán Chạng Vạng / Twilight Pavilion | Tổ chức | Một chi nhánh/guild mạo hiểm giả cung cấp viện binh. |
+| **Camellia Sasanqua** | Camellia Sasanqua | Tên riêng | Một nữ kiếm sĩ hạng cao trong guild, được mệnh danh là Kiếm Vũ Nữ Hoàng (Empress of the Sword Dance). |
+| **Empress of the Sword Dance** | Kiếm Vũ Nữ Hoàng | Danh hiệu | Danh hiệu của Camellia Sasanqua. |
+| **White Flame Hyacinth** | Bạch Hỏa Dạ Lan Hương | Ma thuật | Một phép thuật Bạch Hỏa càn quét diện rộng. |
