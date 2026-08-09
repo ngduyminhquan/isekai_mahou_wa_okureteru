@@ -52,8 +52,8 @@ Dưới đây là danh sách các Phase tương ứng với từng phần dịch
 | **24** | Chapter 2: Relation of the Summoned - Part 10 | `chapter_2_part_10.txt` | 200 | 200 | 2059 | `chapter_2_part_10.md` | **Hoàn thành** |
 | **25** | Chapter 2: Relation of the Summoned - Part 11 | `chapter_2_part_11.txt` | 200 | 200 | 1849 | `chapter_2_part_11.md` | **Hoàn thành** |
 | **26** | Chapter 2: Relation of the Summoned - Part 12 | `chapter_2_part_12.txt` | 200 | 200 | 1937 | `chapter_2_part_12.md` | **Hoàn thành** |
-| **27** | Chapter 2: Relation of the Summoned - Part 13 | `chapter_2_part_13.txt` | 200 | 200 | 1976 | `chapter_2_part_13.md` | **Chưa bắt đầu** |
-| **28** | Chapter 2: Relation of the Summoned - Part 14 | `chapter_2_part_14.txt` | 134 | 134 | 1306 | `chapter_2_part_14.md` | **Chưa bắt đầu** |
+| **27** | Chapter 2: Relation of the Summoned - Part 13 | `chapter_2_part_13.txt` | 200 | 200 | 1976 | `chapter_2_part_13.md` | **Hoàn thành** |
+| **28** | Chapter 2: Relation of the Summoned - Part 14 | `chapter_2_part_14.txt` | 134 | 134 | 1306 | `chapter_2_part_14.md` | **Hoàn thành** |
 | **29** | Chapter 3: On the Evening of the New - Part 1 | `chapter_3_part_1.txt` | 200 | 200 | 2158 | `chapter_3_part_1.md` | **Chưa bắt đầu** |
 | **30** | Chapter 3: On the Evening of the New - Part 2 | `chapter_3_part_2.txt` | 200 | 200 | 1942 | `chapter_3_part_2.md` | **Chưa bắt đầu** |
 | **31** | Chapter 3: On the Evening of the New - Part 3 | `chapter_3_part_3.txt` | 200 | 200 | 2111 | `chapter_3_part_3.md` | **Chưa bắt đầu** |

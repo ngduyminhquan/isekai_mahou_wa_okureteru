@@ -64,3 +64,9 @@ Quy tắc xưng hô và đại từ trong hội thoại giữa các nhân vật 
 ### Nhóm của Clarissa (Volume 5)
 - **Clarissa <-> Jillbert**: Quen biết từ lâu, thân thiết. Clarissa lịch sự, kiểu cách nhưng thân thiện (xưng "Tôi", gọi "Cô / Jill"). Jillbert dân dã, đôi khi cộc cằn nhưng quan tâm (xưng "Tớ", gọi "Cậu / Clara"). Cả hai đều có chung bí mật về "bóng tối".
 - **Eanru <-> Clarissa/Jillbert**: Eanru xuề xòa, thân thiện, hay bị Jillbert mắng vì không biết đọc bầu không khí (xưng "Tôi", gọi "Hai người"). Jillbert tỏ ra bực bội nhưng vẫn nói chuyện bình thường (gọi "Ngươi / Tên rồng / Con rồng kia"). Clarissa giao tiếp lịch sự nhưng trực tiếp với Eanru (xưng "Tôi").
+
+### Lực lượng của Ma Vương Nakshatra
+- **Nakshatra <-> Vuishta / Ilzarl / Latora**: Bề trên / Kẻ dưới. Các Ma Tướng gọi Nakshatra là "Your Majesty / Bệ hạ" và xưng "Thần". Nakshatra xưng "Ta", gọi bề tôi là "Ngươi" hoặc tên.
+- **Ilzarl <-> Vuishta**: Ilzarl khinh bỉ Vuishta vì đã lợi dụng cái chết của Mauhario làm mồi nhử (xưng "Ta", gọi "Ngươi / Tên khốn"). Vuishta không bận tâm, chỉ cười cợt nhả.
+- **Latora <-> Vuishta**: Latora nghi ngờ khả năng của Vuishta, thích cách hành quyết tàn bạo. Vuishta tự tin đáp trả.
+- **Khối thịt <-> Vuishta**: Khối thịt thường xuyên mỉa mai, nói móc Vuishta vì thói ngạo mạn. Vuishta phớt lờ.

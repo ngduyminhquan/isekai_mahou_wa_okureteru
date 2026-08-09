@@ -235,3 +235,13 @@ DÆ°á»›i Ä‘Ã¢y lÃ  há»“ sÆ¡ chi tiáº¿t cÃ¡c nhÃ¢n váº
 - **TÃ­nh cÃ¡ch**: Hiáº¿u chiáº¿n, kiÃªu ngáº¡o, thiÃªn vá» sá»­ dá»¥ng tá»‘c Ä‘á»™ trong chiáº¿n Ä‘áº¥u.
 - **Giá»ng thoáº¡i**: Hung hÃ£n, thÃ©t lÃ¡c, cuá»“ng tÃ­n vá»›i Ma VÆ°Æ¡ng Nakshatra.
 
+
+### 35. Ilzarl
+- **Vai trò**: Một trong các Ma Tướng phục vụ dưới trướng Ma Vương Nakshatra. Mang hình dáng một người đàn ông với mái tóc dài màu trắng, đôi mắt đỏ ngầu và vóc dáng mảnh khảnh.
+- **Tính cách**: Khinh khỉnh, lạnh lùng, tự mãn.
+- **Giọng thoại**: Đều đều, khinh miệt kẻ yếu (xưng "Ta", gọi "Ngươi / Tên khốn"). Tôn kính Ma Vương (xưng "Thần", gọi "Bệ hạ").
+
+### 36. Latora
+- **Vai trò**: Một nữ Ma Tướng phục vụ dưới trướng Ma Vương Nakshatra, mang hình dáng một cô gái trẻ độ xuân thì có đôi cánh dơi đen nhánh.
+- **Tính cách**: Dâm đãng, tàn độc, thích đùa giỡn và đập nát kẻ thù.
+- **Giọng thoại**: Cợt nhả, chế giễu (thường cười Ahahaha).

@@ -497,3 +497,7 @@
 | **O flammae, legito. Pro venefici doloris clamore...** | O flammae, legito. Pro venefici doloris clamore... | Bí thuật | Câu niệm chú bí thuật hỏa của Suimei (Hỡi ngọn lửa, hãy tập hợp lại. Tựa như tiếng thét của sự phẫn uất từ ma thuật sư...). |
 | **Parito colluctatione et aestuato. Deferto impedimentum fatum atrox.** | Parito colluctatione et aestuato. Deferto impedimentum fatum atrox. | Bí thuật | Câu niệm chú bí thuật hỏa của Suimei (Hãy trao hình hài cho nỗi đau đớn của cái chết và bùng cháy. Ban cho kẻ cản bước ta một số phận kinh hoàng.). |
 | **Conluceto. O Ashurbanipalis fulgidus lapillus.** | Conluceto. O Ashurbanipalis fulgidus lapillus. | Bí thuật | Câu niệm chú bí thuật hỏa của Suimei (Tỏa sáng đi. Hỡi viên ngọc chói lọi của Ashurbanipal.). |
+| **Ilzarl** | Ilzarl | Tên riêng | Một trong các Ma Tướng phục vụ dưới trướng Ma Vương Nakshatra. |
+| **Latora** | Latora | Tên riêng | Một nữ Ma Tướng phục vụ dưới trướng Ma Vương Nakshatra, có đôi cánh dơi. |
+| **Grallajearus** | Grallajearus | Tên riêng | Một Ma Tướng phục vụ dưới trướng Ma Vương Nakshatra. |
+| **Striga** | Striga | Tên riêng | Một Ma Tướng phục vụ dưới trướng Ma Vương Nakshatra. |
