@@ -70,7 +70,7 @@ Dưới đây là danh sách các Phase tương ứng với từng phần dịch
 | **42** | Chapter 4: Hunt the Moon - Part 4 | `chapter_4_part_4.txt` | 200 | 200 | 2104 | `chapter_4_part_4.md` | **Hoàn thành** |
 | **43** | Chapter 4: Hunt the Moon - Part 5 | `chapter_4_part_5.txt` | 200 | 200 | 2051 | `chapter_4_part_5.md` | **Hoàn thành** |
 | **44** | Chapter 4: Hunt the Moon - Part 6 | `chapter_4_part_6.txt` | 41 | 41 | 411 | `chapter_4_part_6.md` | **Hoàn thành** |
-| **45** | Epilogue - Part 1 | `epilogue_part_1.txt` | 200 | 200 | 2074 | `epilogue_part_1.md` | **Chưa bắt đầu** |
+| **45** | Epilogue - Part 1 | `epilogue_part_1.txt` | 200 | 200 | 2074 | `epilogue_part_1.md` | **Hoàn thành** |
 | **46** | Epilogue - Part 2 | `epilogue_part_2.txt` | 104 | 104 | 1029 | `epilogue_part_2.md` | **Chưa bắt đầu** |
 
 ---
