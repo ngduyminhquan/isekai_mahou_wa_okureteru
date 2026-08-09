@@ -62,7 +62,7 @@ Dưới đây là danh sách các Phase tương ứng với từng phần dịch
 | **34** | Chapter 3: On the Evening of the New - Part 6 | `chapter_3_part_6.txt` | 200 | 200 | 1947 | `chapter_3_part_6.md` | **Hoàn thành** |
 | **35** | Chapter 3: On the Evening of the New - Part 7 | `chapter_3_part_7.txt` | 200 | 200 | 2012 | `chapter_3_part_7.md` | **Hoàn thành** |
 | **36** | Chapter 3: On the Evening of the New - Part 8 | `chapter_3_part_8.txt` | 200 | 200 | 1823 | `chapter_3_part_8.md` | **Hoàn thành** |
-| **37** | Chapter 3: On the Evening of the New - Part 9 | `chapter_3_part_9.txt` | 200 | 200 | 2018 | `chapter_3_part_9.md` | **Chưa bắt đầu** |
+| **37** | Chapter 3: On the Evening of the New - Part 9 | `chapter_3_part_9.txt` | 200 | 200 | 2018 | `chapter_3_part_9.md` | **Hoàn thành** |
 | **38** | Chapter 3: On the Evening of the New - Part 10 | `chapter_3_part_10.txt` | 115 | 115 | 1081 | `chapter_3_part_10.md` | **Chưa bắt đầu** |
 | **39** | Chapter 4: Hunt the Moon - Part 1 | `chapter_4_part_1.txt` | 200 | 200 | 2138 | `chapter_4_part_1.md` | **Chưa bắt đầu** |
 | **40** | Chapter 4: Hunt the Moon - Part 2 | `chapter_4_part_2.txt` | 200 | 200 | 2038 | `chapter_4_part_2.md` | **Chưa bắt đầu** |
