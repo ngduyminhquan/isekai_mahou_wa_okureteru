@@ -57,7 +57,7 @@ Quy tắc xưng hô và đại từ trong hội thoại giữa các nhân vật 
 - **Với Nakshatra**: Cuồng tín, gọi là "Ngài Nakshatra" (Nakshatra-sama).
 
 ### Tương tác với Hatsumi's Party (Volume 5)
-- **Suimei <-> Hatsumi (Mất trí nhớ)**: Suimei cố gắng tiếp cận với tư cách bạn thuở nhỏ (thực chất là em họ) (xưng "Tớ", gọi "Cậu"). Hatsumi xem cậu là kẻ đột nhập xa lạ, cảnh giác và thù địch (xưng "Tôi", gọi "Cậu").
+- **Suimei <-> Hatsumi (Mất trí nhớ)**: Suimei cố gắng tiếp cận với tư cách bạn thuở nhỏ (thực chất là anh em họ) (xưng "Tớ", gọi "Cậu"). Hatsumi bước đầu tin tưởng Suimei khi biết cậu là người thân từ thế giới cũ nhưng vẫn giữ thái độ cảnh giác (xưng "Tôi", gọi "Cậu").
 - **Suimei <-> Gaius**: Gaius xem Suimei là một tên nhóc thú vị nhưng đáng ngờ (xưng "Tôi", gọi "Nhóc / Cậu"). Suimei đáp trả một cách thoải mái, dân dã (xưng "Tôi", gọi "Lão già / Ông").
 - **Suimei <-> Weitzer**: Weitzer coi Suimei là kẻ thù xâm phạm tôn nghiêm của Anh hùng, thái độ lạnh lùng, sắc bén (xưng "Ta" (hoặc ẩn danh), gọi "Ngươi / Tên vô lại"). Suimei giữ thái độ bình tĩnh, có phần nhượng bộ nhưng không sợ hãi (xưng "Tôi", gọi "Anh / Hoàng tử").
 
