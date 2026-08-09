@@ -18,7 +18,7 @@ Hatsumi có thể nghe thấy cậu đang nói với một giọng điệu đầ
 
 "Mea acies est facta invisibilis, sed est instar adamantinum acre, et demergit meus inimicum in sanguis. Abripit in atomos!"
 
-[Lưỡi kiếm của ta mang hình dáng vô hình, nhưng sắc bén tựa thép nguội, nó nhấn chìm kẻ thù trong vũng máu. Hãy thổi bay mọi thứ thành tro bụi!]
+[Lưỡi kiếm của ta được tạo ra vô hình, nhưng sắc bén như thép, nó dìm kẻ thù của ta vào vũng máu. Hãy thổi bay mọi thứ thành tro bụi!]
 
 Ngay khi Vuishta chuẩn bị hành động, Suimei đã bắn ra ma pháp tiếp theo của mình. Ngay khi câu niệm chú của cậu kết thúc, những cây hắc mộc, mặt đất và những tảng đá vương vãi đều bất ngờ bị xé toạc và thổi bay. Hatsumi không thể biết liệu chúng là những lưỡi kiếm tạo ra từ không khí hay chỉ là những lưỡi kiếm vô hình, nhưng mọi thứ xung quanh đều đang bị băm vằm khi cơn bão của những nhát chém vô hình vẫn tiếp diễn mà không có dấu hiệu dừng lại. Vuishta đã bị che khuất giữa lớp bụi mờ và những mảnh gỗ bay mịt mù. Nhưng Suimei không định nương tay cho đến khi toàn bộ khu vực bị san phẳng. Lần này chắc chắn...
 
