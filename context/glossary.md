@@ -348,7 +348,7 @@
 | **astral body** | thể linh hồn | Khái niệm | Lớp vỏ bọc đóng vai trò làm vật chứa cho linh hồn. |
 | **spiritual body** | cơ thể tâm linh | Khái niệm | Một cấu trúc bổ sung giúp duy trì sự tồn tại của những sinh vật mang nửa dòng máu tinh linh như Lefille. |
 | **Lishbaum** | Lishbaum | Tên riêng | Một trong các Ma Tướng phục vụ dưới trướng Ma Vương Nakshatra. |
-| **Vuishta** | Vuishta | Tên riêng | Một con quỷ được Ma Vương Nakshatra ra lệnh tập hợp lực lượng. |
+| **Vuishta** | Vuishta | Tên riêng | Một Ma Tướng (Demon General) lãnh đạo một trong bảy đội quân quỷ dưới trướng Ma Vương Nakshatra. |
 | **Moolah** | Moolah | Tên riêng | Một con quỷ được Ma Vương Nakshatra ra lệnh tập hợp lực lượng. |
 | **homunculus** | người nhân tạo / homunculus | Khái niệm | Một sinh vật nhân tạo được tạo ra bởi ma thuật giả kim (như Hydemary). |
 | **Georg Bettendorf** | Georg Bettendorf | Tên riêng | Bạn thân của cha Suimei, chuyên gia vũ trang của Hội Bác Học. |
