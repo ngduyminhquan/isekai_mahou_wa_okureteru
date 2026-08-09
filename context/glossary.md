@@ -505,3 +505,4 @@
 | **Camellia Sasanqua** | Camellia Sasanqua | Tên riêng | Một nữ kiếm sĩ hạng cao trong guild, được mệnh danh là Kiếm Vũ Nữ Hoàng (Empress of the Sword Dance). |
 | **Empress of the Sword Dance** | Kiếm Vũ Nữ Hoàng | Danh hiệu | Danh hiệu của Camellia Sasanqua. |
 | **White Flame Hyacinth** | Bạch Hỏa Dạ Lan Hương | Ma thuật | Một phép thuật Bạch Hỏa càn quét diện rộng. |
+| **General of the Fist** | Quyền Tướng | Danh hiệu | Danh hiệu của Gaius Forvan (hoặc một số võ sư hạng cao) từ quốc gia Larsheem. |
