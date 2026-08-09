@@ -83,4 +83,5 @@ Cho phép tôi một lần nữa cảm ơn từng người trong số các bạn
 - Gamei Hitsuji
 
 ---
-[Chương trước: Epilogue - Part 1](epilogue_part_1.md)
+[<<< Điều hướng >>>]
+[Chương trước](./epilogue_part_1.md)

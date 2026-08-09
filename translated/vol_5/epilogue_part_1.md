@@ -157,4 +157,5 @@ Có lẽ vì câu hỏi đầy run rẩy của Suimei đã đánh trúng đích,
 "Quả đúng như tớ nghĩ..."
 
 ---
-[Chương trước: Chapter 4 - Part 6](chapter_4_part_6.md) | [Chương tiếp theo: Epilogue - Part 2](epilogue_part_2.md)
+[<<< Điều hướng >>>]
+[Chương trước](./chapter_4_part_6.md) | [Chương sau](./epilogue_part_2.md)

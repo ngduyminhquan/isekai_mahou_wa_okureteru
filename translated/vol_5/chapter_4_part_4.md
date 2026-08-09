@@ -90,7 +90,7 @@ Trong khi đánh bại đồng loại của Vuishta, người đàn ông đó đ
 
 Cuối cùng, đôi vai của vị anh hùng bắt đầu chùng xuống như thể cô đang mất dần hy vọng. Có lẽ cô rốt cuộc cũng nhận ra rằng mình không thể đánh bại hắn dù có làm gì đi chăng nữa. Cô rũ mắt nhìn xuống, buông thõng hai vai và cay đắng cắn chặt môi. Nhìn thấy bộ dạng của cô lúc này đúng là quá nực cười. Nó cứ như thể cô gái đáng sợ khi bắt đầu trận chiến chỉ là một trò đùa vậy.
 
-"Heh heh hehÁ HÁ HÁ HÁ!"
+"Heh heh heh... Á HÁ HÁ HÁ!"
 
 Không thể kìm nén được niềm vui sướng của mình, Vuishta dồn thứ sức mạnh tà ác của mình vào móng vuốt. Sẽ chỉ mất vài khoảnh khắc nữa thôi. Trong vài giây ngắn ngủi, hắn sẽ lấy đầu vị anh hùng và giành lấy vinh dự là kẻ đầu tiên giết được một anh hùng. Chẳng còn bất cứ ai có thể ngáng đường—
 
