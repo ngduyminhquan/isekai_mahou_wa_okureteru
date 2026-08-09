@@ -509,3 +509,10 @@
 
 | **Cloud of Death** | Đám Mây Chết | Danh hiệu | Danh hiệu của Weitzer Ryerzen. |
 | **The Bloody Art of the Fallen Flower** | Huyết Kỹ Hoa Rơi | Kỹ năng | Kiếm kỹ của Camellia Sasanqua, chém mọi thứ xung quanh thành từng mảnh tạo thành hoa văn như bông hoa trà. |
+| **Danguma** | Danguma | Khái niệm | Biểu tượng/con mắt trong Phật giáo/bí thuật phương Tây được Suimei sử dụng. |
+| **Ajunya** | Ajunya | Khái niệm | Biểu tượng Phật giáo được Suimei nhắc đến. |
+| **Jnanachakusya** | Jnanachakusya | Khái niệm | Khái niệm/linh hồn được Suimei tụng niệm. |
+| **Kudrack** | Kudrack | Tên riêng | Một sinh vật/kẻ sở hữu kỹ năng tấn công xuyên không gian (ma cà rồng ở Trái Đất). |
+| **Hunt the Moon** | Cuộc săn lùng dưới ánh trăng | Sự kiện / Ma thuật | Kỹ năng/Tình huống Suimei sử dụng để xóa bỏ ánh trăng, tước đi khả năng nhìn thấu của Vuishta. |
+| **The Phantom Sword of the Kurikara Dharani** | Kiếm Ảo của Câu-lợi-ca-la Đà-la-ni | Ma thuật | Thanh kiếm ma thuật của Hatsumi. |
+| **The Hazy Cross** | Màn Sương Thập Tự | Kỹ năng | Một kiếm kỹ thuộc Kiếm Ảo của Câu-lợi-ca-la Đà-la-ni. |
