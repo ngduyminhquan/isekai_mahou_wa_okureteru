@@ -58,7 +58,7 @@ Dưới đây là danh sách các Phase tương ứng với từng phần dịch
 | **30** | Chapter 3: On the Evening of the New - Part 2 | `chapter_3_part_2.txt` | 200 | 200 | 1942 | `chapter_3_part_2.md` | **Hoàn thành** |
 | **31** | Chapter 3: On the Evening of the New - Part 3 | `chapter_3_part_3.txt` | 200 | 200 | 2111 | `chapter_3_part_3.md` | **Hoàn thành** |
 | **32** | Chapter 3: On the Evening of the New - Part 4 | `chapter_3_part_4.txt` | 200 | 200 | 2011 | `chapter_3_part_4.md` | **Hoàn thành** |
-| **33** | Chapter 3: On the Evening of the New - Part 5 | `chapter_3_part_5.txt` | 200 | 200 | 2104 | `chapter_3_part_5.md` | **Chưa bắt đầu** |
+| **33** | Chapter 3: On the Evening of the New - Part 5 | `chapter_3_part_5.txt` | 200 | 200 | 2104 | `chapter_3_part_5.md` | **Hoàn thành** |
 | **34** | Chapter 3: On the Evening of the New - Part 6 | `chapter_3_part_6.txt` | 200 | 200 | 1947 | `chapter_3_part_6.md` | **Chưa bắt đầu** |
 | **35** | Chapter 3: On the Evening of the New - Part 7 | `chapter_3_part_7.txt` | 200 | 200 | 2012 | `chapter_3_part_7.md` | **Chưa bắt đầu** |
 | **36** | Chapter 3: On the Evening of the New - Part 8 | `chapter_3_part_8.txt` | 200 | 200 | 1823 | `chapter_3_part_8.md` | **Chưa bắt đầu** |
