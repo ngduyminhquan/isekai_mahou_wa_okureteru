@@ -80,7 +80,7 @@ Cả Lefille và Liliana đều khá dày dặn kinh nghiệm trong chiến đ�
 
 Trong lúc cuộc trao đổi này diễn ra, Suimei nghi hoặc nhìn quanh. Cậu chợt nhận ra rằng một người đáng lẽ phải ở đó... lại không thấy đâu.
 
-"Cậu có thấy Hatsumi đâu không, Menia?"
+"Cô có thấy Hatsumi đâu không, Menia?"
 
 "Bây giờ ngài nhắc đến, thần mới thấy cô ấy có vẻ không có ở đây..."
 
@@ -208,7 +208,7 @@ Giọng nói lạnh lùng của Lefille chất chứa một cơn phẫn nộ phi
 
 "Mọi chuyện là như vậy đó, Suimei-kun."
 
-"Cảm ơn, tôi sẽ để lại cho mọi người. Cả cậu nữa, Menia, và Rumeya."
+"Cảm ơn, tôi sẽ để lại cho mọi người. Cả cô nữa, Menia, và Rumeya."
 
 "Ngài cứ tin tưởng ở chúng thần."
 
