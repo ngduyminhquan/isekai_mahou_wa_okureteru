@@ -40,7 +40,7 @@ Một sự im lặng nặng nề bao trùm lấy không khí trong chốc lát. 
 
 "Vậy, chúng ta sẽ tính sao về viện binh?"
 
-"Kế hoạch chính của chúng thần, thưa Điện hạ, là gửi thêm nhiều viện binh từ đây. Và kế hoạch dự phòng... Thần thành thật xin lỗi, nhưng chúng thần muốn Hero-sama dẫn dắt họ."
+"Kế hoạch chính của chúng thần, thưa Điện hạ, là gửi thêm nhiều viện binh từ đây. Và kế hoạch dự phòng... Thần thành thật xin lỗi, nhưng chúng thần muốn Ngài Anh hùng dẫn dắt họ."
 
 Sĩ quan tham mưu vừa đề xuất kế hoạch đang đứng nghiêm trang. Lý do họ đề xuất kế hoạch chính trước có lẽ là một cách kêu gọi dè dặt đối với anh hùng. Xét về mọi mặt, đó là nước đi tốt nhất. Nhưng những sĩ quan tham mưu và tướng lĩnh đơn thuần không có thẩm quyền để trực tiếp ra lệnh cho anh hùng ra trận. Cảm nhận được những gì họ đang mong mỏi ở mình, Hatsumi gật đầu quả quyết.
 

@@ -108,7 +108,7 @@ Với những lời đó, bầu không khí đóng băng trong vọng lâu tan c
 
 "Về phần tôi, nếu đó là điều cậu muốn, thì..."
 
-"Điều đó hoàn toàn phụ thuộc vào cậu. Về cá nhân, tớ sẽ rất buồn, nhưng cậu biết làm sao được?"
+"Điều đó hoàn toàn phụ thuộc vào cậu. Về cá nhân, tôi sẽ rất buồn, nhưng cậu biết làm sao được?"
 
 "Ừ..."
 
