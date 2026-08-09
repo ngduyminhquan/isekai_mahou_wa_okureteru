@@ -148,7 +148,7 @@ Cầm chiếc đèn lồng giơ lên cao, Suimei bắt đầu bước đi. Mặc
 
 "Ừm, tớ nghĩ là mình đã từng nghe nói về thứ này trước đây..."
 
-Suimei lên tiếng bằng một giọng điệu đầy ngưỡng mộ. Mặc cho tình hình nguy cấp, cậu dườngường như chẳng hề mang một chút căng thẳng nào. Hơi ngạc nhiên trước cách hành xử của cậu, Hatsumi hỏi cậu về một điều đang hiện hữu trong tâm trí cô.
+Suimei lên tiếng bằng một giọng điệu đầy ngưỡng mộ. Mặc cho tình hình nguy cấp, cậu dường như chẳng hề mang một chút căng thẳng nào. Hơi ngạc nhiên trước cách hành xử của cậu, Hatsumi hỏi cậu về một điều đang hiện hữu trong tâm trí cô.
 
 "Này, cậu có gặp Selphy và những người khác trên đường đến đây không?"
 

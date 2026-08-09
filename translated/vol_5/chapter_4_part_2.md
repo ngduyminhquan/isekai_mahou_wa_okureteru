@@ -4,7 +4,7 @@
 
 "Nhưng không ngờ chỉ có cậu là đến tận đây..."
 
-"Có khả năng mục tiêu thực sự của chúng chỉ là tôi thôi. Đó là lý do tại sao tôi lại kết thúc ở đây."
+"Có khả năng mục tiêu thực sự của chúng chỉ là tôi thôi. Đó là lý do tại sao tôi lại bị dồn đến tận đây."
 
 "Hả...?"
 
@@ -108,11 +108,11 @@ Hatsumi bất giác nín thở, và rồi đôi mắt của Suimei lóe lên s�
 
 "Đ-Đó là những gì tôi đang nghĩ... Tại sao cậu lại hỏi vậy?"
 
-"Nếu chúng đã cất công lên một kế hoạch như thế, mục tiêu sẽ là trừ khử cậu một khi cậu bị cô lập. Nên tớ thấy thật khó tin khi chúng chỉ cử những tên tép riu đến theo đuổi cậu. Để đảm bảo mọi chuyện được giải quyết, chúng sẽ cử một ma tướng đến."
+"Nếu chúng đã cất công lên một kế hoạch như thế, mục tiêu sẽ là trừ khử cậu một khi cậu bị cô lập. Nên tớ thấy thật khó tin khi chúng chỉ cử những tên tép riu đến truy đuổi cậu. Để đảm bảo mọi chuyện được giải quyết, chúng sẽ cử một ma tướng đến."
 
 "Đó là..."
 
-Hatsumi cũng có cùng suy nghĩ đó. Bản thân cô đã từng tự mình đánh bại một ma tướng rồi, nên ít nhất cũng cần một con quỷ mạnh mẽ như vậy mới dám thách thức cô. Nên giống như những gì Suimei nói, việc chúng cử một ma tướng đến theo dõi cô là điều không thể tránh khỏi.
+Hatsumi cũng có cùng suy nghĩ đó. Bản thân cô đã từng tự mình đánh bại một ma tướng rồi, nên ít nhất cũng cần một con quỷ mạnh mẽ như vậy mới dám thách thức cô. Nên giống như những gì Suimei nói, việc chúng cử một ma tướng đến truy lùng cô là điều không thể tránh khỏi.
 
 "Nhưng điều đó thì có liên quan gì đến việc làm chúng ta bị chú ý chứ?"
 

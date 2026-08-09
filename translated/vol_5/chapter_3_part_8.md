@@ -100,7 +100,7 @@ Suimei lườm anh ta chằm chằm, nhưng Weitzer chỉ trừng mắt nhìn l�
 
 "Ngậm miệng lại và lo chuyện của ngươi đi."
 
-Không có thời gian để sa vào những cuộc cãi vã vặt vãnh, nên Suimei không lãng phí thì giờ dùng vũ lực khóa chặt miệng của viên sĩ quan tham mưu. Không còn có thể tự ý mở miệng được nữa, viên sĩ quan tham mưu đứng hình trong ngạc nhiên một lúc, và rồi chật vật cố gắng mở miệng ra bằng tay.
+Không có thời gian để sa vào những cuộc cãi vã vặt vãnh, nên Suimei không lãng phí thì giờ mà trực tiếp khóa chặt miệng của viên sĩ quan tham mưu. Không còn có thể tự ý mở miệng được nữa, viên sĩ quan tham mưu đứng hình trong ngạc nhiên một lúc, và rồi chật vật cố gắng mở miệng ra bằng tay.
 
 "Còn ai muốn phàn nàn cái chó gì nữa không? Bước lên đây."
 
