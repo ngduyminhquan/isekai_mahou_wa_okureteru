@@ -20,7 +20,7 @@ Quay ngoắt 180 độ so với vẻ bĩu môi vừa rồi, Felmenia giờ đây
 
 Khi Suimei tuyên bố rằng tất cả bọn họ đều đang sống chung dưới một mái nhà, cậu dường như không thực sự bận tâm đến việc Liliana đang gật đầu đồng tình bên cạnh cậu. Đối với cậu, cậu có lẽ chỉ coi các cô gái như những người đồng đội và bạn cùng phòng. Cậu có lẽ nhận thức được rằng mình đang có mối quan hệ tốt hơn với tất cả bọn họ, nhưng bởi vì mỗi người đều có những lý do riêng—Felmenia được vua Almadious phái đến và Lefille thì có lời nguyền cần cân nhắc—chàng trai nở muộn Suimei, người chẳng có chút kinh nghiệm tình trường nào, đã không thể nắm bắt đúng đắn được tình cảm của họ.
 
-"Felmenia Stingray, đây mới chỉ là khởi đầu. Tất cả bắt đầu từ đây. Mày chỉ mới bắt đầu học bí thuật, và mày đã hứa sẽ đến thăm một thế giới khác. Vẫn còn rất nhiều cơ hội để trở nên thân thiết hơn. Rất nhiều!"
+"Felmenia Stingray, đây mới chỉ là khởi đầu. Tất cả bắt đầu từ đây. Mình chỉ mới bắt đầu học bí thuật, và mình đã hứa sẽ đến thăm một thế giới khác. Vẫn còn rất nhiều cơ hội để trở nên thân thiết hơn. Rất nhiều!"
 
 Felmenia quay lưng về phía họ và bắt đầu lầm bầm tự khích lệ bản thân. Liliana lúc này kéo nhẹ tay áo Suimei.
 
@@ -112,13 +112,13 @@ Hiện tượng đó—nói cách khác chính là những thứ đã tấn côn
 
 "Cái tên... nếu tôi nhớ không lầm..."
 
-"Hội chứng chạng vạng."
+"Hội chứng Chạng vạng."
 
 Cậu chưa từng chính thức giải thích điều này cho Liliana. Tuy nhiên, Felmenia đã từng chứng kiến nó một lần trước đây.
 
 "Ngài Suimei, vậy tại sao chúng lại xuất hiện? Lần trước khi tôi hỏi, ngài đã nói rằng đó là một thứ không thể xảy ra ở thế giới này."
 
-"Tôi cũng từng nghĩ vậy. Trên thực tế, nguồn sức mạnh tự nhiên ở thế giới này rất mạnh mẽ, vì vậy nó đáng lẽ không nên ở giai đoạn mà hội chứng chạng vạng có thể xảy ra."
+"Tôi cũng từng nghĩ vậy. Trên thực tế, nguồn sức mạnh tự nhiên ở thế giới này rất mạnh mẽ, vì vậy nó đáng lẽ không nên ở giai đoạn mà Hội chứng Chạng vạng có thể xảy ra."
 
 "Nhưng nếu nó vẫn xảy ra vào lúc đó bất chấp điều kiện như vậy, điều đó có nghĩa là..."
 
@@ -134,7 +134,7 @@ Nghe vậy, Liliana nghiêng đầu sang một bên.
 
 "Điều đó là đúng, nhưng có hai câu ngạn ngữ nảy ra trong đầu tôi. 'Những chuyện trọng đại thường xảy ra thường xuyên hơn những chuyện tầm thường', và 'tự nhiên không tạo ra những bước nhảy vọt vĩ đại'. Mọi thứ trong tự nhiên đều tiến triển một cách dần dần; không có những bước nhảy vọt đột ngột nào cả. Nghĩ theo cách đó, lý do mà chúng tấn công là... Nói tóm lại, mục tiêu của chúng là bắt cóc anh hùng, nhưng cũng có khả năng một vấn đề quan trọng nảy sinh từ việc này là chúng đang thúc đẩy khả năng thế giới đi đến hồi kết bằng cách làm như vậy."
 
-Clarissa và những kẻ khác có một mục tiêu trong việc bắt cóc các anh hùng, chừng đó đã rõ ràng. Không biết liệu nó có liên quan gì đến sự diệt vong của thế giới hay không, nhưng có một thứ gì đó đã dẫn đến sự kiện hội chứng chạng vạng.
+Clarissa và những kẻ khác có một mục tiêu trong việc bắt cóc các anh hùng, chừng đó đã rõ ràng. Không biết liệu nó có liên quan gì đến sự diệt vong của thế giới hay không, nhưng có một thứ gì đó đã dẫn đến sự kiện Hội chứng Chạng vạng.
 
 "Tôi không thể hoàn toàn gạt bỏ khả năng đó chỉ là một sự trùng hợp hoàn toàn... Nhưng những chuyện kiểu đó nằm ngoài lĩnh vực chuyên môn của tôi. Tôi không phải là một trong những cư dân của chạng vạng, nên tôi cũng không thực sự biết rõ."
 

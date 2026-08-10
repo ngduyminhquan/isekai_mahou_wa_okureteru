@@ -36,7 +36,7 @@ Người ngạc nhiên nhất khi chứng kiến tất cả những điều này
 
 Cậu hoàn toàn không quen thuộc với các biểu tượng và hình khối được sử dụng trong đó, nhưng bản thân phép thuật đó rõ ràng không phải là ma pháp sử dụng Tinh linh của thế giới này. Nói cách khác, nó là một thứ gì đó có nét tương đồng với bí thuật của chính cậu hơn. Cậu bắt đầu xâu chuỗi các mảnh ghép lại khi nhớ lại một thứ gì đó tương tự, nhưng...
 
-“Suimei-kun! Tớ không biết cậu đang sốc vì chuyện gì, nhưng giờ không phải lúc để đứng thẫn thờ ra đó đâu!”
+“Suimei-kun! Tôi không biết cậu đang sốc vì chuyện gì, nhưng giờ không phải lúc để đứng thẫn thờ ra đó đâu!”
 
 “A-À ừ! Cậu nói đúng!”
 
@@ -70,7 +70,7 @@ Thay vì lùi lại, Lefille tập hợp ngọn gió đỏ của mình ở mũi 
 
 Cô mới chỉ ở ngay cạnh cậu cách đây chốc lát. Bằng cách nào mà cô lại có thể đi xa đến thế? Bên dưới bức màn hắc ám, Hatsumi đang vung kiếm đâm vào bầy tà linh bu bám liên tục, nhưng dường như những nhát chém của cô chẳng có chút tác dụng nào với chúng. Cô có thể đánh trúng và đẩy lùi chúng, nhưng lại không thể gây ra một vết thương nào.
 
-Khi tà linh tấn công con người, người ta có thể phòng ngự thành công chỉ bằng cách đẩy chúng ra xa. Nhưng điều đó sẽ không loại bỏ được bản thân hiện tượng này. Sẽ cần nhiều thứ hơn là chỉ những đòn tấn công vật lý để chống lại hội chứng chạng vạng.
+Khi tà linh tấn công con người, người ta có thể phòng ngự thành công chỉ bằng cách đẩy chúng ra xa. Nhưng điều đó sẽ không loại bỏ được bản thân hiện tượng này. Sẽ cần nhiều thứ hơn là chỉ những đòn tấn công vật lý để chống lại Hội chứng Chạng vạng.
 
 “Những thứ này cứ sinh sôi mãi...!”
 
