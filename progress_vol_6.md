@@ -28,7 +28,7 @@ Dưới đây là danh sách các Phase tương ứng với từng phần dịch
 | **0** | Khởi tạo dự án và tài nguyên | *N/A* | - | - | - | *N/A* | **Hoàn thành** |
 | **1** | Prologue: That Memory - Part 1 | `prologue_that_memory_part_1.txt` | 200 | 200 | 2072 | `prologue_that_memory_part_1.md` | **Hoàn thành** |
 | **2** | Prologue: That Memory - Part 2 | `prologue_that_memory_part_2.txt` | 42 | 42 | 454 | `prologue_that_memory_part_2.md` | **Hoàn thành** |
-| **3** | Chapter 1: The Dragonnewt in the - Part 1 | `chapter_1_the_dragonnewt_in_the_part_1.txt` | 200 | 200 | 2049 | `chapter_1_the_dragonnewt_in_the_part_1.md` | **Chưa bắt đầu** |
+| **3** | Chapter 1: The Dragonnewt in the - Part 1 | `chapter_1_the_dragonnewt_in_the_part_1.txt` | 200 | 200 | 2049 | `chapter_1_the_dragonnewt_in_the_part_1.md` | **Hoàn thành** |
 | **4** | Chapter 1: The Dragonnewt in the - Part 2 | `chapter_1_the_dragonnewt_in_the_part_2.txt` | 200 | 200 | 2095 | `chapter_1_the_dragonnewt_in_the_part_2.md` | **Chưa bắt đầu** |
 | **5** | Chapter 1: The Dragonnewt in the - Part 3 | `chapter_1_the_dragonnewt_in_the_part_3.txt` | 200 | 200 | 2201 | `chapter_1_the_dragonnewt_in_the_part_3.md` | **Chưa bắt đầu** |
 | **6** | Chapter 1: The Dragonnewt in the - Part 4 | `chapter_1_the_dragonnewt_in_the_part_4.txt` | 200 | 200 | 2073 | `chapter_1_the_dragonnewt_in_the_part_4.md` | **Chưa bắt đầu** |
