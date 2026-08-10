@@ -1026,3 +1026,10 @@
 | **mystical calamity** | Thảm họa bí thuật | Khái niệm | Thảm họa ở quy mô lớn do các hiện tượng siêu nhiên gây ra. |
 | **rank disparity extinction** | Luật Triệt tiêu Chênh lệch Hạng | Khái niệm | Quy luật ma thuật khi bí thuật cấp thấp bị dập tắt bởi bí thuật cấp cao. |
 | **philosopher** | Triết gia | Cấp bậc | Một cấp bậc (khá thấp) của ma thuật sư hiện đại. |
+
+| **nazar bonjuk** | bùa nazar bonjuk / bùa mắt quỷ | Khái niệm | Một loại bùa chú chống lại ác nhãn (evil eye). |
+| **draconic eye** / **dragon's eye** | long nhãn | Khái niệm | Kỹ năng nghiền nát mọi thứ trong tầm nhìn của long nhân. |
+| **dragon's roar** / **howl wave** | tiếng rồng gầm / sóng âm rồng gầm | Kỹ năng | Đòn tấn công bằng sóng âm cực mạnh của Eanru. |
+| **Chain Explosion** | Liên Hoàn Bộc Phá | Ma thuật | Bí thuật của Suimei tạo ra các vòng tròn ma thuật nhỏ liên tục phát nổ truy đuổi mục tiêu. |
+| **Strategic Bombing** | Ném Bom Chiến Lược | Ma thuật | Bí thuật của Suimei tạo ra một cơn mưa ánh sáng tấn công từ trên không. |
+| **Ashurbanipal's dazzling gem** | viên ngọc chói lọi của Ashurbanipal | Vật phẩm | Một viên ngọc ma thuật Suimei bóp nát để kích hoạt đại ma pháp lửa. |
