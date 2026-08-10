@@ -927,3 +927,6 @@
 | **Zekaraia** | Zekaraia | Một cái tên bí ẩn được Ilzarl nhắc đến, ám chỉ một sức mạnh tương tự như Thánh tích. |
 | **Ishar Cluster** | Kiếm tinh thể Ishar Cluster / Ishar Cluster | Vật phẩm / Khái niệm | Thanh kiếm tinh thể của Reiji. |
 | **Cathedral Forge** | Lò rèn Thánh đường / Cathedral Forge | Ma thuật | Ma pháp kết hợp do Mizuki (Io Kuzami) thi triển. |
+| **Totemism** | Totemism / Tín ngưỡng Bái vật tổ | Khái niệm | Một kỹ thuật xếp vào loại bí thuật cảm quan (sensory magicka), cho phép người sử dụng bắt chước sức mạnh của hệ động thực vật. |
+| **liger clan** | bộ tộc liger | Tổ chức / Chủng tộc | Tổ tiên của tất cả các thú nhân họ mèo, được xem là chủng tộc thú nhân mạnh nhất. |
+| **saber-toothed tiger / Smilodon** | hổ răng kiếm / Smilodon | Sinh vật | Dã thú tổ tiên của bộ tộc liger. |
