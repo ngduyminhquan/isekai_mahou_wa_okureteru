@@ -37,7 +37,7 @@ Dưới đây là danh sách các Phase tương ứng với từng phần dịch
 | **9** | Chapter 1: The Dragonnewt in the - Part 7 | `chapter_1_the_dragonnewt_in_the_part_7.txt` | 200 | 200 | 1999 | `chapter_1_the_dragonnewt_in_the_part_7.md` | **Hoàn thành** |
 | **10** | Chapter 1: The Dragonnewt in the - Part 8 | `chapter_1_the_dragonnewt_in_the_part_8.txt` | 200 | 200 | 1806 | `chapter_1_the_dragonnewt_in_the_part_8.md` | **Hoàn thành** |
 | **11** | Chapter 1: The Dragonnewt in the - Part 9 | `chapter_1_the_dragonnewt_in_the_part_9.txt` | 92 | 92 | 883 | `chapter_1_the_dragonnewt_in_the_part_9.md` | **Hoàn thành** |
-| **12** | Chapter 2: Seeking the Hero’s Weapon - Part 1 | `chapter_2_seeking_the_hero’s_weapon_part_1.txt` | 200 | 200 | 2042 | `chapter_2_seeking_the_hero’s_weapon_part_1.md` | **Chưa bắt đầu** |
+| **12** | Chapter 2: Seeking the Hero’s Weapon - Part 1 | `chapter_2_seeking_the_hero’s_weapon_part_1.txt` | 200 | 200 | 2042 | `chapter_2_seeking_the_hero’s_weapon_part_1.md` | **Hoàn thành** |
 | **13** | Chapter 2: Seeking the Hero’s Weapon - Part 2 | `chapter_2_seeking_the_hero’s_weapon_part_2.txt` | 200 | 200 | 1897 | `chapter_2_seeking_the_hero’s_weapon_part_2.md` | **Chưa bắt đầu** |
 | **14** | Chapter 2: Seeking the Hero’s Weapon - Part 3 | `chapter_2_seeking_the_hero’s_weapon_part_3.txt` | 200 | 200 | 1983 | `chapter_2_seeking_the_hero’s_weapon_part_3.md` | **Chưa bắt đầu** |
 | **15** | Chapter 2: Seeking the Hero’s Weapon - Part 4 | `chapter_2_seeking_the_hero’s_weapon_part_4.txt` | 200 | 200 | 1963 | `chapter_2_seeking_the_hero’s_weapon_part_4.md` | **Chưa bắt đầu** |

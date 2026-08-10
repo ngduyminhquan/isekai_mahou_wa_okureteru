@@ -912,3 +912,5 @@
 | **Greed of Ten** | Thập Đại Tham Lam / Greed of Ten | Danh hiệu | Một trong những ma thuật sư hùng mạnh và nguy hiểm ở thế giới cũ của Suimei. |
 | **monster professor** | giáo sư quái vật | Danh hiệu | Một ma thuật sư hùng mạnh và nguy hiểm ở thế giới cũ của Suimei. |
 | **chairman** | chủ tịch | Chức vụ | Chủ tịch của một tổ chức bí thuật (như Hội Bác Học) ở thế giới cũ của Suimei. |
+
+| **Attila** | Attila | Địa danh | Thành phố trung tâm của quốc gia tự trị thuộc Liên minh Saadias. |
