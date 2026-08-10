@@ -39,7 +39,7 @@ Dưới đây là hồ sơ chi tiết các nhân vật xuất hiện, định h�
 - **Giọng thoại**:
   - Nhẹ nhàng, nữ tính, đôi khi lo lắng hoặc ngạc nhiên. Xưng hô thân mật ("tớ - cậu").
 
-### 2. Các thực thể khác
+### Các thực thể khác
 
 | Tên nhân vật / Thực thể | Bí danh / Chức danh | Vai trò & Đặc điểm | Ngoại hình & Nhận dạng | Tình trạng |
 | :--- | :--- | :--- | :--- | :--- |
