@@ -76,7 +76,7 @@ Không thể nâng đỡ cơ thể mình thêm nữa, Elliot khuỵu một gối
 
 Thái độ của ông ta khá xấc xược, nhưng có vẻ như giữa ông ta và Hadorious có một loại thỏa thuận ngầm nào đó. Những người lính trong phòng chắc chắn không nói gì về chuyện đó. Sau một khoảnh khắc tĩnh lặng, Hadorious nêu lên một vấn đề khác.
 
-"Tuy nhiên, điều đó có ổn không? Trở thành một Universal Apostle giống như chúng ta?"
+"Tuy nhiên, điều đó có ổn không? Trở thành một Sứ đồ Vạn vật giống như chúng ta?"
 
 "Một câu hỏi ngu ngốc. Ta đã thề dâng thanh kiếm của mình cho Ngài Gottfried. Điều tương tự cũng không đúng với ngài sao?"
 

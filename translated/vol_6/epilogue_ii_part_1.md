@@ -92,7 +92,7 @@ Suimei nghiêng đầu sang một bên khi hỏi chi tiết, nhưng Reiji lúng 
 
 Khi Reiji trả lời cậu bằng một giọng mệt mỏi, Mizuki xuất hiện tại hiện trường—đôi mắt dị sắc của cô tỏa sáng màu vàng kim.
 
-"Đã lâu không gặp, kẻ Ẩn Dấu Bóng Tối Đỏ Thẫm, kẻ mang bóng tối sâu thẳm hơn cả vũ trụ mà ta đang sinh sống! Ôi, đối thủ truyền kiếp của ta!"
+"Đã lâu không gặp, kẻ Ẩn Giấu Bóng Tối Đỏ Thẫm, kẻ mang bóng tối sâu thẳm hơn cả vũ trụ mà ta đang sinh sống! Ôi, đối thủ truyền kiếp của ta!"
 
 "Ahhh... Tớ hiểu rồi."
 
