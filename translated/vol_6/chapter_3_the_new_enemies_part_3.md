@@ -24,7 +24,7 @@ Hatsumi vẫn đinh ninh rằng cô và các cô gái khác đều đã công nh
 
 Khi mọi chuyện cuối cùng cũng có những chuyển biến tốt đẹp, Suimei hít một hơi thật sâu bầu không khí trong lành vừa được thanh lọc và thở dài nhẹ nhõm. Tuy nhiên, sự bình yên của cậu sẽ không kéo dài được bao lâu. Cảm nhận được có chuyện gì khác đang xảy ra, Liliana thu hút sự chú ý của cậu.
 
-"Suimei... Có một sự xáo trộn ở phía trước."
+"Anh Suimei... Có một sự xáo trộn ở phía trước."
 
 "Hửm?"
 
@@ -100,7 +100,7 @@ Suimei đột nhiên làm ra một khuôn mặt như thể cậu vừa nhận ra
 
 "Có chuyện gì sao?"
 
-"Suimei... Anh cũng nhận ra... đúng không?" Liliana lần lượt lên tiếng hỏi.
+"Anh Suimei... anh cũng nhận ra... đúng không?" Liliana lần lượt lên tiếng hỏi.
 
 Suimei gật đầu đáp lại cô. Nhưng có vẻ như không chỉ mình cậu nhận ra. Lefille cũng gật đầu. Sau đó Suimei dành một chút thời gian để giải thích mọi chuyện cho Felmenia và Hatsumi, những người đang trông có vẻ chẳng hiểu gì.
 
@@ -144,15 +144,15 @@ Vì đòn tấn công của cô là một đòn không có thực thể vật l�
 
 Felmenia mang một vẻ mặt tò mò khi chứng kiến cảnh này diễn ra.
 
-"Ngài Suimei, thứ ma pháp mà Lily đang sử dụng là gì vậy?"
+"Ngài Suimei, thứ bí thuật mà Lily đang sử dụng là gì vậy?"
 
-"Đó là một loại ma pháp trừ tà (exorcism magicka) sử dụng thể dĩ thái (ethereal). Nó kéo dài thể linh hồn (astral body) của cô để trực tiếp đánh vào đối thủ."
+"Đó là một loại bí thuật trừ tà (exorcism magicka) sử dụng thể dĩ thái (ethereal). Nó kéo dài thể linh hồn (astral body) của cô để trực tiếp đánh vào đối thủ."
 
-Đó chỉ là một trong rất nhiều ma pháp nằm dưới chiếc ô lớn của ma pháp trừ tà. Nó sử dụng ý tưởng đằng sau trải nghiệm thoát xác (out of body experience) để cố ý thao túng bản chất dĩ thái của một người như một kỹ thuật trừ tà. Sử dụng một vật dẫn đường như ngón tay hoặc quyền trượng, một người có thể đưa ra hướng đi cho tính dĩ thái của họ, kéo dài nó bằng lực để đẩy văng thể linh hồn của đối phương. Và vì thể linh hồn và cơ thể vật lý có một mối liên kết không thể tách rời, nên khi thể linh hồn bị ném văng đi, cơ thể vật lý cũng sẽ bị kéo theo, khiến cho cả hai cùng lúc bị thổi bay.
+Đó chỉ là một trong rất nhiều bí thuật nằm dưới chiếc ô lớn của bí thuật trừ tà. Nó sử dụng ý tưởng đằng sau trải nghiệm thoát xác (out of body experience) để cố ý thao túng bản chất dĩ thái của một người như một kỹ thuật trừ tà. Sử dụng một vật dẫn đường như ngón tay hoặc quyền trượng, một người có thể đưa ra hướng đi cho tính dĩ thái của họ, kéo dài nó bằng lực để đẩy văng thể linh hồn của đối phương. Và vì thể linh hồn và cơ thể vật lý có một mối liên kết không thể tách rời, nên khi thể linh hồn bị ném văng đi, cơ thể vật lý cũng sẽ bị kéo theo, khiến cho cả hai cùng lúc bị thổi bay.
 
-Vì vậy tóm lại, nó là một đòn tấn công linh hồn, và có thể được coi là một ma pháp khá mạnh. Nhưng khi Suimei đang giải thích tất cả những điều này, Felmenia trông có vẻ khá không hài lòng vì một lý do nào đó.
+Vì vậy tóm lại, nó là một đòn tấn công linh hồn, và có thể được coi là một bí thuật khá mạnh. Nhưng khi Suimei đang giải thích tất cả những điều này, Felmenia trông có vẻ khá không hài lòng vì một lý do nào đó.
 
-"Ngài chưa từng dạy tôi ma pháp này..."
+"Ngài chưa từng dạy tôi bí thuật này..."
 
 "Nghĩ lại thì, tôi đoán là chưa, nhỉ?"
 
