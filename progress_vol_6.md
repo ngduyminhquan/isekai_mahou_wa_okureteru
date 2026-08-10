@@ -46,7 +46,7 @@ Dưới đây là danh sách các Phase tương ứng với từng phần dịch
 | **18** | Chapter 2: Seeking the Hero’s Weapon - Part 7 | `chapter_2_seeking_the_hero’s_weapon_part_7.txt` | 200 | 200 | 2050 | `chapter_2_seeking_the_hero’s_weapon_part_7.md` | **Hoàn thành** |
 | **19** | Chapter 2: Seeking the Hero’s Weapon - Part 8 | `chapter_2_seeking_the_hero’s_weapon_part_8.txt` | 200 | 200 | 1981 | `chapter_2_seeking_the_hero’s_weapon_part_8.md` | **Hoàn thành** |
 | **20** | Chapter 2: Seeking the Hero’s Weapon - Part 9 | `chapter_2_seeking_the_hero’s_weapon_part_9.txt` | 200 | 200 | 1977 | `chapter_2_seeking_the_hero’s_weapon_part_9.md` | **Hoàn thành** |
-| **21** | Chapter 2: Seeking the Hero’s Weapon - Part 10 | `chapter_2_seeking_the_hero’s_weapon_part_10.txt` | 127 | 127 | 1226 | `chapter_2_seeking_the_hero’s_weapon_part_10.md` | **Chưa bắt đầu** |
+| **21** | Chapter 2: Seeking the Hero’s Weapon - Part 10 | `chapter_2_seeking_the_hero’s_weapon_part_10.txt` | 127 | 127 | 1226 | `chapter_2_seeking_the_hero’s_weapon_part_10.md` | **Hoàn thành** |
 | **22** | Chapter 3: The New Enemies - Part 1 | `chapter_3_the_new_enemies_part_1.txt` | 200 | 200 | 2010 | `chapter_3_the_new_enemies_part_1.md` | **Chưa bắt đầu** |
 | **23** | Chapter 3: The New Enemies - Part 2 | `chapter_3_the_new_enemies_part_2.txt` | 200 | 200 | 1844 | `chapter_3_the_new_enemies_part_2.md` | **Chưa bắt đầu** |
 | **24** | Chapter 3: The New Enemies - Part 3 | `chapter_3_the_new_enemies_part_3.txt` | 200 | 200 | 1959 | `chapter_3_the_new_enemies_part_3.md` | **Chưa bắt đầu** |
