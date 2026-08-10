@@ -60,7 +60,7 @@ Dưới đây là danh sách các Phase tương ứng với từng phần dịch
 | **32** | Epilogue I - Part 1 | `epilogue_i_part_1.txt` | 200 | 200 | 2138 | `epilogue_i_part_1.md` | **Hoàn thành** |
 | **33** | Epilogue I - Part 2 | `epilogue_i_part_2.txt` | 148 | 148 | 1490 | `epilogue_i_part_2.md` | **Hoàn thành** |
 | **34** | Epilogue II - Part 1 | `epilogue_ii_part_1.txt` | 200 | 200 | 1880 | `epilogue_ii_part_1.md` | **Hoàn thành** |
-| **35** | Epilogue II - Part 2 | `epilogue_ii_part_2.txt` | 58 | 58 | 549 | `epilogue_ii_part_2.md` | **Chưa bắt đầu** |
+| **35** | Epilogue II - Part 2 | `epilogue_ii_part_2.txt` | 58 | 58 | 549 | `epilogue_ii_part_2.md` | **Hoàn thành** |
 
 ---
 

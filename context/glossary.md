@@ -944,4 +944,3 @@
 | **saber-toothed tiger / Smilodon** | hổ răng kiếm / Smilodon | Sinh vật | Dã thú tổ tiên của bộ tộc liger. |
 | **composite concept** | ý niệm hỗn hợp | Khái niệm | Ý niệm kết hợp nhiều ý niệm lại với nhau (được Suimei nhắc đến). |
 | **pragmatism** | chủ nghĩa thực dụng | Khái niệm | Quan điểm đề cao tính thực tế, tính hiệu quả. |
-| **Twilight Pavilion** | Đình Chạng Vạng / Twilight Pavilion | Địa danh | Tên một chi nhánh của Hội Mạo hiểm giả nơi Rumeya làm Hội trưởng. |
