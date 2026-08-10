@@ -212,7 +212,7 @@ Dưới đây là hồ sơ chi tiết các nhân vật xuất hiện, định h�
 
 
 ### 30. Kuchiba Hatsumi
-- **Vai trò**: Anh hùng của Liên minh Saadias, sở hữu sức mạnh và kỹ năng kiếm thuật siêu phàm. Tuy nhiên, cô bị mất trí nhớ và chỉ nhớ được tên mình cùng các kỹ năng kiếm thuật, điều này luôn khiến cô cảm thấy lo âu vô hình.
+- **Vai trò**: Anh hùng của Liên minh Saadias, sở hữu sức mạnh và kỹ năng kiếm thuật siêu phàm. Cô từng bị mất trí nhớ (đã phục hồi toàn bộ ký ức ở Volume 6) và luôn mang cảm giác lo âu vô hình, nhưng sau khi lấy lại ký ức, cô đã kiên định và lấy lại sức mạnh thực sự.
 - **Tính cách**: Lạnh lùng, quả quyết, điềm tĩnh trong chiến đấu và có phong thái dẫn dắt như một thủ lĩnh.
 - **Vũ khí**: Một thanh uchigatana mithril dài gần 120cm được thợ rèn người lùn chế tạo.
 - **Giọng thoại**: Lạnh nhạt, tự tin, mang hơi hướng chiến binh dạn dày kinh nghiệm.

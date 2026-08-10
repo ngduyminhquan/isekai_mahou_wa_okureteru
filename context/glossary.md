@@ -799,6 +799,18 @@
 
 | **Selphy Fittney** | Selphy Fittney | Tên riêng | Nữ pháp sư từ bang tự trị. |
 
+| **Universal Apostles** | Sứ đồ Vạn vật / Universal Apostles | Tổ chức | Tổ chức bí ẩn ở thế giới cũ mà Gottfried và thuộc hạ trực thuộc. |
+
+| **Magicka King Nestahaim** | Ma Thuật Vương Nestahaim / Magicka King Nestahaim | Tên riêng / Danh hiệu | Tên gọi của một bậc thầy bí thuật (sư phụ của Suimei). |
+
+| **Code Pragmatic** | Mã Thực dụng / Code Pragmatic | Khái niệm | Một thuật ngữ/mã lệnh trong bí thuật của phe Sứ đồ Vạn vật. |
+
+| **Kenon** | Kenon | Khái niệm | Một khái niệm trong bí thuật (kháng lại ngọn lửa và mang theo khối lượng). |
+
+| **three kleshas** | ba phiền não / tam độc / three kleshas | Khái niệm | Khái niệm mượn từ Phật giáo (tham, sân, si) làm đầu độc trái tim con người. |
+
+| **Kurikara Dharani** | Kurikara Dharani / Kurikara Đà La Ni | Khái niệm | Một câu chân ngôn (dharani) truyền lại cùng với kỹ thuật dùng kiếm của Hatsumi để tĩnh tâm. |
+
 | **Weitzer Ryerzen** | Weitzer Ryerzen | Tên riêng | Hoàng tử kiêm kiếm sĩ của quốc gia Miazen thuộc Liên minh. Một trong Thất Kiếm. |
 
 | **Mauhario** | Mauhario | Tên riêng | Một Ma Tướng, tự xưng là Cuồng Phong Chớp Nhoáng (Violent Flickering Wind). |

@@ -53,7 +53,7 @@ Dưới đây là danh sách các Phase tương ứng với từng phần dịch
 | **25** | Chapter 3: The New Enemies - Part 4 | `chapter_3_the_new_enemies_part_4.txt` | 200 | 200 | 1686 | `chapter_3_the_new_enemies_part_4.md` | **Hoàn thành** |
 | **26** | Chapter 3: The New Enemies - Part 5 | `chapter_3_the_new_enemies_part_5.txt` | 200 | 200 | 1980 | `chapter_3_the_new_enemies_part_5.md` | **Hoàn thành** |
 | **27** | Chapter 3: The New Enemies - Part 6 | `chapter_3_the_new_enemies_part_6.txt` | 200 | 200 | 1976 | `chapter_3_the_new_enemies_part_6.md` | **Hoàn thành** |
-| **28** | Chapter 3: The New Enemies - Part 7 | `chapter_3_the_new_enemies_part_7.txt` | 200 | 200 | 1997 | `chapter_3_the_new_enemies_part_7.md` | **Chưa bắt đầu** |
+| **28** | Chapter 3: The New Enemies - Part 7 | `chapter_3_the_new_enemies_part_7.txt` | 200 | 200 | 1997 | `chapter_3_the_new_enemies_part_7.md` | **Hoàn thành** |
 | **29** | Chapter 3: The New Enemies - Part 8 | `chapter_3_the_new_enemies_part_8.txt` | 200 | 200 | 2013 | `chapter_3_the_new_enemies_part_8.md` | **Chưa bắt đầu** |
 | **30** | Chapter 3: The New Enemies - Part 9 | `chapter_3_the_new_enemies_part_9.txt` | 200 | 200 | 1882 | `chapter_3_the_new_enemies_part_9.md` | **Chưa bắt đầu** |
 | **31** | Chapter 3: The New Enemies - Part 10 | `chapter_3_the_new_enemies_part_10.txt` | 64 | 64 | 617 | `chapter_3_the_new_enemies_part_10.md` | **Chưa bắt đầu** |
