@@ -18,7 +18,7 @@ Sau khi gần như hét vào tai cậu vì bực tức, cô chợt nhận ra đi
 
 "Khoan đã, ý cậu là lúc cha cậu..."
 
-"Đúng vậy. Hôm đó chúng tớ đã chiến thắng, nên tớ từng nghĩ mình sẽ không bao giờ phải trải qua chuyện này một lần nào nữa, nhưng tớ đã quá ngây thơ. Và chỉ cần nghĩ đến việc mình có thể sẽ mất đi một người nào khác nữa, tớ lại không thể ngừng run rẩy."
+"Đúng vậy. Hôm đó tớ và cha đã chiến thắng, nên tớ từng nghĩ mình sẽ không bao giờ phải trải qua chuyện này một lần nào nữa, nhưng tớ đã quá ngây thơ. Và chỉ cần nghĩ đến việc mình có thể sẽ mất đi một người nào khác nữa, tớ lại không thể ngừng run rẩy."
 
 Lý do khiến Suimei toát mồ hôi và run rẩy trong sợ hãi không phải vì cậu phải đối mặt với một kẻ thù mạnh. Đó là vì cậu đang phải đối mặt với nỗi sợ hãi mất mát khắc sâu trong lòng. Thay vì sợ hãi sự thất bại, cậu sợ những gì mà sự thất bại đó sẽ cướp đi của mình. Nhưng Hatsumi lại nghĩ đó càng là lý do để hai người kề vai sát cánh. Và khi cô đang âm thầm truyền đạt suy nghĩ đó đến cậu...
 
@@ -60,17 +60,17 @@ Giọng điệu khẩn khoản của cậu, dù nhỏ nhẹ, nhưng lại đè n
 
 "Ngươi đợi bọn ta kiên nhẫn thật đấy."
 
-"Sẽ chẳng còn gì thú vị nếu hạ gục cậu bằng một đòn tấn công bất ngờ sau ngần ấy chuyện, đúng không? Để có thể tận hưởng triệt để một trận chiến, việc chờ đợi cho đến khi nó bắt đầu một cách công bằng mới là điều đúng đắn."
+"Sẽ chẳng còn gì thú vị nếu hạ gục ngươi bằng một đòn tấn công bất ngờ sau ngần ấy chuyện, đúng không? Để có thể tận hưởng triệt để một trận chiến, việc chờ đợi cho đến khi nó bắt đầu một cách công bằng mới là điều đúng đắn."
 
 "Ừ, ta chẳng hiểu nổi ngươi chút nào. Mặc dù có một nhiệm vụ mà ngươi có vẻ rất quyết tâm thực hiện, nhưng ngươi lại hoàn toàn bỏ bê nó."
 
-"Bất kể một chiến binh bị buộc phải đối mặt với những trận chiến nào đi chăng nữa, thì bản thân cuộc chiến đó phải được thực hiện theo phong cách riêng của chiến binh ấy—dù có phải trả giá đắt đến đâu. Chẳng lẽ đối với cậu thì không phải vậy sao?"
+"Bất kể một chiến binh bị buộc phải đối mặt với những trận chiến nào đi chăng nữa, thì bản thân cuộc chiến đó phải được thực hiện theo phong cách riêng của chiến binh ấy—dù có phải trả giá đắt đến đâu. Chẳng lẽ đối với ngươi thì không phải vậy sao?"
 
 Eanru nói với một giọng điệu đầy tự tôn, nhưng Suimei vẫn giữ thái độ khiêu khích.
 
 "Các ma thuật sư luôn cố gắng khiến đối thủ mất cảnh giác. Việc thăm dò lẫn nhau là một chuyện, nhưng trong một trận chiến sinh tử, chẳng có cái gì gọi là công bằng và ngay thẳng cả."
 
-"Vậy tấn công một kẻ địch mất cảnh giác là phong cách của cậu sao? Chắc chắn, điều đó cũng giống như những pháp sư không có khả năng chiến đấu trực diện. Tuy nhiên, đó có phải là thứ mà cậu nên tiết lộ trước một trận chiến không?"
+"Vậy tấn công một kẻ địch mất cảnh giác là phong cách của ngươi sao? Chắc chắn, điều đó cũng giống như những pháp sư không có khả năng chiến đấu trực diện. Tuy nhiên, đó có phải là thứ mà ngươi nên tiết lộ trước một trận chiến không?"
 
 "Cứ việc mà nhai đi. Hãy dè chừng bất cứ thứ gì và mọi thứ đến từ ta."
 
@@ -128,11 +128,11 @@ Hatsumi hầu như không thể tin vào những gì cô vừa nhìn thấy. Là
 
 Đáp lại tiếng kêu đau buồn của cô, cô nghe thấy một giọng nói bất ngờ truyền tới từ một hướng cũng vô cùng bất ngờ. Khi cô quay về phía đó, đứng ở đó trong tư thế ôm bụng và hơi chúi người về phía trước... chính là Suimei. Trông có vẻ như cậu đang sử dụng ma pháp để chữa trị cho bản thân. Mồ hôi tuôn rơi trên trán cậu, và một luồng ánh sáng màu xanh nhạt đang phát ra từ bàn tay mà cậu đặt trên bụng mình.
 
-"Hừm. Ta cứ tưởng mình đã giải quyết được cậu bằng đòn đó rồi chứ," Eanru nhận xét.
+"Hừm. Ta cứ tưởng mình đã giải quyết được ngươi bằng đòn đó rồi chứ," Eanru nhận xét.
 
 "Quả đúng như dự đoán, ngươi có thể sử dụng long nhãn, hả...?" Suimei đáp lại.
 
-"'Đúng như dự đoán' phải là câu của ta mới đúng. Biết được điều đó, cậu đã di chuyển xung quanh để cố gắng thoát khỏi tầm mắt của ta. Tuy nhiên, cậu dừng lại để chữa trị vết thương ngay giữa trận chiến thế này chẳng phải là hơi bất cẩn sao?"
+"'Đúng như dự đoán' phải là câu của ta mới đúng. Biết được điều đó, ngươi đã di chuyển xung quanh để cố gắng thoát khỏi tầm mắt của ta. Tuy nhiên, ngươi dừng lại để chữa trị vết thương ngay giữa trận chiến thế này chẳng phải là hơi bất cẩn sao?"
 
 Eanru mạnh dạn đưa ra một lời cảnh báo, nhưng Suimei có vẻ như chẳng hề bận tâm.
 

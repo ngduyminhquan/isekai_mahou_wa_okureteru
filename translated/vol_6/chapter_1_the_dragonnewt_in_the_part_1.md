@@ -48,13 +48,13 @@ Nghe Eanru nói, một nụ cười nhếch mép khinh khỉnh hiện lên trên
 
 "Đáng lẽ ra ngươi phải giấu nhẹm những thứ mờ ám đó đi và ít nhất cũng cố nói một điều gì đó để thuyết phục cô ấy tự nguyện đi theo ngươi chứ? Chẳng phải đó là một chiến thuật cơ bản sao?"
 
-"Thật sự thì, cậu nói cũng có lý đấy. Nhưng sự thật của vấn đề là bọn ta sẽ sử dụng Anh hùng theo cách này hay cách khác. Ta không có ý định dắt mũi để các người tin vào điều ngược lại."
+"Thật sự thì, ngươi nói cũng có lý đấy. Nhưng sự thật của vấn đề là bọn ta sẽ sử dụng Anh hùng theo cách này hay cách khác. Ta không có ý định dắt mũi để các người tin vào điều ngược lại."
 
 "Dũng cảm gớm..."
 
 Dù đã tuyên bố thẳng thừng rằng hắn sẽ không tiết lộ động cơ của mình, Eanru lại thẳng thắn đến mức đáng ngạc nhiên về ý định của bản thân. Suimei nhíu mày trước một cuộc trò chuyện có phần kỳ quặc này.
 
-"Nhưng trước đó... Cậu phải lên trước đã," Eanru nói, quay sang hướng Suimei như thể vị Anh hùng giờ đây chỉ còn là mục tiêu thứ yếu. "Người đàn ông mặc đồ đen kia, ta muốn biết tên của cậu."
+"Nhưng trước đó... Ngươi phải lên trước đã," Eanru nói, quay sang hướng Suimei như thể vị Anh hùng giờ đây chỉ còn là mục tiêu thứ yếu. "Người đàn ông mặc đồ đen kia, ta muốn biết tên của ngươi."
 
 "Của ta sao?"
 
@@ -64,7 +64,7 @@ Dù đã tuyên bố thẳng thừng rằng hắn sẽ không tiết lộ độn
 
 "Vậy sao?"
 
-"Hỏi tên của đối thủ là một phép lịch sự dành riêng cho những kẻ mạnh. Đừng nói với ta rằng cậu định đưa ra một câu trả lời nhàm chán kiểu như, 'Ta không có cái tên nào đáng để xưng danh' đấy nhé."
+"Hỏi tên của đối thủ là một phép lịch sự dành riêng cho những kẻ mạnh. Đừng nói với ta rằng ngươi định đưa ra một câu trả lời nhàm chán kiểu như, 'Ta không có cái tên nào đáng để xưng danh' đấy nhé."
 
 Ngụ ý rằng một câu trả lời như vậy sẽ là một sự thất vọng tột cùng, Eanru giải phóng một luồng ý chí chiến đấu dữ dội cuồn cuộn như thác lũ. Tuy nhiên, với tư cách là một ma thuật sư, Suimei đã quá quen thuộc với những nghi thức thích hợp trước một trận chiến. Và vì cậu chẳng có lý do gì để từ chối, Suimei liền tự giới thiệu.
 
@@ -72,33 +72,33 @@ Ngụ ý rằng một câu trả lời như vậy sẽ là một sự thất v�
 
 Vì một lý do nào đó, lông mày của Eanru giật nảy lên khi hắn nghe thấy những từ đó.
 
-"Cậu vừa nói là Suimei Yakagi sao?"
+"Ngươi vừa nói là Suimei Yakagi sao?"
 
 "Ờ, thì sao?"
 
 Cảm thấy khó hiểu trước phản ứng của Eanru, Suimei tự hỏi cái tên của mình thì có vấn đề gì. Trái lại, Eanru đột nhiên xua tan thứ áp lực áp đảo đang tỏa ra từ cơ thể hắn.
 
-"Ta hiểu rồi. Vậy cậu chính là người đã hạ Romeon..."
+"Ta hiểu rồi. Vậy ngươi chính là người đã hạ Romeon..."
 
 "Cái gì cơ?"
 
-"Ta tin rằng mình nợ cậu cả một lời cảm ơn và một lời xin lỗi. Sẽ thật không thích hợp nếu thực hiện điều đó trong khi đang giữ tư thế chiến đấu."
+"Ta tin rằng mình nợ ngươi cả một lời cảm ơn và một lời xin lỗi. Sẽ thật không thích hợp nếu thực hiện điều đó trong khi đang giữ tư thế chiến đấu."
 
 Dường như không còn lấy một chút ý chí chiến đấu nào sót lại trong Eanru khi hắn nói. Nhưng đó không phải là điều thu hút sự chú ý của Suimei.
 
 "Ta xin lỗi, có thể ta nghe nhầm, nhưng ngươi vừa nói là Romeon à?"
 
-"Đúng vậy. Elf Romeon. Kẻ từng làm thủ thư tại Thư viện Đại học Đế quốc. Ta đang ám chỉ chính xác người đàn ông mà cậu đang nghĩ đến đấy."
+"Đúng vậy. Elf Romeon. Kẻ từng làm thủ thư tại Thư viện Đại học Đế quốc. Ta đang ám chỉ chính xác người đàn ông mà ngươi đang nghĩ đến đấy."
 
 Eanru đã xác nhận sự nghi ngờ đầy bối rối của Suimei. Hatsumi hoàn toàn lạc lối không hiểu họ đang nói về chuyện gì, nhưng ngay cả Suimei—người đã từng quen biết Romeon—cũng chẳng hiểu Eanru đang định ám chỉ điều gì.
 
 "Một lời cảm ơn và một lời xin lỗi... về gã đó sao?"
 
-"Sự cố mà Romeon đã gây ra ở Đế quốc... Ta nghe nói cậu chính là người đã giải quyết nó. Vì vậy, để cảm ơn vì cậu đã đặt dấu chấm hết quyết đoán cho sự sa đọa của một thành viên trong tổ chức mà ta thuộc về, ta muốn thay mặt mọi người gửi lời cảm ơn đến cậu."
+"Sự cố mà Romeon đã gây ra ở Đế quốc... Ta nghe nói ngươi chính là người đã giải quyết nó. Vì vậy, để cảm ơn vì ngươi đã đặt dấu chấm hết quyết đoán cho sự sa đọa của một thành viên trong tổ chức mà ta thuộc về, ta muốn thay mặt mọi người gửi lời cảm ơn đến ngươi."
 
 Và rồi, với một cái cúi đầu nhẹ giống như một cái gật đầu...
 
-"Bọn ta đang mắc nợ cậu."
+"Bọn ta đang mắc nợ ngươi."
 
 "...Nói cách khác, gã đó từng là một trong những đồng bọn của ngươi?"
 
@@ -108,11 +108,11 @@ Hắn đã coi tình đồng chí của mình với Romeon là chuyện của qu
 
 "Ta không thực sự hiểu lắm, nhưng nếu ngươi đã cảm thấy như vậy, thì lẽ ra ngươi nên quản thúc tên đó chặt hơn một chút. Chẳng có cách nào để nói giảm nói tránh đâu. Gã đó đã vượt quá giới hạn cứu chữa rồi, ngươi biết chứ?"
 
-"Cậu nói hoàn toàn đúng. Ta không thể bào chữa bất cứ điều gì. Ý chí của cậu ấy—Không, việc bọn ta không nhìn ra rằng cậu ấy đã bị bóng tối dụ dỗ hoàn toàn là sự sơ suất từ phía bọn ta."
+"Ngươi nói hoàn toàn đúng. Ta không thể bào chữa bất cứ điều gì. Ý chí của cậu ấy—Không, việc bọn ta không nhìn ra rằng cậu ấy đã bị bóng tối dụ dỗ hoàn toàn là sự sơ suất từ phía bọn ta."
 
 "Dựa vào cách ngươi nói chuyện, vụ náo động đó không phải là mục tiêu thực sự của các ngươi, đúng chứ?"
 
-"Nói chung thì, mọi chuyện chính xác là như những gì cậu nói. Dù vậy, đương nhiên là ta đang ám chỉ những tổn thương đã đổ ập xuống cô gái trẻ đó, chứ không phải những gì xảy ra trong thành phố."
+"Nói chung thì, mọi chuyện chính xác là như những gì ngươi nói. Dù vậy, đương nhiên là ta đang ám chỉ những tổn thương đã đổ ập xuống cô gái trẻ đó, chứ không phải những gì xảy ra trong thành phố."
 
 Nói cách khác, những sự cố xảy ra ở Đế quốc là thứ mà hắn—không, từ cách hắn nói, phải là "bọn họ"—đã đạt được mục đích. Nghe như thể những gì đã xảy ra với tất cả mọi người, ngoại trừ Liliana và Rogue, đều là...
 
@@ -120,11 +120,11 @@ Nói cách khác, những sự cố xảy ra ở Đế quốc là thứ mà hắ
 
 "Nói thật thì ta cũng chẳng bận tâm nếu ngươi nói tiếp đâu."
 
-"Ta sẽ phải kiềm chế lại. Trực giác của cậu quá nhạy bén. Ngay cả giữa lúc hoảng loạn, cậu vẫn vô cùng sắc sảo."
+"Ta sẽ phải kiềm chế lại. Trực giác của ngươi quá nhạy bén. Ngay cả giữa lúc hoảng loạn, ngươi vẫn vô cùng sắc sảo."
 
 Eanru ném cho Suimei một cái nhìn sắc lẹm khi hắn nói. Có vẻ như hắn đã hoàn toàn nhìn thấu Suimei. Nhưng rồi Eanru thở dài và lắc đầu như thể đang tiếc nuối điều gì đó.
 
-"Bọn ta vốn định tự mình xử lý Romeon. Tuy nhiên, trước khi bọn ta kịp ra tay, cậu lại là người đánh bại cậu ấy. Bọn ta thậm chí còn không thể trả ơn cậu."
+"Bọn ta vốn định tự mình xử lý Romeon. Tuy nhiên, trước khi bọn ta kịp ra tay, ngươi lại là người đánh bại cậu ấy. Bọn ta thậm chí còn không thể trả ơn ngươi."
 
 Những lời đó nghe có vẻ chỉ là một cái cớ sau ngần ấy chuyện, nhưng với cách hắn thở dài... Nghe thực sự giống như hắn đang xấu hổ và bối rối trước những thiếu sót của chính mình. Tuy nhiên, có một điều khác đã khơi dậy sự hứng thú của Suimei.
 
@@ -136,7 +136,7 @@ Những lời đó nghe có vẻ chỉ là một cái cớ sau ngần ấy chuy�
 
 "Chà, nếu ngươi đã biết ơn vì những gì ta đã làm đến vậy, thì ngươi có thể cứ thế mà tránh sang một bên được không?"
 
-"Ta từ chối. Không chỉ có việc phải đưa Anh hùng đi, mà giờ ta cũng có hứng thú với cả cậu nữa. Đối với thứ sức mạnh mà cậu sở hữu đã áp đảo Romeon sau khi cậu ấy sa ngã vào bóng tối."
+"Ta từ chối. Không chỉ có việc phải đưa Anh hùng đi, mà giờ ta cũng có hứng thú với cả ngươi nữa. Đối với thứ sức mạnh mà ngươi sở hữu đã áp đảo Romeon sau khi cậu ấy sa ngã vào bóng tối."
 
 "Ugh, thôi nào... Tha cho ta đi."
 
@@ -144,11 +144,11 @@ Eanru nở một nụ cười dữ tợn với Suimei hệt như một dã thú 
 
 Nhìn thấy Suimei nhăn mặt như thể đang cắn phải thứ gì đó đắng ngắt, Eanru nheo mắt lại và tò mò quan sát cậu.
 
-"Ta không thực sự hiểu, điều gì đã khiến cậu sợ hãi đến vậy? Nếu cậu nắm giữ một sức mạnh lớn đến thế, thì chẳng có lý do gì để tỏ ra hèn nhát như vậy cả. Thật kỳ lạ."
+"Ta không thực sự hiểu, điều gì đã khiến ngươi sợ hãi đến vậy? Nếu ngươi nắm giữ một sức mạnh lớn đến thế, thì chẳng có lý do gì để tỏ ra hèn nhát như vậy cả. Thật kỳ lạ."
 
 "Lo chuyện của ngươi đi. Ta có vấn đề riêng cần phải giải quyết."
 
-"Vậy sao...? Tốt thôi. Dù thế nào đi nữa, đã đến lúc chúng ta bắt đầu rồi. Bây giờ, các cậu định làm thế nào đây? Ta không bận tâm nếu cả hai cùng xông lên đâu, cậu biết đấy."
+"Vậy sao...? Tốt thôi. Dù thế nào đi nữa, đã đến lúc chúng ta bắt đầu rồi. Bây giờ, các ngươi định làm thế nào đây? Ta không bận tâm nếu cả hai cùng xông lên đâu, ngươi biết đấy."
 
 "Vậy là chuyện chúng ta sẽ đánh nhau là một kết cục hoàn toàn đã được định trước sao?"
 
@@ -156,7 +156,7 @@ Nhìn thấy Suimei nhăn mặt như thể đang cắn phải thứ gì đó đ�
 
 "..."
 
-"Không cần phải làm ra vẻ mặt khó coi như vậy đâu. Nếu cậu không thích, thì tất cả những gì cậu phải làm là chiến thắng ta. Chuyện chỉ đơn giản vậy thôi."
+"Không cần phải làm ra vẻ mặt khó coi như vậy đâu. Nếu ngươi không thích, thì tất cả những gì ngươi phải làm là chiến thắng ta. Chuyện chỉ đơn giản vậy thôi."
 
 Eanru đưa ra một câu trả lời khá thản nhiên trước cái cau mày của Suimei, và rồi một lần nữa, hắn giải phóng ý chí chiến đấu của mình một cách không chút sợ hãi.
 
