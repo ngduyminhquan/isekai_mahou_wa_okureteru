@@ -130,7 +130,7 @@ Bị cơn đau quặn thắt ập đến, ý thức của Reiji dần trở nên
 
 Đó là suy nghĩ hiện lên một cách tự nhiên trong tâm trí hơi sương mù của Reiji. Và nó không chỉ dành cho Graziella, mà còn dành cho Titania và Mizuki, những người vẫn tiếp tục tin tưởng vào cậu, cũng như tất cả những người quan trọng khác với cậu không có mặt ở đây. Lý do cậu xin lỗi không cần phải nói ra. Sau đó, Reiji hất Graziella sang một bên.
 
-“Tên ngốc hoàn toàn này!”
+“Cái tên đại ngốc này!”
 
 “Ngài Reiji!”
 

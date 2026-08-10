@@ -50,7 +50,7 @@ Graziella mỉm cười, nhưng Titania mang vẻ mặt nghiêm trọng khi bư�
 
 “Hoàng nữ Điện hạ, cô có ý định biến ngài Reiji thành trò cười sao?”
 
-“Quả là một khuôn mặt đáng sợ, Công chúa Điện hạ. Có phải vì cô hay làm ra vẻ mặt như vậy nên Reiji mới sợ cô không?”
+“Quả là một khuôn mặt đáng sợ, Công chúa Điện hạ. Có phải vì ngài hay làm ra vẻ mặt như vậy nên Reiji mới sợ ngài không?”
 
 “Cái gì?! Ngài Reiji không hề thấy tôi đáng sợ!”
 

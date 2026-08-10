@@ -32,7 +32,7 @@ Titania hét lên khi cô lao lên và áp sát một lần nữa. Trong khi đ�
 
 "Ugh! Hỡi Thổ! Hãy bao bọc lấy ta và trở thành pháo đài vững chắc! Tuyệt đối không ai có thể vượt qua và đe dọa sinh mạng này! Thổ Tường Thăng Tiến!"
 
-Ngay sau câu chú của Titania, một bức tường bùn hình thành giữa cô và những sợi xích ngay lúc tia sét đỏ rực trút xuống. Bức tường bùn chớp nháy màu đỏ thẫm và đen tuyền, liên tục bị sét tấn công.
+Ngay sau câu chú của Graziella, một bức tường bùn hình thành giữa Titania và những sợi xích ngay lúc tia sét đỏ rực trút xuống. Bức tường bùn chớp nháy màu đỏ thẫm và đen tuyền, liên tục bị sét tấn công.
 
 Nhưng nó không kéo dài lâu. Nó vỡ vụn quá dễ dàng, khiến Titania hoàn toàn không còn khả năng phòng vệ. Cùng với tia chớp đỏ tiếp theo, một đám khói trắng bùng lên và cô dường như biến mất hoàn toàn.
 
@@ -78,7 +78,7 @@ Phớt lờ cô, Ilzarl nhặt cuốn sách lên. Tuy nhiên... chẳng có chuy
 
 "...Làm sao? Sau khi chạm vào nó, sao ngươi vẫn có thể giữ được tỉnh táo...?"
 
-"Về chuyện đó, thì đó là đặc quyền của hình thái này. Dù sao thì, không ngờ lại có một sức mạnh khác tương tự như Zekaraia..." Ilzarl lầm bầm với giọng nghiêm túc khi dùng xích cất cuốn sách ra sau lưng. "Ta sẽ lấy thứ này. Bây giờ thì, những kẻ duy nhất vẫn còn có thể chiến đấu là... tên anh hùng khốn khiếp và ả đàn bà ở phía sau kia, phải không?"
+"Về chuyện đó, thì đó là đặc quyền của hình thái này. Dù sao thì, không ngờ lại có một sức mạnh khác tương tự như Zekaraia..." Ilzarl lầm bầm với giọng nghiêm túc khi dùng xích cất cuốn sách ra sau lưng. "Ta sẽ lấy thứ này. Bây giờ thì, những kẻ duy nhất vẫn còn có thể chiến đấu là... tên anh hùng khốn kiếp và ả đàn bà ở phía sau kia, phải không?"
 
 "Urgh..."
 
@@ -146,7 +146,7 @@ Thanh kiếm sắc sảo và nguyên sơ đến mức không ai nghi ngờ rằn
 
 "Reiji, ngươi..."
 
-Reiji cũng vẫn đang chìm trong sự ngạc nhiên. Khi cậu quay lại, cậu có thể nhìn thấy khuôn mặt rạng rỡ của Mizuki. Nhưng khi quay lại, cậu cũng có thể cảm nhận được một sự hiện diện đang bay về phía mình. Chính xác ở nơi cậu vừa đứng, một sợi xích đồng khổng lồ xẹt qua trong chớp mắt.
+Reiji cũng vẫn đang chìm trong sự ngạc nhiên. Khi cậu quay lại, cậu có thể nhìn thấy khuôn mặt rạng rỡ của Mizuki. Nhưng ngay lúc đó, cậu cũng có thể cảm nhận được một sự hiện diện đang bay về phía mình. Chính xác ở nơi cậu vừa đứng, một sợi xích đồng khổng lồ xẹt qua trong chớp mắt.
 
 "Hmph. Ra đó là lý do tại sao hắn gọi nó là một vũ khí. Ta hiểu rồi... Đó đúng là một vật khá thú vị đấy."
 
