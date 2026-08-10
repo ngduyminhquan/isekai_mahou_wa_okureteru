@@ -10,7 +10,7 @@ Thấy vậy, Eanru một lần nữa nở nụ cười. Trước khi hắn kị
 
 "HAAAAAAAAA!"
 
-Cả hai người đồng loạt giải phóng ý chí chiến đấu. Một tiếng gầm rú vang lên chát chúa. Đáp lại việc Suimei tung bàn tay mang khắc ma pháp về phía trước, Eanru cũng vung nắm đấm của mình ra. Ngay sau vụ va chạm sức mạnh, một luồng sóng xung kích bùng nổ được giải phóng hất văng Eanru đi. Khi hắn chỉnh lại tư thế và ngước nhìn lên, hắn thấy Suimei cũng đã bị hất văng—rất có thể là do cùng một luồng sóng xung kích đó.
+Cả hai người đồng loạt giải phóng ý chí chiến đấu. Một tiếng gầm rú vang lên chát chúa. Đáp lại việc Suimei tung bàn tay mang khắc ma pháp về phía trước, Eanru cũng vung nắm đấm của mình ra. Ngay sau vụ va chạm sức mạnh, một luồng sóng xung kích bùng nổ được giải phóng, hất văng Eanru đi. Khi hắn chỉnh lại tư thế và ngước nhìn lên, hắn thấy Suimei cũng đã bị hất văng—rất có thể là do cùng một luồng sóng xung kích đó.
 
 Trận chiến này sẽ khiến trái tim hắn nhảy múa đến nhường nào đây? Từ thuở lọt lòng, Eanru chưa từng có một trận chiến nào cuốn hút đến thế. Không ngờ ngay lúc này hắn lại được ban phước cho một trận chiến tráng lệ, không hồi kết mà hắn luôn tìm kiếm bấy lâu nay...
 
@@ -102,7 +102,7 @@ Có một sự hồi hộp đầy thích thú trong lời nói của hắn. Đâ
 
 "HYAAAAAH!"
 
-Ngay sau đó, một vòng tròn ma thuật hình thành giữa cánh tay và phần mỏm cụt, rồi xoay tròn với một ánh sáng rực rỡ màu xanh lục. Sau đó cậu dậm mạnh chân, cắm chặt nó xuống đất. Trái đất vỡ vụn bên dưới và một luồng sóng xung kích của gió và ma lực nổi lên. Từ đó, Suimei tung ra một cú đánh.
+Ngay sau đó, một vòng tròn ma thuật hình thành giữa cánh tay và phần mỏm cụt, rồi xoay tròn với một ánh sáng rực rỡ màu xanh lục. Sau đó cậu giậm mạnh chân, cắm chặt nó xuống đất. Trái đất vỡ vụn bên dưới và một luồng sóng xung kích của gió và ma lực nổi lên. Từ đó, Suimei tung ra một cú đánh.
 
 "U-Urgh!"
 

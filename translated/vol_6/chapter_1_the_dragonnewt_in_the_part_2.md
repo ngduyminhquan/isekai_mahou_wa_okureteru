@@ -42,7 +42,7 @@ Hình bóng nam tính đang che chắn cho cô khỏi trận chiến ấy trông
 
 "A..."
 
-Quả thực, khung cảnh này giống hệt như những giấc mơ của cô—những ký ức mà cô thường nhớ lại khi say giấc. Cậu luôn bước lên phía trước để bảo vệ cô khỏi một mối đe dọa đang ập tới. Cậu chính là cậu bé mà cô từng khao khát muốn trở thành. Cậu đã mỉm cười thật dịu dàng với cô khi đứng ra đối đầu với con chó đó. Đó chỉ là một hành động tử tế nhỏ bé, nhưng lại vô giá trong mắt cô. Và khi nghĩ lại về điều đó, cô chợt nhớ ra một điều quan trọng.
+Quả thực, khung cảnh này giống hệt như những giấc mơ của cô—những ký ức mà cô thường nhớ lại khi say giấc. Cậu luôn bước lên phía trước để bảo vệ cô khỏi một mối đe dọa đang ập tới. Cậu chính là người mà cô từng khao khát muốn trở thành. Cậu đã mỉm cười thật dịu dàng với cô khi đứng ra đối đầu với con chó đó. Đó chỉ là một hành động tử tế nhỏ bé, nhưng lại vô giá trong mắt cô. Và khi nghĩ lại về điều đó, cô chợt nhớ ra một điều quan trọng.
 
 *Mình ghét việc luôn phải là người cần được bảo vệ. Chẳng phải đó là lý do mình trở nên mạnh mẽ hơn sao?*
 
