@@ -86,7 +86,7 @@ Gợi ý của Titania là điều hợp lý nhất mà ai đó đã nói cho đ
 
 ★
 
-Về những gì đã xảy ra bên ngoài, các kỵ sĩ của Astel và những người lính mà Graziella mang theo từ Nelferia đều bị thương, nhưng không nghiêm trọng. Tất cả họ đều đã thoát nạn mà không có vết thương nào đe dọa đến tính mạng.
+Về những gì đã xảy ra bên ngoài, các kỵ sĩ của Astel và những người lính mà Graziella mang theo từ Đế quốc Nelferian đều bị thương, nhưng không nghiêm trọng. Tất cả họ đều đã thoát nạn mà không có vết thương nào đe dọa đến tính mạng.
 
 Theo những gì họ kể với Reiji, sau khi họ tiễn cậu và những người khác, Ilzarl đã đến ngôi đền. Lúc đầu họ nghĩ hắn chỉ là một kẻ mờ ám nào đó và các tu sĩ từ Giáo hội Cứu thế đã cố gắng đuổi hắn đi, nhưng Ilzarl không do dự xé xác các tu sĩ khi họ chống lại hắn. Từ đó, trận chiến nổ ra. Các pháp sư từ giáo hội không thể kìm hãm hắn, và dường như từng người một cố gắng làm điều đó đều đã bị ăn thịt.
 

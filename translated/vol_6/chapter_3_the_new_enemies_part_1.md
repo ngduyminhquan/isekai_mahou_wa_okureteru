@@ -46,7 +46,7 @@ Felmenia lùi lại và mở toang cánh cửa, giữ nó sát vào người đ�
 
 "Đó là vì thời điểm hiện tại đang rất nguy cấp. Vậy, Anh hùng-dono, điều gì đã mang cô đến đây hôm nay?"
 
-"Tôi nghĩ mình nên ghé qua để gửi lời cảm ơn vì các cô cậu đã đến cứu tôi hôm trước. Hội trưởng hội mạo hiểm giả nói rằng Suimei có lẽ sẽ ở đây vào khoảng thời gian này."
+"Tôi nghĩ mình nên ghé qua để gửi lời cảm ơn vì các cô cậu đã đến cứu tôi hôm trước. Hội trưởng Hội Mạo hiểm giả nói rằng Suimei có lẽ sẽ ở đây vào khoảng thời gian này."
 
 "Vậy sao? Ngài Suimei hiện đang ở trong phòng để sắp xếp một số tài liệu. Nếu cô chờ một chút, tôi nghĩ ngài ấy sẽ đến đây nhanh thôi."
 
