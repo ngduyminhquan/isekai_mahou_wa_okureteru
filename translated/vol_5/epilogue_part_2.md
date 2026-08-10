@@ -28,7 +28,7 @@ Cùng với mana mà Suimei đang giải phóng, nhiều vòng tròn ma thuật 
 
 "Mea firma aegis! Speciosum aureum magnale!"
 
-[Tấm khiên vững chắc của ta! Pháo đài vàng rực rỡ!]
+[Khiên chắn vững chãi của ta! Pháo đài vàng rực rỡ!]
 
 Khi Suimei thốt ra từ khóa của mình, gã đàn ông có sừng phát ra một âm thanh the thé chói tai từ miệng làm chấn động cả không khí. Ngay khi làn sóng dao động lan ra môi trường xung quanh, mặt đất xôn xao như thể đang sôi sục, và những vết nứt giống như tia chớp màu đỏ nhấp nháy trong không trung.
 
