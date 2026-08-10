@@ -908,3 +908,7 @@
 | **Gravitatem, duplex coniunctum!** | Trọng lực, liên kết gấp đôi! | Ma thuật | Câu lệnh nhân đôi trọng lực của Suimei. |
 | **Gravitatem, terci contexit!** | Trọng lực, hợp nhất gấp ba! | Ma thuật | Câu lệnh nhân ba trọng lực của Suimei. |
 | **O flammae, legito! Pro venefici doloris clamore!...** | Hỡi ngọn lửa, hãy tập hợp lại! Như tiếng thét oán hận của pháp sư!... | Ma thuật | Câu lệnh gọi ngọn lửa của Ashurbanipal. |
+| **Man-Eating Evil** | Ác Thú Ăn Thịt Người / Man-Eating Evil | Sinh vật | Quái vật đáng sợ từng bị tiêu diệt bởi long nhân Eanru hơn một trăm năm trước. |
+| **Greed of Ten** | Thập Đại Tham Lam / Greed of Ten | Danh hiệu | Một trong những ma thuật sư hùng mạnh và nguy hiểm ở thế giới cũ của Suimei. |
+| **monster professor** | giáo sư quái vật | Danh hiệu | Một ma thuật sư hùng mạnh và nguy hiểm ở thế giới cũ của Suimei. |
+| **chairman** | chủ tịch | Chức vụ | Chủ tịch của một tổ chức bí thuật (như Hội Bác Học) ở thế giới cũ của Suimei. |
