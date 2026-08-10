@@ -1013,3 +1013,16 @@
 | **The Phantom Sword of the Kurikara Dharani** | Kiếm Ảo của Câu-lợi-ca-la Đà-la-ni | Ma thuật | Thanh kiếm ma thuật của Hatsumi. |
 | **The Hazy Cross** | Màn Sương Thập Tự | Kỹ năng | Một kiếm kỹ thuộc Kiếm Ảo của Câu-lợi-ca-la Đà-la-ni. |
 | **orichalcos** | orichalcos | Vật phẩm | Một loại kim loại/quặng đặc biệt tỏa sáng tự nhiên. |
+
+| **Thousand Nights Association** | Hiệp hội Ngàn Đêm | Tổ chức | Tổ chức quản lý và nghiên cứu bí thuật lớn trên thế giới. |
+| **Akashic Seer** | Thấu thị Akashic | Khái niệm | Thần khí/thánh tích dự đoán tương lai và các thảm họa của Hiệp hội Ngàn Đêm. |
+| **Enforcement Agency** | Cơ quan Chấp pháp | Tổ chức | Tổ chức thực thi nhiệm vụ chiến đấu của Hiệp hội Ngàn Đêm. |
+| **Enforcers** | Chấp pháp viên / Người Chấp pháp | Chức vụ | Những thành viên của Cơ quan Chấp pháp. |
+| **Formelkress** | Formelkress | Tên riêng | Trưởng nữ gia tộc Cattleya, đại diện Cơ quan Chấp pháp. |
+| **Zealkis** | Zealkis | Tên riêng | Em gái của Formelkress, thuộc Cơ quan Chấp pháp. |
+| **Cattleya** | Cattleya | Tên riêng | Gia tộc quyền lực của Hiệp hội Ngàn Đêm sở hữu ma pháp thao túng thời gian. |
+| **twilight syndrome** | Hội chứng Chạng vạng | Khái niệm | Hiện tượng bùng phát bất ổn dẫn đến sự xuất hiện của các quái thú. |
+| **beast of the apocalypse** | Quái thú Khải huyền | Khái niệm | Những thực thể sinh ra từ Hội chứng Chạng vạng để hủy diệt thế giới. |
+| **mystical calamity** | Thảm họa bí thuật | Khái niệm | Thảm họa ở quy mô lớn do các hiện tượng siêu nhiên gây ra. |
+| **rank disparity extinction** | Luật Triệt tiêu Chênh lệch Hạng | Khái niệm | Quy luật ma thuật khi bí thuật cấp thấp bị dập tắt bởi bí thuật cấp cao. |
+| **philosopher** | Triết gia | Cấp bậc | Một cấp bậc (khá thấp) của ma thuật sư hiện đại. |

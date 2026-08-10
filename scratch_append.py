@@ -1,49 +1,18 @@
-import os
+append_text = """
+### 35. Ilzarl
+- **Vai trò**: Một trong các Ma Tướng phục vụ dưới trướng Ma Vương Nakshatra. Mang hình dáng một người đàn ông với mái tóc dài màu trắng, đôi mắt đỏ ngầu và vóc dáng mảnh khảnh.
+- **Tính cách**: Khinh khỉnh, lạnh lùng, tự mãn.
+- **Giọng thoại**: Đều đều, khinh miệt kẻ yếu (xưng "Ta", gọi "Ngươi / Tên khốn"). Tôn kính Ma Vương (xưng "Thần", gọi "Bệ hạ").
 
-def process_glossary():
-    path = 'context/glossary.md'
-    with open(path, 'r', encoding='utf-8') as f:
-        lines = f.readlines()
-    
-    new_lines = []
-    seen_rajas = False
-    for line in lines:
-        if '| **Vuishta** | Vuishta | Tên riêng | Một con quỷ được Ma Vương Nakshatra ra lệnh tập hợp lực lượng. |' in line:
-            continue
-        if '| **Rajas** | Tướng quỷ Rajas | Tên riêng | Một tướng quỷ đã bị nhóm của Reiji đánh bại trước đó. |' in line:
-            if not seen_rajas:
-                seen_rajas = True
-                new_lines.append(line)
-            continue
-        new_lines.append(line)
-        
-    # Add orichalcos at the end of the table
-    for i in range(len(new_lines)-1, -1, -1):
-        if new_lines[i].strip().startswith('|'):
-            new_lines.insert(i+1, '| **orichalcos** | orichalcos | Vật phẩm | Một loại kim loại/quặng đặc biệt tỏa sáng tự nhiên. |\n')
-            break
-            
-    with open(path, 'w', encoding='utf-8') as f:
-        f.writelines(new_lines)
+### 36. Latora
+- **Vai trò**: Một nữ Ma Tướng phục vụ dưới trướng Ma Vương Nakshatra, mang hình dáng một cô gái trẻ độ xuân thì có đôi cánh dơi đen nhánh.
+- **Tính cách**: Dâm đãng, tàn độc, thích đùa giỡn và đập nát kẻ thù.
+- **Giọng thoại**: Cợt nhả, chế giễu (thường cười Ahahaha).
 
-def process_relationships():
-    path = 'context/relationships.md'
-    with open(path, 'r', encoding='utf-8') as f:
-        lines = f.readlines()
-        
-    new_lines = []
-    seen_rajas = False
-    for line in lines:
-        if '| **Rajas** | **Lefille / Suimei** |' in line:
-            if not seen_rajas:
-                seen_rajas = True
-                new_lines.append(line)
-            continue
-        new_lines.append(line)
-
-    with open(path, 'w', encoding='utf-8') as f:
-        f.writelines(new_lines)
-
-process_glossary()
-process_relationships()
-print('Context updated')
+### 37. Eanru
+- **Vai trò**: Một Long nhân (Dragonnewt), có sừng bạc, được xưng tụng là Anh hùng của Liên minh Saadias.
+- **Tính cách**: Xuề xòa, thân thiện (với đồng minh), nhưng lại cực kỳ hiếu chiến, hung tợn và cuồng tín khi gặp kẻ mạnh. Khinh thường kẻ yếu hèn, nhưng tôn trọng sức mạnh thực sự và những hành động dũng cảm bảo vệ người khác.
+- **Giọng thoại**: Ngạo mạn, trịch thượng (xưng "Ta", gọi đối thủ là "Ngươi", "Tên khốn"), nhưng khi hưng phấn sẽ bật cười lớn và dành những lời khen ngợi cuồng nhiệt ("Bravo!").
+"""
+with open('context/characters.md', 'a', encoding='utf-8') as f:
+    f.write(append_text)
