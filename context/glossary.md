@@ -903,3 +903,8 @@
 | **Ground Seal** | Phong Ấn Thổ | Ma thuật | Phép thuật phong ấn sử dụng thuộc tính đất của Suimei. |
 | **Progenitor** | Thủy Tổ | Khái niệm/Danh xưng | Một danh xưng được nhắc đến trong câu niệm của Suimei. |
 | **Apostle** | Sứ Đồ | Khái niệm/Danh xưng | Một danh xưng được nhắc đến trong câu niệm của Suimei. |
+
+| **Long Sword of the Absolute Edge** | Thanh Tuyệt Trảm Trường Kiếm / Long Sword of the Absolute Edge | Vũ khí/Kỹ năng | Kỹ thuật chém tuyệt đối của Hatsumi. |
+| **Gravitatem, duplex coniunctum!** | Trọng lực, liên kết gấp đôi! | Ma thuật | Câu lệnh nhân đôi trọng lực của Suimei. |
+| **Gravitatem, terci contexit!** | Trọng lực, hợp nhất gấp ba! | Ma thuật | Câu lệnh nhân ba trọng lực của Suimei. |
+| **O flammae, legito! Pro venefici doloris clamore!...** | Hỡi ngọn lửa, hãy tập hợp lại! Như tiếng thét oán hận của pháp sư!... | Ma thuật | Câu lệnh gọi ngọn lửa của Ashurbanipal. |
