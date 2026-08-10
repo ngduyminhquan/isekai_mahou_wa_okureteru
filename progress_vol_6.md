@@ -41,7 +41,7 @@ Dưới đây là danh sách các Phase tương ứng với từng phần dịch
 | **13** | Chapter 2: Seeking the Hero’s Weapon - Part 2 | `chapter_2_seeking_the_hero’s_weapon_part_2.txt` | 200 | 200 | 1897 | `chapter_2_seeking_the_hero’s_weapon_part_2.md` | **Hoàn thành** |
 | **14** | Chapter 2: Seeking the Hero’s Weapon - Part 3 | `chapter_2_seeking_the_hero’s_weapon_part_3.txt` | 200 | 200 | 1983 | `chapter_2_seeking_the_hero’s_weapon_part_3.md` | **Hoàn thành** |
 | **15** | Chapter 2: Seeking the Hero’s Weapon - Part 4 | `chapter_2_seeking_the_hero’s_weapon_part_4.txt` | 200 | 200 | 1963 | `chapter_2_seeking_the_hero’s_weapon_part_4.md` | **Hoàn thành** |
-| **16** | Chapter 2: Seeking the Hero’s Weapon - Part 5 | `chapter_2_seeking_the_hero’s_weapon_part_5.txt` | 200 | 200 | 2026 | `chapter_2_seeking_the_hero’s_weapon_part_5.md` | **Chưa bắt đầu** |
+| **16** | Chapter 2: Seeking the Hero’s Weapon - Part 5 | `chapter_2_seeking_the_hero’s_weapon_part_5.txt` | 200 | 200 | 2026 | `chapter_2_seeking_the_hero’s_weapon_part_5.md` | **Hoàn thành** |
 | **17** | Chapter 2: Seeking the Hero’s Weapon - Part 6 | `chapter_2_seeking_the_hero’s_weapon_part_6.txt` | 200 | 200 | 1945 | `chapter_2_seeking_the_hero’s_weapon_part_6.md` | **Chưa bắt đầu** |
 | **18** | Chapter 2: Seeking the Hero’s Weapon - Part 7 | `chapter_2_seeking_the_hero’s_weapon_part_7.txt` | 200 | 200 | 2050 | `chapter_2_seeking_the_hero’s_weapon_part_7.md` | **Chưa bắt đầu** |
 | **19** | Chapter 2: Seeking the Hero’s Weapon - Part 8 | `chapter_2_seeking_the_hero’s_weapon_part_8.txt` | 200 | 200 | 1981 | `chapter_2_seeking_the_hero’s_weapon_part_8.md` | **Chưa bắt đầu** |
