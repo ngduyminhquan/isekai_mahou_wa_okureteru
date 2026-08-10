@@ -46,7 +46,7 @@ Nghe Lefille gọi, Suimei tập trung vào bầy tà linh hiện đang nhắm t
 
 Felmenia phóng ra những ngọn lửa trắng của mình vào bầy tà linh. Và mặc dù ngọn lửa trắng rực rỡ đã càn quét qua chúng, bọn chúng vẫn bình thản đứng nguyên tại chỗ như thể chưa có chuyện gì xảy ra.
 
-“Ngài Suimei, chúng ta nên làm gì đây?! Mặc dù tôi đã sử dụng bí thuật (magicka), nhưng không có nhiều tác dụng!”
+“Suimei-dono, chúng ta nên làm gì đây?! Mặc dù tôi đã sử dụng bí thuật (magicka), nhưng không có nhiều tác dụng!”
 
 “Lùi lại! Không thể đánh bại bọn chúng bằng bí thuật thông thường đâu! Menia, mang Liliana đi cùng cô và lùi về tuyến sau đi!”
 
@@ -106,9 +106,9 @@ Những chiếc nanh của tà linh, móng vuốt của chúng... Nghĩ rằng n
 
 *Mình sợ. Đáng sợ quá...*
 
-Khi những lời đó đập thình thịch trong đầu, cô không còn khả năng làm bất cứ điều gì nữa. Nhưng rồi cô nhận ra tất cả những điều này đều thật quen thuộc. Chẳng phải điều này giống y hệt như lần cô gục ngã đó sao? Đó là một ký tương luôn ám ảnh cô. Những con quái vật hình chó đang tấn công cô chẳng giúp ích được gì. Tất cả là quá sức chịu đựng.
+Khi những lời đó đập thình thịch trong đầu, cô không còn khả năng làm bất cứ điều gì nữa. Nhưng rồi cô nhận ra tất cả những điều này đều thật quen thuộc. Chẳng phải điều này giống y hệt như lần cô gục ngã đó sao? Đó là một ký ức luôn ám ảnh cô. Những con quái vật hình chó đang tấn công cô chẳng giúp ích được gì. Tất cả là quá sức chịu đựng.
 
-Khi cảm nhận được bầy tà linh chuẩn bị tung đòn kết liễu, cô nhắm nghiền mắt lại chặt nhất có thể. Cô hóa đá. Nhưng dù cô có đợi bao lâu đi chăng nữa, cơn đau mà cô chờ đợi vẫn không ập đến. Khi cô tò mò mở mắt ra, một thanh niên mặc bộ âu phục đen hiện đang đứng sừng sững che chở cho cô. Đó là Suimei, hai tay cầm thanh katana bạc, thở một cách thô ráp. Có lẽ vì bị thương khi cứu cô, vai chiếc áo khoác của cậu đã bị xé toạc thành từng mảnh.
+Khi cảm nhận được bầy tà linh chuẩn bị tung đòn kết liễu, cô nhắm nghiền mắt lại chặt nhất có thể. Cô hóa đá. Nhưng dù cô có đợi bao lâu đi chăng nữa, cơn đau mà cô chờ đợi vẫn không ập đến. Khi cô tò mò mở mắt ra, một thanh niên mặc bộ âu phục đen hiện đang đứng sừng sững che chở cho cô. Đó là Suimei, hai tay cầm thanh katana bạc, thở dốc. Có lẽ vì bị thương khi cứu cô, vai chiếc áo khoác của cậu đã bị xé toạc thành từng mảnh.
 
 “A—”
 
