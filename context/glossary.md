@@ -914,3 +914,4 @@
 | **chairman** | chủ tịch | Chức vụ | Chủ tịch của một tổ chức bí thuật (như Hội Bác Học) ở thế giới cũ của Suimei. |
 
 | **Attila** | Attila | Địa danh | Thành phố trung tâm của quốc gia tự trị thuộc Liên minh Saadias. |
+| **Faylia** | Faylia | Tên riêng | Một nữ tinh linh (elf) thuộc Giáo hội Cứu thế, người trông nom ngôi đền lưu giữ di vật anh hùng thời cổ đại. |

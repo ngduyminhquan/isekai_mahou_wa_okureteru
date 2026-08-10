@@ -72,3 +72,6 @@ Quy tắc xưng hô và đại từ trong hội thoại giữa các nhân vật 
 - **Latora <-> Vuishta**: Latora nghi ngờ khả năng của Vuishta, thích cách hành quyết tàn bạo. Vuishta tự tin đáp trả.
 - **Khối thịt <-> Vuishta**: Khối thịt thường xuyên mỉa mai, nói móc Vuishta vì thói ngạo mạn. Vuishta phớt lờ.
 - **Vuishta <-> Suimei / Hatsumi**: Vuishta kiêu ngạo, coi thường con người (xưng "Ta", gọi "Ngươi"). Suimei đáp trả bằng thái độ cợt nhả, không kiêng nể (xưng "Ta" hoặc "Tôi", gọi "Ngươi"). Hatsumi (Anh hùng) bị Vuishta mỉa mai và căm ghét.
+
+### Nhóm của Reiji (Tại Giáo hội Cứu thế)
+- **Faylia <-> Reiji**: Faylia giữ thái độ lịch sự, tao nhã nhưng đôi lúc cũng trêu đùa tinh nghịch (xưng "Tôi", gọi "Ngài / Ngài Anh hùng"). Reiji đáp lại bằng sự lịch thiệp, thân thiện và sảng khoái (xưng "Tôi", gọi "Cô").

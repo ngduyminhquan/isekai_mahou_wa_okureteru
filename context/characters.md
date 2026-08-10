@@ -249,3 +249,9 @@ Dưới đây là hồ sơ chi tiết các nhân vật xuất hiện, định h�
 - **Vai trò**: Một Long nhân (Dragonnewt), có sừng bạc, được xưng tụng là Anh hùng của Liên minh Saadias.
 - **Tính cách**: Xuề xòa, thân thiện (với đồng minh), nhưng lại cực kỳ hiếu chiến, hung tợn và cuồng tín khi gặp kẻ mạnh. Khinh thường kẻ yếu hèn, nhưng tôn trọng sức mạnh thực sự và những hành động dũng cảm bảo vệ người khác.
 - **Giọng thoại**: Ngạo mạn, trịch thượng (xưng "Ta", gọi đối thủ là "Ngươi", "Tên khốn"), nhưng khi hưng phấn sẽ bật cười lớn và dành những lời khen ngợi cuồng nhiệt ("Bravo!").
+
+### 38. Faylia
+- **Vai trò**: Một nữ tinh linh (elf) thuộc Giáo hội Cứu thế. Cô là người được ủy thác việc trông nom ngôi đền lưu giữ di vật của anh hùng thời cổ đại ở ngoại ô thành phố.
+- **Ngoại hình**: Có mái tóc trắng và đôi tai thon dài của tinh linh, đôi mắt xanh lục và đôi môi hồng mọng nước. Cô mặc trang phục nữ tu giản dị nhưng toát lên vẻ quyến rũ ma mị. Cô có vẻ ở độ tuổi cuối 20 hoặc đầu 30, nhưng tự xưng là đã chứng kiến sự kiện từ thời bạo chúa bị đánh bại (rất lâu về trước).
+- **Tính cách**: Thanh lịch, dịu dàng, đôi lúc tinh nghịch. 
+- **Giọng thoại**: Lịch sự, tao nhã (xưng "Tôi", gọi "Ngài").
