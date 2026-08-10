@@ -46,7 +46,7 @@ Rumeya vẫy tay lên xuống, cố gắng nài nỉ Lefille cho bà ta được
 
 "Oa! Cơ thể cô bây giờ có kích cỡ hoàn hảo để vuốt ve rồi, nên chẳng phải rất tốt sao?!"
 
-"Không hề! Làm sao bà có thể tìm thấy một người nào đó vui vẻ để bị vuốt ve trong hoàn cảnh thế này chứ?!"
+"Không hề! Làm sao bà có thể tìm thấy một người nào đó cảm thấy vui vẻ khi bị vuốt ve trong hoàn cảnh thế này chứ?!"
 
 Nói xong, Lefille quay phắt sang hướng khác, trong khi Rumeya toét miệng cười rạng rỡ.
 

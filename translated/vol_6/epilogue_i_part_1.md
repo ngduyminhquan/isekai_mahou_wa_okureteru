@@ -120,7 +120,7 @@ Nghe lời tuyên bố táo bạo của Hadorious, Elliot ngậm miệng lại v
 
 Cậu tuyên bố như vậy. Nhưng khi Elliot vừa nói, những giọt mồ hôi bắt đầu lấm tấm trên trán cậu. Cậu đã nhận ra một điều mà bản thân không hề muốn, và nó lập tức bắt đầu đè nặng lên cậu. Áp lực của nó, giống hệt như ánh nhìn của Hadorious, thật không ngừng nghỉ.
 
-"Nếu ngươi đã am hiểu về những thực thể được gọi là thần thánh như vậy, thì ngươi cũng đáng lẽ phải nghĩ về điều này rồi. Chắc chắn, các vị thần không sở hữu ý niệm về lòng tham. Nhưng thực chất những kẻ được gọi là thần này, thực sự là gì? Chính xác thì họ làm gì?"
+"Nếu ngươi đã am hiểu về những thực thể được gọi là thần thánh như vậy, thì ngươi cũng đáng lẽ phải nghĩ về điều này rồi. Chắc chắn, các vị thần không sở hữu ý niệm về lòng tham. Nhưng rốt cuộc những kẻ được gọi là thần này, thực chất là gì? Chính xác thì họ làm gì?"
 
 Elliot nuốt nước bọt một cái thật mạnh, cậu ngẫm nghĩ về những câu hỏi của Hadorious, và trong lúc làm vậy, cậu nhớ lại một cuộc trò chuyện mà mình đã từng có với Suimei trước đây. Cuộc nói chuyện mà cậu hiện đang có với Hadorious cũng không khác biệt là mấy. Suimei cũng từng hỏi cậu về ý kiến của bản thân đối với các vị thần, nhưng vì Elliot nhầm tưởng anh là một người của thế giới này, cậu đã không điều tra sâu hơn về điều đó. Nếu cậu làm vậy, rất có thể cậu đã đi đến kết luận mà mình sắp sửa...
 
