@@ -28,7 +28,7 @@ Bị thu hút bởi âm thanh từ giọng nói của cô, Suimei một lần n�
 
 Suimei vô thức thở hắt ra một tiếng nhỏ khi cậu nhận ra chuyện gì đang xảy ra. Giọng nói của cậu, cánh tay đang giơ ra phía trước, đôi mắt, và cả trái tim đang xấu hổ của cậu đều chùng xuống.
 
-Lời nguyền. Ngay khi từ đó lóe lên trong tâm trí Suimei, sự bối rối vừa bủa vây lấy cậu lập tức tan biến ngay tức khắc.
+Lời nguyền. Ngay khi từ đó lóe lên trong tâm trí Suimei, sự bối rối vừa bủa vây lấy cậu lập tức tan biến.
 
 *Nhưng tại sao...? Tại sao ở đây lại có một người phụ nữ đang phải chịu đựng lời nguyền thế này?*
 
