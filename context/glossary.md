@@ -919,3 +919,6 @@
 | **Lachesis Meter** | Lachesis Meter | Vật phẩm / Di vật | Một thiết bị bí ẩn trông giống đồng hồ quả quýt do vị anh hùng thời xưa để lại, liên quan đến ngày tận thế. Tên gốc được giữ nguyên bằng tiếng Anh. |
 |   * * S o l i d   S n a k e   C o n s t r i c t i o n * *   |   R �n   C �n g   X i �t   C h �t   /   S o l i d   S n a k e   C o n s t r i c t i o n   |   M a   t h u �t   |   P h � p   t h u �t   h �  m �c   c �a   F a y l i a .   |  
  
+- **Little Forest Bunker**: Lô Cốt Rừng Nhỏ (Ma pháp Mộc thuộc tính).
+- **Crystal Raid**: Thạch Kích (Ma pháp Thổ thuộc tính).
+- **Refined Crystal Raid**: Thạch Kích Tinh Luyện (Ma pháp Thổ thuộc tính).
