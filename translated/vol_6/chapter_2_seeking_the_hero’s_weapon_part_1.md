@@ -54,7 +54,7 @@ Nhìn thấy biểu cảm của cậu, Titania phần nào đoán được cậu
 
 "Hồi trước, Suimei cũng nói rất nhiều thứ khó hiểu. Với một vẻ mặt hoàn toàn nghiêm túc nữa. Dù cậu ấy khó chịu hơn, nhưng những lời vô nghĩa của cậu ấy lại có nhiều sự thật hơn của Mizuki. Bất cứ khi nào những chuyện kỳ lạ xảy ra quanh bọn tôi, cậu ấy luôn ở ngay đó với bọn tôi."
 
-"Reiji-sama... Liệu có phải thực ra Suimei mới là người gây ra những tình huống như vậy không?"
+"Ngài Reiji... Liệu có phải thực ra Suimei mới là người gây ra những tình huống như vậy không?"
 
 "Theo một cách nào đó, cô có thể đúng. Mizuki sẽ chiếm bốn phần, sự can thiệp của tôi sẽ chiếm bốn phần, và Suimei sẽ là hai phần còn lại trong mười phần hoặc thứ gì đó..."
 
@@ -66,7 +66,7 @@ Reiji nhìn ra ngoài cửa sổ với một ánh mắt xa xăm. Nhìn cậu nh�
 
 Reiji không nghĩ rằng cô có thể đã nghe lén. Nhưng ngay khi cậu đang hối hận vì đã nói quá nhiều, cậu đã bị phản bội.
 
-"Chỉ là một chút về quá khứ của cô thôi, Mizuki. Reiji-sama đang kể cho tôi nghe, phải không ngài?"
+"Chỉ là một chút về quá khứ của cô thôi, Mizuki. Ngài Reiji đang kể cho tôi nghe, phải không ngài?"
 
 "T-Tia?!"
 

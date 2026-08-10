@@ -180,7 +180,7 @@ Gaius bị sốc đến mức không thể đi vào vấn đề chính. Suimei n
 
 Ngay cả với lời bổ sung đó ở cuối lời tuyên bố của Suimei, sự kinh ngạc của Rumeya chỉ tăng lên. Khi cuộc trao đổi của họ sắp kết thúc, Suimei nhìn sang Lefille.
 
-"Tôi cũng muốn nghe ý kiến của cô về chuyện này để có thêm góc nhìn."
+"Tôi cũng muốn nghe ý kiến của cậu về chuyện này để có thêm góc nhìn."
 
 "Tôi có thể xác nhận những gì Rumeya-dono vừa nói. Long nhân rất mạnh. Họ sinh sống ở vùng đất giáp ranh với lãnh thổ của loài quỷ, nhưng không những không bị tiêu diệt, họ còn đang phát triển mạnh mẽ. Mặc dù hoàn toàn áp đảo về số lượng, họ vẫn có đủ sức mạnh để chiến đấu một cách dư dả."
 
@@ -208,7 +208,7 @@ Khi Suimei xoa cằm, Weitzer hét lên một tiếng sấm sét.
 
 "Đây là một vấn đề quan trọng liên quan đến sự an toàn của Anh hùng! Việc không lấy được một—"
 
-"Aah, chết tiệt, ngậm cái miệng chết tiệt của cậu lại đi. Hắn ta không phải là kiểu đối thủ mà cậu có thể dùng vũ lực để moi câu trả lời. Hiểu chưa? Hay cậu đang nói rằng cậu muốn tự mình đi hỏi hắn? Từ đầu đến cuối, đó chỉ là một lễ hội chấn thương tâm lý đối với tôi, cậu nghe rõ chưa? Hắn ta là một con rồng—một con rồng chết tiệt! Cậu có thể chiến đấu với một con quái vật có khả năng mang lại sự diệt vong cho một thế giới có bảy tỷ người và cuộc sống như chúng ta biết không?! Hả?! HẢ?!"
+"Aah, chết tiệt, ngậm cái miệng chết tiệt của anh lại đi. Hắn ta không phải là kiểu đối thủ mà anh có thể dùng vũ lực để moi câu trả lời. Hiểu chưa? Hay anh đang nói rằng anh muốn tự mình đi hỏi hắn? Từ đầu đến cuối, đó chỉ là một lễ hội chấn thương tâm lý đối với tôi, anh nghe rõ chưa? Hắn ta là một con rồng—một con rồng chết tiệt! Anh có thể chiến đấu với một con quái vật có khả năng mang lại sự diệt vong cho một thế giới có bảy tỷ người và cuộc sống như chúng ta biết không?! Hả?! HẢ?!"
 
 "C-Chuyện đó..."
 

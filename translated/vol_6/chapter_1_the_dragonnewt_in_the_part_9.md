@@ -38,7 +38,7 @@ Suimei cường điệu hóa hành động ôm lấy vai mình và run rẩy, v�
 
 "Ở thế giới của tôi, hầu hết những kẻ sống lâu đều rất nguy hiểm. Đó gần như là một tiêu chuẩn. Thậm chí những kẻ chỉ sống được cỡ một trăm năm đều rất nguy hiểm. Kiểu, siêu nguy hiểm luôn ấy."
 
-"Vậy mà ngài lại đi xa đến vậy, ngài Suimei..."
+"Vậy mà ngài lại phải đối đầu với những kẻ như thế sao, ngài Suimei..."
 
 Trong khi Felmenia làm ra vẻ mặt nghiêm nghị khi cô lẩm bẩm, Suimei nhớ lại danh sách những con quái vật như vậy mà cậu từng chạm trán. Nó bao gồm Hội trưởng Hội Bác Học, chủ tịch, vị giáo sư quái vật, và Thập Đại Tham Lam (Greed of Ten). Tất cả đều là những ma thuật sư sở hữu sức mạnh đáng sợ. Trong lúc cuộc trò chuyện tạm dừng, Hatsumi cất tiếng.
 
