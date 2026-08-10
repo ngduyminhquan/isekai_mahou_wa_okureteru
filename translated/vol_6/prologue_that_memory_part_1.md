@@ -142,4 +142,4 @@ Kazamitsu đã tự mình dạy ma thuật cho Suimei. Nhưng ngay cả khi Suim
 
 "Vậy ngoài hai người đó đến từ Cơ quan Chấp pháp, không có quá nhiều ma thuật sư mạnh mẽ nào khác đến sao? Mặc dù chúng ta đang nói về một con quái thú có thể hủy diệt toàn bộ Châu Âu ư?"
 
-[Next Part](prologue_that_memory_part_2.md)
+[Next Part >](prologue_that_memory_part_2.md)
