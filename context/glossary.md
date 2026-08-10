@@ -917,7 +917,8 @@
 | **Faylia** | Faylia | Tên riêng | Một nữ tinh linh (elf) thuộc Giáo hội Cứu thế, người trông nom ngôi đền lưu giữ di vật anh hùng thời cổ đại. |
 
 | **Lachesis Meter** | Lachesis Meter | Vật phẩm / Di vật | Một thiết bị bí ẩn trông giống đồng hồ quả quýt do vị anh hùng thời xưa để lại, liên quan đến ngày tận thế. Tên gốc được giữ nguyên bằng tiếng Anh. |
-|   * * S o l i d   S n a k e   C o n s t r i c t i o n * *   |   R �n   C �n g   X i �t   C h �t   /   S o l i d   S n a k e   C o n s t r i c t i o n   |   M a   t h u �t   |   P h � p   t h u �t   h �  m �c   c �a   F a y l i a .   |  
+|   * * S o l i d   S n a k e   C o n s t r i c t i o n * *   |   R �n   C �n g   X i �t   C h �t   /   S o l i d   S n a k e   C o n s t r i c t i o n   |   M a   t h u �t   |   P h � p   t h u �t   h �  m �c   c �a   F a y l i a .   | 
+ 
  
 - **Little Forest Bunker**: Lô Cốt Rừng Nhỏ (Ma pháp Mộc thuộc tính).
 - **Crystal Raid**: Thạch Kích (Ma pháp Thổ thuộc tính).
@@ -925,3 +926,5 @@
 
 | **Sacrament** | Thánh tích | Món đồ trang sức có thể biến thành thanh kiếm màu xanh lam của anh hùng Reiji, ban cho sức mạnh lớn. |
 | **Zekaraia** | Zekaraia | Một cái tên bí ẩn được Ilzarl nhắc đến, ám chỉ một sức mạnh tương tự như Thánh tích. |
+| **Ishar Cluster** | Kiếm tinh thể Ishar Cluster / Ishar Cluster | Vật phẩm / Khái niệm | Thanh kiếm tinh thể của Reiji. |
+| **Cathedral Forge** | Lò rèn Thánh đường / Cathedral Forge | Ma thuật | Ma pháp kết hợp do Mizuki (Io Kuzami) thi triển. |
