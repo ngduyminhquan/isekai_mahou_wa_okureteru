@@ -901,3 +901,5 @@
  
 | **Fast Replication** | Phân Thân Tốc Độ | Ma thuật | Một kỹ thuật của Suimei tạo ra nhiều phân thân ma lực cùng lúc. |
 | **Ground Seal** | Phong Ấn Thổ | Ma thuật | Phép thuật phong ấn sử dụng thuộc tính đất của Suimei. |
+| **Progenitor** | Thủy Tổ | Khái niệm/Danh xưng | Một danh xưng được nhắc đến trong câu niệm của Suimei. |
+| **Apostle** | Sứ Đồ | Khái niệm/Danh xưng | Một danh xưng được nhắc đến trong câu niệm của Suimei. |
