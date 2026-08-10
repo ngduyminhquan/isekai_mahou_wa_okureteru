@@ -166,9 +166,9 @@ Reiji nhớ lại những con quái vật cậu từng thấy trong các cuốn 
 
 Sau khi xác nhận rằng Mizuki đã lùi lại phía sau, Reiji trừng mắt nhìn chằm chằm vào luồng áp lực đáng sợ của Ilzarl. Sau đó, cậu có thể nghe thấy một giọng nói êm tai đang niệm chú ở phía sau mình.
 
-“Hỡi Mộc. Hãy răn đe và gây áp lực lên kẻ thù của ta. Con rắn sinh ra từ khu rừng vĩ đại, hãy tuân theo ý chí của ta và vô cảm nghiền nát kẻ mạnh. Rắn Cứng Xiết Chặt (Solid Snake Constriction).”
+“Hỡi Mộc. Hãy răn đe và gây áp lực lên kẻ thù của ta. Con rắn sinh ra từ khu rừng vĩ đại, hãy tuân theo ý chí của ta và vô cảm nghiền nát kẻ mạnh. Rắn Cứng Siết Chặt (Solid Snake Constriction).”
 
-Đột nhiên, mặt đất xung quanh chân Ilzarl phồng lên. Những thân cây giống như những sợi dây thường xuân xoắn xít, dày đặc bật lên từ lòng đất và lan rộng ra. Trông có vẻ như đó là ma pháp thuộc tính mộc. Những thân dây leo dày cộp vặn vẹo như những con rắn khi chúng quấn chặt lấy cánh tay, bàn chân và thân mình của Ilzarl. Quả là một phép thuật khá mạnh mẽ.
+Đột nhiên, mặt đất xung quanh chân Ilzarl phồng lên. Những thân cây giống như những sợi dây thường xuân cuộn xoắn, chằng chịt bật lên từ lòng đất và lan rộng ra. Trông có vẻ như đó là ma pháp thuộc tính mộc. Những thân dây leo dày cộp vặn vẹo như những con rắn khi chúng quấn chặt lấy cánh tay, bàn chân và thân mình của Ilzarl. Quả là một phép thuật khá mạnh mẽ.
 
 Những đoạn dây leo tiếp tục phát triển. Không chỉ quấn chặt lấy mục tiêu, chúng dường như còn có ý định nghiền nát hắn. Để rũ bỏ một số lượng nhiều đến thế sẽ rất khó khăn. Và cuối cùng, những thân dây leo dày bằng gỗ đó đã quấn vào nhau, tạo thành một khối giống như một thân cây khổng lồ, rắn chắc. Ilzarl đã hoàn toàn biến mất khỏi tầm nhìn ở bên trong đó. Và về phần người thi triển phép thuật...
 

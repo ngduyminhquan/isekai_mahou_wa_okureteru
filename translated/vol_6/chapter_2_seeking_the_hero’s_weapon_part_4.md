@@ -108,7 +108,7 @@ Mizuki phát ra một âm thanh kỳ lạ đầy khó hiểu. Cũng cảm thấy
 
 “Tớ xin lỗi. Đây cũng là lần đầu tiên tớ nghe nói về điều đó.”
 
-Reiji chuyển ánh mắt sang Graziella sau Titania, nhưng có vẻ như cô cũng không biết. Cô chỉ nhún vai trong khi lắc đầu. Nhưng việc hai pháp sư đứng đắn hoàn toàn mù tịt về vấn đề này, Reiji không khỏi cảm thấy kỳ lạ.
+Reiji chuyển ánh mắt sang Graziella sau khi hỏi Titania, nhưng có vẻ như cô ấy cũng không biết. Cô chỉ nhún vai trong khi lắc đầu. Nhưng việc hai pháp sư đứng đắn hoàn toàn mù tịt về vấn đề này, Reiji không khỏi cảm thấy kỳ lạ.
 
 “Bây giờ thì, xin hãy lùi lại một chút.”
 

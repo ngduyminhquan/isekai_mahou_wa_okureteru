@@ -144,7 +144,7 @@ Cô ấy nói đúng, nhưng Reiji không thực sự nghĩ rằng đó là bấ
 
 Reiji làm theo lời cô yêu cầu và thử nghĩ lại về nó. Cậu tua lại những gì đã xảy ra trong đầu mình, và không thể nhớ bất kỳ điều gì kỳ lạ về bất cứ điều gì Faylia đã nói hoặc làm trong khi cô ấy đang nói về di vật. Có vẻ như Mizuki đã tập trung vào tên của món đồ—Lachesis Meter. Đó là những gì Faylia đã gọi nó. Và...
 
-“Ah! Chuyển động miệng của cô ấy!”
+“Ah! Khẩu hình miệng của cô ấy!”
 
 Khi nhận ra Mizuki đang nói về điều gì, Reiji đột nhiên bật dậy trong cỗ xe ngựa. Thấy rằng cậu cuối cùng cũng đã xâu chuỗi mọi thứ lại với nhau, Mizuki vui vẻ gật đầu liên tục.
 
