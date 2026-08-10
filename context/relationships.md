@@ -75,3 +75,6 @@ Quy tắc xưng hô và đại từ trong hội thoại giữa các nhân vật 
 
 ### Nhóm của Reiji (Tại Giáo hội Cứu thế)
 - **Faylia <-> Reiji**: Faylia giữ thái độ lịch sự, tao nhã nhưng đôi lúc cũng trêu đùa tinh nghịch (xưng "Tôi", gọi "Ngài / Ngài Anh hùng"). Reiji đáp lại bằng sự lịch thiệp, thân thiện và sảng khoái (xưng "Tôi", gọi "Cô").
+
+| **Suimei** | **Clarissa** | Cậu / Suimei-sama | Chị gái / Cô | Clarissa giữ thái độ kiểu cách, gọi Suimei là ngài/sama. Suimei đáp trả lạnh nhạt và gọi cô là 'Chị gái' (Sister) một cách mỉa mai. |
+| **Suimei** | **Jillbert** | Cậu | Cô | Jillbert nói chuyện cộc cằn, dân dã. Suimei cũng không kiêng nể mà đáp trả trực diện. |
