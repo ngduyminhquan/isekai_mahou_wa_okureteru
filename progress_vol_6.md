@@ -57,7 +57,7 @@ Dưới đây là danh sách các Phase tương ứng với từng phần dịch
 | **29** | Chapter 3: The New Enemies - Part 8 | `chapter_3_the_new_enemies_part_8.txt` | 200 | 200 | 2013 | `chapter_3_the_new_enemies_part_8.md` | **Hoàn thành** |
 | **30** | Chapter 3: The New Enemies - Part 9 | `chapter_3_the_new_enemies_part_9.txt` | 200 | 200 | 1882 | `chapter_3_the_new_enemies_part_9.md` | **Hoàn thành** |
 | **31** | Chapter 3: The New Enemies - Part 10 | `chapter_3_the_new_enemies_part_10.txt` | 64 | 64 | 617 | `chapter_3_the_new_enemies_part_10.md` | **Hoàn thành** |
-| **32** | Epilogue I - Part 1 | `epilogue_i_part_1.txt` | 200 | 200 | 2138 | `epilogue_i_part_1.md` | **Chưa bắt đầu** |
+| **32** | Epilogue I - Part 1 | `epilogue_i_part_1.txt` | 200 | 200 | 2138 | `epilogue_i_part_1.md` | **Hoàn thành** |
 | **33** | Epilogue I - Part 2 | `epilogue_i_part_2.txt` | 148 | 148 | 1490 | `epilogue_i_part_2.md` | **Chưa bắt đầu** |
 | **34** | Epilogue II - Part 1 | `epilogue_ii_part_1.txt` | 200 | 200 | 1880 | `epilogue_ii_part_1.md` | **Chưa bắt đầu** |
 | **35** | Epilogue II - Part 2 | `epilogue_ii_part_2.txt` | 58 | 58 | 549 | `epilogue_ii_part_2.md` | **Chưa bắt đầu** |
