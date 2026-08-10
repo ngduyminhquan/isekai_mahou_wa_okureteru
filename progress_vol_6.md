@@ -32,7 +32,7 @@ Dưới đây là danh sách các Phase tương ứng với từng phần dịch
 | **4** | Chapter 1: The Dragonnewt in the - Part 2 | `chapter_1_the_dragonnewt_in_the_part_2.txt` | 200 | 200 | 2095 | `chapter_1_the_dragonnewt_in_the_part_2.md` | **Hoàn thành** |
 | **5** | Chapter 1: The Dragonnewt in the - Part 3 | `chapter_1_the_dragonnewt_in_the_part_3.txt` | 200 | 200 | 2201 | `chapter_1_the_dragonnewt_in_the_part_3.md` | **Hoàn thành** |
 | **6** | Chapter 1: The Dragonnewt in the - Part 4 | `chapter_1_the_dragonnewt_in_the_part_4.txt` | 200 | 200 | 2073 | `chapter_1_the_dragonnewt_in_the_part_4.md` | **Hoàn thành** |
-| **7** | Chapter 1: The Dragonnewt in the - Part 5 | `chapter_1_the_dragonnewt_in_the_part_5.txt` | 200 | 200 | 2107 | `chapter_1_the_dragonnewt_in_the_part_5.md` | **Chưa bắt đầu** |
+| **7** | Chapter 1: The Dragonnewt in the - Part 5 | `chapter_1_the_dragonnewt_in_the_part_5.txt` | 200 | 200 | 2107 | `chapter_1_the_dragonnewt_in_the_part_5.md` | **Hoàn thành** |
 | **8** | Chapter 1: The Dragonnewt in the - Part 6 | `chapter_1_the_dragonnewt_in_the_part_6.txt` | 200 | 200 | 2032 | `chapter_1_the_dragonnewt_in_the_part_6.md` | **Chưa bắt đầu** |
 | **9** | Chapter 1: The Dragonnewt in the - Part 7 | `chapter_1_the_dragonnewt_in_the_part_7.txt` | 200 | 200 | 1999 | `chapter_1_the_dragonnewt_in_the_part_7.md` | **Chưa bắt đầu** |
 | **10** | Chapter 1: The Dragonnewt in the - Part 8 | `chapter_1_the_dragonnewt_in_the_part_8.txt` | 200 | 200 | 1806 | `chapter_1_the_dragonnewt_in_the_part_8.md` | **Chưa bắt đầu** |

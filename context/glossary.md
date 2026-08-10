@@ -899,3 +899,5 @@
 |   * * F a s t   R e p l i c a t i o n * *   |   P h  n   T h  n   T c     /   P h  n   T h  n   T c     ( F a s t   R e p l i c a t i o n )   |   M a   t h u t   |   M t   k   t h u t   c a   S u i m e i     t o   r a   n h i u   p h  n   t h  n   m a   l c   c  n g   l  c .   | 
  
  
+| **Fast Replication** | Phân Thân Tốc Độ | Ma thuật | Một kỹ thuật của Suimei tạo ra nhiều phân thân ma lực cùng lúc. |
+| **Ground Seal** | Phong Ấn Thổ | Ma thuật | Phép thuật phong ấn sử dụng thuộc tính đất của Suimei. |
