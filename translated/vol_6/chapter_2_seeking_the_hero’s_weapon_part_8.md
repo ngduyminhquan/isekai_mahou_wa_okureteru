@@ -1,3 +1,5 @@
+[<< Phần trước](chapter_2_seeking_the_hero’s_weapon_part_7.md) | [Phần tiếp theo >>](chapter_2_seeking_the_hero’s_weapon_part_9.md)
+
 "Ư-Ưm!"
 
 Ngay khoảnh khắc những tinh thể sắp chạm tới Ilzarl, hắn hẳn đã cảm nhận được bản chất tinh tế từ sức mạnh của chúng. Hắn nhảy lùi lại, nhưng mũi của một trong những sợi xích của hắn không kịp lùi đủ xa. Khi những tinh thể chạm vào nó, nó bị đóng băng, chuyển sang màu xanh lam và vỡ vụn. Thật vậy, sợi xích từng dễ dàng xuyên thủng ma pháp mạnh mẽ của Faylia đã bị phá hủy một cách dễ dàng.
@@ -140,7 +142,7 @@ Nói rồi, một lượng ma lực khổng lồ được giải phóng ra từ 
 
 Cả Reiji và Ilzarl đều sững sờ—một người là người bạn thân đã luôn đi cùng cô suốt thời gian qua và đang ngạc nhiên trước màn phô diễn ma lực bất thường này, còn một người là kẻ thù đang hoàn toàn kinh ngạc trước màn trình diễn sức mạnh đáng sợ đang diễn ra ngay trước mắt. Ilzarl lập tức nâng cao cảnh giác khi Mizuki bắt đầu niệm chú.
 
-"Hỡi Lửa và Đất. Hãy cất lên bài thánh ca hồn nhiên, vinh quang của các ngươi. Ngôi đền của ta đứng vững chãi tại nơi đây. Hãy hóa thành lớp sắt nung đỏ và ngọn lò bừng cháy, cuốn trôi tất cả mọi thứ trước mắt ta. Hãy tuân theo bàn tay ta, Lò Rèn Thánh Đường (*Cathedral Forge*)!"
+"Hỡi Lửa và Đất. Hãy cất lên bài thánh ca hồn nhiên, vinh quang của các ngươi. Ngôi đền của ta đứng vững chãi tại nơi đây. Hãy hóa thành lớp sắt nung đỏ và ngọn lò bừng cháy, cuốn trôi tất cả mọi thứ trước mắt ta. Hãy tuân theo bàn tay ta, Lò rèn Thánh đường (*Cathedral Forge*)!"
 
 Những gì Reiji nghe được là một ma pháp kết hợp không giống bất kỳ thứ gì cậu từng chứng kiến. Cậu cũng chưa bao giờ nghe thấy những câu chú đó. Nhưng ngay khi cô vừa thốt ra chúng, vô số những cột đá bắn lên từ mặt đất bên dưới Mizuki. Chúng nâng cô lên ở vị trí trung tâm, tiến thẳng tới tận trần của hang động rộng lớn. Ngay khi Reiji đang nghĩ rằng chúng trông có vẻ như đã tạo thành một ngôi đền, các cột đá trở nên nóng đỏ, dường như đang nung nóng cả mặt sàn bên dưới chúng. Trông như thể chúng đang làm tan chảy mặt sàn vậy.
 
@@ -154,7 +156,7 @@ Làm theo sự chỉ dẫn của Mizuki, Reiji và những người khác trèo 
 
 Nhìn thấy lượng dung nham cuồn cuộn đang ngày một dâng cao, Reiji hoảng loạn. Cậu lo sợ rằng khí độc mà nó tỏa ra sẽ nhanh chóng chiếm hết lượng oxy trong hang động, khiến họ bị chết ngạt. Cậu ngay lập tức hối thúc Mizuki hủy bỏ ma pháp của mình, nhưng...
 
-"Đừng sợ hãi. Ngay cả trong không gian khép kín này, miễn là các ngươi vẫn còn ở trong Lò Rèn Thánh Đường này của ta, các ngươi sẽ không cần phải lo lắng về không khí. Dù dường như cũng có một ngoại lệ ở bên ngoài nữa..."
+"Đừng sợ hãi. Ngay cả trong không gian khép kín này, miễn là các ngươi vẫn còn ở trong Lò rèn Thánh đường này của ta, các ngươi sẽ không cần phải lo lắng về không khí. Dù dường như cũng có một ngoại lệ ở bên ngoài nữa..."
 
 "Một ngoại lệ ư?"
 

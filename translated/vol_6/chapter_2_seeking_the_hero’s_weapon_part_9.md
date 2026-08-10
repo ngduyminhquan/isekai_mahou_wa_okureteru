@@ -1,3 +1,5 @@
+[<< Phần trước](chapter_2_seeking_the_hero’s_weapon_part_8.md) | [Phần tiếp theo >>](chapter_2_seeking_the_hero’s_weapon_part_10.md)
+
 Mizuki liếc nhìn về phía Ilzarl. Reiji nương theo ánh mắt của cô. Cậu nhìn thấy thứ trông giống như một vụ nổ dung nham, và từ vụ nổ đó... Ma Tướng Ilzarl bước ra.
 
 "Sức mạnh hủy diệt này là..."
