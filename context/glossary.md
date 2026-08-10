@@ -924,7 +924,6 @@
 - **Crystal Raid**: Thạch Kích (Ma pháp Thổ thuộc tính).
 - **Refined Crystal Raid**: Thạch Kích Tinh Luyện (Ma pháp Thổ thuộc tính).
 
-| **Sacrament** | Thánh tích | Món đồ trang sức có thể biến thành thanh kiếm màu xanh lam của anh hùng Reiji, ban cho sức mạnh lớn. |
 | **Zekaraia** | Zekaraia | Một cái tên bí ẩn được Ilzarl nhắc đến, ám chỉ một sức mạnh tương tự như Thánh tích. |
 | **Ishar Cluster** | Kiếm tinh thể Ishar Cluster / Ishar Cluster | Vật phẩm / Khái niệm | Thanh kiếm tinh thể của Reiji. |
 | **Cathedral Forge** | Lò rèn Thánh đường / Cathedral Forge | Ma thuật | Ma pháp kết hợp do Mizuki (Io Kuzami) thi triển. |
