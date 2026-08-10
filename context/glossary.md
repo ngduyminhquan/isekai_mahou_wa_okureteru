@@ -922,3 +922,6 @@
 - **Little Forest Bunker**: Lô Cốt Rừng Nhỏ (Ma pháp Mộc thuộc tính).
 - **Crystal Raid**: Thạch Kích (Ma pháp Thổ thuộc tính).
 - **Refined Crystal Raid**: Thạch Kích Tinh Luyện (Ma pháp Thổ thuộc tính).
+
+| **Sacrament** | Thánh tích | Món đồ trang sức có thể biến thành thanh kiếm màu xanh lam của anh hùng Reiji, ban cho sức mạnh lớn. |
+| **Zekaraia** | Zekaraia | Một cái tên bí ẩn được Ilzarl nhắc đến, ám chỉ một sức mạnh tương tự như Thánh tích. |
