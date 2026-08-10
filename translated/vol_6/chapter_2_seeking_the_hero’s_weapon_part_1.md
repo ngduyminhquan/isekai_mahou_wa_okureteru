@@ -4,7 +4,7 @@ Cái tên khó hiểu "quốc gia tự trị của Liên minh Saadias" bắt ngu
 
 Sau khi đến biên giới, Reiji và những người khác lên một cỗ xe ngựa do Giáo hội Cứu thế chuẩn bị, và hiện đang tiến về trung tâm của quốc gia tự trị, thành phố Attila. Theo sau cỗ xe ngựa là ba kỵ sĩ từ Astel, cũng như một vài thuộc cấp của Graziella từ quân đội hoàng gia. Cùng ngồi trong xe ngựa là nhóm bốn người của Reiji. Vì sự thù địch trước đây với Graziella, họ đã nghĩ rằng sẽ không thể nào hòa hợp với cô trước khi rời khỏi Đế quốc, nhưng...
 
-"Nghe này! Lúc chúng ta ở trong phòng yết kiến ở Đế quốc, khi Hoàng đế Bệ hạ nhìn xuống tôi, ông ta đã cau mày đấy, cậu nghe không?! Tôi thậm chí còn chẳng làm gì cả! Cậu không thấy thế là quá đáng sao?!"
+"Nghe này! Lúc chúng ta ở trong phòng yết kiến ở Đế quốc, khi Hoàng đế Bệ hạ nhìn xuống tôi, ông ta đã cau mày đấy, cô nghe không?! Tôi thậm chí còn chẳng làm gì cả! Cô không thấy thế là quá đáng sao?!"
 
 "Thật sự thì, ông ta đối xử với ai cũng thế thôi. Ông ta chỉ kiềm chế một chút với họ hàng và những người thân cận. Nhưng người đàn ông đó... Ông ta đã đẩy nhiệm vụ này cho tôi mặc dù luôn coi lời của Nữ thần và giáo hội chẳng khác gì những lời vô nghĩa. Chỉ vào những lúc khó hiểu thế này thì ông ta mới chịu lắng nghe. Sự bất ổn định về mặt cảm xúc của ông ta chắc cũng phải có giới hạn thôi."
 

@@ -82,7 +82,7 @@ Khi Graziella ngầm chỉ ra rằng Titania là một kẻ cay cú khi thua cu�
 
 "Tuyệt đối không có chuyện đó!" cô hét lên.
 
-"Quả đúng như ta nghĩ. Lạy Chúa. Trái ngược với vẻ ngoài thanh tao của mình, cô thực sự là một kẻ rất cay cú khi thua cuộc nhỉ, Vương nữ Titania Điện hạ?"
+"Quả đúng như tôi nghĩ. Lạy Chúa. Trái ngược với vẻ ngoài thanh tao của mình, cô thực sự là một kẻ rất cay cú khi thua cuộc nhỉ, Vương nữ Titania Điện hạ?"
 
 "Cô chắc chắn không có tư cách để nói điều đó đâu, Hoàng nữ Graziella Điện hạ! Cuối cùng thì, cô cũng bị Suimei qua mặt hoàn toàn đấy thôi, không phải sao?!"
 
@@ -94,7 +94,7 @@ Titania hét lên để che giấu sự xấu hổ của mình khi ném trả nh
 
 "Tôi không hề thân thiết gì với Hoàng nữ Điện hạ đâu!"
 
-"Đúng vậy, Mizuki. Đừng hiểu lầm. Ta cũng không hề có ý định kết bạn với Vương nữ Điện hạ."
+"Đúng vậy, Mizuki. Đừng hiểu lầm. Tôi cũng không hề có ý định kết bạn với Vương nữ Điện hạ."
 
 Cả hai đều lên tiếng phủ nhận, nhưng Reiji và Mizuki thì đã hoàn toàn tin chắc vào điều đó.
 
@@ -168,7 +168,7 @@ Nghe thấy giọng điệu đầy hoài nghi của cô, Titania lên tiếng.
 
 "Hoàng nữ Điện hạ, cô biết về nơi này sao?"
 
-"Ta mới chỉ ghé thăm nơi này một lần trước đây. Ta cũng từng được dẫn đi tham quan giống thế này, nhưng ta hầu như không nhớ được điều gì thú vị cả. Việc họ không muốn cho ta chiêm ngưỡng những báu vật của mình cũng phần nào nói lên điều gì đó."
+"Tôi mới chỉ ghé thăm nơi này một lần trước đây. Tôi cũng từng được dẫn đi tham quan giống thế này, nhưng tôi hầu như không nhớ được điều gì thú vị cả. Việc họ không muốn cho tôi chiêm ngưỡng những báu vật của mình cũng phần nào nói lên điều gì đó."
 
 Nói đoạn, Graziella cau mày bất mãn. Nếu Suimei có mặt ở đây, chắc chắn cậu sẽ đưa ra một bình luận kiểu như: "Chứ còn gì nữa." Nhưng khi Graziella đề cập đến chuyện đó, Titania cũng đảo mắt nhìn quanh môi trường xung quanh họ.
 
