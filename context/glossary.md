@@ -915,3 +915,5 @@
 
 | **Attila** | Attila | Địa danh | Thành phố trung tâm của quốc gia tự trị thuộc Liên minh Saadias. |
 | **Faylia** | Faylia | Tên riêng | Một nữ tinh linh (elf) thuộc Giáo hội Cứu thế, người trông nom ngôi đền lưu giữ di vật anh hùng thời cổ đại. |
+
+| **Lachesis Meter** | Lachesis Meter | Vật phẩm / Di vật | Một thiết bị bí ẩn trông giống đồng hồ quả quýt do vị anh hùng thời xưa để lại, liên quan đến ngày tận thế. Tên gốc được giữ nguyên bằng tiếng Anh. |
