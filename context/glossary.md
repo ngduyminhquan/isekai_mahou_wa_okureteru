@@ -799,6 +799,10 @@
 
 | **Selphy Fittney** | Selphy Fittney | Tên riêng | Nữ pháp sư từ bang tự trị. |
 
+| **Sacrament** | Bí tích (Sacrament) | Khái niệm | Một món vũ khí thánh tích được để lại bởi vị anh hùng. |
+
+| **Twilight Beheading Princess** | Chạng Vạng Trảm Công Chúa | Danh hiệu | Danh hiệu cụ thể của Titania Root Astel với tư cách là người thứ tư trong Thất Kiếm, bên cạnh biệt danh Twilight. |
+
 | **Universal Apostles** | Sứ đồ Vạn vật / Universal Apostles | Tổ chức | Tổ chức bí ẩn ở thế giới cũ mà Gottfried và thuộc hạ trực thuộc. |
 
 | **Magicka King Nestahaim** | Ma Thuật Vương Nestahaim / Magicka King Nestahaim | Tên riêng / Danh hiệu | Tên gọi của một bậc thầy bí thuật (sư phụ của Suimei). |
