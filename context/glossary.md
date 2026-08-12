@@ -945,3 +945,6 @@
 | **composite concept** | ý niệm hỗn hợp | Khái niệm | Ý niệm kết hợp nhiều ý niệm lại với nhau (được Suimei nhắc đến). |
 | **pragmatism** | chủ nghĩa thực dụng | Khái niệm | Quan điểm đề cao tính thực tế, tính hiệu quả. |
 | **demi-ogre** | bán á quỷ | Sinh vật | Một loại quái vật/á nhân lai quỷ. |
+| **Astral Shooter** | Xạ Kích Linh Hồn / Astral Shooter | Ma thuật | Một kỹ thuật do Suimei dạy cho Liliana, giúp mở rộng thể linh hồn để tấn công đối thủ. |
+| **out of body experience** | xuất hồn / out of body experience | Khái niệm | Trạng thái ý thức tách rời khỏi cơ thể vật lý. |
+| **Dragon Eyes Black Lolita** | Hắc Lolita Mắt Rồng / Dragon Eyes Black Lolita | Tên riêng | Bí danh hắc ám mà Io Kuzami tạm thời đặt cho Liliana. |
