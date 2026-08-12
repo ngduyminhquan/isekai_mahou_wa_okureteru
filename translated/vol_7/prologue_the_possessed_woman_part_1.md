@@ -100,7 +100,7 @@ Ngay cả Suimei cũng phải bó tay khi cố gắng trò chuyện với Io Kuz
 
 Họ chưa bao giờ thấy ai trêu chọc Suimei đến mức này. Gaius và Rumeya thỉnh thoảng cũng có thể giành thế thượng phong trước cậu, nhưng chuyện này lại ở một đẳng cấp hoàn toàn khác. Đang mải quan sát, Felmenia liền đặt một câu hỏi đầy thắc mắc cho Suimei đang bực bội.
 
-"Ừm, Ngài Suimei... Rốt cuộc thì chuyện gì đã khiến Mizuki-dono trở nên như thế này vậy?"
+"Ừm, Ngài Suimei... Rốt cuộc thì chuyện gì đã khiến cô Mizuki trở nên như thế này vậy?"
 
 "Chuyện đó... Chính tôi cũng không biết rõ nữa, nhưng cô ấy có lẽ sẽ giữ nguyên tình trạng này cho đến khi trở lại bình thường."
 

@@ -108,7 +108,7 @@ Sau khi nghe Suimei nói vậy, Reiji dường như cũng nhận ra cậu đang 
 
 "Vậy khi ngài nói ngài được ‘buông tha’, ngài Reiji, liệu chuyện đó có mối liên hệ nào với sự kỳ lạ của hắn không?"
 
-"Ừm. Gã đó dẻo dai đến kinh ngạc. Thậm chí khi tất cả chúng tôi cùng xông lên, chúng tôi cũng chỉ có thể làm hắn xước da một chút."
+"Ừm. Gã đó dẻo dai đến kinh ngạc. Thậm chí khi tất cả bọn tớ cùng xông lên, bọn tớ cũng chỉ có thể làm hắn xước da một chút."
 
 "Điều đó..."
 
