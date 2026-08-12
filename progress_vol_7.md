@@ -34,7 +34,7 @@ Dưới đây là danh sách các Phase tương ứng với từng phần dịch
 | **6** | Chapter 1: At the Yakagi Residence - Part 5 | `chapter_1_at_the_yakagi_residence_part_5.txt` | 200 | 200 | 1934 | `chapter_1_at_the_yakagi_residence_part_5.md` | **Hoàn thành** |
 | **7** | Chapter 1: At the Yakagi Residence - Part 6 | `chapter_1_at_the_yakagi_residence_part_6.txt` | 200 | 200 | 1957 | `chapter_1_at_the_yakagi_residence_part_6.md` | **Hoàn thành** |
 | **8** | Chapter 1: At the Yakagi Residence - Part 7 | `chapter_1_at_the_yakagi_residence_part_7.txt` | 200 | 200 | 2004 | `chapter_1_at_the_yakagi_residence_part_7.md` | **Hoàn thành** |
-| **9** | Chapter 1: At the Yakagi Residence - Part 8 | `chapter_1_at_the_yakagi_residence_part_8.txt` | 55 | 55 | 580 | `chapter_1_at_the_yakagi_residence_part_8.md` | **Chưa bắt đầu** |
+| **9** | Chapter 1: At the Yakagi Residence - Part 8 | `chapter_1_at_the_yakagi_residence_part_8.txt` | 55 | 55 | 580 | `chapter_1_at_the_yakagi_residence_part_8.md` | **Hoàn thành** |
 | **10** | Chapter 2: Bad News Always Comes - Part 1 | `chapter_2_bad_news_always_comes_part_1.txt` | 200 | 200 | 2092 | `chapter_2_bad_news_always_comes_part_1.md` | **Chưa bắt đầu** |
 | **11** | Chapter 2: Bad News Always Comes - Part 2 | `chapter_2_bad_news_always_comes_part_2.txt` | 200 | 200 | 1956 | `chapter_2_bad_news_always_comes_part_2.md` | **Chưa bắt đầu** |
 | **12** | Chapter 2: Bad News Always Comes - Part 3 | `chapter_2_bad_news_always_comes_part_3.txt` | 200 | 200 | 2079 | `chapter_2_bad_news_always_comes_part_3.md` | **Chưa bắt đầu** |

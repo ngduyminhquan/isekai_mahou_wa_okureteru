@@ -995,3 +995,7 @@
 | **Lapis Judaicus** | Lapis Judaicus | Khái niệm/Vật phẩm | Viên ngọc lục bảo rơi từ vương miện của một tông đồ. Có quyền năng vô hạn khảm trên Bí Tích. |
 | **Lapis Philosophorum** | Hòn đá Triết gia / Lapis Philosophorum | Khái niệm/Vật phẩm | Hòn đá của giả kim thuật biến chì thành vàng. |
 | **Lapis Exillis** | Lapis Exillis | Khái niệm/Vật phẩm | Chén thánh chứa chất lỏng xanh lam có thể hồi sinh người chết. |
+
+| **Lapis Judaicus** | Lapis Judaicus | Vật phẩm | Một viên ngọc được khảm trong Bí tích (Sacrament), đóng vai trò như một chất xúc tác. |
+| **Philosopher’s Stone** / **Lapis Philosophorum** | Hòn đá Triết gia / Hòn đá Hiền triết / Lapis Philosophorum | Vật phẩm | Tài sản quý giá nhất của giả kim thuật, một chất xúc tác vạn năng. |
+| **Holy Grail** / **Lapis Lapsus ex Illis Stellis** / **Lapis Exillis** | Chén Thánh / Lapis Lapsus ex Illis Stellis / Lapis Exillis | Vật phẩm | Chén Thánh chứa đầy chất lỏng màu xanh lam được cho là có thể hồi sinh người chết và ban sự bất tử. |
