@@ -124,7 +124,7 @@ Ngay cả khi Suimei đang lớn tiếng, Reiji vẫn làm ra vẻ mặt hơi kh
 
 "Cô đang nói cái quái gì vậy?! Này, Reiji, làm gì đi chứ! Tất cả chuyện này là tại những gì cậu vừa nói đấy!"
 
-"Lalala, tớ không nghe thấy gì cããããããã!"
+"Lalala, tớ không nghe thấy gì cảãããããã!"
 
 Reiji quay lưng lại và bịt chặt ngón tay vào tai, trắng trợn phớt lờ tiếng la hét của Suimei. Trong lúc cuộc trao đổi nhỏ thân thiện (?) của họ vẫn đang tiếp diễn, Lefille ngước nhìn Suimei và thì thầm riêng với cậu.
 

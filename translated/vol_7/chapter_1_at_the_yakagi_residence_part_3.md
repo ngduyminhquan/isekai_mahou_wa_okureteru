@@ -22,7 +22,7 @@ Suimei chìm vào suy nghĩ sâu xa với vẻ mặt nghiêm nghị. Nhưng khô
 
 Mỗi tiếng thở dài của Reiji lại nặng nề hơn tiếng trước. Cách để chữa cho Mizuki—để đưa cô ấy trở lại bình thường—hoàn toàn nằm ngoài tầm với. Nhận thức được điều đó chỉ khiến cậu càng thêm lo âu. Và vì Suimei không thể nói cho cậu biết sự thật, lựa chọn duy nhất của cậu là giả vờ ngốc nghếch.
 
-"Suimei-dono, nghe có vẻ ngài và Reiji-dono đã quen thuộc với Io Kuzami-dono của Mizuki-dono, nhưng rốt cuộc cô ấy là gì vậy?"
+"Ngài Suimei, nghe có vẻ ngài và ngài Reiji đã quen thuộc với cô Io Kuzami của cô Mizuki, nhưng rốt cuộc cô ấy là gì vậy?"
 
 Đó là một câu hỏi tràn ngập những kính ngữ đúng mực. Felmenia dường như cũng gặp khó khăn trong việc theo kịp chính những gì mình đang nói khi cô hỏi điều đó, nhưng tiếp lời cô, Lefille nhón gót chân và rướn người về phía trước trong sự tò mò.
 
@@ -64,7 +64,7 @@ Sau lời giải thích của Reiji, Titania tiếp lời trong sự kinh ngạc
 
 Nghe Reiji đưa ra ấn tượng thẳng thắn của mình, Io Kuzami trông hoàn toàn mãn nguyện. Nhìn bề ngoài, cô ta có vẻ đang bay bổng trên những lời ngưỡng mộ và khen ngợi, nhưng Suimei biết bất cứ điều gì đang diễn ra bên trong ắt hẳn phải phức tạp hơn thế. Trong khi cậu đang cố gắng xem xét cặn kẽ những suy nghĩ trong đầu cô ta, Reiji quay sang Felmenia với vẻ tò mò.
 
-"Reiji-dono, có chuyện gì sao?" cô hỏi.
+"Ngài Reiji, có chuyện gì sao?" cô hỏi.
 
 "Không, tôi chỉ đang nghĩ là cô giáo có vẻ không ngạc nhiên lắm."
 
@@ -82,7 +82,7 @@ Reiji tiếp tục nhìn cô bằng vẻ mặt tò mò, và Felmenia cũng nhìn
 
 Nghe câu trả lời của Felmenia, Reiji nghiêng đầu sang một bên. Đối với cậu, nghe như thể cô vừa nói cùng một ý tới hai lần. Và thực sự thì chúng có vẻ giống nhau, nhưng có một sự khác biệt rất quan trọng.
 
-"Sự kết hợp các thuộc tính... Tóm lại, ngài có thể nói rằng đó là việc tạo ra một khái niệm mới. Lấy ví dụ, nếu ngài kết hợp thuộc tính hỏa và thổ, thì thuộc tính cuối cùng được sinh ra sẽ là gì? Đó, dĩ nhiên, là kiến thức mà chúng ta không có cách nào để đạt được. Nhưng nếu những gì ngài nói về phép thuật của cô ấy là sự thật, điều đó đồng nghĩa với việc Io Kuzami-dono đã khai sinh ra một thuộc tính hoàn toàn mới... Ngài có phiền lặp lại cho tôi câu thần chú mà Io Kuzami-dono đã dùng không?"
+"Sự kết hợp các thuộc tính... Tóm lại, ngài có thể nói rằng đó là việc tạo ra một khái niệm mới. Lấy ví dụ, nếu ngài kết hợp thuộc tính hỏa và thổ, thì thuộc tính cuối cùng được sinh ra sẽ là gì? Đó, dĩ nhiên, là kiến thức mà chúng ta không có cách nào để đạt được. Nhưng nếu những gì ngài nói về phép thuật của cô ấy là sự thật, điều đó đồng nghĩa với việc cô Io Kuzami đã khai sinh ra một thuộc tính hoàn toàn mới... Ngài có phiền lặp lại cho tôi câu thần chú mà cô Io Kuzami đã dùng không?"
 
 "Ừm, nếu tôi nhớ không lầm thì nó là: ‘Hỡi Hỏa và Thổ...’ Ồ, tôi hiểu rồi..."
 
