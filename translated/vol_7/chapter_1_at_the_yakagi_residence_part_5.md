@@ -182,7 +182,7 @@ Lúc đó Reiji mới nhận ra rằng mọi ánh mắt trong phòng đều đ�
 
 "Đúng vậy, tôi đã làm được, nhưng có vẻ như có một điều kiện nào đó cho việc biến hình. Tôi mới chỉ làm được đúng một lần duy nhất đó thôi."
 
-"Bạch Hỏa-dono, lần duy nhất ngài Reiji có thể biến nó thành vũ khí là trong lúc trận chiến đang diễn ra ác liệt. Tình hình lúc đó rất thảm khốc, nhưng khi ngài Reiji kêu gọi nó, nó đã đáp lại."
+"Ngài Bạch Hỏa, lần duy nhất ngài Reiji có thể biến nó thành vũ khí là trong lúc trận chiến đang diễn ra ác liệt. Tình hình lúc đó rất thảm khốc, nhưng khi ngài Reiji kêu gọi nó, nó đã đáp lại."
 
 "Khi nó biến hình, tôi cảm thấy như mình đã thu hẹp được khoảng cách sức mạnh giữa mình và gã Ma Tướng đó."
 

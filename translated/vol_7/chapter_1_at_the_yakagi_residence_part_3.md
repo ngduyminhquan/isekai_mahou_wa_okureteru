@@ -148,7 +148,7 @@ Io Kuzami cau mày vì bị phớt lờ, trong khi Liliana vẫn tiếp tục gi
 
 "Tôi không nghĩ vậy. Cảm giác như... có thứ gì đó tồi tệ... đã ám cô rồi."
 
-"Bất hợp tác" sẽ là từ chính xác hơn "tồi tệ", nhưng đó chỉ là một sự tranh cãi nhỏ nhặt. Khác với Reiji và Titania, Liliana có thể cảm nhận được điều gì đó về Io Kizami. Cô bé từng chạm trán với sức mạnh ác ý của bóng tối có lẽ đã cảm nhận được điều gì đó đe dọa. Đó là những gì Suimei nghi ngờ.
+"Bất hợp tác" sẽ là từ chính xác hơn "tồi tệ", nhưng đó chỉ là một sự tranh cãi nhỏ nhặt. Khác với Reiji và Titania, Liliana có thể cảm nhận được điều gì đó về Io Kuzami. Cô bé từng chạm trán với sức mạnh ác ý của bóng tối có lẽ đã cảm nhận được điều gì đó đe dọa. Đó là những gì Suimei nghi ngờ.
 
 Io Kuzami nhăn mặt khi Liliana ghé sát vào và soi mói gương mặt cô ta. Và rồi...
 

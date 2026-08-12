@@ -80,7 +80,7 @@ Liliana liếc nhìn chiếc bàn được kê ở góc phòng khách với mộ
 
 Phớt lờ sự ồn ào không được yêu cầu đó, Suimei nhìn Titania với vẻ mặt bối rối.
 
-"Không, không sao đâu. Cá nhân tôi thì khá miễn cưỡng, nhưng xin cứ làm theo những gì cậu thấy phù hợp."
+"Không, không sao đâu. Cá nhân tớ thì khá miễn cưỡng, nhưng xin cứ làm theo những gì cậu thấy phù hợp."
 
 Nói cách khác, Titania không phiền nếu để cô ta vào. Xét cho cùng, nếu cô ta đã đến tận đây, thì có lẽ là vì công việc nào đó. Nhưng dù biết vậy, Titania cũng không thể kìm được tiếng thở dài thườn thượt thoát ra khỏi môi. Bọn họ vẫn không hề hợp nhau.
 
