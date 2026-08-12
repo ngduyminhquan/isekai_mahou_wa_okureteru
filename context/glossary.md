@@ -791,15 +791,13 @@
 
 | **theory of universal eternity** | lý thuyết vĩnh hằng phổ quát | Khái niệm | Hệ thống các định luật vật lý cấu tạo nên thế giới, nơi mà quy luật vật lý duy trì sự cân bằng và tồn tại vĩnh hằng. |
 
-
-
 | **Kuchiba Hatsumi** | Kuchiba Hatsumi | Tên riêng | Anh hùng của Liên minh Saadias. |
 
 | **Gaius Forvan** | Gaius Forvan | Tên riêng | Võ sư từ quốc gia Larsheem thuộc Liên minh. |
 
 | **Selphy Fittney** | Selphy Fittney | Tên riêng | Nữ pháp sư từ bang tự trị. |
 
-| **Sacrament** | Bí tích (Sacrament) | Khái niệm | Một món vũ khí thánh tích được để lại bởi vị anh hùng. |
+| **Sacrament** | Bí tích (Sacrament) | Vật phẩm | Một loại vũ khí huyền thoại do vị anh hùng trong quá khứ để lại. |
 
 | **Twilight Beheading Princess** | Chạng Vạng Trảm Công Chúa | Danh hiệu | Danh hiệu cụ thể của Titania Root Astel với tư cách là người thứ tư trong Thất Kiếm, bên cạnh biệt danh Twilight. |
 
@@ -847,29 +845,32 @@
 
 | **Thoria** | Thoria | Địa danh | Tên một thành phố/quốc gia thuộc Liên minh, nơi có một vị Anh hùng đang ở. |
 
-| **Sacrament** | Sacrament / Thánh tích | Vật phẩm | Một loại vũ khí huyền thoại do vị Anh hùng trong quá khứ để lại tại bang tự trị. |
+| **Nioh** | Kim Cương Lực Sĩ / Nioh | Khái niệm | Hai vị hung thần bảo hộ trong Phật giáo (thế giới cũ), được dùng để ví von một người đang tức giận. |
 
-| **Nioh** | Kim Cương Lực Sĩ / Nioh | Khái niệm | Hai vị hung thần bảo hộ trong Phật giáo (thế giới cũ), được dùng để ví von một người đang tức giận. || **Miazen** | Miazen | �?a danh | Qu?c gia c� ch? quy?n (minh ch?) c?a Li�n minh Saadias, du?c m?nh danh l� Th? d� c?a nh?ng thanh ki?m. |
+| **Miazen** | Miazen | Địa danh | Quốc gia có chủ quyền (minh chủ) của Liên minh Saadias, được mệnh danh là Thủ đô của những thanh kiếm. |
 
-| **Rumeya** | Rumeya | T�n ri�ng | H?i tru?ng H?i M?o hi?m gi? chi nh�nh Miazen, th� nh�n t?c c�o v�ng. L� m?t trong Th?t Ki?m. |
+| **Rumeya** | Rumeya | Tên riêng | Hội trưởng Hội Mạo hiểm giả chi nhánh Miazen, thú nhân tộc cáo vàng. Là một trong Thất Kiếm. |
 
-| **Camellia Sasanqua** | Camellia Sasanqua | Danh hi?u | Danh hi?u c?a Rumeya trong Th?t Ki?m, c�n du?c bi?t d?n v?i t�n g?i N? �? Ki?m Vu. |
+| **Camellia Sasanqua** | Camellia Sasanqua | Danh hiệu | Danh hiệu của Rumeya trong Thất Kiếm, còn được biết đến với tên gọi Nữ Đế Kiếm Vũ. |
 
-| **Empress of the Sword Dance** | N? �? Ki?m Vu | Danh hi?u | M?t danh hi?u kh�c c?a Rumeya (Camellia Sasanqua). |
+| **Empress of the Sword Dance** | Nữ Đế Kiếm Vũ | Danh hiệu | Một danh hiệu khác của Rumeya (Camellia Sasanqua). |
 
-| **Aldephize** | Aldephize | T�n ri�ng | Cha c?a Lefille. C?u chi?n binh d� hi sinh d? c�u gi? cho Lefille ch?y tr?n. |
+| **Aldephize** | Aldephize | Tên riêng | Cha của Lefille. Cựu chiến binh đã hi sinh để câu giờ cho Lefille chạy trốn. |
 
-| **Kuchiba Kiyoshiro** | Kuchiba Kiyoshiro | T�n ri�ng | B?c th?y ki?m thu?t h�ng d?u ? Nh?t B?n (th? gi?i cu), ngu?i d� d?y ki?m thu?t cho Suimei. |
+| **Kuchiba Kiyoshiro** | Kuchiba Kiyoshiro | Tên riêng | Bậc thầy kiếm thuật hàng đầu ở Nhật Bản (thế giới cũ), người đã dạy kiếm thuật cho Suimei. |
 
-
-
-| **Twilight Beheading Princess** | C�ng ch�a Tr?m Th? Ch?ng V?ng | Danh hi?u | Danh hi?u trong Th?t Ki?m c?a c�ng ch�a Titania. |
+| **Twilight Beheading Princess** | Công chúa Trảm Thử Chạng Vạng | Danh hiệu | Danh hiệu trong Thất Kiếm của công chúa Titania. |
 
 | **Loud Tyrant** | Loud Tyrant / Bạo chúa Cuồng nộ | Ma thuật | Ma pháp gió của Selphy tạo ra nhiều lốc xoáy. |
+
 | **Vortex Blockade** | Vortex Blockade / Vòng lốc xoáy Phòng ngự | Ma thuật | Ma pháp phòng ngự gió của Selphy tạo thành lốc xoáy chặn đòn tấn công. |
+
 | **Ephemeral Razing** | Ephemeral Razing / Bão tuyết Hủy diệt | Ma thuật | Ma pháp băng/gió mạnh nhất của Selphy, tạo ra một nhà ngục bão tuyết. |
+
 | **O flammae, legito. Pro venefici doloris clamore...** | O flammae, legito. Pro venefici doloris clamore... | Bí thuật | Câu niệm chú bí thuật hỏa của Suimei (Hỡi ngọn lửa, hãy tập hợp lại. Tựa như tiếng thét của sự phẫn uất từ ma thuật sư...). |
+
 | **Parito colluctatione et aestuato. Deferto impedimentum fatum atrox.** | Parito colluctatione et aestuato. Deferto impedimentum fatum atrox. | Bí thuật | Câu niệm chú bí thuật hỏa của Suimei (Hãy trao hình hài cho nỗi đau đớn của cái chết và bùng cháy. Ban cho kẻ cản bước ta một số phận kinh hoàng.). |
+
 | **Conluceto. O Ashurbanipalis fulgidus lapillus.** | Conluceto. O Ashurbanipalis fulgidus lapillus. | Bí thuật | Câu niệm chú bí thuật hỏa của Suimei (Tỏa sáng đi. Hỡi viên ngọc chói lọi của Ashurbanipal.). |
 
 | **Ilzarl** | Ilzarl | Tên riêng | Một trong các Ma Tướng phục vụ dưới trướng Ma Vương Nakshatra. |
@@ -883,66 +884,105 @@
 | **General of the Fist** | Quyền Tướng | Danh hiệu | Danh hiệu của Gaius Forvan (hoặc một số võ sư hạng cao) từ quốc gia Larsheem. |
 
 | **Cloud of Death** | Đám Mây Chết | Danh hiệu | Danh hiệu của Weitzer Ryerzen. |
+
 | **The Bloody Art of the Fallen Flower** | Huyết Kỹ Hoa Rơi | Kỹ năng | Kiếm kỹ của Camellia Sasanqua, chém mọi thứ xung quanh thành từng mảnh tạo thành hoa văn như bông hoa trà. |
+
 | **Danguma** | Danguma | Khái niệm | Biểu tượng/con mắt trong Phật giáo/bí thuật phương Tây được Suimei sử dụng. |
+
 | **Ajunya** | Ajunya | Khái niệm | Biểu tượng Phật giáo được Suimei nhắc đến. |
+
 | **Jnanachakusya** | Jnanachakusya | Khái niệm | Khái niệm/linh hồn được Suimei tụng niệm. |
+
 | **Kudrack** | Kudrack | Tên riêng | Một sinh vật/kẻ sở hữu kỹ năng tấn công xuyên không gian (ma cà rồng ở Trái Đất). |
+
 | **Hunt the Moon** | Cuộc săn lùng dưới ánh trăng | Sự kiện / Ma thuật | Kỹ năng/Tình huống Suimei sử dụng để xóa bỏ ánh trăng, tước đi khả năng nhìn thấu của Vuishta. |
+
 | **The Phantom Sword of the Kurikara Dharani** | Kiếm Ảo của Câu-lợi-ca-la Đà-la-ni | Ma thuật | Thanh kiếm ma thuật của Hatsumi. |
+
 | **The Hazy Cross** | Màn Sương Thập Tự | Kỹ năng | Một kiếm kỹ thuộc Kiếm Ảo của Câu-lợi-ca-la Đà-la-ni. |
+
 | **orichalcos** | orichalcos | Vật phẩm | Một loại kim loại/quặng đặc biệt tỏa sáng tự nhiên. |
 
 | **Thousand Nights Association** | Hiệp hội Ngàn Đêm | Tổ chức | Tổ chức quản lý và nghiên cứu bí thuật lớn trên thế giới. |
+
 | **Akashic Seer** | Thấu thị Akashic | Khái niệm | Thần khí/thánh tích dự đoán tương lai và các thảm họa của Hiệp hội Ngàn Đêm. |
+
 | **Enforcement Agency** | Cơ quan Chấp pháp | Tổ chức | Tổ chức thực thi nhiệm vụ chiến đấu của Hiệp hội Ngàn Đêm. |
+
 | **Enforcers** | Chấp pháp viên / Người Chấp pháp | Chức vụ | Những thành viên của Cơ quan Chấp pháp. |
+
 | **Formelkress** | Formelkress | Tên riêng | Trưởng nữ gia tộc Cattleya, đại diện Cơ quan Chấp pháp. |
+
 | **Zealkis** | Zealkis | Tên riêng | Em gái của Formelkress, thuộc Cơ quan Chấp pháp. |
+
 | **Cattleya** | Cattleya | Tên riêng | Gia tộc quyền lực của Hiệp hội Ngàn Đêm sở hữu ma pháp thao túng thời gian. |
+
 | **twilight syndrome** | Hội chứng Chạng vạng | Khái niệm | Hiện tượng bùng phát bất ổn dẫn đến sự xuất hiện của các quái thú. |
+
 | **beast of the apocalypse** | Quái thú Khải huyền | Khái niệm | Những thực thể sinh ra từ Hội chứng Chạng vạng để hủy diệt thế giới. |
+
 | **mystical calamity** | Thảm họa bí thuật | Khái niệm | Thảm họa ở quy mô lớn do các hiện tượng siêu nhiên gây ra. |
+
 | **rank disparity extinction** | Luật Triệt tiêu Chênh lệch Hạng | Khái niệm | Quy luật ma thuật khi bí thuật cấp thấp bị dập tắt bởi bí thuật cấp cao. |
+
 | **philosopher** | Triết gia | Cấp bậc | Một cấp bậc (khá thấp) của ma thuật sư hiện đại. |
 
 | **nazar bonjuk** | bùa nazar bonjuk / bùa mắt quỷ | Khái niệm | Một loại bùa chú chống lại ác nhãn (evil eye). |
+
 | **draconic eye** / **dragon's eye** | long nhãn | Khái niệm | Kỹ năng nghiền nát mọi thứ trong tầm nhìn của long nhân. |
+
 | **dragon's roar** / **howl wave** | tiếng rồng gầm / sóng âm rồng gầm | Kỹ năng | Đòn tấn công bằng sóng âm cực mạnh của Eanru. |
+
 | **Chain Explosion** | Liên Hoàn Bộc Phá | Ma thuật | Bí thuật của Suimei tạo ra các vòng tròn ma thuật nhỏ liên tục phát nổ truy đuổi mục tiêu. |
+
 | **Strategic Bombing** | Ném Bom Chiến Lược | Ma thuật | Bí thuật của Suimei tạo ra một cơn mưa ánh sáng tấn công từ trên không. |
+
 | **Ashurbanipal's dazzling gem** | viên ngọc chói lọi của Ashurbanipal | Vật phẩm | Một viên ngọc ma thuật Suimei bóp nát để kích hoạt đại ma pháp lửa. |
-|   * * F a s t   R e p l i c a t i o n * *   |   P h  n   T h  n   T c     /   P h  n   T h  n   T c     ( F a s t   R e p l i c a t i o n )   |   M a   t h u t   |   M t   k   t h u t   c a   S u i m e i     t o   r a   n h i u   p h  n   t h  n   m a   l c   c  n g   l  c .   | 
- 
- 
+
 | **Fast Replication** | Phân Thân Tốc Độ | Ma thuật | Một kỹ thuật của Suimei tạo ra nhiều phân thân ma lực cùng lúc. |
+
 | **Ground Seal** | Phong Ấn Thổ | Ma thuật | Phép thuật phong ấn sử dụng thuộc tính đất của Suimei. |
+
 | **Progenitor** | Thủy Tổ | Khái niệm/Danh xưng | Một danh xưng được nhắc đến trong câu niệm của Suimei. |
+
 | **Apostle** | Sứ Đồ | Khái niệm/Danh xưng | Một danh xưng được nhắc đến trong câu niệm của Suimei. |
 
 | **Long Sword of the Absolute Edge** | Thanh Tuyệt Trảm Trường Kiếm / Long Sword of the Absolute Edge | Vũ khí/Kỹ năng | Kỹ thuật chém tuyệt đối của Hatsumi. |
+
 | **Gravitatem, duplex coniunctum!** | Trọng lực, liên kết gấp đôi! | Ma thuật | Câu lệnh nhân đôi trọng lực của Suimei. |
+
 | **Gravitatem, terci contexit!** | Trọng lực, hợp nhất gấp ba! | Ma thuật | Câu lệnh nhân ba trọng lực của Suimei. |
+
 | **O flammae, legito! Pro venefici doloris clamore!...** | Hỡi ngọn lửa, hãy tập hợp lại! Như tiếng thét oán hận của pháp sư!... | Ma thuật | Câu lệnh gọi ngọn lửa của Ashurbanipal. |
+
 | **Man-Eating Evil** | Ác Thú Ăn Thịt Người / Man-Eating Evil | Sinh vật | Quái vật đáng sợ từng bị tiêu diệt bởi long nhân Eanru hơn một trăm năm trước. |
+
 | **Greed of Ten** | Thập Đại Tham Lam / Greed of Ten | Danh hiệu | Một trong những ma thuật sư hùng mạnh và nguy hiểm ở thế giới cũ của Suimei. |
+
 | **monster professor** | giáo sư quái vật | Danh hiệu | Một ma thuật sư hùng mạnh và nguy hiểm ở thế giới cũ của Suimei. |
+
 | **chairman** | chủ tịch | Chức vụ | Chủ tịch của một tổ chức bí thuật (như Hội Bác Học) ở thế giới cũ của Suimei. |
 
 | **Attila** | Attila | Địa danh | Thành phố trung tâm của quốc gia tự trị thuộc Liên minh Saadias. |
+
 | **Faylia** | Faylia | Tên riêng | Một nữ tinh linh (elf) thuộc Giáo hội Cứu thế, người trông nom ngôi đền lưu giữ di vật anh hùng thời cổ đại. |
 
 | **Lachesis Meter** | Lachesis Meter | Vật phẩm / Di vật | Một thiết bị bí ẩn trông giống đồng hồ quả quýt do vị anh hùng thời xưa để lại, liên quan đến ngày tận thế. Tên gốc được giữ nguyên bằng tiếng Anh. |
-|   * * S o l i d   S n a k e   C o n s t r i c t i o n * *   |   R �n   C �n g   X i �t   C h �t   /   S o l i d   S n a k e   C o n s t r i c t i o n   |   M a   t h u �t   |   P h � p   t h u �t   h �  m �c   c �a   F a y l i a .   | 
- 
- 
-- **Little Forest Bunker**: Lô Cốt Rừng Nhỏ (Ma pháp Mộc thuộc tính).
-- **Crystal Raid**: Thạch Kích (Ma pháp Thổ thuộc tính).
-- **Refined Crystal Raid**: Thạch Kích Tinh Luyện (Ma pháp Thổ thuộc tính).
+
+| **Solid Snake Constriction** | Rắn Cuộn Xiết Chặt / Solid Snake Constriction | Ma thuật | Phép thuật hệ mộc của Faylia. |
+
+| **Little Forest Bunker** | Lô Cốt Rừng Nhỏ | Ma thuật | Phép thuật hệ mộc của Faylia. |
+
+| **Crystal Raid** | Thạch Kích | Ma thuật | Phép thuật hệ thổ của Faylia. |
+
+| **Refined Crystal Raid** | Thạch Kích Tinh Luyện | Ma thuật | Phép thuật hệ thổ của Faylia. |
 
 | **Zekaraia** | Zekaraia | Một cái tên bí ẩn được Ilzarl nhắc đến, ám chỉ một sức mạnh tương tự như Thánh tích. |
+
 | **Ishar Cluster** | Kiếm tinh thể Ishar Cluster / Ishar Cluster | Vật phẩm / Khái niệm | Thanh kiếm tinh thể của Reiji. |
+
 | **Cathedral Forge** | Lò rèn Thánh đường / Cathedral Forge | Ma thuật | Ma pháp kết hợp do Mizuki (Io Kuzami) thi triển. |
+
 | **Totemism** | Totemism / Tín ngưỡng Bái vật tổ | Khái niệm | Một kỹ thuật xếp vào loại bí thuật cảm quan (sensory magicka), cho phép người sử dụng bắt chước sức mạnh của hệ động thực vật. |
 | **liger clan** | bộ tộc liger | Tổ chức / Chủng tộc | Tổ tiên của tất cả các thú nhân họ mèo, được xem là chủng tộc thú nhân mạnh nhất. |
 | **saber-toothed tiger / Smilodon** | hổ răng kiếm / Smilodon | Sinh vật | Dã thú tổ tiên của bộ tộc liger. |
@@ -952,3 +992,6 @@
 | **Astral Shooter** | Xạ Kích Linh Hồn / Astral Shooter | Ma thuật | Một kỹ thuật do Suimei dạy cho Liliana, giúp mở rộng thể linh hồn để tấn công đối thủ. |
 | **out of body experience** | xuất hồn / out of body experience | Khái niệm | Trạng thái ý thức tách rời khỏi cơ thể vật lý. |
 | **Dragon Eyes Black Lolita** | Hắc Lolita Mắt Rồng / Dragon Eyes Black Lolita | Tên riêng | Bí danh hắc ám mà Io Kuzami tạm thời đặt cho Liliana. |
+| **Lapis Judaicus** | Lapis Judaicus | Khái niệm/Vật phẩm | Viên ngọc lục bảo rơi từ vương miện của một tông đồ. Có quyền năng vô hạn khảm trên Bí Tích. |
+| **Lapis Philosophorum** | Hòn đá Triết gia / Lapis Philosophorum | Khái niệm/Vật phẩm | Hòn đá của giả kim thuật biến chì thành vàng. |
+| **Lapis Exillis** | Lapis Exillis | Khái niệm/Vật phẩm | Chén thánh chứa chất lỏng xanh lam có thể hồi sinh người chết. |
