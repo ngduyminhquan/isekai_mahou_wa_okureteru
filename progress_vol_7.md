@@ -27,7 +27,7 @@ Dưới đây là danh sách các Phase tương ứng với từng phần dịch
 | :---: | :--- | :--- | :---: | :---: | :---: | :--- | :---: |
 | **0** | Khởi tạo dự án và tài nguyên | *N/A* | - | - | - | *N/A* | **Hoàn thành** |
 | **1** | Prologue: The Possessed Woman - Part 1 | `prologue_the_possessed_woman_part_1.txt` | 157 | 157 | 1659 | `prologue_the_possessed_woman_part_1.md` | **Hoàn thành** |
-| **2** | Chapter 1: At the Yakagi Residence - Part 1 | `chapter_1_at_the_yakagi_residence_part_1.txt` | 200 | 200 | 1984 | `chapter_1_at_the_yakagi_residence_part_1.md` | **Chưa bắt đầu** |
+| **2** | Chapter 1: At the Yakagi Residence - Part 1 | `chapter_1_at_the_yakagi_residence_part_1.txt` | 200 | 200 | 1984 | `chapter_1_at_the_yakagi_residence_part_1.md` | **Hoàn thành** |
 | **3** | Chapter 1: At the Yakagi Residence - Part 2 | `chapter_1_at_the_yakagi_residence_part_2.txt` | 200 | 200 | 1992 | `chapter_1_at_the_yakagi_residence_part_2.md` | **Chưa bắt đầu** |
 | **4** | Chapter 1: At the Yakagi Residence - Part 3 | `chapter_1_at_the_yakagi_residence_part_3.txt` | 200 | 200 | 2021 | `chapter_1_at_the_yakagi_residence_part_3.md` | **Chưa bắt đầu** |
 | **5** | Chapter 1: At the Yakagi Residence - Part 4 | `chapter_1_at_the_yakagi_residence_part_4.txt` | 200 | 200 | 2017 | `chapter_1_at_the_yakagi_residence_part_4.md` | **Chưa bắt đầu** |

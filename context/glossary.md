@@ -944,3 +944,4 @@
 | **saber-toothed tiger / Smilodon** | hổ răng kiếm / Smilodon | Sinh vật | Dã thú tổ tiên của bộ tộc liger. |
 | **composite concept** | ý niệm hỗn hợp | Khái niệm | Ý niệm kết hợp nhiều ý niệm lại với nhau (được Suimei nhắc đến). |
 | **pragmatism** | chủ nghĩa thực dụng | Khái niệm | Quan điểm đề cao tính thực tế, tính hiệu quả. |
+| **demi-ogre** | bán á quỷ | Sinh vật | Một loại quái vật/á nhân lai quỷ. |
