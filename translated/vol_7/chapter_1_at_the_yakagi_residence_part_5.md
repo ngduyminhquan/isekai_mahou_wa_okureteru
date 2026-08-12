@@ -188,7 +188,7 @@ Lúc đó Reiji mới nhận ra rằng mọi ánh mắt trong phòng đều đ�
 
 "Ý cậu là nó đã làm cậu mạnh hơn sau khi nó biến thành vũ khí sao, Reiji-kun?"
 
-Có điều gì đó trong chuyện đó thực sự không gây được tiếng vang với Lefille, nhưng người giải đáp những thắc mắc của cô lại là một người đã tận mắt chứng kiến điều đó—Graziella.
+Có điều gì đó trong lời giải thích đó thực sự không mấy thuyết phục với Lefille, nhưng người giải đáp những thắc mắc của cô lại là một người đã tận mắt chứng kiến điều đó—Graziella.
 
 "Chỉ từ những gì chúng ta đã thấy, món vũ khí đó rất có khả năng sẽ cường hóa sức mạnh cho người sử dụng và ban cho họ các kỹ năng. Cậu ta đã thao túng một loại sức mạnh đặc biệt bổ sung vào sức mạnh của chính mình. Quả thực rất phù hợp với một thánh tích được mệnh danh là vũ khí của anh hùng."
 

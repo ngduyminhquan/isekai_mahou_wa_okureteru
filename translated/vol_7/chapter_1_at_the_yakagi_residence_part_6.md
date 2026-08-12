@@ -36,7 +36,7 @@ Reiji hoàn toàn không hề có ý chỉ trích cô, nhưng cái cách Titania
 
 "Đương nhiên. Công chúa Điện hạ là—"
 
-"AAAAAAAAH! Không! Cô không thể, cô không được, cô tuyệt đối không được! Tôi không thể để cô nói ra điều đó, Đế nữ Điện hạ!"
+"AAAAAAAAH! Không! Người không thể, Người không được, Người tuyệt đối không được! Tôi không thể để Người nói ra điều đó, Đế nữ Điện hạ!"
 
 Ngay khi Graziella chuẩn bị tiết lộ thân phận bí mật của Titania, Titania đã bùng nổ trong một tràng la hét tràn đầy năng lượng. Graziella nhìn cô bằng một ánh mắt lạnh nhạt.
 
