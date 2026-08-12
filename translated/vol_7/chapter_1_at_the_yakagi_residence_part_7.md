@@ -102,7 +102,7 @@ Graziella sau đó lại đề cập đến một phần khác trong những gì
 
 Suimei liếc nhìn sang Titania, cô liền gật đầu xác nhận. Cô cũng đã nghe được điều tương tự. Nhưng để nghĩ rằng Bí tích được tạo ra để ngăn chặn ngày tận thế của thế giới... Chỉ có một điều hiện lên trong đầu Suimei khi cậu nghe thấy vậy.
 
-"Nói cách khác, nó có liên quan đến hội chứng chạng vạng... Đúng là tôi từng nghe kể về việc những người đó sử dụng thứ này để đánh bại lũ quái thú kia, nhưng... họ chưa từng nhắc đến bất cứ điều gì về việc này..."
+"Nói cách khác, nó có liên quan đến Hội chứng Chạng vạng... Đúng là tôi từng nghe kể về việc những người đó sử dụng thứ này để đánh bại lũ quái thú kia, nhưng... họ chưa từng nhắc đến bất cứ điều gì về việc này..."
 
 Khi cậu nghe kể về Bí tích, chủ nhân của nó không hề nhắc đến ngày tận thế của thế giới. Liệu điều đó có nghĩa là họ cũng không biết mọi thứ về nó sao? Không, rốt cuộc thì điều gì đã...
 
@@ -112,7 +112,7 @@ Khi cậu nghe kể về Bí tích, chủ nhân của nó không hề nhắc đ�
 
 "Vậy có cần thứ gì khác ngoài những từ ngữ đó không?"
 
-"Thứ mà Bí tích cần là một nền tảng hiểu biết sâu sắc về những bí thuật đằng sau nó và một mục đích mãnh liệt, hoặc có vẻ là như vậy. Nền tảng hiểu biết là điều bắt buộc, nhưng khi chủ nhân của một bí tích có một mục đích mãnh liệt, đó là lúc nó lần đầu tiên hiển hiện... Không, đó là khi nó lần đầu tiên có thể trở thành một món vũ khí."
+"Thứ mà Bí tích cần là một nền tảng hiểu biết sâu sắc về những bí thuật đằng sau nó và một mục đích mãnh liệt, hoặc có vẻ là như vậy. Nền tảng hiểu biết là điều bắt buộc, nhưng khi chủ nhân của một Bí tích có một mục đích mãnh liệt, đó là lúc nó lần đầu tiên hiển hiện... Không, đó là khi nó lần đầu tiên có thể trở thành một món vũ khí."
 
 "Một mục đích mãnh liệt... cậu nói sao?"
 

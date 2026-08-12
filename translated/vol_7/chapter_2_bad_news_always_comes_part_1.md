@@ -128,7 +128,7 @@ Cô sẽ đánh mất nhân tính của mình. Cảm nhận được toàn bộ 
 
 "V-V-Vượt qua cái chết?! Ý ngài muốn nói bọn họ là bất tử sao?!"
 
-"Về mặt kỹ thuật thì không. Nói chính xác hơn là họ chỉ cực kỳ khó bị giết. Bọn họ không còn phải chịu sự chi phối của những giới hạn tiêu chuẩn về sinh tử. Chẳng hạn, bọn họ không thể bị giết bằng vũ khí thông thường và hoàn toàn miễn nhiễm với bệnh tật. Họ thậm chí còn không thể chết vì tuổi già, vì bọn họ đã được giải thoát khỏi những giới hạn tự nhiên của một vòng đời bình thường. Chúng tôi gọi những tồn tại như vậy là lich."
+"Về mặt kỹ thuật thì không. Nói chính xác hơn là họ chỉ cực kỳ khó bị giết. Bọn họ không còn phải chịu sự chi phối của những giới hạn tiêu chuẩn về sinh tử. Chẳng hạn, bọn họ không thể bị giết bằng vũ khí thông thường và hoàn toàn miễn nhiễm với bệnh tật. Họ thậm chí còn không thể chết vì tuổi già, vì bọn họ đã được giải thoát khỏi những giới hạn tự nhiên của một vòng đời bình thường. Chúng tôi gọi những tồn tại như vậy là Lich."
 
 "Có thể sống vượt lên trên cả gánh nặng của sinh tử quả thực phải là một sức mạnh vô cùng đen tối..."
 
