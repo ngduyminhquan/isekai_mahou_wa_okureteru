@@ -80,3 +80,4 @@ Quy tắc xưng hô và đại từ trong hội thoại giữa các nhân vật 
 
 | **Suimei** | **Clarissa** | Cậu / Suimei-sama | Chị gái / Cô | Clarissa giữ thái độ kiểu cách, gọi Suimei là ngài/sama. Suimei đáp trả lạnh nhạt và gọi cô là 'Chị gái' (Sister) một cách mỉa mai. |
 | **Suimei** | **Jillbert** | Cậu | Cô | Jillbert nói chuyện cộc cằn, dân dã. Suimei cũng không kiêng nể mà đáp trả trực diện. |
+| **Gorgan** | **Reanat / Graziella** | Thần | Hai vị Điện hạ / Điện hạ | Gorgan giữ thái độ vô cùng tôn kính và trung thành tuyệt đối với các thành viên hoàng tộc Đế quốc, xưng "thần". |

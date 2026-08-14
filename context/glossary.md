@@ -1002,3 +1002,4 @@
 
 | **ethereal body** | thể dĩ thái | Khái niệm | Một trong ba trụ cột cấu thành nên sinh vật, đóng vai trò như một bản thiết kế và bộ hướng dẫn vận hành cho thể xác. |
 | **physical body** | thể xác | Khái niệm | Sự biểu hiện vật chất của một sinh vật sống, chịu ảnh hưởng từ thể dĩ thái. |
+| **Gorgan** | Gorgan | Tên riêng | Tướng lĩnh lớn tuổi của Đế quốc Nelferian. |
