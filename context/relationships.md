@@ -81,3 +81,7 @@ Quy tắc xưng hô và đại từ trong hội thoại giữa các nhân vật 
 | **Suimei** | **Clarissa** | Cậu / Suimei-sama | Chị gái / Cô | Clarissa giữ thái độ kiểu cách, gọi Suimei là ngài/sama. Suimei đáp trả lạnh nhạt và gọi cô là 'Chị gái' (Sister) một cách mỉa mai. |
 | **Suimei** | **Jillbert** | Cậu | Cô | Jillbert nói chuyện cộc cằn, dân dã. Suimei cũng không kiêng nể mà đáp trả trực diện. |
 | **Gorgan** | **Reanat / Graziella** | Thần | Hai vị Điện hạ / Điện hạ | Gorgan giữ thái độ vô cùng tôn kính và trung thành tuyệt đối với các thành viên hoàng tộc Đế quốc, xưng "thần". |
+
+- **Aerith <-> Liliana**: Aerith rất ghét và đố kỵ với Liliana do bị chiếm đoạt danh hiệu thành viên trẻ nhất của Thập Nhị Tinh Anh. Liliana luôn giữ thái độ dửng dưng, bình thản trước mọi lời lăng mạ của Aerith. Xưng hô: Aerith gọi "ngươi", "con ranh ngốc nghếch"; Liliana xưng "tôi".
+- **Aerith <-> Gorgan**: Aerith kính trọng Gorgan. Gorgan (Thống lĩnh) gọi "ngươi", xưng "ta" (hoặc theo quyền hạn). Aerith gọi "Chỉ huy", xưng "tôi".
+- **Aerith <-> Slane**: Slane có vẻ ngoài cợt nhả, gọi Aerith là "Tiền bối". Aerith không ưa gì hắn ta.

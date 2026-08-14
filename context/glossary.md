@@ -1004,3 +1004,8 @@
 | **physical body** | thể xác | Khái niệm | Sự biểu hiện vật chất của một sinh vật sống, chịu ảnh hưởng từ thể dĩ thái. |
 | **Gorgan** | Gorgan | Tên riêng | Tướng lĩnh lớn tuổi của Đế quốc Nelferian. |
 | **Aerith Melfein** | Aerith Melfein | T�n ri�ng | M?t th�nh vi�n c?a Th?p Nh? Tinh Anh �? Qu?c, xu?t th�n t? con g�i m?t n�ng d�n. |
+
+| **Slane Zolnuf** | Slane Zolnuf | Tên riêng | Một thành viên của Thập Nhị Tinh Anh, hậu bối của Aerith. |
+| **Baaldan Dostolf Zegent** | Baaldan Dostolf Zegent | Tên riêng | Một thành viên của Thập Nhị Tinh Anh, có bản tính hèn hạ và mưu mô. |
+| **Rapid Aqua Bullet** | Thủy Đạn Liên Thanh / Rapid Aqua Bullet | Ma thuật | Thủy ma pháp của Aerith, tạo ra những viên đạn nước bắn với tốc độ chóng mặt. |
+| **Howler** | Howler | Tên riêng | Một con quái thú hắc ám dạng chó được tạo ra bởi Liliana. |
