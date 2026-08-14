@@ -274,3 +274,8 @@ Trung thành với Đế quốc, cư xử cực kỳ lễ độ và kính trọn
 - **Phong cách:** Quân đội, vô cùng trang trọng và cung kính.
 - **Từ ngữ đặc trưng:** "Thần" (khi nói với người hoàng tộc), "Điện hạ", "xin lỗi/cầu xin sự tha thứ".
 - **Xưng hô cơ bản:** Thần - Điện hạ.
+
+### Aerith Melfein
+- **Vai trò**: Một thành viên của Thập Nhị Tinh Anh Đế Quốc.
+- **Tiểu sử**: Xuất thân từ một gia đình nông dân nghèo ở miền nam Đế quốc, có nước da ngăm đen. Được Học viện Ma pháp phát hiện tài năng, trải qua nhiều sự kỳ thị nhưng vươn lên bằng nỗ lực để trở thành thành viên trẻ nhất của Thập Nhị Tinh Anh (trước khi bị Liliana Zandyke phá kỷ lục).
+- **Tính cách**: Tự tin, kiêu hãnh vì những gì đạt được bằng nỗ lực của bản thân. Không cam tâm khi Liliana chiếm mất vị trí của mình một cách dễ dàng.
