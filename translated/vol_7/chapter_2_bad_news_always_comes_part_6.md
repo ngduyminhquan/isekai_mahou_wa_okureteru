@@ -42,9 +42,9 @@ Khi cô nói trúng tim đen của vấn đề, Gorgan gật đầu đáp lại.
 
 Điều đó đã vượt qua giới hạn chịu đựng của Titania. Thay đổi hoàn toàn so với giọng điệu tao nhã thường ngày, cô nói một cách gay gắt với tất cả đặc quyền và uy quyền từ vị thế cao của mình. Bầu không khí trong lều nhanh chóng trở nên căng thẳng. Nhưng điều đó chẳng là gì so với ánh mắt rực lửa của cô, ngầm ám chỉ rằng cô sẵn sàng chém gục Gorgan bất cứ lúc nào.
 
-Mọi việc đang trở nên nóng đến mức các sĩ quan tham mưu và tướng lĩnh trong lều bắt đầu đổ mồ hôi hột. Titania là một nữ kiếm sĩ lão luyện được biết đến với danh hiệu Công chúa Trảm Kích Chạng Vạng. Và có vẻ như cái danh hiệu đó hoàn toàn phù hợp với vẻ ngoài của cô lúc này. Nhưng ngay cả dưới áp lực khủng khiếp như vậy, Gorgan vẫn tỏ ra hoàn toàn bình tĩnh và đáp lại với một thái độ không hề thay đổi.
+Mọi việc đang trở nên nóng đến mức các sĩ quan tham mưu và tướng lĩnh trong lều bắt đầu đổ mồ hôi hột. Titania là một nữ kiếm sĩ lão luyện được biết đến với danh hiệu Chạng Vạng Trảm Công Chúa. Và có vẻ như cái danh hiệu đó hoàn toàn phù hợp với vẻ ngoài của cô lúc này. Nhưng ngay cả dưới áp lực khủng khiếp như vậy, Gorgan vẫn tỏ ra hoàn toàn bình tĩnh và đáp lại với một thái độ không hề thay đổi.
 
-"Không, thần không hề nghi ngờ khả năng của anh hùng hay Công chúa Titania Điện hạ, người được ca tụng là Công chúa Trảm Kích Chạng Vạng. Thần không có phàn nàn gì về hai người. Tuy nhiên, về những người bạn đồng hành của người... có bao nhiêu người trong số họ có thể được coi là đủ tiêu chuẩn?"
+"Không, thần không hề nghi ngờ khả năng của anh hùng hay Công chúa Titania Điện hạ, người được ca tụng là Chạng Vạng Trảm Công Chúa. Thần không có phàn nàn gì về hai người. Tuy nhiên, về những người bạn đồng hành của người... có bao nhiêu người trong số họ có thể được coi là đủ tiêu chuẩn?"
 
 Gorgan không chỉ đích danh bất cứ ai, nhưng những lời nhận xét của ông ta rất có thể nhắm vào Suimei, Io Kuzami và Liliana. Ông ta đã gián tiếp nói như vậy khi chỉ đề cập đến Reiji và Titania trong danh sách ngoại lệ của mình. Nhưng sự vòng vo như vậy chỉ khiến Titania thêm chán ghét. Dù vậy, Graziella mới là người lên tiếng tiếp theo.
 
