@@ -108,7 +108,7 @@ Nghe Lefille nói vậy, Titania phản đối.
 
 Ngồi phịch xuống một chiếc ghế, Graziella khẳng định lại lời nói của Suimei. Tuy nhiên...
 
-"Nhưng nếu vậy, Elliot-sama sẽ...!"
+"Nhưng nếu vậy, ngài Elliot sẽ...!"
 
 "Ta hoàn toàn nhận thức được rằng trường hợp của Anh hùng Elliot là quan trọng, nhưng tất cả chúng ta sẽ gặp rắc rối to nếu Đế quốc sụp đổ. Hơn nữa, những kẻ đó có lẽ không có ý định dịch chuyển anh hùng đi ngay lập tức đâu."
 
@@ -126,7 +126,7 @@ Graziella sau đó chuyển ánh nhìn sang Titania.
 
 Đó là một mối lo ngại rất hợp lý. Nếu ông ta đã tiến xa đến thế này, mọi chuyện có lẽ đang diễn ra theo đúng kế hoạch của ông ta. Ngay cả khi họ có được sự viện trợ của nhà vua, thì nó có lẽ cũng là quá ít ỏi và quá muộn màng.
 
-"Vậy thì đúng như tôi lo sợ, Elliot-sama sẽ..."
+"Vậy thì đúng như tôi lo sợ, ngài Elliot sẽ..."
 
 Phải bị gác lại. Rất dễ để đoán được Christa đang nghĩ gì. Trớ trêu thay, Io Kuzami lại là người lên tiếng tiếp theo.
 

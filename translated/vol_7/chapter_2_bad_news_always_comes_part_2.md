@@ -126,7 +126,7 @@ Người đầu tiên phản ứng khi nghe thấy tên của Hadorious là Tita
 
 "Vâng. Để thể hiện sự hiếu khách của mình, ông ta đã nài nỉ ngài Elliot đến thăm dinh thự của ông ta."
 
-Nghe vậy, màu sắc liền nhạt dần trên khuôn mặt của cả Titania và Reiji. Bọn họ cũng đã từng bị Hadorious triệu tập khi đang ở Thành phố Kurant, vì vậy họ phần nào hiểu được lời mời đó thực sự có ý nghĩa gì.
+Nghe vậy, sắc mặt của cả Titania và Reiji liền nhợt nhạt hẳn đi. Bọn họ cũng đã từng bị Hadorious triệu tập khi đang ở Thành phố Kurant, vì vậy họ phần nào hiểu được lời mời đó thực sự có ý nghĩa gì.
 
 "Vào ngày hôm đó, tôi đã vô cùng kiệt sức. Ngài Elliot đã ân cần quan tâm đến tình trạng của tôi và để tôi lại nhà thờ nghỉ ngơi trong khi ngài ấy đi đến thăm công tước một mình. Nhưng... ngài Elliot đã không bao giờ trở lại."
 
