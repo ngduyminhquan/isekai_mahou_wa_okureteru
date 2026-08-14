@@ -72,7 +72,7 @@ Những người bày tỏ sự hoài nghi là Reiji và Titania, và cả hai �
 
 Suimei nở một nụ cười đầy hỗn loạn và tinh quái. Thấy vậy, Reiji hơi lùi lại.
 
-"Ây da.... Đó là vẻ mặt mà ông luôn làm mỗi khi nghĩ ra trò xấu xa nào đó."
+"Ây da... Đó là vẻ mặt mà ông luôn làm mỗi khi nghĩ ra trò xấu xa nào đó."
 
 "Chữ 'xấu xa' đó là không cần thiết đâu, khốn kiếp."
 
