@@ -1033,3 +1033,5 @@
 | **Grand Flame** | Đại Viêm (Grand Flame) | Ma thuật | Hỏa ma pháp của Baaldan, tạo ra một quả cầu lửa khổng lồ rực cháy. |
 | **Little Red Thief** | Tiểu Hồng Tặc (Little Red Thief) | Ma thuật | Hỏa ma pháp tước đoạt sức mạnh của ngọn lửa bằng cách hấp thụ sắc đỏ của nó. |
 | **chained magic** | ma pháp liên kết (chained magic) | Kỹ thuật | Kỹ thuật niệm chú liên tục không cần lấy hơi. |
+| **serial magic** | ma pháp liên hoàn / serial magic | Khái niệm | Kỹ thuật sử dụng liên tục nhiều ma pháp ở cường độ cao. |
+| **dark magic** | hắc ma pháp / dark magic | Khái niệm | Loại ma pháp hắc ám với các thuộc tính nguyền rủa, tà ác. |
