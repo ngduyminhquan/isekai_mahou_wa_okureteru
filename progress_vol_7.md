@@ -44,7 +44,7 @@ Dưới đây là danh sách các Phase tương ứng với từng phần dịch
 | **16** | Chapter 2: Bad News Always Comes - Part 7 | `chapter_2_bad_news_always_comes_part_7.txt` | 200 | 200 | 2029 | `chapter_2_bad_news_always_comes_part_7.md` | **Hoàn thành** |
 | **17** | Chapter 2: Bad News Always Comes - Part 8 | `chapter_2_bad_news_always_comes_part_8.txt` | 200 | 200 | 2223 | `chapter_2_bad_news_always_comes_part_8.md` | **Hoàn thành** |
 | **18** | Chapter 2: Bad News Always Comes - Part 9 | `chapter_2_bad_news_always_comes_part_9.txt` | 200 | 200 | 2242 | `chapter_2_bad_news_always_comes_part_9.md` | **Hoàn thành** |
-| **19** | Chapter 2: Bad News Always Comes - Part 10 | `chapter_2_bad_news_always_comes_part_10.txt` | 200 | 200 | 2016 | `chapter_2_bad_news_always_comes_part_10.md` | **Chưa bắt đầu** |
+| **19** | Chapter 2: Bad News Always Comes - Part 10 | `chapter_2_bad_news_always_comes_part_10.txt` | 200 | 200 | 2016 | `chapter_2_bad_news_always_comes_part_10.md` | **Hoàn thành** |
 | **20** | Chapter 2: Bad News Always Comes - Part 11 | `chapter_2_bad_news_always_comes_part_11.txt` | 200 | 200 | 2067 | `chapter_2_bad_news_always_comes_part_11.md` | **Chưa bắt đầu** |
 | **21** | Chapter 2: Bad News Always Comes - Part 12 | `chapter_2_bad_news_always_comes_part_12.txt` | 200 | 200 | 2006 | `chapter_2_bad_news_always_comes_part_12.md` | **Chưa bắt đầu** |
 | **22** | Chapter 2: Bad News Always Comes - Part 13 | `chapter_2_bad_news_always_comes_part_13.txt` | 200 | 200 | 2114 | `chapter_2_bad_news_always_comes_part_13.md` | **Chưa bắt đầu** |
