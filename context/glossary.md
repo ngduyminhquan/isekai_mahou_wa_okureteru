@@ -1027,3 +1027,9 @@
 | **Air Wall** | Phong Bích / Air Wall | Ma thuật | Phép thuật hệ phong tạo bức tường bảo vệ của Slane. |
 | **Respiring Burn** | Thiêu Đốt Hô Hấp / Respiring Burn | Ma thuật | Phép thuật đốt nóng không khí của Io Kuzami. |
 | **Continuum Wind** | Phong Cuốn / Continuum Wind | Ma thuật | Phép thuật hệ phong của Slane dùng để thổi bay không khí nóng. |
+| **Strike Wind** | Đột Phong (Strike Wind) | Ma thuật | Phong ma pháp tấn công cơ bản bằng một cơn gió mạnh. |
+| **Strike Wind Sevenfold** | Đột Phong Thất Trùng (Strike Wind Sevenfold) | Ma thuật | Phiên bản cường hóa của Đột Phong, tạo ra bảy luồng gió tấn công. |
+| **Earth Wall Rising** | Thổ Bích Thăng Trào (Earth Wall Rising) | Ma thuật | Thổ ma pháp phòng thủ dựng lên một bức tường đất vững chắc. |
+| **Grand Flame** | Đại Viêm (Grand Flame) | Ma thuật | Hỏa ma pháp của Baaldan, tạo ra một quả cầu lửa khổng lồ rực cháy. |
+| **Little Red Thief** | Tiểu Hồng Tặc (Little Red Thief) | Ma thuật | Hỏa ma pháp tước đoạt sức mạnh của ngọn lửa bằng cách hấp thụ sắc đỏ của nó. |
+| **chained magic** | ma pháp liên kết (chained magic) | Kỹ thuật | Kỹ thuật niệm chú liên tục không cần lấy hơi. |
