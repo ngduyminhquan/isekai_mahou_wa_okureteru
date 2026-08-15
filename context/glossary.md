@@ -1017,3 +1017,7 @@
 | **Astral Dive** | Trầm luân Linh hồn / Astral Dive | Ma thuật | Từ khóa trong câu chú của Liliana Zandyke. |
 | **Howl of Absolute Destruction** | Tiếng hú Diệt vong / Howl of Absolute Destruction | Ma thuật | Đòn tấn công kết liễu của Howler do Liliana triệu hồi. |
 | **rebound air** | luồng khí dội ngược / rebound air | Khái niệm | Sự phản phệ của bí thuật cấp cao lên chính người thi triển khi yếu tố cốt lõi tạo nên sự huyền bí của thần chú bị cản trở. |
+| **Ground Lance** | Thạch Thương / Ground Lance | Ma thuật | Phép thuật hệ thổ tạo ra khối đất đâm lên nhắm vào kẻ thù. |
+| **Spontaneous psychokinetic control** | Kiểm soát năng lực tâm lý phát sinh tự phát | Khái niệm | Một kỹ thuật thông linh học vô thức tạo ra các hiện tượng ở môi trường xung quanh một người. |
+| **Recurrent spontaneous psychokinesis** / **RSPK** | Năng lực tâm lý phát sinh tự phát tái diễn / RSPK | Khái niệm | Một hiện tượng liên quan đến yêu tinh quậy phá, do sự rò rỉ ether hoặc sức mạnh tâm linh từ người có độ nhạy cảm cao gây ảnh hưởng lên môi trường. |
+| **poltergeist** | yêu tinh quậy phá / poltergeist | Khái niệm | Hiện tượng siêu nhiên gây ra tiếng ồn hoặc sự di chuyển vật thể không giải thích được. |
