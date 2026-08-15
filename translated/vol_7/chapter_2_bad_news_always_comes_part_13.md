@@ -12,7 +12,7 @@ Anh ta sinh ra trong một gia đình quý tộc, tốt nghiệp Học viện Ma
 
 Hơn nữa, Baaldan còn có một kỹ thuật ma pháp mà chỉ mình anh ta có thể sử dụng. Nó làm thổi phồng cái tôi của anh ta lên đáng kể, nhưng anh ta hiếm khi coi đó là một vấn đề. Với sức mạnh của anh ta thì không.
 
-Sức mạnh của ma pháp liên kết. Sử dụng những hoa văn và ngữ điệu đặc biệt, anh ta có thể niệm chú liên tục mà không cần dừng lại lấy hơi giữa chừng. Đó là một kỹ thuật độc đáo cho phép anh ta thi triển những ma pháp mạnh mẽ liên tiếp nhau. Nó là viên ngọc quý trên vương miện sức mạnh của anh ta. Ách chủ bài của anh ta.
+Sức mạnh của ma pháp liên hoàn. Sử dụng những hoa văn và ngữ điệu đặc biệt, anh ta có thể niệm chú liên tục mà không cần dừng lại lấy hơi giữa chừng. Đó là một kỹ thuật độc đáo cho phép anh ta thi triển những ma pháp mạnh mẽ liên tiếp nhau. Nó là viên ngọc quý trên vương miện sức mạnh của anh ta. Ách chủ bài của anh ta.
 
 Với nó, anh ta đã giành được vô số chiến thắng trong các trận chiến. Dù là chiến đấu với binh lính, quái vật hay ma tộc đi lạc, anh ta luôn là người chiến thắng. Nhưng hôm nay, tại đấu trường của khu quân sự này, anh ta chắc chắn đang bị dắt mũi.
 
@@ -36,7 +36,7 @@ Nhưng khi anh ta mở nắp và nhìn kỹ hơn, đó lại là một câu chuy
 
 Tất nhiên, khán giả cũng có phản ứng riêng với chuyện này. Sự sốc và kinh ngạc len lỏi qua đám đông ồn ào. Không phải vì một thành viên của Thập Nhị Tinh Anh đang bị áp đảo, mà là vì tên thường dân kia đang chiến đấu bằng ma pháp theo những cách mà họ chưa từng thấy bao giờ. Cứ như thể cậu ta đã tìm ra một điểm mù của ma pháp và đang thoải mái ngồi ở đó trong khi thản nhiên chọc ghẹo và khiêu khích đối thủ của mình. Mọi người đều theo dõi trận đấu một chiều diễn ra trong sự kinh ngạc và ngạc nhiên, bao gồm cả Gorgan Bartwood Goalt.
 
-Ví dụ, nếu Baaldan sử dụng hỏa ma pháp, cậu ta sẽ sử dụng phong ma pháp — thứ đáng lẽ phải quạt bùng ngọn lửa, nhưng thay vào đó lại thổi tắt chúng. Nếu Baaldan sử dụng thủy ma pháp, thay vì sử dụng chiến thuật kinh điển là dùng thổ ma pháp để tạo ra một cái giếng và chuyển hướng nó, cậu ta lại triệu hồi cây cối bằng mộc ma pháp để hấp thụ nó. Ngay cả khi Baaldan sử dụng nhiều ma pháp liên kết với nhau bằng kỹ thuật đặc trưng của mình, cậu ta vẫn sẽ phản đòn từng ma pháp một. Baaldan thậm chí còn không thể chạm được một ngón tay vào cậu ta.
+Ví dụ, nếu Baaldan sử dụng hỏa ma pháp, cậu ta sẽ sử dụng phong ma pháp — thứ đáng lẽ phải quạt bùng ngọn lửa, nhưng thay vào đó lại thổi tắt chúng. Nếu Baaldan sử dụng thủy ma pháp, thay vì sử dụng chiến thuật kinh điển là dùng thổ ma pháp để tạo ra một cái giếng và chuyển hướng nó, cậu ta lại triệu hồi cây cối bằng mộc ma pháp để hấp thụ nó. Ngay cả khi Baaldan sử dụng nhiều ma pháp liên hoàn bằng kỹ thuật đặc trưng của mình, cậu ta vẫn sẽ phản đòn từng ma pháp một. Baaldan thậm chí còn không thể chạm được một ngón tay vào cậu ta.
 
 Điều này khiến anh ta ngày càng bực tức, và anh ta nhanh chóng di chuyển để bắn thêm một ma pháp nữa vào cậu ta. Nhưng khoảnh khắc anh ta đinh ninh rằng nó sẽ trúng đích, nó lại mất đi sức mạnh và biến mất.
 
@@ -122,7 +122,7 @@ Hoàn toàn kiệt sức, Baaldan nhìn sang tên thường dân. Cậu ta trôn
 
 "Ngươi... là cái quái gì...?"
 
-"Nghe này, tốt nhất là anh nên ngừng việc sử dụng ma pháp liên kết với nhau một cách vô lý như vậy đi. Có vẻ như anh có thể làm được điều đó vì anh có dung lượng ma lực lớn hơn hầu hết mọi người, nhưng đâu phải anh có bộ tản nhiệt hay máy bơm nước gì đâu. Kết quả cuối cùng duy nhất là bị quá tải nhiệt như vậy thôi."
+"Nghe này, tốt nhất là anh nên ngừng việc sử dụng ma pháp liên hoàn một cách vô lý như vậy đi. Có vẻ như anh có thể làm được điều đó vì anh có dung lượng ma lực lớn hơn hầu hết mọi người, nhưng đâu phải anh có bộ tản nhiệt hay máy bơm nước gì đâu. Kết quả cuối cùng duy nhất là bị quá tải nhiệt như vậy thôi."
 
 "N-Như ta đã nói, đừng có nói nhảm nữa!"
 
