@@ -1,6 +1,6 @@
 ...không bao giờ là một chuyện êm đềm. Đặc biệt là khi các phép thuật va chạm trực tiếp với nhau. Thủy đạn đáng lẽ phải có tác dụng gì đó lên con chó. Nhưng sự thật không phải vậy; nó chỉ đơn giản là tan biến vào hư vô. Điều này dường như cũng khiến Liliana hơi ngạc nhiên, khi cô bé nheo mắt và nhìn Howler một cách trầm ngâm.
 
-"Vậy ra đây... là sự triệt tiêu do chênh lệch đẳng cấp."
+"Vậy ra đây... là Luật Triệt tiêu Chênh lệch Hạng."
 
 Aerith không hiểu hiện tượng này, nhưng hiện tại cô không có thời gian rảnh rỗi để suy ngẫm về nó.
 
