@@ -124,7 +124,7 @@ Khi ông ta làm vậy, Suimei thản nhiên quan sát kỹ gã này. Chỉ dự
 
 Đôi mắt ông ta đục ngầu, và những đầu ngón tay của ông ta trông héo úa và úa vàng như những cành cây khô. Dễ dàng đoán được lục phủ ngũ tạng của ông ta cũng chẳng khá hơn là bao. Tương phản với vẻ ngoài cường tráng, cơ thể ông ta tàn tạ vì bị vắt kiệt. Nhưng cái nhìn thoáng qua về sự hung tợn khác thường mà Suimei bắt gặp trong tất cả những điều đó là dấu hiệu cho sự ngoan cường của ông ta với tư cách là một người theo đuổi những bí thuật. Ánh sáng tham lam mà cậu có thể nhìn thấy trong mắt ông lão là một cơn đói khát vô độ dành cho chúng.
 
-Không phải Suimei không thể đồng cảm với điều đó, nhưng nhìn vào tình trạng cơ thể ông ta, cậu nghĩ đánh giá của Io Kuzami là khá chính xác. Ông ta thực sự tạo ra ấn tượng về một bó cành khô tụ tập lại giả tự mình làm một cái cây.
+Không phải Suimei không thể đồng cảm với điều đó, nhưng nhìn vào tình trạng cơ thể ông ta, cậu nghĩ đánh giá của Io Kuzami là khá chính xác. Ông ta thực sự tạo ra ấn tượng về một bó cành khô tụ tập lại giả làm một cái cây.
 
 Về phần Io Kuzami, cô là người đầu tiên chấp thuận mong muốn có một trận đấu của Gorgan.
 

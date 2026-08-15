@@ -30,7 +30,7 @@ Khi Suimei quay sang nhìn trong lúc đang ca cẩm, cậu bắt gặp một v�
 
 "Người mà tớ lo lắng là Mizuki... Hay nói đúng hơn là Io Kuzami."
 
-"À, cô ấy," Suimei buộc miệng nói ra mà không suy nghĩ khi nghe thấy cái tên đó.
+"À, cô ấy," Suimei buột miệng nói ra mà không suy nghĩ khi nghe thấy cái tên đó.
 
 Reiji sau đó làm ra một vẻ mặt chua chát như thể cậu vừa ăn phải thứ gì đó cực kỳ đắng.
 
