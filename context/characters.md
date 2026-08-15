@@ -279,3 +279,8 @@ Trung thành với Đế quốc, cư xử cực kỳ lễ độ và kính trọn
 - **Vai trò**: Một thành viên của Thập Nhị Tinh Anh Đế Quốc.
 - **Tiểu sử**: Xuất thân từ một gia đình nông dân nghèo ở miền nam Đế quốc, có nước da ngăm đen. Được Học viện Ma pháp phát hiện tài năng, trải qua nhiều sự kỳ thị nhưng vươn lên bằng nỗ lực để trở thành thành viên trẻ nhất của Thập Nhị Tinh Anh (trước khi bị Liliana Zandyke phá kỷ lục).
 - **Tính cách**: Tự tin, kiêu hãnh vì những gì đạt được bằng nỗ lực của bản thân. Không cam tâm khi Liliana chiếm mất vị trí của mình một cách dễ dàng.
+
+### Baaldan Dostolf Zegent
+- **Vai trò**: Một quý tộc của Đế quốc Nelferian, thành viên của Thập Nhị Tinh Anh.
+- **Tính cách**: Dễ bị kích động, hèn hạ, có tính cách dễ đoán và thích mưu mô.
+- **Giọng thoại**: Hét lớn, phẫn nộ, khinh thường thường dân (xưng "ta", gọi "ngươi/tên thường dân").

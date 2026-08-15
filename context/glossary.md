@@ -1021,3 +1021,9 @@
 | **Spontaneous psychokinetic control** | Kiểm soát năng lực tâm lý phát sinh tự phát | Khái niệm | Một kỹ thuật thông linh học vô thức tạo ra các hiện tượng ở môi trường xung quanh một người. |
 | **Recurrent spontaneous psychokinesis** / **RSPK** | Năng lực tâm lý phát sinh tự phát tái diễn / RSPK | Khái niệm | Một hiện tượng liên quan đến yêu tinh quậy phá, do sự rò rỉ ether hoặc sức mạnh tâm linh từ người có độ nhạy cảm cao gây ảnh hưởng lên môi trường. |
 | **poltergeist** | yêu tinh quậy phá / poltergeist | Khái niệm | Hiện tượng siêu nhiên gây ra tiếng ồn hoặc sự di chuyển vật thể không giải thích được. |
+| **subliminal self** | cái tôi tiềm thức | Khái niệm | Một khái niệm do Frederic Myers đề xuất trong thông linh học. |
+| **theosophy** | Thông Thiên Học | Khái niệm | Một phong trào/tôn giáo nghiên cứu các hiện tượng huyền bí. |
+| **spiritualism** | thuyết duy linh | Khái niệm | Một phong trào tín ngưỡng tin vào sự giao tiếp với linh hồn. |
+| **Air Wall** | Phong Bích / Air Wall | Ma thuật | Phép thuật hệ phong tạo bức tường bảo vệ của Slane. |
+| **Respiring Burn** | Thiêu Đốt Hô Hấp / Respiring Burn | Ma thuật | Phép thuật đốt nóng không khí của Io Kuzami. |
+| **Continuum Wind** | Phong Cuốn / Continuum Wind | Ma thuật | Phép thuật hệ phong của Slane dùng để thổi bay không khí nóng. |
