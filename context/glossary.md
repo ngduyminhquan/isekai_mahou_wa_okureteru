@@ -1009,3 +1009,7 @@
 | **Baaldan Dostolf Zegent** | Baaldan Dostolf Zegent | Tên riêng | Một thành viên của Thập Nhị Tinh Anh, có bản tính hèn hạ và mưu mô. |
 | **Rapid Aqua Bullet** | Thủy Đạn Liên Thanh / Rapid Aqua Bullet | Ma thuật | Thủy ma pháp của Aerith, tạo ra những viên đạn nước bắn với tốc độ chóng mặt. |
 | **Howler** | Howler | Tên riêng | Một con quái thú hắc ám dạng chó được tạo ra bởi Liliana. |
+| **Liquid Blade** | Thủy Đao / Liquid Blade | Ma thuật | Thủy ma pháp của Aerith, tạo ra lưỡi đao nước vươn từ tay. |
+| **Hydro Abyss Sphere** | Thủy Vực Thâm Uyên / Hydro Abyss Sphere | Ma thuật | Thủy ma pháp của Aerith, tạo ra vòng xoáy nước khổng lồ nuốt chửng đối thủ. |
+| **Negative Touch** | Cú Chạm Hắc Ám / Negative Touch | Ma thuật | Hắc ma pháp của Liliana làm tê liệt bộ phận cơ thể khi chạm vào. |
+| **rank disparity extinction** | triệt tiêu do chênh lệch đẳng cấp | Khái niệm | Hiện tượng ma pháp yếu hơn hoàn toàn bị triệt tiêu khi va chạm với thực thể/ma pháp có đẳng cấp cao hơn nhiều. |
