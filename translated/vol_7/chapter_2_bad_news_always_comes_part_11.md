@@ -10,7 +10,7 @@ Nghe lời khen của Suimei, Liliana mỉm cười sung sướng. Từ trận �
 
 Khi cuộc nói chuyện bí mật của họ kết thúc, Reiji gọi ba người họ và vẫy tay gọi họ trở lại nhóm.
 
-"Tớ thực sự bất ngờ đấy, Liliana-chan. Tớ không ngờ em lại mạnh đến vậy."
+"Anh thực sự bất ngờ đấy, Liliana-chan. Anh không ngờ em lại mạnh đến vậy."
 
 "Q-Quả thực... Tôi từng là thành viên... của Thập Nhị Tinh Anh Đế Quốc."
 

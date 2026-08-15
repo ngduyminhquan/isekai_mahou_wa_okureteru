@@ -108,7 +108,7 @@ Reiji bắt đầu cố gắng đoán xem Io Kuzami định làm gì. Chắc ch�
 
 Io Kuzami sử dụng sức mạnh năng lực tâm lý của mình để khuấy động đấu trường. Sau đó cô tiến về phía Slane, người đã hoàn toàn kiệt sức và bất động vì sử dụng hết ma lực.
 
-"Tên khốn với đường chân tóc và bộ não ngày càng thưa thớt, hãy chiêm ngưỡng đi! Hãy xem thoáng qua bề mặt của Schwarzchild với cú đá này của ta! Đỡ lấy đây! CÚ ĐÁ GIẾT CHẾT HÀNG TỶ SINH MẠAAAAAANG!"
+"Tên khốn với đường chân tóc và bộ não ngày càng thưa thớt, hãy chiêm ngưỡng đi! Hãy xem thoáng qua bề mặt của Schwarzschild với cú đá này của ta! Đỡ lấy đây! CÚ ĐÁ GIẾT CHẾT HÀNG TỶ SINH MẠAAAAAANG!"
 
 Io Kuzami nhấc chân ra phía sau và vung lên, tung ra những cú đòn nhử ở khắp mọi nơi. Slane cố gắng hết sức để né tránh, nhưng chẳng tạo ra được sự khác biệt nào. Anh ta hoàn toàn chịu sự thương xót từ cú đá của cô. Thay vào đó, "của quý" của anh ta thì không.
 

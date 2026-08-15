@@ -4,7 +4,7 @@ Về phần người mà Graziella gọi là "Quý Ngài Cáu Kỉnh"...
 
 "Tôi không phải là một ông giáo sư bảo thủ, thích làm mất hứng đâu."
 
-"Không ư? Không phải cậu cố tình giữ kín câu trả lời sao? Chẳng phải đây là thứ cậu gọi là... củ cà rốt treo lơ lửng à?"
+"Không ư? Không phải ngươi cố tình giữ kín câu trả lời sao? Chẳng phải đây là thứ ngươi gọi là... củ cà rốt treo lơ lửng à?"
 
 "Cũng chẳng có vấn đề gì to tát nếu người khác giải thích cái mánh khóe đó."
 
@@ -12,7 +12,7 @@ Về phần người mà Graziella gọi là "Quý Ngài Cáu Kỉnh"...
 
 "Nếu cô nghĩ đó là củ cà rốt duy nhất của tôi thì cô nhầm to rồi. Theo quan điểm của tôi, ta nên có càng nhiều càng tốt. Thực tế thì, gọi chúng là cà rốt nghe hơi ngớ ngẩn... Nhưng cô hiểu ý tôi mà, đúng không?"
 
-"Thật là một lối suy nghĩ xa xỉ, nhưng hiện tại ta sẽ chỉ nói rằng cậu không sai."
+"Thật là một lối suy nghĩ xa xỉ, nhưng hiện tại ta sẽ chỉ nói rằng ngươi không sai."
 
 Graziella trả lời với vẻ hơi ỡm ờ. Có lẽ cô không muốn đồng tình với đối thủ của mình quá dễ dàng. Nhưng gạt Suimei sang một bên, Felmenia đang ngước nhìn cô với ánh mắt đầy háo hức. Hiểu ý, Graziella bắt đầu giải thích.
 
@@ -40,7 +40,7 @@ Felmenia gật đầu trước cách diễn giải của Graziella. Suimei sau �
 
 Nghe vậy, Felmenia tạo một dáng vẻ đắc thắng. Cô rất vui mừng vì mình đã không bị tụt lại phía sau Graziella.
 
-"Giờ đến cậu, Suimei Yakagi. Nếu là cậu, cậu sẽ xử lý thế nào?"
+"Giờ đến ngươi, Yakagi Suimei. Nếu là ngươi, ngươi sẽ xử lý thế nào?"
 
 "Tôi á? Tôi sẽ cản trở bí thuật đó trước khi nó được đan xen hoàn chỉnh, tháo gỡ nó, và sử dụng luồng khí dội ngược để khiến kẻ thi triển tự gánh chịu hậu quả từ chính từ ngữ của mình. Chà, nhưng đó là chỉ khi câu thần chú mất nhiều thời gian để cấu trúc như của Liliana thôi."
 
@@ -48,7 +48,7 @@ Nghe vậy, Felmenia tạo một dáng vẻ đắc thắng. Cô rất vui mừng
 
 "Nó là điểm yếu chí mạng của bí thuật cấp cao, hay nói đúng hơn là ở giai đoạn cuối cùng của một bí thuật cần nhiều bước. Ngay trước khi câu thần chú thành hình, nếu yếu tố cốt lõi tạo nên sự huyền bí của thần chú bị cản trở, nó sẽ dội ngược lại kẻ thi triển."
 
-"Ta đã từng bị cản trở ma thuật rất nhiều lần, nhưng chuyện đó chưa bao giờ xảy ra. Cậu có thực sự biết mình đang nói gì không đấy?"
+"Ta đã từng bị cản trở ma thuật rất nhiều lần, nhưng chuyện đó chưa bao giờ xảy ra. Ngươi có thực sự biết mình đang nói gì không đấy?"
 
 "Có chứ. Nó không phải là thứ sẽ xảy ra chỉ vì một câu thần chú bị ngắt quãng. Trừ phi có tác động lên chính bản thân câu thần chú trong khi nó đang được cấu trúc, nếu không thì chẳng ăn thua đâu. Nên diễn đạt thế nào nhỉ...? Liliana đã từng sử dụng Máy Trộn Hiện Tượng trước đây... Dù hơi khác một chút, nhưng con bé đã từng thực hành một bí thuật tương tự rồi, phải không?"
 
@@ -62,11 +62,11 @@ Nghe vậy, Felmenia tạo một dáng vẻ đắc thắng. Cô rất vui mừng
 
 Nghe lời giải thích của Suimei, Graziella dường như biết chính xác loại cảm giác mà cậu đang nhắc đến và nhăn mặt lại.
 
-"Ta thà không trải nghiệm thứ đó còn hơn. Đặc biệt là trong một cuộc chiến. Nó sẽ là một sự phiền toái khá khó chịu," cô nói. Rồi, với một nụ cười ranh mãnh nở trên môi, cô nói tiếp: "Ta đã có một cuộc trò chuyện vô cùng thú vị với cậu, nhưng..."
+"Ta thà không trải nghiệm thứ đó còn hơn. Đặc biệt là trong một cuộc chiến. Nó sẽ là một sự phiền toái khá khó chịu," cô nói. Rồi, với một nụ cười ranh mãnh nở trên môi, cô nói tiếp: "Ta đã có một cuộc trò chuyện vô cùng thú vị với ngươi, nhưng..."
 
 "...Nhưng sao?"
 
-"Cậu có xu hướng thích tỏ ra thông thái quá mức, đúng không?"
+"Ngươi có xu hướng thích tỏ ra thông thái quá mức, đúng không?"
 
 Không phải là Suimei không biết điều đó—cậu nghe chính mình lải nhải suốt ngày mà. Nên thay vì cãi lại, cậu nhếch mép.
 
