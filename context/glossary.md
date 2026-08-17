@@ -2048,3 +2048,4 @@
 | | **Grand Geyser** | Đại Phún Thạch (Grand Geyser) | Ma thuật | Thổ ma pháp tạo ra vô số cột đá nhọn đâm lên từ mặt đất. | |
 | | **Grand Geyser Refinement** | Đại Phún Thạch - Tinh Tế (Grand Geyser Refinement) | Ma thuật | Phiên bản nâng cấp mạnh mẽ hơn của Đại Phún Thạch. | |
 | | **Mana Furnace Core. White Fire, Immediate Critical Load!** | Lõi Lò Phản Ứng Ma Lực. Bạch Hỏa, Quá Tải Tới Hạn Tức Thời! | Ma thuật | Câu lệnh kích hoạt sức mạnh liên quan đến Bạch Hỏa. | |
+| | **Rainblaze Clouds** | Vũ Viêm Vân | Ma thuật | Phép thuật hệ Bạch Hỏa tạo mưa lửa của Felmenia. | |
