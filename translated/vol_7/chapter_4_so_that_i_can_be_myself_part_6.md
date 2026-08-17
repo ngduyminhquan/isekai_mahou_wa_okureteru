@@ -26,9 +26,9 @@ Chuyện gì vừa xảy ra vậy?
 
 Trong khi Striga còn đang sửng sốt, hai người đàn ông bắt đầu nói chuyện.
 
-"Ngươi đánh bại chúng dễ dàng thật đấy."
+"Anh đánh bại chúng dễ dàng thật đấy."
 
-"Thật sự. Tôi đã hy vọng có thể nhai nát chúng một chút, nhưng... Chống lại những con sâu bọ thế này, e là những mong muốn của tôi sẽ không được thỏa mãn rồi."
+"Thật sự. Ta đã hy vọng có thể nhai nát chúng một chút, nhưng... Chống lại những con sâu bọ thế này, e là những mong muốn của ta sẽ không được thỏa mãn rồi."
 
 Thái độ của họ vẫn không hề thay đổi, và họ nói chuyện với nhau như thể chỉ đang phiếm chuyện. Họ dường như biết chuyện gì đã xảy ra.
 

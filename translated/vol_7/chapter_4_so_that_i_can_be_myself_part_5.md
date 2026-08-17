@@ -133,7 +133,7 @@ Người đàn ông với vẻ mặt ngu ngốc nhún vai và bắt đầu cư�
 
 Cùng với điều đó, người đàn ông mặc đồ đen nhăn mặt. Khi làm vậy, cậu ta hơi nghiêng đầu và nhìn sang người đàn ông mặc đồ trắng đứng cạnh mình.
 
-"Có vẻ như bên kia đang hiểu lầm gì đó hay sao ấy, nhưng ngươi nghĩ sao? Bọn chúng có phải là mối đe dọa không?"
+"Có vẻ như bên kia đang hiểu lầm gì đó hay sao ấy, nhưng anh nghĩ sao? Bọn chúng có phải là mối đe dọa không?"
 
 "Hừm, ta cũng sẽ hỏi lại ngươi như vậy. Ngươi có cảm thấy bất kỳ sự đe dọa nào từ cái đống bọ hỗn tạp này không? Chúng chẳng khác gì một bầy muỗi bên vệ đường, ngươi không nghĩ vậy sao?"
 
