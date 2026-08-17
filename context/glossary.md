@@ -796,6 +796,8 @@
 
 | | **Clarissa** | Clarissa | Tên riêng | Sơ (nữ tu) thú nhân thuộc Giáo hội Cứu thế. | |
 
+| | **Grallajearus** | Grallajearus | Tên riêng | Một con quỷ mang hình hài một khối thịt khổng lồ. | |
+
 
 
 | | **Blitz Shot** | Thiểm Kích / Tia Chớp Nhanh | Ma thuật | Phép thuật hệ lôi (Lightning) của Christa. | |
