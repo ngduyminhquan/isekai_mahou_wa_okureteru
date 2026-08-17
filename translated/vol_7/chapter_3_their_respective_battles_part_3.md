@@ -38,7 +38,7 @@ Bị trút xuống những lời nhục mạ như vậy, Lefille chỉ càng th�
 
 "Hmm? Chẳng phải quá rõ ràng là ta sẽ kéo lê cưng thế này đến tận doanh trại của cưng rồi hành hạ cưng sao? Nếu ta làm vậy ngay trước mặt những người đồng đội và đám lính của cưng, cưng không nghĩ là tất cả bọn họ sẽ tuyệt vọng sao? Khi thấy một người mà họ nương tựa vào lại bị trêu chọc một cách tàn nhẫn như vậy... Chậc, chậc."
 
-Nhìn Latora đặt ngón tay thon dài của ả lên đôi môi ẩm ướt, Lefille đột nhiên bị bủa vây bởi một cảm giác ớn lạnh. Lời nói của ả gợi lên một viễn cảnh nhục nhã: hình ảnh tâm trí về việc bị hành hạ trước mặt tất cả các đồng minh... như một lời cảnh báo khốn khổ và đáng thương.
+Nhìn Latora đặt ngón tay thon dài của ả lên đôi môi ẩm ướt, Lefille đột nhiên bị bủa vây bởi một cảm giác ớn lạnh. Lời nói của ả gợi lên một viễn cảnh nhục nhã: hình ảnh bị hành hạ trước mặt tất cả các đồng minh... như một lời cảnh báo khốn khổ và đáng thương.
 
 "Chết tiệt... Một lần nữa, mình lại..."
 
@@ -134,7 +134,7 @@ Và cũng vào khoảng thời gian đó, giọng nói hoảng hốt của một
 
 "Có địch! Ch-Chúng ta đang bị tấn công!"
 
-Tấm bạt che ở lối vào của lều chỉ huy bị hất tung sang một bên, và người đưa tin lao vào trong để truyền đạt tin dữ. Họ đã bị bắt quả tang khi đang mất cảnh giác. Nghe vậy, tất cả các tướng lĩnh cấp cao trong lều đồng loạt đứng dậy khỏi ghế. Vì bầu trời phía trên doanh trại hoàn toàn quang đãng, hoàn toàn có thể nói đây là tiếng sét giữa trời quang... nhưng chắc chắn có một thứ gì đó tồi tệ đang chực chờ nơi chân trời.
+Tấm bạt che ở lối vào của lều chỉ huy bị hất tung sang một bên, và người đưa tin lao vào trong để truyền đạt tin dữ. Họ đã bị đánh úp khi đang lơ là cảnh giác. Nghe vậy, tất cả các tướng lĩnh cấp cao trong lều đồng loạt đứng dậy khỏi ghế. Vì bầu trời phía trên doanh trại hoàn toàn quang đãng, hoàn toàn có thể nói đây là tiếng sét giữa trời quang... nhưng chắc chắn có một thứ gì đó tồi tệ đang chực chờ nơi chân trời.
 
 Reiji và những người khác vẫn chưa được triển khai hiện cũng đang ở trong lều chỉ huy. Tin tức của người đưa tin cắt ngang cuộc trò chuyện của Reiji và Reanat, và vị hoàng tử lập tức đối mặt với người đưa tin bằng một vẻ mặt nghiêm trọng.
 

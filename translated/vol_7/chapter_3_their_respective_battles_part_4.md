@@ -52,7 +52,7 @@ Cuộc tập kích bất ngờ của lũ quỷ có vẻ không chỉ giới hạ
 
 Lấy lại sự kiên định qua một tiếng hét lớn, Reiji chém gục con quỷ đang đứng ngay trước mặt mình—cũng hệt như mọi khi. Thế nhưng sau đó một chuyện bất thường đã xảy ra. Một thứ gì đó đã phá vỡ khuôn mẫu quen thuộc. Cậu có thể cảm nhận được có ai đó đang ở phía sau mình. Không, không phải là 'ai đó'. Từ đó ngụ ý rằng đó là một con người, nhưng các giác quan của Reiji lại báo cho cậu biết điều ngược lại. Cậu đã quá tập trung vào kẻ địch ngay trước mắt đến mức phớt lờ đi những bề mặt xung quanh mình. Cậu xoay người lại nhanh nhất có thể, nhưng bấy nhiêu vẫn không đủ nhanh.
 
-*Quá tự mãn để rồi chuyện này xảy ra sao?*
+*Chỉ vì quá tự mãn mà chuyện này lại xảy ra sao?*
 
 Reiji đã đinh ninh rằng lũ quỷ rất đơn giản và dễ đoán. Nhưng chính cái suy nghĩ đó đã khiến cậu trở nên bất cẩn. Cậu đã để lộ sơ hở trầm trọng hệt như một gã nghiệp dư.
 

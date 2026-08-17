@@ -76,7 +76,7 @@ Thực ra, hắn không mong đợi bất cứ điều gì từ bất kỳ ai. P
 
 Ilzarl nhướng mày, không chắc về ý nghĩa đằng sau những lời của Lishbaum. Nhưng hắn không hỏi lại. Dù sao thì vấn đề đó cũng chẳng quan trọng gì với hắn. Tuy nhiên, Lishbaum vẫn giải thích.
 
-"Câu hỏi thực sự là liệu có thể nghe thấy được tiếng nói bên trong của vị Anh hùng đó hay không. Liệu những suy nghĩ của hắn ta có thể chạm đến tận gốc rễ của nó, hoặc liệu viên Lapis Judaicus đó có hồi đáp lại hắn hay không. Sức mạnh mà hắn có được lúc đó sẽ là..."
+"Câu hỏi thực sự là liệu tên Anh hùng đó có thể nghe được tiếng nói bên trong nó hay không. Liệu những suy nghĩ của hắn ta có thể chạm đến tận gốc rễ của nó, hoặc liệu viên Lapis Judaicus đó có hồi đáp lại hắn hay không. Sức mạnh mà hắn có được lúc đó sẽ là..."
 
 Lishbaum không nói thêm gì nữa sau đó. Hắn chỉ nở một nụ cười nhạt nhòa trong khi cố kìm nén một tràng cười trước khi buông thả nó ra một cách không e dè.
 
