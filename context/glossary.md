@@ -2044,3 +2044,7 @@
 
 | | **Sword Master of the Lonely Shadow** | Cô Độc Ảnh Kiếm Sư | Danh hiệu | Danh hiệu của Rogue Zandyke, cha của Liliana. | |
 | | **Tribalism** | Bộ Lạc Thuật | Khái niệm | Một trường phái bí thuật ban cho sức mạnh dựa trên niềm tin vào các biểu tượng cổ xưa (được sử dụng bởi Sơ Clarissa). | |
+| | **pebbles of Isa** | những viên sỏi của Isa | Ma thuật / Kỹ năng | Chiêu thức tấn công bằng vô số mảnh vụn sắc nhọn của Ma Tướng Grallajearus. | |
+| | **Grand Geyser** | Đại Phún Thạch (Grand Geyser) | Ma thuật | Thổ ma pháp tạo ra vô số cột đá nhọn đâm lên từ mặt đất. | |
+| | **Grand Geyser Refinement** | Đại Phún Thạch - Tinh Tế (Grand Geyser Refinement) | Ma thuật | Phiên bản nâng cấp mạnh mẽ hơn của Đại Phún Thạch. | |
+| | **Mana Furnace Core. White Fire, Immediate Critical Load!** | Lõi Lò Phản Ứng Ma Lực. Bạch Hỏa, Quá Tải Tới Hạn Tức Thời! | Ma thuật | Câu lệnh kích hoạt sức mạnh liên quan đến Bạch Hỏa. | |
