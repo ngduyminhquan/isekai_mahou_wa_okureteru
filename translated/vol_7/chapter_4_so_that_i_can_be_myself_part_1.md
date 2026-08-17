@@ -16,13 +16,13 @@ Nếu họ làm vậy, họ sẽ trở thành con mồi cho những vật thể 
 
 Không rõ họ cần phải chiến đấu với đối thủ này như thế nào. Bất chấp vẻ ngoài chậm chạp của nó, không ai biết nó nhanh nhẹn đến mức nào, điều này chỉ khiến họ càng thêm bất lợi. Cảm giác như thể họ đang chiến đấu với nhiều khẩu súng máy cùng lúc với một kho đạn vô tận. Nhưng vì việc tiếp cận không phải là một lựa chọn, họ sẽ chỉ phải cố gắng hết sức để tấn công từ xa.
 
-"Hỡi Đất mẹ! Ta cầu xin vùng đất vững chãi! Hãy biến những nhịp đập của người thành một cơn địa chấn dữ dội và tụ tập dưới chân ta! Hãy thi triển quyền năng của người, xuyên thủng bầu không khí trước mặt ta và phá vỡ cái ác bằng hòn đá không thể né tránh này! Grand Geyser!"
+"Hỡi Đất mẹ! Ta cầu xin vùng đất vững chãi! Hãy biến những nhịp đập của người thành một cơn địa chấn dữ dội và tụ tập dưới chân ta! Hãy thi triển quyền năng của người, xuyên thủng bầu không khí trước mặt ta và phá vỡ cái ác bằng hòn đá không thể né tránh này! Đại Phún Thạch (Grand Geyser)!"
 
 Reiji nhanh chóng niệm một câu chú thuộc tính thổ và tung ra từ khóa của mình không chút chậm trễ. Khi cậu làm vậy, vô số cột trụ khổng lồ bắn lên từ mặt đất xung quanh Grallajearus và nhắm vào khối thịt. Reiji không dành thời gian để ngắm chuẩn xác tất cả các cột trụ, nhưng có đủ số lượng bao phủ một phạm vi đủ rộng nên điều đó không quan trọng. Các cột trụ thuôn nhọn lại và đâm xuyên qua Grallajearus. Tuy nhiên...
 
 "Ngươi thực sự nghĩ rằng đòn tấn công bừa bãi này có thể hạ gục bọn ta sao, anh hùng?!"
 
-Khi một tiếng rít chói tai vang vọng như tiếng ồn trong không khí, cơ thể bằng thịt của Grallajearus bắt đầu nổi bong bóng và sưng phồng lên, lấp đầy các phần bị tổn thương. Vào thời điểm các cột đất do Grand Geyser tạo ra biến mất, cơ thể của Grallajearus đã trở lại chính xác như trước khi nó bị thương.
+Khi một tiếng rít chói tai vang vọng như tiếng ồn trong không khí, cơ thể bằng thịt của Grallajearus bắt đầu nổi bong bóng và sưng phồng lên, lấp đầy các phần bị tổn thương. Vào thời điểm các cột đất do Đại Phún Thạch tạo ra biến mất, cơ thể của Grallajearus đã trở lại chính xác như trước khi nó bị thương.
 
 "Vậy là tên này có thể tái sinh...?"
 
@@ -98,7 +98,7 @@ Không thể chấp nhận kế hoạch của cô, Reiji lớn tiếng từ ch�
 
 Reiji không thể chấp nhận việc sử dụng cô làm lá chắn rồi bỏ chạy. Nhưng cậu không thể nghĩ ra bất kỳ phương pháp nào khác để thoát khỏi tình cảnh này. Cứ như vậy, cả hai người họ đều sẽ phải bỏ mạng. Titania chỉ đơn giản là đang đề xuất gánh vác gánh nặng đó một mình. Reiji nghiến răng. Nhưng một lần nữa, cậu cảm thấy bất lực. Cậu phải được bảo vệ bởi những người đồng đội của mình. Và ngay khi cậu bắt đầu nghĩ rằng mình có thể thực sự phải chấp nhận tình thế tiến thoái lưỡng nan cay đắng này...
 
-"Hỡi Đất mẹ. Ta cầu xin vùng đất vững chãi. Hãy biến những nhịp đập của người thành một cơn địa chấn dữ dội và đe dọa tất cả từ bên dưới. Hãy thi triển quyền năng của người và trở thành nền tảng nâng đỡ mọi sự tồn tại. Xuyên thủng bầu không khí, phá vỡ cái ác, trở thành hòn đá không thể né tránh và đột phá. Grand Geyser Refinement (Đại Phún Thạch - Tinh Tế)!"
+"Hỡi Đất mẹ. Ta cầu xin vùng đất vững chãi. Hãy biến những nhịp đập của người thành một cơn địa chấn dữ dội và đe dọa tất cả từ bên dưới. Hãy thi triển quyền năng của người và trở thành nền tảng nâng đỡ mọi sự tồn tại. Xuyên thủng bầu không khí, phá vỡ cái ác, trở thành hòn đá không thể né tránh và đột phá. Đại Phún Thạch - Tinh Tế (Grand Geyser Refinement)!"
 
 Giọng của một người phụ nữ vang lên trong không khí, và Reiji nghe thấy những từ khóa mà cậu chưa từng nghe trước đây. Đó là một câu thần chú mạnh mẽ hơn nhiều so với câu cậu đã sử dụng lúc nãy. Ngay sau những từ khóa, mặt đất bên dưới nhô ra ngoài. Phép thuật mà Reiji sử dụng đã tạo ra những cột trụ khổng lồ được mài nhọn, nhưng phép thuật đang hiển hiện lúc này trông giống những chiếc gai nhím hơn khi những thanh kiếm lớn mọc lên chéo từ mặt đất.
 
