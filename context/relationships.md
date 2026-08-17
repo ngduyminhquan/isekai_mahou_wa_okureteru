@@ -85,3 +85,10 @@ Quy tắc xưng hô và đại từ trong hội thoại giữa các nhân vật 
 - **Aerith <-> Liliana**: Aerith rất ghét và đố kỵ với Liliana do bị chiếm đoạt danh hiệu thành viên trẻ nhất của Thập Nhị Tinh Anh. Liliana luôn giữ thái độ dửng dưng, bình thản trước mọi lời lăng mạ của Aerith. Xưng hô: Aerith gọi "ngươi", "con ranh ngốc nghếch"; Liliana xưng "tôi".
 - **Aerith <-> Gorgan**: Aerith kính trọng Gorgan. Gorgan (Thống lĩnh) gọi "ngươi", xưng "ta" (hoặc theo quyền hạn). Aerith gọi "Chỉ huy", xưng "tôi".
 - **Aerith <-> Slane**: Slane có vẻ ngoài cợt nhả, gọi Aerith là "Tiền bối". Aerith không ưa gì hắn ta.
+
+### Reanat Filas Rieseld
+- **Với Graziella (Lyla)**: Gọi Graziella là "Lyla" một cách thân mật, có vẻ như Graziella rất tôn trọng và bảo vệ anh.
+- **Với Grallajearus / Quỷ**: Lạnh lùng, sẵn sàng dùng vũ lực để tra khảo (xưng "Ta", gọi "Ngươi").
+
+### Lishbaum
+- **Với Reiji**: Lishbaum cư xử một cách vô cùng lịch thiệp và quý phái bất thường đối với kẻ thù (xưng "Tôi", gọi "Ngài"). Tỏ ra trân trọng việc Reiji đạt được "ánh quang xanh lam".

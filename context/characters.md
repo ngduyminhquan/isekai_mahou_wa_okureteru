@@ -284,3 +284,8 @@ Trung thành với Đế quốc, cư xử cực kỳ lễ độ và kính trọn
 - **Vai trò**: Một quý tộc của Đế quốc Nelferian, thành viên của Thập Nhị Tinh Anh.
 - **Tính cách**: Dễ bị kích động, hèn hạ, có tính cách dễ đoán và thích mưu mô.
 - **Giọng thoại**: Hét lớn, phẫn nộ, khinh thường thường dân (xưng "ta", gọi "ngươi/tên thường dân").
+
+### 39. Reanat Filas Rieseld
+- **Vai trò**: Đại hoàng tử của Đế quốc Nelferian.
+- **Tính cách**: Quyết đoán, có phần lạnh lùng khi đối mặt với kẻ thù (như loài quỷ), nhưng lại tin tưởng và giao phó binh sĩ cho Graziella (Lyla).
+- **Giọng thoại**: Uy quyền, nghiêm nghị (gọi "Ta", xưng "Ngươi" với quỷ).
