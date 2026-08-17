@@ -44,13 +44,13 @@ Nói cách khác, chuyện đó có thể đã xảy ra nếu chính hoàng đ�
 
 "Vậy còn Suimei-kun thì sao?"
 
-"Có vẻ như anh ấy đã được phép tự do hành động. Điện hạ Reanat không phân công vị trí hay đưa ra bất kỳ chỉ thị cụ thể nào cho anh ấy. Vì hiện tại những chiến công quân sự không được đặt lên hàng đầu, nên vương tử đã báo cho anh ấy biết là anh ấy có thể làm tùy ý miễn là không gây cản trở."
+"Có vẻ như anh ấy đã được phép tự do hành động. Điện hạ Reanat không phân công vị trí hay đưa ra bất kỳ chỉ thị cụ thể nào cho anh ấy. Vì hiện tại những chiến công quân sự không được đặt lên hàng đầu, nên hoàng tử đã báo cho anh ấy biết là anh ấy có thể làm tùy ý miễn là không gây cản trở."
 
 "Có nghĩa là... Điện hạ Reanat đang nắm trong tay một quân cờ mạnh mẽ như Suimei-kun, nhưng lại không thể nghĩ ra cách nào để sử dụng cậu ấy sao cho hiệu quả."
 
 "Chắc là vậy. Dù sao thì thế mạnh của Điện hạ Reanat cũng là việc điều phối các đội. Suimei lại là một dạng ngoại lệ đặc biệt."
 
-Suimei, cũng giống như Lefille và những người khác, bản thân một mình anh đã có giá trị ngang ngửa chí ít là cả một tiểu đội. Điều đó có nghĩa là dù bị xếp vào tiểu đội hay đơn vị nào đi chăng nữa, anh cũng sẽ vượt xa đồng đội của mình một cách hoàn toàn đẳng cấp. Vẫn có khả năng là sẽ cử anh đi thực hiện nhiệm vụ một mình, nhưng Reanat lại không biết tiềm năng chiến tranh thực sự của anh là gì. Và thế là, kẹt giữa tiến thoái lưỡng nan, ngài cùng quân đội của mình rốt cuộc lại rơi vào cái tình thế kỳ quặc là rất muốn triển khai Suimei, nhưng lại không biết phải làm bằng cách nào. Nếu anh ấy cũng giống Lefille, có sức thu hút để dẫn dắt một đơn vị của riêng mình, thì mọi chuyện đã hoàn toàn khác.
+Suimei, cũng giống như Lefille và những người khác, bản thân một mình cậu đã có giá trị ngang ngửa chí ít là cả một tiểu đội. Điều đó có nghĩa là dù bị xếp vào tiểu đội hay đơn vị nào đi chăng nữa, cậu cũng sẽ vượt xa đồng đội của mình một cách hoàn toàn đẳng cấp. Vẫn có khả năng là sẽ cử cậu đi thực hiện nhiệm vụ một mình, nhưng Reanat lại không biết tiềm năng chiến tranh thực sự của cậu là gì. Và thế là, kẹt giữa tiến thoái lưỡng nan, ngài cùng quân đội của mình rốt cuộc lại rơi vào cái tình thế kỳ quặc là rất muốn triển khai Suimei, nhưng lại không biết phải làm bằng cách nào. Nếu cậu ấy cũng giống Lefille, có sức thu hút để dẫn dắt một đơn vị của riêng mình, thì mọi chuyện đã hoàn toàn khác.
 
 "Tôi là một ma thuật sư và là một học sinh, cô biết đấy? Việc tôi không thể làm được mấy chuyện như thế chẳng phải quá rõ ràng sao?" cậu đã nói như vậy trước khi đơn vị của Lefille xuất phát.
 
