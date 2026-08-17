@@ -2041,3 +2041,4 @@
 | | **dark magic** | hắc ma pháp / dark magic | Khái niệm | Loại ma pháp hắc ám với các thuộc tính nguyền rủa, tà ác. | |
 
 | | **Sword Master of the Lonely Shadow** | Cô Độc Ảnh Kiếm Sư | Danh hiệu | Danh hiệu của Rogue Zandyke, cha của Liliana. | |
+| | **Tribalism** | Bộ Lạc Thuật | Khái niệm | Một trường phái bí thuật ban cho sức mạnh dựa trên niềm tin vào các biểu tượng cổ xưa (được sử dụng bởi Sơ Clarissa). | |
