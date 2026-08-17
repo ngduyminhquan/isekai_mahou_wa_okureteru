@@ -50,7 +50,7 @@ Không hài lòng với việc chỉ đánh bại Lefille trong chiến đấu, 
 
 Như thể đang đáp lại cơn thịnh nộ trào dâng của Lefille, luồng gió đỏ thẫm bao quanh cô trở nên mạnh mẽ rõ rệt, tựa như một ngọn lửa đỏ đang cuộn xoáy. Giờ thì cô đã hoàn toàn sẵn sàng cho trận chiến. Nhưng đúng lúc đó, giọng của một người lính đột ngột cất lên từ phía sau.
 
-"Vu nữ-sama! Việc chuẩn bị cho đội hậu vệ và công tác rút lui đã hoàn tất! Xin ngài cũng hãy chuẩn bị rút lui!"
+"Vu nữ-dono! Việc chuẩn bị cho đội hậu vệ và công tác rút lui đã hoàn tất! Xin ngài cũng hãy chuẩn bị rút lui!"
 
 "Đừng bận tâm đến ta! Tất cả các cậu cứ đi trước đi!"
 
