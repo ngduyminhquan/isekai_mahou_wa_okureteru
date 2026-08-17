@@ -142,9 +142,7 @@ Một cơn gió mùa thu mát mẻ, sảng khoái thổi qua bầu trời trong 
 
 "Có chuyện gì vậy?"
 
-"Không có gì. Tôi chỉ cảm thấy tệ khi phải tiêu diệt nó, anh biết đấy. Từ cách nó nói chuyện, nó hoàn toàn là một kẻ phản diện kiêu ngạo, nhưng cuối cùng, tất cả những thứ được gọi là ma tộc chỉ là những con rối bị thao túng để phục vụ cho các mưu đồ của Ác Thần, đúng không?
-
-Cho dù chúng có ý thức hay không— Không, chính xác là vì chúng có ý thức, nên tôi cảm thấy tệ khi phải tiêu diệt nó. Rốt cuộc thì những kẻ đó không có bất kỳ ý chí tự do nào cả."
+"Không có gì. Tôi chỉ cảm thấy tệ khi phải tiêu diệt nó, anh biết đấy. Từ cách nó nói chuyện, nó hoàn toàn là một kẻ phản diện kiêu ngạo, nhưng cuối cùng, tất cả những thứ được gọi là ma tộc chỉ là những con rối bị thao túng để phục vụ cho các mưu đồ của Ác Thần, đúng không? Cho dù chúng có ý thức hay không— Không, chính xác là vì chúng có ý thức, nên tôi cảm thấy tệ khi phải tiêu diệt nó. Rốt cuộc thì những kẻ đó không có bất kỳ ý chí tự do nào cả."
 
 Vẫn ngước nhìn lên, Suimei bày tỏ suy nghĩ của mình với một giọng điệu có phần u buồn. Nếu mọi ma tộc đều là một quân cờ trong tay Ác Thần trên bàn cờ của thế giới, thì khao khát tiêu diệt nhân loại của chúng không thực sự là của chúng. Đó chỉ là một thứ được khắc sâu vào trong chúng.
 
