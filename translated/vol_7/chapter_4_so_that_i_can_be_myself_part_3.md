@@ -146,7 +146,7 @@ Sau khi rời xa khỏi khu trại chính, Suimei đang giao tranh với lũ qu�
 
 "O flammae, legito. Pro venefici doloris clamore."
 
-(Hỡi ngọn lửa, hãy tập hợp lại. Như tiếng thét oán hận của pháp sư.)
+(Hỡi những ngọn lửa, hãy tập hợp lại. Tựa như tiếng thét phẫn nộ của ma thuật sư.)
 
 Theo sau câu chú của mình, Suimei giải phóng ngọn lửa của Ashurbanipal lên đàn quỷ đang lao tới. Dựa trên một lời nguyền từ truyền thuyết Assyria, đó là một hỏa ma thuật có hiệu quả đáng chú ý lên các sinh vật sống. Vào lúc bắt đầu câu chú, nó hình thành một vài vòng tròn ma thuật nhỏ ở các khoảng cách ngẫu nhiên trong không trung. Và khi câu chú tiếp diễn, một quả cầu lửa hình thành ở trung tâm của tất cả chúng. Nó cháy như thể có một viên đá tỏa sáng ở lõi, và rõ ràng không phải là một ngọn lửa bình thường. Những ngọn lửa dày đặc sau đó bắn ra từ những vòng tròn ma thuật nhỏ hơn để thiêu rụi mục tiêu của chúng. Một ngọn lửa lớn nhảy múa qua đám đông ác quỷ. Những con quỷ bị cuốn vào trong đó bị từ chối cơ hội để thậm chí có thể hét lên trước khi chúng vỡ vụn xuống mặt đất thành tro.
 
