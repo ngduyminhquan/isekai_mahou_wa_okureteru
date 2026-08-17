@@ -60,7 +60,7 @@ Dưới đây là danh sách các Phase tương ứng với từng phần dịch
 | **32** | Chapter 4: So That I Can Be Myself - Part 3 | `chapter_4_so_that_i_can_be_myself_part_3.txt` | 200 | 200 | 2030 | `chapter_4_so_that_i_can_be_myself_part_3.md` | **Hoàn thành** |
 | **33** | Chapter 4: So That I Can Be Myself - Part 4 | `chapter_4_so_that_i_can_be_myself_part_4.txt` | 200 | 200 | 2271 | `chapter_4_so_that_i_can_be_myself_part_4.md` | **Hoàn thành** |
 | **34** | Chapter 4: So That I Can Be Myself - Part 5 | `chapter_4_so_that_i_can_be_myself_part_5.txt` | 200 | 200 | 2115 | `chapter_4_so_that_i_can_be_myself_part_5.md` | **Hoàn thành** |
-| **35** | Chapter 4: So That I Can Be Myself - Part 6 | `chapter_4_so_that_i_can_be_myself_part_6.txt` | 200 | 200 | 1957 | `chapter_4_so_that_i_can_be_myself_part_6.md` | **Chưa bắt đầu** |
+| **35** | Chapter 4: So That I Can Be Myself - Part 6 | `chapter_4_so_that_i_can_be_myself_part_6.txt` | 200 | 200 | 1957 | `chapter_4_so_that_i_can_be_myself_part_6.md` | **Hoàn thành** |
 | **36** | Chapter 4: So That I Can Be Myself - Part 7 | `chapter_4_so_that_i_can_be_myself_part_7.txt` | 92 | 92 | 978 | `chapter_4_so_that_i_can_be_myself_part_7.md` | **Chưa bắt đầu** |
 | **37** | Epilogue: The Greed of Ten - Part 1 | `epilogue_the_greed_of_ten_part_1.txt` | 200 | 200 | 2030 | `epilogue_the_greed_of_ten_part_1.md` | **Chưa bắt đầu** |
 | **38** | Epilogue: The Greed of Ten - Part 2 | `epilogue_the_greed_of_ten_part_2.txt` | 200 | 200 | 2065 | `epilogue_the_greed_of_ten_part_2.md` | **Chưa bắt đầu** |
