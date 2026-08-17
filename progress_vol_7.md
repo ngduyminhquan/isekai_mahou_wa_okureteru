@@ -57,7 +57,7 @@ Dưới đây là danh sách các Phase tương ứng với từng phần dịch
 | **29** | Chapter 3: Their Respective Battles - Part 5 | `chapter_3_their_respective_battles_part_5.txt` | 106 | 106 | 1127 | `chapter_3_their_respective_battles_part_5.md` | **Hoàn thành** |
 | **30** | Chapter 4: So That I Can Be Myself - Part 1 | `chapter_4_so_that_i_can_be_myself_part_1.txt` | 200 | 200 | 2113 | `chapter_4_so_that_i_can_be_myself_part_1.md` | **Hoàn thành** |
 | **31** | Chapter 4: So That I Can Be Myself - Part 2 | `chapter_4_so_that_i_can_be_myself_part_2.txt` | 200 | 200 | 1958 | `chapter_4_so_that_i_can_be_myself_part_2.md` | **Hoàn thành** |
-| **32** | Chapter 4: So That I Can Be Myself - Part 3 | `chapter_4_so_that_i_can_be_myself_part_3.txt` | 200 | 200 | 2030 | `chapter_4_so_that_i_can_be_myself_part_3.md` | **Chưa bắt đầu** |
+| **32** | Chapter 4: So That I Can Be Myself - Part 3 | `chapter_4_so_that_i_can_be_myself_part_3.txt` | 200 | 200 | 2030 | `chapter_4_so_that_i_can_be_myself_part_3.md` | **Hoàn thành** |
 | **33** | Chapter 4: So That I Can Be Myself - Part 4 | `chapter_4_so_that_i_can_be_myself_part_4.txt` | 200 | 200 | 2271 | `chapter_4_so_that_i_can_be_myself_part_4.md` | **Chưa bắt đầu** |
 | **34** | Chapter 4: So That I Can Be Myself - Part 5 | `chapter_4_so_that_i_can_be_myself_part_5.txt` | 200 | 200 | 2115 | `chapter_4_so_that_i_can_be_myself_part_5.md` | **Chưa bắt đầu** |
 | **35** | Chapter 4: So That I Can Be Myself - Part 6 | `chapter_4_so_that_i_can_be_myself_part_6.txt` | 200 | 200 | 1957 | `chapter_4_so_that_i_can_be_myself_part_6.md` | **Chưa bắt đầu** |
