@@ -7,7 +7,7 @@
 - **Tên tác phẩm gốc**: *The Magic in this Other World is Too Far Behind! Volume 7*
 - **Tên tác phẩm dịch (tạm dịch)**: *Phép thuật ở Dị Giới này quá rớt lại phía sau! Volume 7*
 - **Tác giả**: Gamei Hitsuji
-- **Minh họa**: himesuz
+- **Minh họa**: Ao Nekonabe (himesuz / Ao Nekonabe)
 - **Nguồn bản dịch**: OceanofPDF.com
 - **Ngày bắt đầu**: 2026-08-13
 - **Ngôn ngữ nguồn**: Tiếng Anh
@@ -15,7 +15,8 @@
 - **Tổng số từ nguồn**: 72730 từ
 - **Tổng số đoạn**: 7047 đoạn
 - **Tổng số dòng**: 7047 dòng
-- **Trạng thái hiện tại**: Đang tiến hành
+- **Trạng thái hiện tại**: Hoàn thành
+
 
 ---
 
@@ -63,8 +64,9 @@ Dưới đây là danh sách các Phase tương ứng với từng phần dịch
 | **35** | Chapter 4: So That I Can Be Myself - Part 6 | `chapter_4_so_that_i_can_be_myself_part_6.txt` | 200 | 200 | 1957 | `chapter_4_so_that_i_can_be_myself_part_6.md` | **Hoàn thành** |
 | **36** | Chapter 4: So That I Can Be Myself - Part 7 | `chapter_4_so_that_i_can_be_myself_part_7.txt` | 92 | 92 | 978 | `chapter_4_so_that_i_can_be_myself_part_7.md` | **Hoàn thành** |
 | **37** | Epilogue: The Greed of Ten - Part 1 | `epilogue_the_greed_of_ten_part_1.txt` | 200 | 200 | 2030 | `epilogue_the_greed_of_ten_part_1.md` | **Hoàn thành** |
-| **38** | Epilogue: The Greed of Ten - Part 2 | `epilogue_the_greed_of_ten_part_2.txt` | 200 | 200 | 2065 | `epilogue_the_greed_of_ten_part_2.md` | **Chưa bắt đầu** |
-| **39** | Epilogue: The Greed of Ten - Part 3 | `epilogue_the_greed_of_ten_part_3.txt` | 27 | 27 | 254 | `epilogue_the_greed_of_ten_part_3.md` | **Chưa bắt đầu** |
+| **38** | Epilogue: The Greed of Ten - Part 2 | `epilogue_the_greed_of_ten_part_2.txt` | 200 | 200 | 2065 | `epilogue_the_greed_of_ten_part_2.md` | **Hoàn thành** |
+| **39** | Epilogue: The Greed of Ten - Part 3 | `epilogue_the_greed_of_ten_part_3.txt` | 27 | 27 | 254 | `epilogue_the_greed_of_ten_part_3.md` | **Hoàn thành** |
+
 
 ---
 

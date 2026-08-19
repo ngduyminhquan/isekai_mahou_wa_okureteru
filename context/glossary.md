@@ -2050,3 +2050,11 @@
 | | **Mana Furnace Core. White Fire, Immediate Critical Load!** | Lõi Lò Phản Ứng Ma Lực. Bạch Hỏa, Quá Tải Tới Hạn Tức Thời! | Ma thuật | Câu lệnh kích hoạt sức mạnh liên quan đến Bạch Hỏa. | |
 | | **Rainblaze Clouds** | Vũ Viêm Vân | Ma thuật | Phép thuật hệ Bạch Hỏa tạo mưa lửa của Felmenia. | |
 | | **Bat Tide** | Làn Sóng Dơi | Ma thuật | Đòn tấn công ma thuật của vampire Striga tạo ra một bầy dơi. | |
+| | **Kudrack the Ghosthide** | Quỷ Ẩn Kudrack / Kudrack the Ghosthide | Tên riêng / Danh hiệu | Vu yêu (lich) bất tử, một trong Thập Đại Tham Lam (Greed of Ten), nay mang hình dạng Ma Tướng Lishbaum. | |
+| | **Phase Severance** | Phân Cắt Pha (Phase Severance) | Ma thuật | Đại bí thuật không gian chia cắt các pha không gian của Kudrack để trảm sát hàng loạt mục tiêu. | |
+| | **Magicka King Nestahaim** | Ma Pháp Vương Nestahaim | Tên riêng | Vị vua ma pháp được các ma thuật sư Hội Bác Học (Society) xướng danh. | |
+| | **Ao Nekonabe** | Nekonabe Ao | Tên riêng | Họa sĩ minh họa chính thức mới của bộ truyện từ Volume 7. | |
+| | **Moolah** | Ma Tướng Moolah / Moolah | Tên riêng | Nữ Ma Tướng cuối cùng trong 7 Ma Tướng, kiêm Thống lĩnh đội Cận vệ Hoàng gia của Ma Vương Nakshatra. | |
+| | **Commander of the elite guard** | Thống lĩnh đội Cận vệ Hoàng gia | Chức danh | Vị trí chỉ huy lực lượng bảo vệ Ma Vương Nakshatra của Moolah. | |
+
+

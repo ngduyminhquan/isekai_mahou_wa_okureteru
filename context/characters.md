@@ -289,3 +289,21 @@ Trung thành với Đế quốc, cư xử cực kỳ lễ độ và kính trọn
 - **Vai trò**: Đại hoàng tử của Đế quốc Nelferian.
 - **Tính cách**: Quyết đoán, có phần lạnh lùng khi đối mặt với kẻ thù (như loài quỷ), nhưng lại tin tưởng và giao phó binh sĩ cho Graziella (Lyla).
 - **Giọng thoại**: Uy quyền, nghiêm nghị (gọi "Ta", xưng "Ngươi" với quỷ).
+
+### 40. Kudrack the Ghosthide (Quỷ Ẩn Kudrack / Lishbaum)
+- **Vai trò**: Một vu yêu (lich) bất tử từ Trái Đất, thuộc Thập Đại Tham Lam (Greed of Ten) và là thành viên của Hội Bác Học (Society). Từng bị Yakagi Suimei tiêu diệt ở thế giới cũ nhưng nay tái sinh/xuất hiện dưới thân phận Ma Tướng Lishbaum của phe Ma Vương Nakshatra.
+- **Tính cách**:
+  - Điên loạn, tàn nhẫn, méo mó nhưng bề ngoài luôn giữ phong thái lịch thiệp giả tạo, u ám và điềm tĩnh.
+  - Mang tư tưởng giải thoát mọi sinh linh khỏi khổ ải trần gian bằng cái chết (coi cái chết là sự cứu rỗi tối thượng). Xem toàn bộ sinh linh (cả con người lẫn loài quỷ) chỉ là thứ bùn nhơ rác rưởi cần được quét sạch.
+  - Sử dụng bí thuật không gian "Phân Cắt Pha" (Phase Severance) cực kỳ kinh hoàng để chia cắt không gian và đoạt mạng hàng loạt người trong nháy mắt.
+- **Giọng thoại**:
+  - Với Suimei: Mỉa mai, u ám, cuồng loạn khi nói về sự cứu rỗi (gọi "Starfall / Tinh Lạc", "Yakagi Suimei", xưng "Ta").
+  - Với Reiji / người khác: Lịch thiệp quá mức, cung kính giả tạo (xưng "Tôi", gọi "Ngài").
+
+### 41. Moolah
+- **Vai trò**: Một nữ Ma Tướng của phe Ma Vương Nakshatra, kiêm Thống lĩnh đội Cận vệ Hoàng gia (Commander of the elite guard). Là Ma Tướng cuối cùng trong số 7 Ma Tướng ban đầu còn lại sau khi các Ma Tướng khác thất bại.
+- **Ngoại hình**: Nữ chiến binh mặc giáp trụ màu xanh lam đậm, mang đại kiếm, có làn da ngăm đen, mái tóc trắng và đôi mắt đỏ rực. Bề ngoài giống con người nhưng toát ra luồng sát khí khát máu liên tục.
+- **Tính cách**: Nghiêm nghị, tàn nhẫn, tôn sùng sức mạnh và luật kẻ mạnh (kẻ thua cuộc là rác rưởi). Trung thành tuyệt đối với Ma Vương Nakshatra, coi lời nói của Nakshatra là tối thượng.
+- **Giọng thoại**: Cộc lốc, sắc lạnh, vô cùng cung kính với Nakshatra (xưng "Thần", gọi "Bệ hạ / Chúa tể / Lord Nakshatra"), lạnh lùng và khinh miệt kẻ yếu.
+
+

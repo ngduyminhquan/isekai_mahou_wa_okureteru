@@ -90,5 +90,15 @@ Quy tắc xưng hô và đại từ trong hội thoại giữa các nhân vật 
 - **Với Graziella (Lyla)**: Gọi Graziella là "Lyla" một cách thân mật, có vẻ như Graziella rất tôn trọng và bảo vệ anh.
 - **Với Grallajearus / Quỷ**: Lạnh lùng, sẵn sàng dùng vũ lực để tra khảo (xưng "Ta", gọi "Ngươi").
 
-### Lishbaum
+### Lishbaum / Kudrack the Ghosthide
 - **Với Reiji**: Lishbaum cư xử một cách vô cùng lịch thiệp và quý phái bất thường đối với kẻ thù (xưng "Tôi", gọi "Ngài"). Tỏ ra trân trọng việc Reiji đạt được "ánh quang xanh lam".
+- **Với Suimei**: Kẻ thù truyền kiếp từ Trái Đất. Suimei căm thù tư tưởng điên rồ và sự tàn độc của Kudrack (xưng "Ta/Tao", gọi "Kudrack / Thằng khốn"). Kudrack coi Suimei là đối thủ xứng tầm khó từ bỏ nhất (xưng "Ta", gọi "Starfall / Tinh Lạc", "Yakagi Suimei").
+- **Với loài quỷ (Ilzarl / Grallajearus)**: Coi loài quỷ chỉ là công cụ và rác rưởi cần được dọn chỗ sau khi hết giá trị sử dụng. Thản nhiên thủ tiêu Grallajearus bằng Phase Severance.
+
+### Moolah (Ma Tướng Moolah)
+- **Với Ma Vương Nakshatra**: Trung thành tuyệt đối, phục tùng vô điều kiện (xưng "Thần", gọi "Bệ hạ / Chúa tể / Lord Nakshatra").
+- **Với Lishbaum**: Cực kỳ cảnh giác, nghi ngờ những âm mưu ngầm và việc hắn cố tình cắt giảm số lượng quỷ (xưng "Ta", gọi "Ngươi / Tên khốn").
+- **Với Latora**: Không hài lòng trước thái độ cợt nhả, suồng sã của Latora đối với Ma Vương, nhưng chấp nhận nhượng bộ khi Nakshatra cho phép.
+- **Với Ilzarl**: Tôn trọng lẫn nhau dựa trên nguyên tắc kẻ mạnh dẫn đầu.
+
+
