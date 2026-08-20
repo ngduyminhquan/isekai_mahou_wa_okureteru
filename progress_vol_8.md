@@ -27,7 +27,7 @@ Dưới đây là danh sách các Phase tương ứng với từng phần dịch
 | :---: | :--- | :--- | :--- | :---: | :---: | :--- | :---: |
 | **0** | Khởi tạo dự án và tài nguyên | *N/A* | - | - | - | *N/A* | **Hoàn thành** |
 | **1** | Prologue: At the Demon Lord’s Castle - Part 1 | `prologue_at_the_demon_lord’s_castle_part_1.txt` | 200 | 200 | 2006 | `prologue_at_the_demon_lord’s_castle_part_1.md` | **Hoàn thành** |
-| **2** | Prologue: At the Demon Lord’s Castle - Part 2 | `prologue_at_the_demon_lord’s_castle_part_2.txt` | 159 | 159 | 1496 | `prologue_at_the_demon_lord’s_castle_part_2.md` | **Chưa bắt đầu** |
+| **2** | Prologue: At the Demon Lord’s Castle - Part 2 | `prologue_at_the_demon_lord’s_castle_part_2.txt` | 159 | 159 | 1496 | `prologue_at_the_demon_lord’s_castle_part_2.md` | **Hoàn thành** |
 | **3** | Chapter 1: After Being Found Out - Part 1 | `chapter_1_after_being_found_out_part_1.txt` | 200 | 200 | 2117 | `chapter_1_after_being_found_out_part_1.md` | **Chưa bắt đầu** |
 | **4** | Chapter 1: After Being Found Out - Part 2 | `chapter_1_after_being_found_out_part_2.txt` | 200 | 200 | 1996 | `chapter_1_after_being_found_out_part_2.md` | **Chưa bắt đầu** |
 | **5** | Chapter 1: After Being Found Out - Part 3 | `chapter_1_after_being_found_out_part_3.txt` | 200 | 200 | 1977 | `chapter_1_after_being_found_out_part_3.md` | **Chưa bắt đầu** |
