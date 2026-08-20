@@ -34,7 +34,7 @@ Dưới đây là danh sách các Phase tương ứng với từng phần dịch
 | **6** | Chapter 1: After Being Found Out - Part 4 | `chapter_1_after_being_found_out_part_4.txt` | 200 | 200 | 2111 | `chapter_1_after_being_found_out_part_4.md` | **Hoàn thành** |
 | **7** | Chapter 1: After Being Found Out - Part 5 | `chapter_1_after_being_found_out_part_5.txt` | 200 | 200 | 1935 | `chapter_1_after_being_found_out_part_5.md` | **Hoàn thành** |
 | **8** | Chapter 1: After Being Found Out - Part 6 | `chapter_1_after_being_found_out_part_6.txt` | 200 | 200 | 1969 | `chapter_1_after_being_found_out_part_6.md` | **Hoàn thành** |
-| **9** | Chapter 1: After Being Found Out - Part 7 | `chapter_1_after_being_found_out_part_7.txt` | 200 | 200 | 1888 | `chapter_1_after_being_found_out_part_7.md` | **Chưa bắt đầu** |
+| **9** | Chapter 1: After Being Found Out - Part 7 | `chapter_1_after_being_found_out_part_7.txt` | 200 | 200 | 1888 | `chapter_1_after_being_found_out_part_7.md` | **Hoàn thành** |
 | **10** | Chapter 1: After Being Found Out - Part 8 | `chapter_1_after_being_found_out_part_8.txt` | 200 | 200 | 1858 | `chapter_1_after_being_found_out_part_8.md` | **Chưa bắt đầu** |
 | **11** | Chapter 1: After Being Found Out - Part 9 | `chapter_1_after_being_found_out_part_9.txt` | 200 | 200 | 1948 | `chapter_1_after_being_found_out_part_9.md` | **Chưa bắt đầu** |
 | **12** | Chapter 1: After Being Found Out - Part 10 | `chapter_1_after_being_found_out_part_10.txt` | 186 | 186 | 1650 | `chapter_1_after_being_found_out_part_10.md` | **Chưa bắt đầu** |
