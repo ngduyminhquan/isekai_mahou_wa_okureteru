@@ -1,3 +1,5 @@
+# Thất Kiếm vs. Ma thuật sư Hiện đại
+
 Không lâu trước khi nhóm của Suimei tìm thấy Elliot, tại khoảng sân trong dinh thự của Hadorious...
 
 "Quả nhiên đúng như ta dự đoán, Anh hùng-dono... Kiếm thuật của cậu dường như vẫn còn non nớt lắm."
@@ -6,7 +8,7 @@ Không lâu trước khi nhóm của Suimei tìm thấy Elliot, tại khoảng s
 
 Nghe thấy giọng điệu thất vọng của Hadorious giữa trận chiến khiến Reiji cảm thấy vô cùng khó chịu. Đó là vị đắng của sự sỉ nhục. Cứ như thể Hadorious muốn ám chỉ rằng tất cả chuyện này chỉ đơn thuần là bài kiểm tra dành cho Reiji, người hiện đang phải quỳ một bên gối xuống đất.
 
-Và đó hoàn toàn không phải vì Reiji đã đánh giá thấp đối thủ của mình. Không, cậu đã bước vào trận đấu với vị công tước này bằng tất cả sự nghiêm túc. Thế nhưng bất chấp điều đó, bất chấp việc bản thân là một anh hùng đầy kiêu hãnh nhận được phước lành thiêng liêng từ chính Nữ thần, Hadorious vẫn sừng sững đứng trước mặt cậu mà không hề hề hấn gì, như thể toàn bộ cuộc chiến này chỉ là một trò chơi đối với ông ta.
+Và đó hoàn toàn không phải vì Reiji đã đánh giá thấp đối thủ của mình. Không, cậu đã bước vào trận đấu với vị công tước này bằng tất cả sự nghiêm túc. Thế nhưng bất chấp điều đó, bất chấp việc bản thân là một anh hùng đầy kiêu hãnh nhận được phước lành thiêng liêng từ chính Nữ thần, Hadorious vẫn sừng sững đứng trước mặt cậu mà chẳng hề hấn gì, như thể toàn bộ cuộc chiến này chỉ là một trò chơi đối với ông ta.
 
 Dù đau đớn khi phải thừa nhận, Reiji hiểu rằng Hadorious có đủ mọi lý do để tự tin đến vậy vào lúc này. Khi Reiji tấn công, ông ta né tránh các nhát chém của cậu mà thậm chí chẳng buồn nhấc thanh kiếm lên. Ngược lại, khi ông ta ép Reiji vào thế phòng thủ, Reiji chẳng có lấy một cơ hội mong manh nào để né đòn. Cậu phải dồn toàn bộ sức lực chỉ để đỡ được chúng. Dù thực tế là cậu chưa hề bị trúng một đòn trực diện nào, đôi chân cậu đã bắt đầu khuỵu xuống vì kiệt sức.
 
@@ -144,7 +146,7 @@ Hadorious giơ cao kiếm lên để giáng đòn, và Reiji giờ đây không 
 
 Felmenia và Lefille hét lên thất thanh, còn Io Kuzami thì lao vút tới nhằm chen vào giữa họ, nhưng...
 
-"Tao nhã sao? Chà, cái đó chắc cũng không khác mấy so với thứ mà bố tôi thường gọi là sự lãng mạn... Cơ mà sao cũng được. Lý do thanh kiếm của Reiji không thể chạm tới ông là vì 'cậu ấy chưa đủ trình độ để theo kịp điệu nhảy', đúng chứ?"
+"Tao nhã sao? Chà, cái đó chắc cũng không khác mấy so với thứ mà cha tôi thường gọi là sự lãng mạn... Cơ mà sao cũng được. Lý do thanh kiếm của Reiji không thể chạm tới ông là vì 'cậu ấy chưa đủ trình độ để theo kịp điệu nhảy', đúng chứ?"
 
 Một giọng nói bất ngờ vang lên từ phía sau Hadorious—một giọng nói dường như ngay lập tức thấu suốt điều mà Reiji vẫn luôn mơ hồ—kèm theo một hòn đá sắc nhọn phóng tới.
 

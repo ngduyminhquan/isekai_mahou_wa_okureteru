@@ -60,7 +60,7 @@ Suimei lại quay người chuẩn bị rời đi, nhưng Titania lại một l�
 
 "Suimei, cho phép tôi được cảnh báo trước với cậu điều này... Nếu cậu định đối đầu với vị công tước bằng kiếm, hãy hết sức cẩn thận."
 
-"Sao cơ, ông ngài quý tộc tai to mặt lớn đó mạnh lắm à?"
+"Sao cơ, ngài quý tộc tai to mặt lớn đó mạnh lắm à?"
 
 "Lucas de Hadorious là Đệ nhất Thất Kiếm. Ông ta là kiếm sĩ mạnh nhất ở thế giới này."
 

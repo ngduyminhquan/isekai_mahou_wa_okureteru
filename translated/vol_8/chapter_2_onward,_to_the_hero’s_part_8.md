@@ -140,7 +140,7 @@ Chừng nào hai người họ còn bị chia cắt, vị công tước còn có
 
 "Ông ta chết chắc rồi nếu dám nghĩ mình có thể dùng một tư tế của Giáo hội Cứu thế làm con tin."
 
-"Ông ta xem ra chẳng phải là một quý tộc cao quý thực thụ, càng không phải là một người có đức tin."
+"Ông ta xem ra chẳng phải là một quý tộc chân chính, càng không phải là một người có đức tin."
 
 "Vậy rồi sao?"
 
@@ -166,7 +166,7 @@ Dường như vị công tước đã muốn ngăn cản Elliot tham gia vào tr
 
 "Điều đó có nghĩa là họ muốn ngài Reiji đánh bại lũ quỷ sao?"
 
-Những gì Titania phỏng đoán là hoàn toàn có khả năng. Reiji rất có thể đã có thể tự mình đánh bại lũ quỷ, thế nhưng...
+Những gì Titania phỏng đoán là hoàn toàn có khả năng. Reiji rất có thể đã tự mình đánh bại lũ quỷ, thế nhưng...
 
 "Không, không thể nào như thế được. Rốt cuộc thì bọn họ chỉ làm cho mọi chuyện trông như thể cậu ấy đã chiến thắng mà thôi. Đám người bên Sứ đồ Vạn vật đã xuất hiện để giúp đỡ và đủ thứ chuyện khác. Mà ngay cả điều đó cũng chẳng hề có nghĩa lý gì..."
 
