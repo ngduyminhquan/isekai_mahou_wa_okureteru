@@ -2071,3 +2071,5 @@
 | | **apex of the Seven Swords** | đỉnh cao của Thất Kiếm | Khái niệm / Vị thế | Vị trí cao nhất trong Thất Kiếm. | |
 | | **strongest swordsman in this world** | kiếm sĩ mạnh nhất thế giới này | Danh hiệu | Xưng tụng dành cho Lucas de Hadorious. | |
 | | **strongest man in the northern continent** | người đàn ông mạnh nhất lục địa phương bắc | Danh hiệu | Đánh giá về thực lực của Lucas de Hadorious. | |
+| | **sword dancing** | kiếm vũ | Kiếm thuật | Phong cách kiếm thuật tao nhã, uyển chuyển của Công tước Lucas de Hadorious. | |
+| | **modern magician** | ma thuật sư hiện đại | Khái niệm / Danh xưng | Danh xưng chỉ các ma thuật sư nghiên cứu bí thuật hiện đại từ Trái Đất (như Yakagi Suimei). | |
