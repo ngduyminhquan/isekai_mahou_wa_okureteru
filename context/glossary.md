@@ -2106,3 +2106,9 @@
 | | **well of twilight** | giếng hoàng hôn (well of twilight) | Khái niệm / Linh giới | Nơi những người ký khế ước với Bí tích có thể bị đưa đến cùng các linh hồn khác sau khi chết. | |
 | | **source** | cội nguồn (source) | Khái niệm / Năng lượng | Điểm hội tụ của toàn bộ năng lượng đã tiêu hao trong thế giới, nơi lựa chọn những người nắm giữ Bí tích. | |
 | | **monolith** | phiến cự thạch (monolith) / tấm bia khắc | Khái niệm / Vật thể | Phiến đá nguyên khối màu đen trong không gian cội nguồn khắc tên những người còn sống đã được Bí tích chấp thuận bằng ánh sáng xanh lam. | |
+| | **Sir Ryzeia Rubern** / **Ryzeia Rubern** | Hiệp sĩ Ryzeia Rubern / Ryzeia Rubern | Tên riêng | Vị cựu chủ nhân cổ xưa của thanh kiếm tinh thể Ishar Cluster (Bí tích / Sacrament) trong không gian cội nguồn. | |
+| | **Circle Sept** | Thất Trùng Giới / Circle Sept | Kỹ thuật / Kỹ năng | Kỹ thuật cao cấp của thanh kiếm Bí tích được Hiệp sĩ Ryzeia nhắc tới. | |
+| | **Alpha Strike** | Đột Kích Khởi Nguyên / Alpha Strike | Kỹ thuật / Kỹ năng | Kỹ thuật cơ bản tận dụng chút tàn dư từ năng lực của thanh kiếm Bí tích. | |
+| | **Crystallized Las Shiara** | Las Shiara Kết Tinh / Crystallized Las Shiara | Kỹ thuật / Kỹ năng | Kỹ thuật thuộc Alpha Strike, giam cầm mục tiêu trong các cột tinh thể và lôi điện xanh lam rồi nghiền nát thành từng mảnh vụn. | |
+| | **My crystallized spirit that glimmers with the blue light of the Lapis... Oh Crystal Sword, manifest in the parted world** | Linh hồn kết tinh của ta, kẻ tỏa rạng ánh lam ngọc Lapis... Hỡi Tinh Thể Kiếm, hãy hiển hiện nơi thế giới phân ly | Câu chú / Khởi lệnh | Câu chú khởi động và triệu gọi thanh kiếm tinh thể Ishar Cluster từ Bí tích. | |
+
