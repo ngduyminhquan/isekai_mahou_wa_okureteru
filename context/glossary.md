@@ -2082,3 +2082,10 @@
 | | **magician's eyes** | ma nhãn / magician's eyes | Khái niệm | Thị giác đặc biệt của ma thuật sư dùng để nhìn thấu dòng chảy ma lực và các hiện tượng huyền bí. | |
 | | **counterspell** | phản ma thuật / counterspell | Ma thuật | Kỹ thuật hoặc câu chú bí thuật dùng để vô hiệu hóa, hóa giải ma pháp hoặc bùa chú của đối phương. | |
 | | **restoration magic** | ma pháp phục hồi / restoration magic | Ma thuật | Hệ thống ma pháp chữa lành vết thương phổ biến ở dị giới. | |
+| | **golem** | golem / thổ cự nhân | Khái niệm / Sinh vật | Quái vật hoặc người nhân tạo tạo ra từ bùn đất hoặc đá, vận hành nhờ mật ngữ quyền năng (power word) hoặc ma pháp điều khiển. | |
+| | **emet** | emet (chân lý) | Khái niệm / Thuật ngữ | Mật ngữ khởi động golem theo truyền thuyết Do Thái cổ (mang nghĩa 'chân lý'). | |
+| | **met** | met (cái chết) | Khái niệm / Thuật ngữ | Từ mang nghĩa 'cái chết' trong tiếng Hebrew khi xóa chữ cái đầu tiên trong 'emet' để hủy kích hoạt golem truyền thống. | |
+| | **מת–אל** | מת–אל (Chúa đã chết) | Mật ngữ / Thuật ngữ | Mật ngữ quyền năng (power word) bằng tiếng Hebrew khắc trên trán con golem màu đen, mang ý nghĩa 'Chúa đã chết' (God is dead). | |
+| | **power word** | mật ngữ quyền năng / power word | Khái niệm / Ma thuật | Từ ngữ mang sức mạnh bí thuật dùng làm mệnh lệnh khởi động hoặc lập trình cho golem và rối tự động. | |
+| | **strike magicka** | ma thuật xung kích / strike magicka | Ma thuật | Đòn phóng thích ma lực dạng xung kích tức thì (như qua cú búng tay) của Suimei để đẩy lùi hoặc hất văng đối thủ. | |
+

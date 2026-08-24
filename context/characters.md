@@ -35,9 +35,10 @@ Dưới đây là hồ sơ chi tiết các nhân vật xuất hiện, định h�
  - Nhạy cảm, biết quan sát, thực tế hơn Reiji nhưng dịu dàng và biết nghĩ cho người khác.
  - Đóng vai trò là người điều hòa giữa tính cách bốc đồng của Reiji và sự thờ ơ của Suimei.
  - Tiến triển (Chapter 2): Quyết tâm học ma pháp dưới sự hướng dẫn của Felmenia để không trở thành gánh nặng. Bắt đầu biểu lộ sự ghen tị và cạnh tranh ngầm với công chúa Titania để giành lấy sự chú ý của Reiji.
- - Quá khứ đen tối (Ngoại truyện II): Thời trung học cơ sở cấp hai, cô từng mắc hội chứng chuunibyou nặng, tự xưng là "Thiên Không Thánh Vương, Anou Mizuki" (hay "Thiên Không Thánh Vương, Io Kuzami"). Ở Volume 6, nhân cách này đã thức tỉnh để chiến đấu với Ilzarl. Cô thắt đai lưng đen khắp người, đeo băng che mắt một bên và găng tay đen độc nhất bên tay trái. Đây là bí mật đen tối mà cô cực kỳ xấu hổ và muốn giấu kín bằng mọi giá trước mặt mọi người. Tuy nhiên, ở cuối Epilogue II Volume 6, Suimei phát hiện ra Io Kuzami thực chất là một tinh linh đang mượn cơ thể của Mizuki. Tinh linh này đảm bảo sẽ không làm hại cô bé, và cả hai đã thống nhất giữ bí mật chuyện này.
+ - Quá khứ đen tối (Ngoại truyện II): Thời trung học cơ sở cấp hai, cô từng mắc hội chứng chuunibyou nặng, tự xưng là "Thiên Không Thánh Vương, Anou Mizuki" (hay "Thiên Không Thánh Vương, Io Kuzami"). Ở Volume 6, nhân cách này đã thức tỉnh để chiến đấu với Ilzarl. Cô thắt đai lưng đen khắp người, đeo băng che mắt một bên và găng tay đen độc nhất bên tay trái. Đây là bí mật đen tối mà cô cực kỳ xấu hổ và muốn giấu kín bằng mọi giá trước mặt mọi người. Tuy nhiên, ở cuối Epilogue II Volume 6, Suimei phát hiện ra Io Kuzami thực chất là một tinh linh đang mượn cơ thể của Mizuki. Tinh linh này đảm bảo sẽ không làm hại cô bé, và cả hai đã thống nhất giữ bí mật chuyện này. Ở Volume 8 Chapter 3 Part 4, Io Kuzami đột ngột rút lui trao quyền kiểm soát lại cho Mizuki ngay giữa trận chiến với golem; Mizuki nhanh chóng bị mê hoặc bởi bộ trang phục âu phục măng tô đen và đại ma pháp của Suimei, bộc phát sự hào hứng của tâm hồn chuunibyou.
 - **Giọng thoại**:
- - Nhẹ nhàng, nữ tính, đôi khi lo lắng hoặc ngạc nhiên. Xưng hô thân mật ("tớ - cậu").
+ - Nhẹ nhàng, nữ tính, đôi khi lo lắng hoặc ngạc nhiên, và cực kỳ hào hứng, lí lắc khi chạm tới các chủ đề huyền bí chuunibyou hoặc ma pháp. Xưng hô thân mật ("tớ - cậu").
+
 
 ### Các thực thể khác
 
