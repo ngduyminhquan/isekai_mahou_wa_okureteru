@@ -101,4 +101,8 @@ Quy tắc xưng hô và đại từ trong hội thoại giữa các nhân vật 
 - **Với Latora**: Không hài lòng trước thái độ cợt nhả, suồng sã của Latora đối với Ma Vương, nhưng chấp nhận nhượng bộ khi Nakshatra cho phép.
 - **Với Ilzarl**: Tôn trọng lẫn nhau dựa trên nguyên tắc kẻ mạnh dẫn đầu.
 
+### Rogue Zandyke (Volume 8)
+- **Rogue Zandyke <-> Kuchiba Hatsumi**: Cả hai đối đầu trong dinh thự Hadorious. Rogue là kiếm sư dày dạn kinh nghiệm, nương tay và thử tài kiếm thuật của Hatsumi (xưng "Ta", gọi "Anh hùng-dono / Cô"). Hatsumi tôn trọng tinh thần võ đạo của Rogue, quyết tâm so tài đỉnh cao (xưng "Tôi", gọi "Ông").
+
+
 

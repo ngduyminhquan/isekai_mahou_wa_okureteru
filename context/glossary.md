@@ -2056,5 +2056,15 @@
 | | **Ao Nekonabe** | Nekonabe Ao | Tên riêng | Họa sĩ minh họa chính thức mới của bộ truyện từ Volume 7. | |
 | | **Moolah** | Ma Tướng Moolah / Moolah | Tên riêng | Nữ Ma Tướng cuối cùng trong 7 Ma Tướng, kiêm Thống lĩnh đội Cận vệ Hoàng gia của Ma Vương Nakshatra. | |
 | | **Commander of the elite guard** | Thống lĩnh đội Cận vệ Hoàng gia | Chức danh | Vị trí chỉ huy lực lượng bảo vệ Ma Vương Nakshatra của Moolah. | |
+| | **Japan’s Five Great Hidden Kings of the Sword** | Ngũ Đại Ẩn Vương Kiếm của Nhật Bản | Kiếm phái | Năm kiếm phái dị thường ẩn dật của Nhật Bản sau lệnh cấm võ thuật thời hậu chiến của SCAP. | |
+| | **SCAP** | Bộ Tổng tư lệnh tối cao các lực lượng Đồng minh / SCAP | Tổ chức / Khái niệm | Cơ quan chỉ huy của quân Đồng minh chiếm đóng Nhật Bản thời kỳ hậu Thế chiến II, từng ban hành lệnh cấm luyện võ. | |
+| | **Severe Acala of the Phantom Sword of the Kurikara Dharani School** | Huyễn Kiếm Câu Lợi Già La Đà La Ni phái - Nghiêm Minh Vương | Kiếm phái | Một trong Ngũ Đại Ẩn Vương Kiếm của Nhật Bản, kiếm phái bí truyền của dòng họ Kuchiba. | |
+| | **Soundless Sword of the Quiet Bower School** | U Trai phái - Vô Thanh Kiếm | Kiếm phái | Một trong Ngũ Đại Ẩn Vương Kiếm của Nhật Bản, kiếm phái chuyên về ám sát và ra đòn không tiếng động. | |
+| | **Flying Swallow of the Soaring Ceremonial Law School** | Lăng Không Lễ Pháp phái - Phi Yến | Kiếm phái | Một trong Ngũ Đại Ẩn Vương Kiếm của Nhật Bản. | |
+| | **Quick Flaming Swords of the Illusory Fire Twin-Sword Style** | Huyễn Hỏa Song Kiếm phái - Tật Diễm Kiếm | Kiếm phái | Một trong Ngũ Đại Ẩn Vương Kiếm của Nhật Bản. | |
+| | **Icy Skies of the Inugami School** | Khuyển Thần phái - Băng Thiên | Kiếm phái | Một trong Ngũ Đại Ẩn Vương Kiếm của Nhật Bản. | |
+| | **Visions of Rust** | Tú Sắc / Visions of Rust | Kỹ thuật / Chiêu thức | Chiêu thức của Huyễn Kiếm Câu Lợi Già La Đà La Ni, dùng chiến ý tạo ảo ảnh lưỡi kiếm tan biến như lớp gỉ đồng/rỉ sắt. | |
+| | **Dripping Snow** | Lạc Tuyết / Dripping Snow | Kỹ thuật / Chiêu thức | Kỹ thuật của Huyễn Kiếm Câu Lợi Già La Đà La Ni, thả lỏng lực để kiếm trượt đi như tuyết rơi từ cành cây rồi phản công. | |
+| | **Summit of Zen, the Long Sword of Enlightenment** | Thiền Đỉnh, Khai Ngộ Trường Kiếm / Summit of Zen, the Long Sword of Enlightenment | Chiêu thức | Chiêu thức chém uy lực vô song vươn tới cõi vĩnh hằng của Huyễn Kiếm Câu Lợi Già La Đà La Ni. | |
 
 

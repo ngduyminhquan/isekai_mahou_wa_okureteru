@@ -306,4 +306,15 @@ Trung thành với Đế quốc, cư xử cực kỳ lễ độ và kính trọn
 - **Tính cách**: Nghiêm nghị, tàn nhẫn, tôn sùng sức mạnh và luật kẻ mạnh (kẻ thua cuộc là rác rưởi). Trung thành tuyệt đối với Ma Vương Nakshatra, coi lời nói của Nakshatra là tối thượng.
 - **Giọng thoại**: Cộc lốc, sắc lạnh, vô cùng cung kính với Nakshatra (xưng "Thần", gọi "Bệ hạ / Chúa tể / Lord Nakshatra"), lạnh lùng và khinh miệt kẻ yếu.
 
+### 42. Rogue Zandyke
+- **Vai trò**: Một trong Thất Kiếm (Seven Swords), được mệnh danh là "Kiếm sư của Cô ảnh" (Sword Master of the Solitary Shadow / Cô Độc Ảnh Kiếm Sư). Ông là cha của Liliana Zandyke.
+- **Tính cách**: Điềm tĩnh, kiêu hãnh của một kiếm sư, kín đáo và tuyệt đối trung thành với con đường kiếm thuật của mình.
+- **Kỹ năng**: Bậc thầy kiếm thuật ẩn thân trong bóng tối, sở hữu kỹ thuật tàng hình và hòa mình vào bóng ngọn nến một cách hoàn hảo.
+- **Giọng thoại**: Trầm tĩnh, trang nghiêm, điềm đạm và tôn trọng đối thủ xứng tầm (xưng "Ta", gọi "Anh hùng-dono / Cô").
+
+### 43. Kuchiba Kiyoshiro
+- **Vai trò**: Cha của Kuchiba Hatsumi, bạn tốt của cha Suimei. Ông là kiếm sư hàng đầu tại Nhật Bản thế giới cũ, người sáng lập võ đường và kế thừa kiếm thuật Huyễn Kiếm Câu Lợi Già La Đà La Ni.
+- **Tính cách**: Mạnh mẽ phi thường, luôn theo đuổi kiếm đạo đến đỉnh cao, nghiêm túc và điềm tĩnh.
+- **Chiến tích**: Có thể chém dọc một tòa nhà chọc trời chỉ bằng một nhát kiếm duy nhất.
+
 
