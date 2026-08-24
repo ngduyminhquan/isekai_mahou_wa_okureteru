@@ -92,7 +92,7 @@ Vì không biết rằng Thiên Không Thánh Vương "Io Kuzami" chính là m�
 
 "Mizuki, việc bị nhập hồn hoàn toàn chẳng có gì phải xấu hổ cả—"
 
-"KHÔÔÔÔÔNGGGGGG! Chị Graziella! Tia! Vì tình thương của Thượng đế, xin hai người đừng có bới móc thêm LỊCH SỬ ĐEN TỐIIII của em nữa màaaaa!"
+"KHÔÔÔÔÔNGGGGGG! Graziella-san! Tia! Cầu xin hai người, đừng có bới móc thêm LỊCH SỬ ĐEN TỐIIII của em nữa màaaaa!"
 
 Không thể chịu đựng thêm được nữa, Mizuki òa khóc nức nở trong sự bất lực cùng cực.
 
@@ -140,7 +140,7 @@ Mặc cho Reiji gào thét sau lưng, Suimei thè lưỡi trêu chọc cậu b�
 
 Phớt lờ việc mọi chuyện vốn dĩ đã trở nên kỳ quặc từ nãy đến giờ, Suimei và Felmenia cùng nhau kích hoạt ma pháp trận. Selphy, người có mặt để tiễn đưa Hatsumi, vẫy tay chào cô.
 
-"Lên đường thượng lộ bình an nhé, Hatsumi."
+"Chúc cậu lên đường bình an nhé, Hatsumi."
 
 "Ừ. Sau khi hoàn thành xong những việc cần làm bên đó, tớ sẽ quay lại ngay. Trong lúc đó, gửi lời chào của tớ tới Gaius và Weitzer nhé."
 
@@ -152,7 +152,7 @@ Hoàn toàn trái ngược với những màn đấu khẩu ồn ào ở bên ki
 
 "Rồi rồi, tớ biết rồi."
 
-Cả hai phía—bên trong lẫn bên ngoài ma pháp trận—cùng vẫy tay chào tạm biệt nhau. Và chẳng mấy chốc, Suimei cùng những người khác đã bị nuốt chửng bởi một luồng sáng màu xanh lam rực rỡ, luồng sáng sẽ đưa họ vượt qua muôn trùng không gian từ dị giới kỳ ảo này để trở về với thế giới hiện đại xa lạ của Địa Cầu.
+Cả hai phía—bên trong lẫn bên ngoài ma pháp trận—cùng vẫy tay chào tạm biệt nhau. Và chẳng mấy chốc, Suimei cùng những người khác đã bị nuốt chửng bởi một luồng sáng màu xanh lam rực rỡ, luồng sáng sẽ đưa họ vượt qua muôn trùng không gian từ thế giới xa lạ này để trở về với thế giới hiện đại cũng xa lạ không kém của Hành tinh Trái Đất (Địa Cầu).
 
 ---
 

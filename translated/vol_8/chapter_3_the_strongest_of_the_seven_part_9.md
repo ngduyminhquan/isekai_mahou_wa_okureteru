@@ -12,7 +12,7 @@ Chứng kiến sự thất bại của con golem, Mizuki cất tiếng reo hò v
 
 "Ừ, nhưng mà..."
 
-"Ừ, tất cả những gì chúng ta vừa hạ gục chỉ là con golem phiền phức đó... Tớ vẫn chưa đấm cho lão công tước đáng ghét kia một cú nào nhỉ? Và tôi có cả đống câu hỏi muốn hỏi ông đấy, thưa ngài công tước."
+"Ừ, tất cả những gì chúng ta vừa hạ gục chỉ là con golem phiền phức đó... Tớ vẫn chưa đấm cho lão công tước đáng ghét kia một cú nào nhỉ? Và tớ có cả đống câu hỏi muốn tra khảo cậu đấy, quý ngài anh hùng à."
 
 "Haha... ừ."
 
@@ -44,7 +44,7 @@ Có vẻ như Hadorious không hề nghĩ rằng ông ta sẽ đến—hoặc í
 
 Khi Gottfried bước lên phía trước, Hadorious cúi đầu nhẹ đáp lễ. Trong khi đó, Suimei đặt tay phải lên ngực áo và tiến lên một bước, đôi mắt đỏ rực của cậu chạm vào ánh nhìn màu tím biếc của Gottfried.
 
-"Tên tôi là Yakagi Suimei. Dưới trướng Ma Thuật Vương vĩ đại Nestahaim, thủy tổ của bí thuật chúng tôi, tôi là một trong vô số kẻ đang trên con đường kiếm tìm chân lý phù du. Dẫu biết thật thất lễ khi mạn phép hỏi danh tính của một bậc đại sư và là người tiên phong trên con đường bí thuật, tôi vẫn xin phép được diện kiến tôn danh của ngài."
+"Tên tôi là Yakagi Suimei. Cùng với Ma Thuật Vương vĩ đại Nestahaim, thủy tổ của bí thuật chúng tôi, tôi là một trong vô số kẻ đang trên con đường kiếm tìm chân lý phù du. Dẫu biết thật thất lễ khi mạn phép hỏi danh tính của một bậc đại sư và là người tiên phong trên con đường bí thuật, tôi vẫn xin phép được diện kiến tôn danh của ngài."
 
 Và để đáp lại...
 
@@ -102,7 +102,7 @@ Khi Titania bước tới bên cạnh Reiji, cô nhận định ngay Gottfried c
 
 Hadorious lặng lẽ quỳ một gối xuống, và Titania trừng mắt nhìn ông ta.
 
-"Công tước Hadorious, nếu ông đứng cùng phe với người đàn ông này, ta xin phép được coi như ông đã đứng ở thế đối nghịch với phụ vương của ta?"
+"Công tước Hadorious, nếu ông đứng cùng phe với người đàn ông này, ta xin phép được coi như ông đã chọn đối nghịch với phụ vương của ta chứ?"
 
 "Thần đã thề sẽ không bao giờ thờ hai chủ. Chúa tể duy nhất của thần mãi mãi chỉ có Bệ hạ, Quốc vương Almadious."
 
@@ -120,7 +120,7 @@ Nghe những lời đó, Titania cảm thấy vô cùng do dự... Có lẽ cô 
 
 "Rút lui sao?"
 
-"Chúng ta chẳng thể làm gì khác ở đây nữa. Dẫu chúng ta có thể phán xét công tước, nhưng cũng chẳng có cớ gì để trừng phạt ông ta. Rốt cuộc thì Elliot-dono cũng tự nguyện ở lại theo ý muốn của mình."
+"Chúng ta chẳng thể làm gì khác ở đây nữa. Dẫu chúng ta có thể phán xét công tước, nhưng cũng chẳng có cớ gì để trừng phạt ông ta. Rốt cuộc thì ngài Elliot cũng tự nguyện ở lại theo ý muốn của mình."
 
 Reiji hơi bối rối trước đề nghị của Titania, và quay sang nhìn Suimei.
 

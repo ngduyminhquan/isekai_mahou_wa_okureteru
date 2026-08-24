@@ -24,7 +24,7 @@ Elliot ngừng lại ở đó và chuyển ánh mắt hằn học về phía Sui
 
 "Cái gì cơ? Cậu muốn bắt tay với tôi sao?"
 
-"Ừ, anh nói đúng đấy, tôi xin kiếu. Giá như anh là một cô gái dễ thương thì may ra..."
+"Ừ, cậu nói đúng đấy, tôi xin kiếu. Giá như cậu là một cô gái dễ thương thì may ra..."
 
 "Hửm? Dù trông chẳng có chút kháng tính nào trước phụ nữ, cậu lại dám nói ra những lời như vậy sao? Chẳng lẽ cậu đang cố gượng ép bản thân đấy à?"
 
@@ -38,7 +38,7 @@ Elliot khẽ cười khẩy, còn Suimei chỉ nhún vai. Sau đó Elliot lấy 
 
 "Cậu thực sự có cách ăn nói thô lỗ đấy."
 
-"Câm đi, anh đẹp trai. Không giống như anh, tôi được nuôi dạy một cách bình thường đấy."
+"Câm đi, anh đẹp trai. Không giống như cậu, tôi được nuôi dạy một cách bình thường đấy."
 
 Đến đây, Elliot và Suimei bắt đầu đấu khẩu xúc phạm lẫn nhau. Thái độ xa cách của Elliot khiến anh có nhiều lời để nói chẳng kém gì cái mồm độc địa đanh đá của Suimei, nhưng nhận thấy màn cãi vã này sẽ chẳng bao giờ tự kết thúc được, Reiji liền can thiệp.
 
@@ -62,7 +62,7 @@ Hẳn là cô từng nghiên cứu qua những công thức tương tự trướ
 
 Khi hoàn thành ma pháp trận hồi quy, Suimei đã ghi nhớ tọa độ trong tâm trí để có thể đi và về tùy ý. Nếu chỉ đơn thuần trông cậy vào việc ma pháp trận ngoài trời không bị ai quấy rầy hay phá hoại, cậu rất có thể sẽ bị mắc kẹt. Và để ngăn chặn chính xác điều đó xảy ra, cậu đã phải thiết lập nhiều cơ chế bảo hiểm dự phòng, một vài trong số đó khá là phiền phức.
 
-"Nhưng thành thật mà nói, tớ chưa từng nghĩ rằng cái hồ bơi lại mang lại cho mình mảnh ghép cuối cùng của câu đố..."
+"Nhưng thành thật mà nói, tôi chưa từng nghĩ rằng cái hồ bơi lại mang lại cho mình mảnh ghép cuối cùng của câu đố..."
 
 "Chúng ta phải cảm ơn Tiểu thư Felmenia vì chuyện đó."
 
@@ -140,7 +140,7 @@ Liliana mở to con mắt duy nhất trong sự ngạc nhiên, nhưng Lefille đ
 
 "Không có gì đâu. Tôi chỉ nghĩ rằng mình nên tiếp tục việc luyện tập mà bản thân đã bỏ lỡ bấy lâu nay."
 
-"Cậu định ở lại và luyện tập sao?"
+"Chị định ở lại và luyện tập sao?"
 
 "Ừ. Nếu muốn giải tỏa những âu lo của chính mình, tôi không nghĩ có con đường tắt nào cả. Là một kiếm sĩ, cách duy nhất để tôi trở nên mạnh hơn là vung thanh kiếm của mình."
 
@@ -170,7 +170,7 @@ Hatsumi, người từng giao đấu với Lefille trước đây, lên tiếng 
 
 "Ừ, thật khó để diễn tả thành lời..."
 
-Cả Suimei và Hatsumi đều đồng loạt đảo mắt tránh né. Võ đường chủ của Phái Ảo Kiếm Câu-lợi-ca-la Đà-la-ni dòng Kuchiba (Kuchiba School of the Phantom Sword of the Kurikara Dharani), Kuchiba Kiyoshiro. Ông là một kiếm sĩ phi phàm có thể thực hiện một hành động phi nhân tính là chém đứt đôi một tòa nhà cao tầng theo chiều dọc chỉ bằng một nhát chém katana duy nhất. Ông đã vượt xa định nghĩa đơn thuần về chữ "mạnh" đến mức quả thực rất khó để diễn đạt thành lời.
+Cả Suimei và Hatsumi đều đồng loạt đảo mắt tránh né. Võ đường chủ của Phái Ảo Kiếm Câu-lợi-ca-la Đà-la-ni dòng Kuchiba (Kuchiba School of the Phantom Sword of the Kurikara Dharani), Kuchiba Kiyoshiro. Ông là một kiếm sĩ phi phàm có thể thực hiện một kỳ tích vượt ngoài giới hạn con người là chém đứt đôi một tòa nhà cao tầng theo chiều dọc chỉ bằng một nhát chém katana duy nhất. Ông đã vượt xa định nghĩa đơn thuần về chữ "mạnh" đến mức quả thực rất khó để diễn đạt thành lời.
 
 "Chuyện là như vậy đấy. Cậu sẽ đi cùng, Lefille. Mọi chuyện đã được quyết định rồi."
 
@@ -182,7 +182,7 @@ Nắm lấy cánh tay của Lefille, Suimei kéo cô bước vào trong ma pháp
 
 Tiếp bước theo sau cô, Liliana và Hatsumi cũng bước tới.
 
-"Tôi cũng... rất mong chờ... được nhìn thấy nó."
+"Em cũng... rất mong chờ... được nhìn thấy nó."
 
 "Bên đó bọn tớ có vô số loài động vật. Khi tới nơi, chúng ta có nên đến sở thú không nhỉ?"
 
