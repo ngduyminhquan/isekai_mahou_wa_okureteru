@@ -2098,3 +2098,5 @@
 | | **rabbi** | giáo sĩ Do Thái / rabbi | Chức danh / Tôn giáo | Bậc thầy tâm linh/học giả Do Thái giáo có khả năng tạo ra golem theo truyền thuyết cổ. | |
 | | **twilight syndrome** | hội chứng hoàng hôn (twilight syndrome) | Khái niệm / Bí thuật | Nguyên lý bí thuật hiện đại khẳng định tính hữu hạn của mọi sự vật và phủ nhận sự tồn tại của tính vĩnh cửu hay bất tử tuyệt đối. | |
 | | **booby trap** | bẫy mìn ngầm / booby trap | Khái niệm | Loại bẫy phản kích tự động nguy hiểm được ma thuật sư gài xung quanh phù triện/mật ngữ của golem để phát nổ khi có kẻ chạm vào. | |
+| | **ressentiment** | oán hận âm ỉ / phẫn uất (ressentiment) | Triết học / Khái niệm | Khái niệm triết học Cơ Đốc giáo / Nietzsche chỉ tâm lý oán hận, cay đắng và đố kỵ của kẻ yếu nhắm vào kẻ mạnh. Suimei đã ứng dụng nó thông qua hắc ma pháp để khắc chế tính bất khả chiến bại của Siêu nhân (Übermensch) nơi con golem. | |
+| | **inverted pentagram** | ngôi sao năm cánh ngược / ngũ giác sao ngược (inverted pentagram) | Biểu tượng / Khái niệm | Biểu tượng bí thuật hình ngôi sao năm cánh đảo ngược thường được sử dụng trong các nghi thức hắc ma pháp nhằm triệu gọi ác niệm và u tối. | |
