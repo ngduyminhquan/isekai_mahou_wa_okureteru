@@ -168,7 +168,7 @@ Rogue Zandyke đang quan sát mục tiêu từ vùng bóng tối của chính c�
 
 Ánh sáng của một vài ngọn nến thưa thớt mờ mờ chiếu sáng căn phòng trống trơn không có cửa sổ và chỉ có một cánh cửa duy nhất. Đó là một ngõ cụt bên trong dinh thự. Và bây giờ bị nhốt bên trong đó là vị anh hùng trẻ tuổi của Liên minh đang cảnh giác cao độ, Hatsumi Kuchiba. Cô ấy có một thân hình mảnh khảnh khiến người ta có cảm giác dễ vỡ. Thực sự, trông cô ấy chẳng khác gì một cô thiếu nữ mong manh.
 
-Nhưng chỉ đánh giá cô ấy qua vẻ bề ngoài sẽ là một sai lầm chết người. Bất chấp vẻ ngoài của cô, sự hiện diện của cô được bao phủ bởi luồng khí thế không thể nhầm lẫn của một bậc thầy kiếm thuật. Chiến ý của cô ấy sắc bén đến mức chỉ riêng nó thôi cũng có nguy cơ chém gục bất cứ kẻ nào dám tiếp cận cô. Nó tương tự như của Công chúa Chém đầu Chạng vạng, Titania Root Astel, nhưng tĩnh lặng chứ không khát máu.
+Nhưng chỉ đánh giá cô ấy qua vẻ bề ngoài sẽ là một sai lầm chết người. Bất chấp vẻ ngoài của cô, sự hiện diện của cô được bao phủ bởi luồng khí thế không thể nhầm lẫn của một bậc thầy kiếm thuật. Chiến ý của cô ấy sắc bén đến mức chỉ riêng nó thôi cũng có nguy cơ chém gục bất cứ kẻ nào dám tiếp cận cô. Nó tương tự như của Chạng Vạng Trảm Công Chúa, Titania Root Astel, nhưng tĩnh lặng chứ không khát máu.
 
 Là sự mở rộng của chính con người họ, luồng khí thế của một kiếm sĩ giống như một cửa sổ nhìn vào nội tâm của họ. Ví dụ, nếu một kiếm sĩ đang tìm kiếm một trận chiến, sát khí của họ sẽ dễ dàng bị nhận biết. Hoặc ít nhất, là đáng ra phải như vậy. Có điều gì đó rõ ràng là khác biệt với Hatsumi. Bất chấp thực tế là rõ ràng cô ấy đang cảnh giác và sẵn sàng chiến đấu, luồng khí thế của cô không hề tiết lộ bất cứ điều gì.
 
@@ -176,7 +176,7 @@ Cô ấy thể hiện bản thân như một tấm gương trong vắt hoặc m�
 
 Cô ấy mặc trang phục từ thế giới của mình, được trang trí đây đó với những đường diềm và nếp gấp. Nhưng hoàn toàn trái ngược, cô ấy mang theo một thanh katana thanh lịch mà cô đã đặt làm từ những người lùn. Với mái tóc vàng dài bồng bềnh phía sau, cô ấy đúng là một cảnh tượng đáng để chiêm ngưỡng.
 
-Nhưng không có lấy một sơ hở nào trong thế tấn của cô để mà chiêm ngưỡng. Giống như một tấm gương trong vắt
+Nhưng không có lấy một sơ hở nào trong thế tấn của cô để mà chiêm ngưỡng. Giống như một tấm gương trong vắt...
 
 ***
-[Chapter 2: Onward, to the Hero’s - Part 3](./chapter_2_onward,_to_the_hero’s_part_3.md) | [Chapter 2: Onward, to the Hero’s - Part 6](./chapter_2_onward,_to_the_hero’s_part_6.md)
+[Chapter 2: Onward, to the Hero’s - Part 4](./chapter_2_onward,_to_the_hero’s_part_4.md) | [Chapter 2: Onward, to the Hero’s - Part 6](./chapter_2_onward,_to_the_hero’s_part_6.md)

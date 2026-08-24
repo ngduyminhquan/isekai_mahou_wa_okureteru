@@ -58,7 +58,7 @@ Hatsumi nghe thấy âm thanh nghe như sự thỏa mãn và thích thú phát r
 
 Và đối thủ của Hatsumi vừa mới nảy sinh sự hứng thú mãnh liệt với lưỡi kiếm của cô. Khoảnh khắc nhận ra điều đó...
 
-"Tâm ta là ảo ảnh nơi lưỡi kiếm, hóa thành thuật thức phá tan tam độc kén đặc lòng người. Vứt bỏ thân xác tựa đá tảng, dâng trọn sinh mệnh cho Câu Lợi Già La kiên định..."
+"Tâm ta là ảo ảnh nơi lưỡi kiếm, hóa thành thuật thức phá tan tam độc đầu độc lòng người. Vứt bỏ thân xác tựa đá tảng, dâng trọn sinh mệnh cho Câu Lợi Già La kiên định..."
 
 Tĩnh tâm lại trong một khoảnh khắc, cô đọc lên bài đà la ni. Đó vốn là một câu thần chú dùng để tôn vinh Bất Động Minh Vương (Acala), nhưng những lời cô vừa niệm tụng lại không hề mang sức mạnh thần bí nào. Tuy nhiên, vì Bất Động Minh Vương là một vị phẫn nộ tôn, ngài đương nhiên ngự trị trong những thanh kiếm. Và bởi vì ngài là một Minh Vương, người ta tương truyền rằng bất kỳ lưỡi kiếm nào ngài ngự trị đều mang sự huyền bí của chân lý tối thượng.
 

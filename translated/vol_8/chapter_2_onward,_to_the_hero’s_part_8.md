@@ -102,7 +102,7 @@ Vị công tước đã giam giữ Elliot, nên việc suy đoán sẽ có ai đ
 
 Tuy nhiên, việc vị công tước lại chịu giao nộp Elliot một cách dễ dàng như vậy vẫn là một điều vô cùng kỳ quặc. Vẫn chưa thể nắm bắt chính xác chuyện gì đang xảy ra, Suimei quay sang nhìn Liliana, nhưng cô bé chỉ khẽ lắc đầu.
 
-"Tôi thực sự không hiểu nổi," cậu khẽ thì thầm với cô bé. "Họ dụ Hatsumi đi chỗ khác, nhưng lại dẫn chúng ta đến chỗ Elliot? Trông thì chẳng giống một cái bẫy chút nào..."
+"Anh thực sự không hiểu nổi," cậu khẽ thì thầm với cô bé. "Họ dụ Hatsumi đi chỗ khác, nhưng lại dẫn chúng ta đến chỗ Elliot? Trông thì chẳng giống một cái bẫy chút nào..."
 
 "Em cũng... không thể nắm bắt được tình hình."
 
@@ -174,7 +174,7 @@ Những gì Titania phỏng đoán là hoàn toàn có khả năng. Reiji rất 
 
 "Chúng tôi sẽ giải thích tất cả sau."
 
-Rốt cuộc, mọi chuyện vẫn chẳng hề ăn khớp trong suy nghĩ của Suimei. Phe Sứ đồ Vạn vật đã thể hiện rõ ràng rằng ý đồ của chúng là bắt cóc các anh hùng, chứ không phải giúp đỡ
+Rốt cuộc, mọi chuyện vẫn chẳng hề ăn khớp trong suy nghĩ của Suimei. Phe Sứ đồ Vạn vật đã thể hiện rõ ràng rằng ý đồ của chúng là bắt cóc các anh hùng, chứ không phải giúp đỡ họ.
 
 ***
 [Chapter 2: Onward, to the Hero’s - Part 7](./chapter_2_onward,_to_the_hero’s_part_7.md) | [Chapter 2: Onward, to the Hero’s - Part 9](./chapter_2_onward,_to_the_hero’s_part_9.md)

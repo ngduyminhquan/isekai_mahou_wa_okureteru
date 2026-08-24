@@ -1,4 +1,4 @@
-gương trong vắt, cô ấy phản chiếu đối thủ của mình một cách hoàn hảo mà không hề để lộ sơ hở của bản thân.
+Giống như một tấm gương trong vắt, cô phản chiếu đối thủ của mình một cách hoàn hảo mà không hề để lộ sơ hở của bản thân.
 
 Giống như một mặt nước tĩnh lặng, cô ấy hoàn toàn thanh thản. Bất cứ kẻ nào tiến lại gần cô ấy mới là kẻ tạo ra những gợn sóng—chứ không phải cô.
 
@@ -16,7 +16,7 @@ Nhưng để nhóm này xâm nhập vào dinh thự công tước một cách d�
 
 Và nếu Suimei ở đây, điều đó có nghĩa là một người khác cũng vậy—Liliana. Một cô gái thông minh, mẫn cán như con bé sẽ là một đồng phạm tuyệt vời cho một nhiệm vụ lén lút như thế này. Rogue đã kịp liếc nhìn con bé. Ông ta không ngạc nhiên khi nhìn thấy khuôn mặt của con bé, nhưng ông ta ngạc nhiên khi thấy sự sống và niềm hy vọng đã trở lại với nó. Con bé là một người khác so với lần cuối cùng ông ta nhìn thấy. Theo những gì ông ta có thể nhận thấy, con bé cũng đã ngừng sử dụng ma thuật hắc ám. Hơn nữa, ông ta không thể cảm nhận được bất kỳ dấu vết nào của luồng sức mạnh hắc ám đã từng kiểm soát con bé mạnh mẽ trong quá khứ. Từ những gì ông ta có thể nhìn thấy qua vùng da quanh miếng che mắt của con bé, ngay cả cái ấn chú đáng sợ đánh dấu tất cả những kẻ cầu xin thế lực hắc ám cũng đã hoàn toàn biến mất. Có vẻ như con bé đã được giải thoát khỏi lời nguyền đó.
 
-Và khi nhận ra điều đó, Rogue bắt đầu cảm kích viên đạn mà ông ta vừa né được. Công việc của ông ta là cầm chân anh hùng và những người đồng hành của cô ấy. Việc đối phó với tất cả họ cùng một lúc sẽ vừa khó khăn lại vừa nguy hiểm. Nó cũng sẽ khiến ông ta khó có thể đánh giá chính xác khả năng của từng người—đặc biệt là của anh hùng. Bọn họ phối hợp với nhau thậm chí có thể qua mặt ông ta. Tuy nhiên, may mắn cho Rogue, Hatsumi đã tự mình tìm đến.
+Và khi nhận ra điều đó, Rogue thầm mừng rỡ vì mình vừa tránh được một tình huống nan giải. Công việc của ông ta là cầm chân anh hùng và những người đồng hành của cô ấy. Việc đối phó với tất cả họ cùng một lúc sẽ vừa khó khăn lại vừa nguy hiểm. Nó cũng sẽ khiến ông ta khó có thể đánh giá chính xác khả năng của từng người—đặc biệt là của anh hùng. Bọn họ phối hợp với nhau thậm chí có thể qua mặt ông ta. Tuy nhiên, may mắn cho Rogue, Hatsumi đã tự mình tìm đến.
 
 *Không ngờ cô ấy lại tự tiện lao vào như thế này...*
 
@@ -34,7 +34,7 @@ Tiếng lẩm bẩm của vị anh hùng khiến Rogue tỉnh khỏi những suy
 
 Tình huống này khơi dậy sự thích thú của Rogue. Có lẽ đây là định mệnh của ông ta với tư cách là một người bước đi trên con đường của kiếm thuật...
 
-*Khí thế kiếm sĩ trong ta muốn chiến đấu.*
+*Dòng máu kiếm sĩ bên trong ta đang khao khát được chiến đấu.*
 
 Nhưng có vẻ đó là thời điểm tồi tệ để suy nghĩ ấy xẹt qua tâm trí ông ta. Cảm nhận được sát ý của vị anh hùng đột ngột trào dâng, Rogue nhanh chóng phóng từ cái bóng này sang cái bóng khác để chạy thoát.
 
@@ -102,9 +102,9 @@ Khi ý nghĩ đó xẹt qua đầu, Rogue không thể kìm được nụ cườ
 
 Đằng sau những cánh cửa đóng kín trong dinh thự công tước, Hatsumi cầm thanh katana ngang tầm mắt, cảnh giác với một kẻ thù mà cô vẫn chưa thể nhìn thấy.
 
-Cô là một môn sinh tự hào của phái Kuchiba thuộc Phantom Sword của Kurikara Dharani (Huyễn Kiếm Câu Lợi Già La Đà La Ni). Thậm chí trong tình huống như vậy, cô vẫn không hề mất cảnh giác. Và cô cũng sẽ không để cảm xúc cản trở mình. Ngay lúc này, tâm trí cô chỉ tập trung vào một và duy nhất một điều—thanh kiếm của cô.
+Cô là một môn sinh đầy tự hào của phái Kuchiba thuộc Huyễn Kiếm Câu Lợi Già La Đà La Ni (Phantom Sword of the Kurikara Dharani). Thậm chí trong tình huống như vậy, cô vẫn không hề mất cảnh giác. Và cô cũng sẽ không để cảm xúc cản trở mình. Ngay lúc này, tâm trí cô chỉ tập trung vào một và duy nhất một điều—thanh kiếm của cô.
 
-Khi Hatsumi tiếp tục lùng sục khắp căn phòng để tìm đối thủ của mình, cái bóng của cô nhảy múa xung quanh cô, phản chiếu lại những chuyển động của cô. Cô biết ông ta rất có thể đang trốn ở đâu đó trong bóng tối, nhưng vì cô không có sức mạnh của một ma thuật sư, nên cô không thể xác định được đó là ở đâu. Có những ngọn nến trên mỗi bức tường trong bốn bức tường của căn phòng, hắt bóng ra nhiều hướng. Cô biết bất cứ cái bóng nào trong số chúng cũng có thể che giấu đối thủ của cô. Kỹ năng đó vô cùng bí ẩn đối với cô, nhưng có lẽ chuyện này là bình thường đối với những kẻ thao túng bí ẩn. Cô tiếp tục xoay vòng, ánh nến mờ ảo ánh lên trên thanh kiếm mithril dài của cô.
+Khi Hatsumi tiếp tục lùng sục khắp căn phòng để tìm đối thủ của mình, cái bóng của cô nhảy múa xung quanh cô, phản chiếu lại những chuyển động của cô. Cô biết ông ta rất có thể đang trốn ở đâu đó trong bóng tối, nhưng vì cô không có sức mạnh của một ma thuật sư, nên cô không thể xác định được đó là ở đâu. Có những ngọn nến trên mỗi bức tường trong bốn bức tường của căn phòng, hắt bóng ra nhiều hướng. Cô biết bất cứ cái bóng nào trong số chúng cũng có thể che giấu đối thủ của cô. Kỹ năng đó vô cùng bí ẩn đối với cô, nhưng có lẽ chuyện này là bình thường đối với những kẻ thao túng bí thuật. Cô tiếp tục xoay vòng, ánh nến mờ ảo ánh lên trên thanh kiếm mithril dài của cô.
 
 Lý do ngay từ đầu Hatsumi lại tự mình xông vào đây là vì cô cảm nhận được sự hiện diện của một kiếm sĩ khác. Nó chỉ là một tia chớp, giống như một lời mời gọi ai đó đến tìm, và nó đã làm bùng cháy sự hứng thú của cô. Cô đã phản ứng như một nữ kiếm sĩ và đến một mình để chiến đấu, nhưng khi đến phòng, đối thủ của cô lại vắng mặt một cách bí ẩn. Ông ta dường như không có ở đâu cả và đã che giấu sự hiện diện của mình, điều đó khiến ông ta có vẻ như không muốn có một trận chiến công bằng.
 
