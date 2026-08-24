@@ -2100,3 +2100,9 @@
 | | **booby trap** | bẫy mìn ngầm / booby trap | Khái niệm | Loại bẫy phản kích tự động nguy hiểm được ma thuật sư gài xung quanh phù triện/mật ngữ của golem để phát nổ khi có kẻ chạm vào. | |
 | | **ressentiment** | oán hận âm ỉ / phẫn uất (ressentiment) | Triết học / Khái niệm | Khái niệm triết học Cơ Đốc giáo / Nietzsche chỉ tâm lý oán hận, cay đắng và đố kỵ của kẻ yếu nhắm vào kẻ mạnh. Suimei đã ứng dụng nó thông qua hắc ma pháp để khắc chế tính bất khả chiến bại của Siêu nhân (Übermensch) nơi con golem. | |
 | | **inverted pentagram** | ngôi sao năm cánh ngược / ngũ giác sao ngược (inverted pentagram) | Biểu tượng / Khái niệm | Biểu tượng bí thuật hình ngôi sao năm cánh đảo ngược thường được sử dụng trong các nghi thức hắc ma pháp nhằm triệu gọi ác niệm và u tối. | |
+
+| | **Astral Line** | Tuyến Linh Giới (Astral Line) | Khái niệm / Không gian | Tuyến không gian linh giới hoặc trung tâm dòng chảy năng lượng nơi những người được cội nguồn lựa chọn tìm đến. | |
+| | **Kingdom of Zelvana** | Vương quốc Zelvana | Địa danh / Quốc gia | Một vương quốc cổ vẫn đang trong tình trạng chiến tranh, được cựu chủ nhân của Bí tích nhắc đến. | |
+| | **well of twilight** | giếng hoàng hôn (well of twilight) | Khái niệm / Linh giới | Nơi những người ký khế ước với Bí tích có thể bị đưa đến cùng các linh hồn khác sau khi chết. | |
+| | **source** | cội nguồn (source) | Khái niệm / Năng lượng | Điểm hội tụ của toàn bộ năng lượng đã tiêu hao trong thế giới, nơi lựa chọn những người nắm giữ Bí tích. | |
+| | **monolith** | phiến cự thạch (monolith) / tấm bia khắc | Khái niệm / Vật thể | Phiến đá nguyên khối màu đen trong không gian cội nguồn khắc tên những người còn sống đã được Bí tích chấp thuận bằng ánh sáng xanh lam. | |
