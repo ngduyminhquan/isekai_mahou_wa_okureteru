@@ -43,7 +43,7 @@ Dưới đây là danh sách các Phase tương ứng với từng phần dịch
 | **15** | Chapter 2: Onward, to the Hero’s - Part 3 | `chapter_2_onward,_to_the_hero’s_part_3.txt` | 200 | 200 | 1865 | `chapter_2_onward,_to_the_hero’s_part_3.md` | **Hoàn thành** |
 | **16** | Chapter 2: Onward, to the Hero’s - Part 4 | `chapter_2_onward,_to_the_hero’s_part_4.txt` | 200 | 200 | 1989 | `chapter_2_onward,_to_the_hero’s_part_4.md` | **Hoàn thành** |
 | **17** | Chapter 2: Onward, to the Hero’s - Part 5 | `chapter_2_onward,_to_the_hero’s_part_5.txt` | 200 | 200 | 1960 | `chapter_2_onward,_to_the_hero’s_part_5.md` | **Hoàn thành** |
-| **18** | Chapter 2: Onward, to the Hero’s - Part 6 | `chapter_2_onward,_to_the_hero’s_part_6.txt` | 200 | 200 | 2203 | `chapter_2_onward,_to_the_hero’s_part_6.md` | **Chưa bắt đầu** |
+| **18** | Chapter 2: Onward, to the Hero’s - Part 6 | `chapter_2_onward,_to_the_hero’s_part_6.txt` | 200 | 200 | 2203 | `chapter_2_onward,_to_the_hero’s_part_6.md` | **Hoàn thành** |
 | **19** | Chapter 2: Onward, to the Hero’s - Part 7 | `chapter_2_onward,_to_the_hero’s_part_7.txt` | 200 | 200 | 2201 | `chapter_2_onward,_to_the_hero’s_part_7.md` | **Chưa bắt đầu** |
 | **20** | Chapter 2: Onward, to the Hero’s - Part 8 | `chapter_2_onward,_to_the_hero’s_part_8.txt` | 200 | 200 | 2020 | `chapter_2_onward,_to_the_hero’s_part_8.md` | **Chưa bắt đầu** |
 | **21** | Chapter 2: Onward, to the Hero’s - Part 9 | `chapter_2_onward,_to_the_hero’s_part_9.txt` | 61 | 61 | 539 | `chapter_2_onward,_to_the_hero’s_part_9.md` | **Chưa bắt đầu** |
