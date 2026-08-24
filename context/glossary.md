@@ -2121,6 +2121,10 @@
 | | **Sword of Four** | Tứ chi Kiếm (Sword of Four) | Danh hiệu / Tôn xưng | Danh xưng của Kuchiba Kiyoshiro trong Tứ Đại Võ Hiền. | |
 | | **Kuchiba School of the Phantom Sword of the Kurikara Dharani** | Phái Ảo Kiếm Câu-lợi-ca-la Đà-la-ni dòng Kuchiba (Kuchiba School of the Phantom Sword of the Kurikara Dharani) | Võ phái / Kiếm thuật | Môn phái kiếm thuật bí truyền do Kuchiba Kiyoshiro làm võ đường chủ, có nguồn gốc từ mật tông và kiếm thuật huyền bí. | |
 | | **magicka circle of returning** | ma pháp trận hồi quy / ma pháp trận trở về | Ma thuật / Khái niệm | Vòng tròn ma pháp trận do Suimei tạo ra để đưa nhóm trở về thế giới Trái Đất. | |
+| | **black history** | lịch sử đen tối / quá khứ đen tối (black history) | Tiếng lóng / Khái niệm | Thuật ngữ chỉ những ký ức hoặc quá khứ xấu hổ thời chuunibyou mà Mizuki luôn muốn chôn vùi và giấu kín. | |
+| | **Planet Earth** | Hành tinh Trái Đất / Địa Cầu (Planet Earth) | Địa danh / Thế giới | Thế giới hiện đại quê hương của Suimei, Reiji, Mizuki và Hatsumi. | |
+| | **tag battle** | trận chiến song đấu phối hợp / tag battle | Khái niệm / Chiến đấu | Thuật ngữ được tác giả nhắc tới trong Lời bạt để chỉ trận phối hợp tác chiến giữa Suimei và Reiji chống lại con golem. | |
+| | **second stage awakening** | thức tỉnh giai đoạn hai (second stage awakening) | Khái niệm / Năng lực | Trạng thái thức tỉnh cấp độ hai của Reiji khi kết nối cội nguồn và triệu gọi thanh kiếm tinh thể từ Bí tích. | |
 
 
 
