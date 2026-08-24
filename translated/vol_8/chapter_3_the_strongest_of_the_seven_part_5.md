@@ -20,7 +20,7 @@ Lần trước là *Nghệ thuật Tổ hợp* (Ars Combinatoria), còn lần n�
 
 Kẻ thi triển tạo ra con golem này nhiều khả năng chính là gã đàn ông ảo ảnh từng xuất hiện ở Liên minh. Suimei vốn đã có phỏng đoán về thân phận của hắn, nhưng điều này dường như lại thọc gậy bánh xe làm đảo lộn suy đoán của cậu. Dẫu vậy, nếu hắn sử dụng *Ars Combinatoria* vốn bắt nguồn từ *Đại Nghệ thuật* (Ars Magna Raimundi), thì thực sự chỉ có một khả năng duy nhất...
 
-"Không, tớ hiểu rồi. Nếu nó chịu ảnh hưởng từ Nietzsche, thì nó phải tương đối hiện đại... Đó là lý do tại sao nó lại kết hợp thứ đó vào sao?"
+"Không, mình hiểu rồi. Nếu nó chịu ảnh hưởng từ Nietzsche, thì nó phải tương đối hiện đại... Đó là lý do tại sao nó lại kết hợp thứ đó vào sao?"
 
 Trong khi Suimei tiếp tục lầm bầm một mình, Mizuki bắt đầu cảm thấy lo lắng cho tình cảnh của họ trong tình huống này.
 
@@ -100,7 +100,7 @@ Suimei đáp lại bằng một nụ cười nhẹ như muốn bảo cậu đừ
 
 "Đúng thế đấy. Hề hề, cảm giác như chúng ta vừa quay trở lại những ngày tháng trước kia vậy."
 
-"Đó chỉ là cách nói hoa mỹ cho việc chúng ta lúc nào cũng bị cuốn vào cả đống rắc rối phiền toái thôi. Làm ơn tha cho tớ đi, hai người..."
+"Đó chỉ là cách nói hoa mỹ cho việc chúng ta lúc nào cũng bị cuốn vào cả đống rắc rối phiền toái thôi. Tha cho tớ đi, hai người..."
 
 Đáp lại tiếng cười của bạn bè, vẻ mặt Suimei trông vừa bất lực vừa cạn lời. Nhưng họ nói đúng. Vai trò quân sư chiến thuật hiển nhiên thuộc về Suimei, vì vậy cậu chấn chỉnh lại tinh thần và bắt đầu giảng giải. Cậu nhặt một cành cây nhỏ trong tay, vung vẩy nó như một cây thước chỉ bảng trong lúc cất lời.
 
@@ -160,7 +160,7 @@ Khi bị Suimei và Reiji thẳng thừng gạt phăng không buồn giải thí
 
 Suimei ấn cành cây đang cầm trên tay lên trán mình rồi làm động tác mô phỏng một vụ nổ. Cuộc trò chuyện tạm thời lắng xuống tại đó, và Suimei lại chìm sâu vào dòng suy tưởng.
 
-"Nghĩ nào, Suimei... Mình đã có tất cả những manh mối cần thiết rồi. Đánh bại nó lẽ ra không thể khó đến mức này. Mục tiêu thực sự không phải là bản thân con golem. Cũng không phải là động cơ đằng sau những chuyển động của nó. Mà đó chính là thứ định hình nên sự tồn tại của nó, chính là tư tưởng tiếp thêm sức mạnh cho nó. 'Chúa đã chết.' Đó là những lời của Nietzsche, và nếu thứ kia là hiện thân của Siêu nhân (Übermensch)—kẻ khinh miệt sự tồn tại của Chúa—thì điều đó có nghĩa nó chính là hiện thân của một hệ tư tưởng chủ trương chối bỏ Thượng đế. Không có chân lý, không có thiện hay ác trên cõi đời này; chỉ bằng cách sống một cách vị kỷ thì Siêu nhân mới có thể được tạo ra. Sống đúng đắn theo những lời răn của Chúa không phải là ý nghĩa thực sự của việc sống đúng đắn. Hãy đánh tan những kẻ muốn cản đường ngươi. Hãy giẫm đạp lên những kẻ nghèo khổ và túng thiếu."
+*Nghĩ nào, Suimei... Mình đã có tất cả những manh mối cần thiết rồi. Đánh bại nó lẽ ra không thể khó đến mức này. Mục tiêu thực sự không phải là bản thân con golem. Cũng không phải là động cơ đằng sau những chuyển động của nó. Mà đó chính là thứ định hình nên sự tồn tại của nó, chính là tư tưởng tiếp thêm sức mạnh cho nó. 'Chúa đã chết.' Đó là những lời của Nietzsche, và nếu thứ kia là hiện thân của Siêu nhân (Übermensch)—kẻ khinh miệt sự tồn tại của Chúa—thì điều đó có nghĩa nó chính là hiện thân của một hệ tư tưởng chủ trương chối bỏ Thượng đế. Không có chân lý, không có thiện hay ác trên cõi đời này; chỉ bằng cách sống một cách vị kỷ thì Siêu nhân mới có thể được tạo ra. Sống đúng đắn theo những lời răn của Chúa không phải là ý nghĩa thực sự của việc sống đúng đắn. Hãy đánh tan những kẻ muốn cản đường ngươi. Hãy giẫm đạp lên những kẻ nghèo khổ và túng thiếu.*
 
 ***
 [Chapter 3: The Strongest of the Seven - Part 4](./chapter_3_the_strongest_of_the_seven_part_4.md) | [Chapter 3: The Strongest of the Seven - Part 6](./chapter_3_the_strongest_of_the_seven_part_6.md)

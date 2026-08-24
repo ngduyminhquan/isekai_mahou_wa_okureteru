@@ -2,7 +2,7 @@
 
 Như thể đáp lại tiếng hét của Suimei, Reiji tập trung toàn bộ ma lực vào thanh kiếm của mình, dùng nó làm vật trung gian để truyền thẳng vào con golem. Dưới áp lực kinh hoàng, lưỡi kiếm orichalcum sáng rực của cậu gãy vụn ngay tại vị trí cắm vào thân thể con golem.
 
-"U-Ưgh, thanh kiếm của mình!"
+"U-Ưgh, thanh kiếm của tớ!"
 
 "Reiji!"
 
@@ -24,7 +24,7 @@ Bất chấp hiểm nguy, Reiji bước lên phía trước. Rốt cuộc thì c
 
 Khi Reiji siết chặt Bí tích trong tay, cơ thể cậu lập tức bị nuốt chửng bởi luồng ánh sáng xanh lam phát ra từ viên ngọc Lapis Judaicus.
 
-Chiến thắng chắc chắn đã nằm trong tầm tay. Kế hoạch mà Suimei vạch ra vô cùng hoàn hảo. Cậu đã trao cho họ cơ hội để triệt hạ gã khổng lồ đất đá. Tất cả những gì còn lại chỉ là bước bước đi cuối cùng để kết liễu nó.
+Chiến thắng chắc chắn đã nằm trong tầm tay. Kế hoạch mà Suimei vạch ra vô cùng hoàn hảo. Cậu đã trao cho họ cơ hội để triệt hạ gã khổng lồ đất đá. Tất cả những gì còn lại chỉ là bước đi cuối cùng để kết liễu nó.
 
 Nhưng Reiji đã không thể hoàn thành nhiệm vụ. Gã khổng lồ vẫn còn cử động. Nói ngắn gọn, chỉ một mình cậu thì không đủ sức mạnh để làm được điều đó. Chỉ còn thiếu duy nhất một bước cuối cùng, nhưng cậu lại thiếu mất một bước ấy.
 
@@ -42,7 +42,7 @@ Reiji chậm rãi cất bước mà chẳng có đích đến cụ thể nào. C
 
 "Cái này rốt cuộc là thứ gì chứ...?"
 
-Sự bàng hoàng choáng ngợp lấy cậu, khiến cậu đứng chôn chân bất động giữa khung cảnh hoang phế ấy. Cậu giơ một bàn tay lên chạm vào một trong những cây cột, và một cảm giác như luồng điện nhẹ giật nhẹ chạy dọc khắp cơ thể cậu.
+Sự bàng hoàng choáng ngợp lấy cậu, khiến cậu đứng chôn chân bất động giữa khung cảnh hoang phế ấy. Cậu giơ một bàn tay lên chạm vào một trong những cây cột, và một cảm giác tê nhẹ như một luồng điện yếu chạy dọc khắp cơ thể cậu.
 
 Những cây cột trắng tinh trông như thể được làm bằng đá, nhưng trái với dự đoán của cậu, chúng hoàn toàn không phải bằng đá. Chúng là kim loại. Khoảnh khắc chạm tay vào, cậu lập tức nhận ra. Bởi lẽ cậu nhận ra cảm giác quen thuộc này... Đó chính là cảm giác giống hệt như khi cậu nắm chặt lấy Bí tích.
 
@@ -142,7 +142,11 @@ Reiji một lần nữa chẳng hiểu người đàn ông đang nói về đi�
 
 "Có. Nếu tôi nhớ không nhầm thì họ vẫn đang ở giữa một cuộc chiến tranh."
 
-"Vậy là nó vẫn còn tồn tại à? Thế thì chắc là sẽ ổn thôi. Miễn là các kỵ sĩ vẫn còn sống khỏe, mọi chuyện kiểu gì cũng sẽ ổn thỏa thôi." Người đàn ông sau đó lại cười khúc khích một mình. "Vậy thì, rốt cuộc cậu đến đây để làm gì hả nhóc con? Không, đó là một câu hỏi ngớ ngẩn. Tất cả các người đến đây đều vì cùng một thứ—sức mạnh để phản kháng. Đó cũng là thứ mà cậu đang tìm kiếm, đúng chứ? Sức mạnh?"
+"Vậy là nó vẫn còn tồn tại à? Thế thì chắc là sẽ ổn thôi. Miễn là các kỵ sĩ vẫn còn sống khỏe, mọi chuyện kiểu gì cũng sẽ ổn thỏa thôi."
+
+Người đàn ông sau đó lại cười khúc khích một mình.
+
+"Vậy thì, rốt cuộc cậu đến đây để làm gì hả nhóc con? Không, đó là một câu hỏi ngớ ngẩn. Tất cả các người đến đây đều vì cùng một thứ—sức mạnh để phản kháng. Đó cũng là thứ mà cậu đang tìm kiếm, đúng chứ? Sức mạnh?"
 
 Ông ta đã đoán trúng phóc. Reiji đã cầu nguyện với Bí tích để có thể triệt hạ kẻ thù trước mắt, và đó là lý do cậu đặt chân đến nơi này. Hoàn toàn chính xác là như vậy, điều này dường như ngụ ý rằng người đàn ông trước mặt cậu lúc này không ai khác chính là câu trả lời cho lời cầu nguyện của cậu.
 

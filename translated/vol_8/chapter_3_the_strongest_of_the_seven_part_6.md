@@ -1,4 +1,4 @@
-Chân thành dốc sức tiến về phía trước vì mưu cầu hạnh phúc. Vậy thì... đâu là thứ đối lập phản bác lại tất cả những điều đó? Một ông lão mời gọi giấc ngủ? Hay một đứa trẻ giả vờ làm một con lửng? Một con quái vật thao túng trọng lực? Chẳng có cái nào đúng cả, nhỉ? Thứ đối nghịch với nó theo cách tinh giản nhất có thể chính là—
+*Chân thành dốc sức tiến về phía trước vì mưu cầu hạnh phúc. Vậy thì... đâu là thứ đối lập phản bác lại tất cả những điều đó? Một ông lão mời gọi giấc ngủ? Hay một đứa trẻ giả vờ làm một con lửng? Một con quái vật thao túng trọng lực? Chẳng có cái nào đúng cả, nhỉ? Thứ đối nghịch với nó theo cách tinh giản nhất có thể chính là—*
 
 *Ressentiment* (oán hận âm ỉ)—thứ được Cơ Đốc giáo tạo ra nhằm hợp thức hóa sự đồng tồn tại của Thượng đế và giới giàu sang phú quý. Đó là quan niệm về thứ hạnh phúc giả tạo được gán cho người nghèo khó, một lời nguyền đem lại quyền lợi cố hữu cho đại chúng. Nietzsche từng nói về nó như sự nghiến răng nghiến lợi trong nỗi bất lực khôn cùng, lời nguyền rủa của xã hội. Con người ta sẽ tự dằn vặt chính mình vì sự bất bình đẳng cho đến ngày nhắm mắt xuôi tay; đó là một dạng oán hận sâu sắc đến khó tin. Đó cũng chính là thứ đe dọa tư tưởng của Nietzsche nhiều nhất.
 
@@ -104,7 +104,7 @@ Quả đúng như dự đoán, ngay cả Reiji cũng cảm thấy kinh hãi trư
 
 Và rồi những từ khóa xuất hiện, ca tụng sự tuyệt vọng như một bài điếu văn...
 
-"Transient Hope (Ảo Vọng Phù Du)."
+"Ảo Vọng Phù Du (Transient Hope)."
 
 Thứ mà Suimei sử dụng để phá vỡ tính bất khả chiến bại của con golem chính là hắc ma pháp mà Liliana từng dùng trước đây. Và bằng chính thuật hùng biện cùng những hung danh tàn bạo của riêng mình, cậu đã cường hóa uy lực của nó lên gấp bội.
 
