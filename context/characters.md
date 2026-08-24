@@ -315,9 +315,11 @@ Trung thành với Đế quốc, cư xử cực kỳ lễ độ và kính trọn
 - **Giọng thoại**: Trầm tĩnh, trang nghiêm, điềm đạm và tôn trọng đối thủ xứng tầm (xưng "Ta", gọi "Anh hùng-dono / Cô").
 
 ### 43. Kuchiba Kiyoshiro
-- **Vai trò**: Cha của Kuchiba Hatsumi, bạn tốt của cha Suimei. Ông là kiếm sư hàng đầu tại Nhật Bản thế giới cũ, người sáng lập võ đường và kế thừa kiếm thuật Huyễn Kiếm Câu Lợi Già La Đà La Ni.
-- **Tính cách**: Mạnh mẽ phi thường, luôn theo đuổi kiếm đạo đến đỉnh cao, nghiêm túc và điềm tĩnh.
-- **Chiến tích**: Có thể chém dọc một tòa nhà chọc trời chỉ bằng một nhát kiếm duy nhất.
+- **Vai trò**: Cha của Kuchiba Hatsumi, bạn tốt của cha Suimei. Sư phụ dạy kiếm thuật cho Suimei từ thuở nhỏ.
+- **Danh hiệu**: Đứng trên đỉnh cao của Võ Giới Bách Kiếm (Hundred Swords of the Martial World), một trong Tứ Đại Võ Hiền (Four Great Sages of the Arts)—Tứ chi Kiếm (Sword of Four). Võ đường chủ của Phái Ảo Kiếm Câu-lợi-ca-la Đà-la-ni dòng Kuchiba (Kuchiba School of the Phantom Sword of the Kurikara Dharani).
+- **Tính cách**: Mạnh mẽ phi thường, thuộc thế hệ những "con quái vật" tiền bối cùng thời với cha Suimei. Luôn theo đuổi kiếm đạo đến đỉnh cao, nghiêm túc và điềm tĩnh.
+- **Chiến tích & Thực lực**: Bậc thầy kiếm thuật phi phàm, có thể thực hiện kỳ tích phi nhân tính là chém đứt đôi một tòa nhà cao tầng theo chiều dọc chỉ bằng một nhát chém katana duy nhất.
+
 
 ### 44. Duke Lucas de Hadorious (Công tước Hadorious)
 - **Vai trò**: Đại quý tộc xuất chúng của Vương quốc Astel, chủ nhân dinh thự tại Kurant. Ông là Đệ nhất Thất Kiếm (the first of the Seven Swords), đứng trên đỉnh cao Thất Kiếm và được xưng tụng là kiếm sĩ mạnh nhất thế giới / người đàn ông mạnh nhất lục địa phương bắc. Thực chất là một Sứ đồ Vạn vật (Universal Apostle) hợp tác với phe Gottfried.

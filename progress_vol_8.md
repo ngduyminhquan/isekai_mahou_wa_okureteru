@@ -56,7 +56,7 @@ Dưới đây là danh sách các Phase tương ứng với từng phần dịch
 | **28** | Chapter 3: The Strongest of the Seven - Part 7 | `chapter_3_the_strongest_of_the_seven_part_7.txt` | 200 | 200 | 2100 | `chapter_3_the_strongest_of_the_seven_part_7.md` | **Hoàn thành** |
 | **29** | Chapter 3: The Strongest of the Seven - Part 8 | `chapter_3_the_strongest_of_the_seven_part_8.txt` | 200 | 200 | 2014 | `chapter_3_the_strongest_of_the_seven_part_8.md` | **Hoàn thành** |
 | **30** | Chapter 3: The Strongest of the Seven - Part 9 | `chapter_3_the_strongest_of_the_seven_part_9.txt` | 173 | 173 | 1577 | `chapter_3_the_strongest_of_the_seven_part_9.md` | **Hoàn thành** |
-| **31** | Epilogue: A Brief Parting - Part 1 | `epilogue_a_brief_parting_part_1.txt` | 200 | 200 | 1954 | `epilogue_a_brief_parting_part_1.md` | **Chưa bắt đầu** |
+| **31** | Epilogue: A Brief Parting - Part 1 | `epilogue_a_brief_parting_part_1.txt` | 200 | 200 | 1954 | `epilogue_a_brief_parting_part_1.md` | **Hoàn thành** |
 | **32** | Epilogue: A Brief Parting - Part 2 | `epilogue_a_brief_parting_part_2.txt` | 178 | 178 | 1647 | `epilogue_a_brief_parting_part_2.md` | **Chưa bắt đầu** |
 
 ---

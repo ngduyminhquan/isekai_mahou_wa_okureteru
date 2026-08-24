@@ -2116,5 +2116,11 @@
 | | **heat death** | cái chết nhiệt (heat death) | Khái niệm / Vũ trụ học | Trạng thái suy tàn và cạn kiệt năng lượng cực đại của vũ trụ, được Suimei nhắc đến khi phân tích về bản chất lưu trữ năng lượng đã tiêu hao của Bí tích. | |
 | | **renaissance man** | học giả toàn năng / thiên tài toàn năng (renaissance man) | Danh hiệu / Khái niệm | Danh xưng chỉ những bậc danh nhân uyên bác, tinh thông xuất chúng trên nhiều lĩnh vực tri thức khoa học, triết học và huyền học như Gottfried Wilhelm Leibniz. | |
 | | **diamond dust** | bụi kim cương (diamond dust) | Hiện tượng / Miêu tả | Hiện tượng các tinh thể băng/khoáng vật lấp lánh bay lượn trong không khí khi các cột tinh thể của Las Shiara Kết Tinh bị nổ tung. | |
+| | **Hundred Swords of the Martial World** | Võ Giới Bách Kiếm / Bách Kiếm của Giới Võ Thuật | Danh hiệu / Tổ chức | Danh hiệu đỉnh cao của 100 kiếm sĩ xuất sắc nhất trong giới võ thuật thế giới ngầm ở Trái Đất, nơi Kuchiba Kiyoshiro đứng trên đỉnh cao. | |
+| | **Four Great Sages of the Arts** | Tứ Đại Võ Hiền (Four Great Sages of the Arts) | Danh hiệu / Tôn xưng | Bốn bậc đại tông sư võ học huyền thoại ở Trái Đất. | |
+| | **Sword of Four** | Tứ chi Kiếm (Sword of Four) | Danh hiệu / Tôn xưng | Danh xưng của Kuchiba Kiyoshiro trong Tứ Đại Võ Hiền. | |
+| | **Kuchiba School of the Phantom Sword of the Kurikara Dharani** | Phái Ảo Kiếm Câu-lợi-ca-la Đà-la-ni dòng Kuchiba (Kuchiba School of the Phantom Sword of the Kurikara Dharani) | Võ phái / Kiếm thuật | Môn phái kiếm thuật bí truyền do Kuchiba Kiyoshiro làm võ đường chủ, có nguồn gốc từ mật tông và kiếm thuật huyền bí. | |
+| | **magicka circle of returning** | ma pháp trận hồi quy / ma pháp trận trở về | Ma thuật / Khái niệm | Vòng tròn ma pháp trận do Suimei tạo ra để đưa nhóm trở về thế giới Trái Đất. | |
+
 
 
