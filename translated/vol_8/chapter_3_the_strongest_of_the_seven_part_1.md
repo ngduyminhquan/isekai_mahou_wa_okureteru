@@ -40,7 +40,7 @@ Hadorious ví sự bảo hộ của Nữ thần như một lớp mạ ngoài, v�
 
 Reiji quả thực đã từng hỏi Rajas lý do tại sao loài quỷ lại tấn công con người—tại sao hai chủng tộc có tri giác lại phải đối đầu dữ dội đến mức như vậy. Khi cậu đem chuyện đó nói với Hadorious, ông ta từng bảo rằng câu hỏi của Reiji chẳng hề có ý nghĩa gì cả. Reiji lúc đó không hiểu ông ta muốn ám chỉ điều gì, nhưng có vẻ như giờ đây Hadorious thấy cần phải giải thích rõ ràng.
 
-"Đúng vậy đấy. Đó là lý do tại sao câu hỏi của cậu lại rỗng tuếch và vô nghĩa. Nếu loài quỷ được tạo ra bởi Ác Thần chỉ để giết chóc, thì làm sao chúng ta có thể cùng chung sống hòa bình được, đúng chứ? Cuộc tranh chấp của chúng ta với chúng chẳng qua chỉ là một cuộc đấu tranh để độc chiếm thế giới này. Nhưng không phải vì chúng ta—mà là vì những thế lực tối cao đang thao túng chúng ta. Chúng ta đơn thuần chỉ là những quân cờ trên bàn cờ khổng lồ đại diện cho cuộc chiến giữa Nữ thần và Ác Thần, nơi đẩy nhân loại và các anh hùng vào thế đối đầu sinh tử với loài quỷ và các ma tướng."
+"Đúng vậy đấy. Đó là lý do tại sao câu hỏi của cậu lại rỗng tuếch và vô nghĩa. Nếu loài quỷ được tạo ra bởi Ác Thần chỉ để giết chóc, thì làm sao chúng ta có thể cùng chung sống hòa bình được, đúng chứ? Cuộc tranh chấp của chúng ta với chúng chẳng qua chỉ là một cuộc đấu tranh để độc chiếm thế giới này. Nhưng không phải vì chúng ta—mà là vì những thế lực tối cao đang thao túng chúng ta. Chúng ta đơn thuần chỉ là những quân cờ trên bàn cờ khổng lồ đại diện cho cuộc chiến giữa Nữ thần và Ác Thần, nơi đẩy nhân loại và các anh hùng vào thế đối đầu sinh tử với loài quỷ và các Ma Tướng."
 
 "Quân cờ... trên bàn cờ..."
 
@@ -104,7 +104,7 @@ Nói đoạn, Hadorious vào thế thủ chiến đấu. Tuy nhiên, không gi�
 
 "Nào, chúng ta bắt đầu thôi."
 
-Reiji trong một thoáng đã nghĩ rằng Hadorious đang ngã người về phía trước, nhưng ông ta chỉ đơn giản là nghiêng mình rồi rút thanh kiếm khỏi mặt đất một cách mượt mà. Kèm theo đó là một nhát chém hất ngược từ dưới lên. Reiji nhìn thấy đòn đánh đang lao tới và biết mình có cơ hội tốt để né tránh, nhưng nếu có điều gì sơ suất, cậu cũng thừa hiểu rằng nhát chém đó thừa sức chém cậu ra thành từng mảnh. Sự do dự đã lấn át lý trí và cậu vội vàng lùi lại trong một nỗ lực né đòn vụng về. Cái giá phải trả là một vệt máu đỏ tươi rạch ngang qua má cậu.
+Reiji trong một thoáng đã nghĩ rằng Hadorious đang ngả người về phía trước, nhưng ông ta chỉ đơn giản là nghiêng mình rồi rút thanh kiếm khỏi mặt đất một cách mượt mà. Kèm theo đó là một nhát chém hất ngược từ dưới lên. Reiji nhìn thấy đòn đánh đang lao tới và biết mình có cơ hội tốt để né tránh, nhưng nếu có điều gì sơ suất, cậu cũng thừa hiểu rằng nhát chém đó thừa sức chém cậu ra thành từng mảnh. Sự do dự đã lấn át lý trí và cậu vội vàng lùi lại trong một nỗ lực né đòn vụng về. Cái giá phải trả là một vệt máu đỏ tươi rạch ngang qua má cậu.
 
 "Hự...!"
 
@@ -130,7 +130,7 @@ Reiji không hiểu được mối liên hệ ở đây. Sự tao nhã đơn thu
 
 Hadorious tập trung lại thế đứng và tung ra một làn sóng tấn công dồn dập về phía Reiji. Reiji dùng kiếm đỡ đòn và cắn răng chịu đựng hết mức có thể, nhưng núm chuôi kiếm của Hadorious đã thúc mạnh vào người cậu từ bên dưới.
 
-"Khố—!"
+"Khốn—!"
 
 Một đòn duy nhất đó đã khiến lực nắm của Reiji bị lơi lỏng, và cậu vô thức đánh rơi thanh kiếm orichalcum của mình. Hadorious lập tức chớp lấy cơ hội ngàn vàng.
 

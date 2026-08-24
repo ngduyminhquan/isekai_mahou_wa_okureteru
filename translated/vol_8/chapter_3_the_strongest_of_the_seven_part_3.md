@@ -14,7 +14,7 @@ Nghe thấy việc vị công tước biết nhiều hơn một bài múa kiếm
 
 "Permutato, coagulato, vis existito."
 
-*[Biến đổi, đông kết, trở thành sức mạnh.]*
+*[Biến đổi, đông đặc, trở thành sức mạnh.]*
 
 Chứng kiến cảnh tượng này diễn ra, Reiji cất tiếng gọi bạn mình bằng giọng lo lắng.
 
@@ -54,7 +54,9 @@ Nhưng khi hai thanh kiếm va chạm vào nhau, trong một diễn biến ngoà
 
 Lần này, chính Hadorious mới là người khiến Suimei phải bất ngờ. Nhưng Suimei đâu dễ dàng bị đánh bại như thế. Cậu duy trì thế phòng thủ và khéo léo né tránh liên tiếp vài nhát chém tiếp theo mà vị công tước giáng xuống. Hadorious khẽ nở một nụ cười đắc ý, trong khi Suimei nhíu mày lại.
 
-"Không phải là cường hóa ma pháp (enchantment) sao...?" Cậu lẩm bẩm một mình trong nỗi hoang mang.
+"Không phải là cường hóa ma pháp (enchantment) sao...?"
+ 
+Cậu lẩm bẩm một mình trong nỗi hoang mang.
 
 Nhìn bề ngoài thì rõ ràng Hadorious đã bọc lưỡi kiếm của mình trong lôi điện ma pháp—ngay cả Reiji cũng đã cố cảnh báo cậu về điều đó. Vậy tại sao một phản ma thuật (counterspell) chuyên vô hiệu hóa cường hóa ma pháp lại không hề có tác dụng lên nó? Rốt cuộc thì Hadorious đã làm trò gì lên thanh kiếm đó chứ?
 
@@ -82,7 +84,9 @@ Trong khi vẫn duy trì sự cảnh giác cao độ trước đối thủ nguy 
 
 Giữa lúc Suimei đang trăn trở trước ngã rẽ này, ai đó—một người khá bất ngờ—đã gợi ý cho cậu một manh mối cứu cánh.
 
-"Ngươi nhầm rồi, Yakagi Suimei. Người đàn ông đó không hề ếm ma pháp lên kiếm của mình đâu," Io Kuzami cất tiếng.
+"Ngươi nhầm rồi, Yakagi Suimei. Người đàn ông đó không hề ếm ma pháp lên kiếm của mình đâu."
+
+Io Kuzami cất tiếng.
 
 "Hả?"
 
@@ -136,7 +140,7 @@ Khi một trận pháp bí thuật màu xanh lục dâng lên dưới chân Reij
 
 "Đây là ma pháp phục hồi sao?! Tuyệt vời thật đấy! Vết thương của tớ lành hẳn rồi!"
 
-"Là bí thuật trị liệu, nhưng ừ, đúng thế đấy. Với lại cậu cũng đâu có bị thương nặng đến mức đó, nên nó chẳng có gì ghê gớm lắm đâu. Chắc chắn đây không phải là sở trường của tôi rồi."
+"Là bí thuật trị liệu, nhưng ừ, đúng thế đấy. Với lại cậu cũng đâu có bị thương nặng đến mức đó, nên nó chẳng có gì ghê gớm lắm đâu. Chắc chắn đây không phải là sở trường của tớ rồi."
 
 Suimei khẽ mỉm cười, nhưng với điều này, cả hai người họ đã ở trong trạng thái chiến đấu sung mãn nhất.
 

@@ -2079,3 +2079,6 @@
 | | **spiritualist** | thông linh sư / người dùng thông linh thuật | Chức danh / Khái niệm | Người sử dụng thuật thông linh mượn sức mạnh của các linh hồn hoặc Tinh linh. | |
 | | **phantom of the Elements** | ảo ảnh Tinh linh / tàn ảnh Tinh linh | Khái niệm | Dạng tàn ảnh linh hồn của Tinh linh được thông linh sư triệu gọi nhập vào kiếm để ban thuộc tính và sức mạnh nguyên tố. | |
 | | **healing magicka** | bí thuật trị liệu / healing magicka | Ma thuật | Phép thuật trị liệu cơ bản của Suimei, triệu gọi ma pháp trận màu xanh lục mượn hơi thở của đất mẹ để hồi phục thương tích. | |
+| | **magician's eyes** | ma nhãn / magician's eyes | Khái niệm | Thị giác đặc biệt của ma thuật sư dùng để nhìn thấu dòng chảy ma lực và các hiện tượng huyền bí. | |
+| | **counterspell** | phản ma thuật / counterspell | Ma thuật | Kỹ thuật hoặc câu chú bí thuật dùng để vô hiệu hóa, hóa giải ma pháp hoặc bùa chú của đối phương. | |
+| | **restoration magic** | ma pháp phục hồi / restoration magic | Ma thuật | Hệ thống ma pháp chữa lành vết thương phổ biến ở dị giới. | |

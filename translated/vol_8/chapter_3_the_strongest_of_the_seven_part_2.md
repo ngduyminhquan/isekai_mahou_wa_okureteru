@@ -66,7 +66,7 @@ Dĩ nhiên, Reiji không hiểu chuyện gì đang xảy ra. Tất cả những 
 
 Thế này là...
 
-Reiji sững sờ trước cảnh tượng tàn phá kinh hoàng mà mình vừa chứng kiến, và thậm chí còn kinh ngạc hơn nữa trước người bạn thân nhất đã gây ra nó. Tất cả những điều đó, đến từng chi tiết nhỏ nhất, đều vượt xa trí tưởng tượng của cậu. Cậu đã từng choáng váng khi nhìn thấy Felmenia sử dụng ma thuật, nhưng cảnh tượng này thậm chí còn vượt xa điều đó gấp bội lần.
+Reiji sững sờ trước cảnh tượng tàn phá kinh hoàng mà mình vừa chứng kiến, và thậm chí còn kinh ngạc hơn nữa trước người bạn thân nhất đã gây ra nó. Tất cả những điều đó, đến từng chi tiết nhỏ nhất, đều vượt xa trí tưởng tượng của cậu. Cậu đã từng choáng váng khi nhìn thấy Felmenia sử dụng bí thuật, nhưng cảnh tượng này thậm chí còn vượt xa điều đó gấp bội lần.
 
 Khi Reiji lần đầu nghe nói về các ma thuật sư, khi cậu nghe những câu chuyện từ Felmenia và Lefille, cậu cứ ngỡ mình đã hiểu được mức độ quyền năng mà họ đang nhắc đến. Suimei đã sử dụng những kỹ thuật đúng nghĩa là ngoài sức tưởng tượng của thế giới này, và chúng là những gì Felmenia đã dùng để trở nên mạnh mẽ hơn—chỉ có thế thôi. Đó là ấn tượng bấy lâu nay của cậu. Nhưng giờ đây khi được tận mắt chứng kiến hàng thật ở cự ly gần, cậu mới nhận ra mình đã hoàn toàn sai lầm đến mức nào.
 
@@ -92,7 +92,7 @@ Suimei trừng mắt lườm Reiji gay gắt hơn mức bình thường một ch
 
 "Được rồi. Phiền hai người chút, nhưng hai người có thể đẩy hết đám còn lại sang tít đằng kia được không? Bọn chúng cứ lăng xăng chạy quanh đây vướng chân quá."
 
-Hai cô gái dường như chẳng gặp chút khó khăn nào trong việc tuân theo yêu cầu của Suimei. Bằng những cơn gió đỏ và ngọn bạch hỏa, vị anh hùng của Thoria cùng đám tư binh của Hadorious đã bị đẩy lùi ra ngoài ranh giới chiến trường của Suimei để bọn chúng không thể cản đường cậu. Sau khi việc đó đã được giải quyết xong xuôi, Suimei liền bắn một ánh nhìn lạnh băng về phía Hadorious.
+Hai cô gái dường như chẳng gặp chút khó khăn nào trong việc tuân theo yêu cầu của Suimei. Bằng những cơn gió đỏ và ngọn Bạch Hỏa, vị anh hùng của Thoria cùng đám tư binh của Hadorious đã bị đẩy lùi ra ngoài ranh giới chiến trường của Suimei để bọn chúng không thể cản đường cậu. Sau khi việc đó đã được giải quyết xong xuôi, Suimei liền bắn một ánh nhìn lạnh băng về phía Hadorious.
 
 "Thế nào? Màn mở màn chỉ có bấy nhiêu thôi sao? Đối với kẻ coi người khác như cỏ rác, thì màn thể hiện đó có hơi tệ hại quá không đấy? Phải không, ngài Đại Công tước tai to mặt lớn?"
 
@@ -104,13 +104,13 @@ Nhìn thấy sự hoài nghi của Hadorious, Suimei làm ra một vẻ mặt ng
 
 "Ôi chao... Ra là vậy sao? Chà, dù sao thì ông cũng đến từ Astel mà, đúng không? Trời ạ, thật không ngờ ông lại nghĩ về tôi như thế đấy..."
 
-Người dân Astel đã luôn rèm pha chỉ trích Suimei là kẻ nhát gan không có dũng khí kể từ khi cậu được triệu hồi lần đầu tiên. Dĩ nhiên, đó chỉ là vì cậu đã luôn che giấu sức mạnh của mình suốt thời gian qua. Ngay cả Công tước Hadorious cũng chẳng hề hay biết cậu thực sự có khả năng làm được những gì.
+Người dân Astel đã luôn gièm pha chỉ trích Suimei là kẻ nhát gan không có dũng khí kể từ khi cậu được triệu hồi lần đầu tiên. Dĩ nhiên, đó chỉ là vì cậu đã luôn che giấu sức mạnh của mình suốt thời gian qua. Ngay cả Công tước Hadorious cũng chẳng hề hay biết cậu thực sự có khả năng làm được những gì.
 
 "Ta hiểu rồi... Hóa ra ngươi đã lừa gạt những con người lương thiện của Astel sao?"
 
 "Này này! Đừng có nói như thể tôi là kẻ phản diện ở đây chứ? Tôi thậm chí còn chẳng muốn nghe mấy lời nhảm nhí đó từ miệng ông đâu. Phái cả một đạo quân quỷ chết tiệt đi truy sát một đoàn thương nhân gồm những người vô tội... Đánh cho tơi bời hoa lá hết cả lũ bọn chúng thực sự là một công việc mệt mỏi đấy, ông biết không hả?"
 
-"Vậy ra ngươi chính là kẻ... Ta hiểu rồi, ngươi chính là tên áo đen mà tên ma tướng kia đã gào thét căm hận."
+"Vậy ra ngươi chính là kẻ... Ta hiểu rồi, ngươi chính là tên áo đen mà tên Ma Tướng kia đã gào thét căm hận."
 
 Như để giải đáp mối nghi ngờ của Hadorious, Suimei tung tà chiếc áo măng tô dài màu đen mà cậu khoác bên ngoài bộ âu phục. Ngay khoảnh khắc cậu làm vậy, một cơn gió mạnh quét qua sân trong, làm những hàng rào cây cảnh và bụi rậm được cắt tỉa cẩn thận phải chao đảo. Trước sự hiện diện của một nguồn huyền bí vô danh, tựa như cán cân quyền năng tự nhiên bỗng chốc bị nghiêng ngả. Những ngọn đèn ma lực bắt đầu nhấp nháy đầy điềm gở. Và rồi...
 
