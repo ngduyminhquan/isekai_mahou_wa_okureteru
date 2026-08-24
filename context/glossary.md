@@ -2066,5 +2066,7 @@
 | | **Visions of Rust** | Tú Sắc / Visions of Rust | Kỹ thuật / Chiêu thức | Chiêu thức của Huyễn Kiếm Câu Lợi Già La Đà La Ni, dùng chiến ý tạo ảo ảnh lưỡi kiếm tan biến như lớp gỉ đồng/rỉ sắt. | |
 | | **Dripping Snow** | Lạc Tuyết / Dripping Snow | Kỹ thuật / Chiêu thức | Kỹ thuật của Huyễn Kiếm Câu Lợi Già La Đà La Ni, thả lỏng lực để kiếm trượt đi như tuyết rơi từ cành cây rồi phản công. | |
 | | **Summit of Zen, the Long Sword of Enlightenment** | Thiền Đỉnh, Khai Ngộ Trường Kiếm / Summit of Zen, the Long Sword of Enlightenment | Chiêu thức | Chiêu thức chém uy lực vô song vươn tới cõi vĩnh hằng của Huyễn Kiếm Câu Lợi Già La Đà La Ni. | |
+| | **Duke Lucas de Hadorious** | Công tước Lucas de Hadorious / Công tước Hadorious | Tên riêng | Đại quý tộc của Vương quốc Astel, chủ nhân dinh thự tại Kurant, người đứng đầu Thất Kiếm. | |
+
 
 

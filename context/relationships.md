@@ -103,6 +103,13 @@ Quy tắc xưng hô và đại từ trong hội thoại giữa các nhân vật 
 
 ### Rogue Zandyke (Volume 8)
 - **Rogue Zandyke <-> Kuchiba Hatsumi**: Cả hai đối đầu trong dinh thự Hadorious. Rogue là kiếm sư dày dạn kinh nghiệm, nương tay và thử tài kiếm thuật của Hatsumi (xưng "Ta", gọi "Anh hùng-dono / Cô"). Hatsumi tôn trọng tinh thần võ đạo của Rogue, quyết tâm so tài đỉnh cao (xưng "Tôi", gọi "Ông").
+- **Liliana <-> Rogue Zandyke**: Liliana nhạy bén nhận ra sự hiện diện và phong vị ma thuật quen thuộc của cha nuôi trong dinh thự Hadorious, luôn đau đáu nỗi nhớ ông nhưng cố nén lại vì nhiệm vụ giải cứu anh hùng.
+
+### Elliot Austin (Volume 8)
+- **Suimei <-> Elliot Austin**: Suimei mỉa mai, không kiêng nể thái độ cao ngạo, hư vô của Elliot (xưng "Tôi", gọi "Cậu"). Elliot giữ nụ cười hư vô và cách nói chuyện kiểu cách, khoa trương (xưng "Tôi", gọi "Cậu / Các người").
+- **Titania <-> Elliot Austin**: Titania lịch thiệp nhưng nghiêm túc, sẵn sàng bênh vực Giáo hội Cứu thế và căm phẫn khi Elliot bị đem ra làm con tin cùng nữ tư tế Christa (xưng "Tôi", gọi "Elliot-dono"). Elliot kính trọng công chúa hoàng gia (xưng "Tôi", gọi "Công chúa Titania / Princess Titania").
+- **Công tước Lucas de Hadorious <-> Elliot / Titania**: Giam lỏng Elliot trong dinh thự nhưng đối đãi tử tế như khách quý. Ra lệnh cho người hầu không được giấu giếm bất cứ điều gì nếu Công chúa Titania tới giải cứu.
+
 
 
 
