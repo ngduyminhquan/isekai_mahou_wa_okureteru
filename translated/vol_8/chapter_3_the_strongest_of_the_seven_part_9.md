@@ -12,7 +12,7 @@ Chứng kiến sự thất bại của con golem, Mizuki cất tiếng reo hò v
 
 "Ừ, nhưng mà..."
 
-"Ừ, tất cả những gì chúng ta vừa hạ gục chỉ là con golem phiền phức đó... Tớ vẫn chưa đấm cho tên công tước đáng ghét kia một cú nào nhỉ? Và tớ có cả đống câu hỏi muốn hỏi ngài đấy, thưa ngài công tước."
+"Ừ, tất cả những gì chúng ta vừa hạ gục chỉ là con golem phiền phức đó... Tớ vẫn chưa đấm cho lão công tước đáng ghét kia một cú nào nhỉ? Và tôi có cả đống câu hỏi muốn hỏi ông đấy, thưa ngài công tước."
 
 "Haha... ừ."
 
@@ -20,7 +20,7 @@ Trước lời nói đó, nét mặt thỏa mãn của Reiji bỗng trở nên u
 
 "Phá vỡ được thuật pháp của người đàn ông đó sao... Các ngươi đã vượt ngoài dự liệu của ta rồi."
 
-"Đừng có nói nhảm. Ngài không thể bảo rằng chúng tôi đã phá vỡ nó. Ngài đã cố tình thiết lập nó để điểm yếu của nó là sức mạnh của anh hùng, đúng chứ? Từ đầu đến cuối, chuyện này chẳng qua chỉ là một bài kiểm tra chết tiệt..."
+"Đừng có nói nhảm. Ông không thể bảo rằng chúng tôi đã phá vỡ nó. Ông đã cố tình thiết lập nó để điểm yếu của nó là sức mạnh của anh hùng, đúng chứ? Từ đầu đến cuối, chuyện này chẳng qua chỉ là một bài kiểm tra chết tiệt..."
 
 Việc điểm yếu của con golem lại là thần lực của anh hùng quả thực quá mức thuận tiện. Điều đó chắc chắn phải là có chủ đích, và Suimei đoán rằng rất có thể bọn họ chỉ đơn giản sử dụng nó như một phương tiện để kiểm tra xem sức mạnh của anh hùng đã phát triển đến mức độ nào. Cậu bực bội sôi sục trong lòng, nhưng rồi đột ngột dừng lại và đứng thẳng người dậy.
 
@@ -44,7 +44,7 @@ Có vẻ như Hadorious không hề nghĩ rằng ông ta sẽ đến—hoặc í
 
 Khi Gottfried bước lên phía trước, Hadorious cúi đầu nhẹ đáp lễ. Trong khi đó, Suimei đặt tay phải lên ngực áo và tiến lên một bước, đôi mắt đỏ rực của cậu chạm vào ánh nhìn màu tím biếc của Gottfried.
 
-"Tên tôi là Yakagi Suimei. Dưới trướng Ma Thuật Vương vĩ đại Nestahaim, thủy tổ của ma thuật chúng tôi, tôi là một trong vô số kẻ đang trên con đường kiếm tìm chân lý hư ảo. Dẫu biết thật thất lễ khi mạn phép hỏi tên của một bậc thầy và là người tiên phong trên con đường ma thuật, tôi vẫn xin phép được diện kiến tôn danh của ngài."
+"Tên tôi là Yakagi Suimei. Dưới trướng Ma Thuật Vương vĩ đại Nestahaim, thủy tổ của bí thuật chúng tôi, tôi là một trong vô số kẻ đang trên con đường kiếm tìm chân lý phù du. Dẫu biết thật thất lễ khi mạn phép hỏi danh tính của một bậc đại sư và là người tiên phong trên con đường bí thuật, tôi vẫn xin phép được diện kiến tôn danh của ngài."
 
 Và để đáp lại...
 
@@ -52,7 +52,7 @@ Và để đáp lại...
 
 "Nhà triết học đã sử dụng Thượng đế..."
 
-Suimei nghiến răng khi nhận ra suy đoán của mình hoàn toàn chính xác. Cậu đã có linh cảm mơ hồ sau lần chạm trán của họ ở Liên minh, nhưng đó chính xác là cái tên mà cậu đã dự đoán sẽ được nghe. Về đẳng cấp, người đàn ông trước mặt vượt trội hơn Suimei rất nhiều, một ma thuật sư có thể được xếp vào hàng ngũ những người tiên phong của ma thuật học. Một thuật sĩ có thể sánh ngang với Thập Đại Tham Lam (Greed of Ten). Người đàn ông ảo ảnh, Gottfried, nở một nụ cười mỏng manh đầy điềm đạm.
+Suimei nghiến răng khi nhận ra suy đoán của mình hoàn toàn chính xác. Cậu đã có linh cảm mơ hồ sau lần chạm trán của họ ở Liên minh, nhưng đó chính xác là cái tên mà cậu đã dự đoán sẽ được nghe. Về đẳng cấp, người đàn ông trước mặt vượt trội hơn Suimei rất nhiều, một ma thuật sư có thể được xếp vào hàng ngũ những người tiên phong của bí thuật học. Một thuật sĩ có thể sánh ngang với Thập Đại Tham Lam (Greed of Ten). Người đàn ông ảo ảnh, Gottfried, nở một nụ cười mỏng manh đầy điềm đạm.
 
 "Cậu cứ việc lui bước sang một bên, đệ tử của Ma Thuật Vương Nestahaim. Với thực lực hiện tại, cậu không thể bồi tiếp ta đâu. Nếu muốn đối đầu với ta, hãy lấy lại sức mạnh ban đầu của cậu, hoặc đạt được một sức mạnh tương xứng rồi hẵng đến trước mặt ta."
 
@@ -90,7 +90,7 @@ Suimei nhướn mày.
 
 "Quả đúng như thế. Tuy nhiên, nếu cậu muốn nghe nhiều hơn, vậy thì..."
 
-Bọn họ nên một lần nữa dồn toàn bộ sức lực để đứng vững. Và trong lúc cuộc đối thoại này đang diễn ra, tất cả những người khác—Felmenia, Lefille, Liliana, và thậm chí cả Titania, Elliot cùng Hatsumi—đều đã xuất hiện.
+Họ sẽ phải một lần nữa dốc hết toàn lực để có thể đứng vững trên chính đôi chân mình. Và trong lúc cuộc đối thoại này đang diễn ra, tất cả những người khác—Felmenia, Lefille, Liliana, và thậm chí cả Titania, Elliot cùng Hatsumi—đều đã xuất hiện.
 
 "Tia!"
 
@@ -144,7 +144,7 @@ Cuộc giao tranh đã lắng xuống và lúc này bọn họ đang nói chuy�
 
 Từng có một cuộc đối đầu tương tự với Hadorious trước đó, Reiji vô thức hét lớn đáp lại. Trong khi đó, Felmenia với vẻ mặt đầy lo lắng quay sang Suimei.
 
-"Suimei-dono..."
+"Ngài Suimei..."
 
 "Chúng ta xong việc ở đây rồi. Chúng ta thực sự chẳng thể làm gì thêm được nữa đâu. Đi thôi mọi người."
 
@@ -158,7 +158,7 @@ Lefille cũng tỏ ra thất vọng với kết quả này. Giống như Suimei,
 
 Gottfried bước sang một bên, và sau khi cất tiếng gọi Hadorious, cả hai người bọn họ cùng bước vào bên trong dinh thự. Thấy hai người rút lui, Reiji quay sang hỏi Suimei.
 
-"Suimei, ngài ấy vừa nói Leibniz gì đó, nhưng ngài ấy không có ý bảo là..."
+"Suimei, ông ta vừa nói Leibniz gì đó, nhưng ông ta đâu có ý bảo là..."
 
 "Đúng vậy. Nhà toán học và triết gia, người mà để chứng minh cho học thuyết của chính mình, đã được biết đến như kẻ từng sử dụng cả Thượng đế."
 

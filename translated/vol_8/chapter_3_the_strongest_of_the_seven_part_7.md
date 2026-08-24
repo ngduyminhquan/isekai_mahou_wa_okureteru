@@ -86,7 +86,7 @@ Khi Reiji nhìn xuống theo hướng ngón tay người đàn ông đang chỉ,
 
 "Ừ, đúng thế."
 
-"Thật sao...? Vậy nếu hiện tại ông đang ở đây, rốt cuộc ông là thứ gì?"
+"Thật vậy sao...? Vậy nếu hiện tại ông đang ở đây, rốt cuộc hiện diện của ông là gì?"
 
 "Ai mà biết được chứ. Nhưng đúng như cậu nói, chẳng có gì nhầm lẫn về việc ta đã chết cả. Ta vẫn còn nhớ rất rõ. Những tàn tích của nó đều nằm trọn trong này."
 
@@ -140,7 +140,7 @@ Reiji một lần nữa chẳng hiểu người đàn ông đang nói về đi�
 
 Đó là một cái tên mà Reiji nhớ mang máng là mình từng nghe qua trước đây.
 
-"Có. Nếu tôi nhớ không nhầm thì họ vẫn đang ở giữa một cuộc chiến tranh."
+"Có. Nếu tôi nhớ không lầm thì họ vẫn đang trong thời kỳ chiến tranh."
 
 "Vậy là nó vẫn còn tồn tại à? Thế thì chắc là sẽ ổn thôi. Miễn là các kỵ sĩ vẫn còn sống khỏe, mọi chuyện kiểu gì cũng sẽ ổn thỏa thôi."
 
@@ -160,11 +160,11 @@ Người đàn ông có ý nói rằng mong muốn của Reiji quá đỗi trừ
 
 "Này, này nào... Đừng có làm cái bộ mặt đó chứ. Cậu là một kiếm sĩ đã cất công đến tận đây cơ mà, đúng không? Cậu đến đây chỉ với một mục đích duy nhất, đúng chứ? Hơn nữa, đâu phải là cậu đã đi vào ngõ cụt trên con đường trở nên mạnh mẽ hơn đâu, phải không?"
 
-"Để vượt qua mối đe dọa đang uy hiếp bọn tôi... Tôi muốn có sức mạnh bằng bất cứ giá nào. Bất kể đó là thứ gì đi nữa, tôi chỉ cần sức mạnh để chiến đấu."
+"Để vượt qua mối hiểm họa đang uy hiếp chúng tôi... Tôi muốn có sức mạnh bằng bất cứ giá nào. Bất kể đó là thứ gì đi nữa, tôi chỉ cần sức mạnh để chiến đấu."
 
 Reiji nói ra những ý định thực sự—tiếng lòng của mình—mà không hề có một chút dối trá nào. Người đàn ông đáp lại bằng một tiếng thở dài thườn thượt trong khi gãi gãi tai.
 
-"Đành chịu vậy nhỉ? Nếu để cậu tay trắng trở về thì cũng hơi đáng tiếc..."
+"Đành chịu vậy nhỉ? Để cậu tay trắng trở về thì cũng thật đáng tiếc..."
 
 ***
 [Chapter 3: The Strongest of the Seven - Part 6](./chapter_3_the_strongest_of_the_seven_part_6.md) | [Chapter 3: The Strongest of the Seven - Part 8](./chapter_3_the_strongest_of_the_seven_part_8.md)

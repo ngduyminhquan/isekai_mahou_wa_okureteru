@@ -2113,4 +2113,8 @@
 | | **My crystallized spirit that glimmers with the blue light of the Lapis... Oh Crystal Sword, manifest in the parted world** | Linh hồn kết tinh của ta, kẻ tỏa rạng ánh lam ngọc Lapis... Hỡi Tinh Thể Kiếm, hãy hiển hiện nơi thế giới phân ly | Câu chú / Khởi lệnh | Câu chú khởi động và triệu gọi thanh kiếm tinh thể Ishar Cluster từ Bí tích. | |
 | | **Gottfried Wilhelm Leibniz** / **Leibniz** | Gottfried Wilhelm Leibniz / Leibniz | Tên riêng / Nhân vật | Nhà toán học, triết gia và nhà khoa học lỗi lạc từ Trái Đất, đồng thời là một đại thuật sĩ tiền bối kế thừa Ars Magna Raimundi và truyền bá Ars Combinatoria, người đứng đầu phe Sứ đồ Vạn vật (Universal Apostles). | |
 | | **the philosopher who used God** | nhà triết học đã sử dụng Thượng đế / kẻ từng sử dụng cả Thượng đế | Danh xưng / Khái niệm | Danh hiệu gắn liền với Gottfried Wilhelm Leibniz trong giới huyền bí bí thuật khi ông xây dựng hệ thống triết học và bí thuật sử dụng khái niệm Thượng đế để chứng minh các học thuyết của mình. | |
+| | **heat death** | cái chết nhiệt (heat death) | Khái niệm / Vũ trụ học | Trạng thái suy tàn và cạn kiệt năng lượng cực đại của vũ trụ, được Suimei nhắc đến khi phân tích về bản chất lưu trữ năng lượng đã tiêu hao của Bí tích. | |
+| | **renaissance man** | học giả toàn năng / thiên tài toàn năng (renaissance man) | Danh hiệu / Khái niệm | Danh xưng chỉ những bậc danh nhân uyên bác, tinh thông xuất chúng trên nhiều lĩnh vực tri thức khoa học, triết học và huyền học như Gottfried Wilhelm Leibniz. | |
+| | **diamond dust** | bụi kim cương (diamond dust) | Hiện tượng / Miêu tả | Hiện tượng các tinh thể băng/khoáng vật lấp lánh bay lượn trong không khí khi các cột tinh thể của Las Shiara Kết Tinh bị nổ tung. | |
+
 

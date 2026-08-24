@@ -1,4 +1,4 @@
-"...tay trắng trở về thì cũng hơi đáng tiếc... Hửm, ta biết rồi. Hay là ta trao cho cậu một kỹ thuật duy nhất để mang về nhé?"
+"...để cậu tay trắng trở về thì cũng thật đáng tiếc... Hửm, ta biết rồi. Hay là ta trao cho cậu một kỹ thuật duy nhất để mang về nhé?"
 
 "Một kỹ thuật sao?"
 
@@ -104,7 +104,7 @@ Nói đoạn, người đàn ông vẫy tay rồi bắt đầu rảo bước đi
 
 "Gì thế? Vẫn còn nữa à? Ta đã bảo là hết giờ rồi cơ mà, đúng không?"
 
-Người đàn ông ngoái nhìn lại lần cuối với vẻ mặt đầy vẻ khó xử. Còn câu hỏi cuối cùng mà Reiji dành cho ông...
+Người đàn ông ngoái nhìn lại lần cuối với vẻ mặt bất đắc dĩ. Còn câu hỏi cuối cùng mà Reiji dành cho ông...
 
 "Ừm, tên tôi là Shana Reiji! Ông có thể cho tôi biết tên của ông được không?!"
 
@@ -146,7 +146,7 @@ Reiji sau đó lại cất tiếng hô vang. Cậu đang hét lên với một t
 
 "Tớ đánh giá cao sự tự tin đó, nhưng chính xác thì nó từ đâu ra thế hả?!"
 
-Suimei cau mày và phát ra một tiếng rên rỉ đầy khổ sở. Cậu biết thừa rằng mình không thể ngăn cản Reiji một khi cậu ta đã như thế này. Mang theo sự tự tin đầy bí ẩn, Reiji không chút do dự lao thẳng về phía con golem vừa mới bắt đầu tự phục hồi lại. Mizuki đầy lo lắng quay sang Suimei.
+Suimei cau mày và khẽ rên rỉ đầy khổ não. Cậu thừa biết rằng mình không thể ngăn cản Reiji một khi cậu ta đã như thế này. Mang theo sự tự tin đầy bí ẩn, Reiji không chút do dự lao thẳng về phía con golem vừa mới bắt đầu tự phục hồi lại. Mizuki đầy lo lắng quay sang Suimei.
 
 "Suimei-kun, ý cậu là Reiji-kun có thể sẽ không đánh bại được nó bằng món vũ khí đó sao? Nhìn nó cực kỳ mạnh mẽ, tuyệt vời và hoàn hảo đến thế kia mà..."
 
