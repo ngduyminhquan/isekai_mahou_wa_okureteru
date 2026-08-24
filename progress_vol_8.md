@@ -38,7 +38,7 @@ Dưới đây là danh sách các Phase tương ứng với từng phần dịch
 | **10** | Chapter 1: After Being Found Out - Part 8 | `chapter_1_after_being_found_out_part_8.txt` | 200 | 200 | 1858 | `chapter_1_after_being_found_out_part_8.md` | **Hoàn thành** |
 | **11** | Chapter 1: After Being Found Out - Part 9 | `chapter_1_after_being_found_out_part_9.txt` | 200 | 200 | 1948 | `chapter_1_after_being_found_out_part_9.md` | **Hoàn thành** |
 | **12** | Chapter 1: After Being Found Out - Part 10 | `chapter_1_after_being_found_out_part_10.txt` | 186 | 186 | 1650 | `chapter_1_after_being_found_out_part_10.md` | **Hoàn thành** |
-| **13** | Chapter 2: Onward, to the Hero’s - Part 1 | `chapter_2_onward,_to_the_hero’s_part_1.txt` | 200 | 200 | 1956 | `chapter_2_onward,_to_the_hero’s_part_1.md` | **Chưa bắt đầu** |
+| **13** | Chapter 2: Onward, to the Hero’s - Part 1 | `chapter_2_onward,_to_the_hero’s_part_1.txt` | 200 | 200 | 1956 | `chapter_2_onward,_to_the_hero’s_part_1.md` | **Hoàn thành** |
 | **14** | Chapter 2: Onward, to the Hero’s - Part 2 | `chapter_2_onward,_to_the_hero’s_part_2.txt` | 200 | 200 | 2020 | `chapter_2_onward,_to_the_hero’s_part_2.md` | **Chưa bắt đầu** |
 | **15** | Chapter 2: Onward, to the Hero’s - Part 3 | `chapter_2_onward,_to_the_hero’s_part_3.txt` | 200 | 200 | 1865 | `chapter_2_onward,_to_the_hero’s_part_3.md` | **Chưa bắt đầu** |
 | **16** | Chapter 2: Onward, to the Hero’s - Part 4 | `chapter_2_onward,_to_the_hero’s_part_4.txt` | 200 | 200 | 1989 | `chapter_2_onward,_to_the_hero’s_part_4.md` | **Chưa bắt đầu** |
