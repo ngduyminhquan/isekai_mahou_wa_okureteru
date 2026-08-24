@@ -2,7 +2,7 @@
 
 "Khoan đã nào, l-lại có chuyện như thế thật sao?! Bất công quá! Thế này hoàn toàn bất công mà!"
 
-"Im đi! Đừng có chuyện bé xé ra to hở tí là làm ầm lên như thế! Hơn nữa, làm quái gì có khái niệm công bằng với bất công trong ma thuật chứ!"
+"Im đi! Đừng có chuyện bé xé ra to hở tí là làm ầm lên như thế! Hơn nữa, làm quái gì có khái niệm công bằng với bất công trong bí thuật chứ!"
 
 Thấy vậy, Reiji cất tiếng với vẻ mặt nghiêm túc.
 
@@ -160,7 +160,7 @@ Khi bị Suimei và Reiji thẳng thừng gạt phăng không buồn giải thí
 
 Suimei ấn cành cây đang cầm trên tay lên trán mình rồi làm động tác mô phỏng một vụ nổ. Cuộc trò chuyện tạm thời lắng xuống tại đó, và Suimei lại chìm sâu vào dòng suy tưởng.
 
-"Nghĩ đi, Suimei... Mày đã có tất cả những gợi ý có thể có rồi. Đánh bại nó lẽ ra không thể khó đến mức này. Mục tiêu thực sự không phải là bản thân con golem. Cũng không phải là động cơ đằng sau những chuyển động của nó. Mà đó chính là thứ định hình nên sự tồn tại của nó, chính là tư tưởng tiếp thêm sức mạnh cho nó. 'Chúa đã chết.' Đó là những lời của Nietzsche, và nếu thứ kia là hiện thân của Siêu nhân (Übermensch)—kẻ khinh miệt sự tồn tại của Chúa—thì điều đó có nghĩa nó chính là hiện thân của một hệ tư tưởng chủ trương chối bỏ Thượng đế. Không có chân lý, không có thiện hay ác trên cõi đời này; chỉ bằng cách sống một cách vị kỷ thì Siêu nhân mới có thể được tạo ra. Sống đúng đắn theo những lời răn của Chúa không phải là ý nghĩa thực sự của việc sống đúng đắn. Hãy đánh tan những kẻ muốn cản đường ngươi. Hãy giẫm đạp lên những kẻ nghèo khổ và túng thiếu."
+"Nghĩ nào, Suimei... Mình đã có tất cả những manh mối cần thiết rồi. Đánh bại nó lẽ ra không thể khó đến mức này. Mục tiêu thực sự không phải là bản thân con golem. Cũng không phải là động cơ đằng sau những chuyển động của nó. Mà đó chính là thứ định hình nên sự tồn tại của nó, chính là tư tưởng tiếp thêm sức mạnh cho nó. 'Chúa đã chết.' Đó là những lời của Nietzsche, và nếu thứ kia là hiện thân của Siêu nhân (Übermensch)—kẻ khinh miệt sự tồn tại của Chúa—thì điều đó có nghĩa nó chính là hiện thân của một hệ tư tưởng chủ trương chối bỏ Thượng đế. Không có chân lý, không có thiện hay ác trên cõi đời này; chỉ bằng cách sống một cách vị kỷ thì Siêu nhân mới có thể được tạo ra. Sống đúng đắn theo những lời răn của Chúa không phải là ý nghĩa thực sự của việc sống đúng đắn. Hãy đánh tan những kẻ muốn cản đường ngươi. Hãy giẫm đạp lên những kẻ nghèo khổ và túng thiếu."
 
 ***
 [Chapter 3: The Strongest of the Seven - Part 4](./chapter_3_the_strongest_of_the_seven_part_4.md) | [Chapter 3: The Strongest of the Seven - Part 6](./chapter_3_the_strongest_of_the_seven_part_6.md)

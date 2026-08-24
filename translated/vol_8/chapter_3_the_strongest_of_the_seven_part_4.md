@@ -166,7 +166,7 @@ Khi Suimei thẳng thừng bác bỏ lời gợi ý của Mizuki, Reiji không k
 
 Việc chế tạo golem và các câu chú để vận hành chúng vốn được xem là những bí thuật mật truyền. Để có thể tự do sử dụng một trong hai kỹ thuật đó đòi hỏi kỹ năng vô cùng phi thường. Thế nhưng cái mẹo 'emet' cũ rích kia đã quá lỗi thời đến mức ngay cả Mizuki cũng biết tỏng. Dù nói vậy, cốt lõi của ý tưởng đó vẫn có giá trị—vẫn luôn có một mẹo trong cơ chế vận hành của chúng. Tuy nhiên, những người tạo ra golem cùng các loại rối tự động khác sẽ sử dụng đủ mọi thủ đoạn và mánh lới tinh vi để ngăn chúng bị ghi đè hoặc vô hiệu hóa một cách dễ dàng.
 
-Một con golem hoạt động độc lập không có được sự linh hoạt như một con golem được điều khiển trực tiếp bởi thuật sĩ. Chúng hầu như chỉ có thể thực hiện các hành động đã được lập trình sẵn từ trước, và do đó khá là vô dụng khi phải đối đầu với các ma thuật sư. Vì lý do đó, chúng thường chỉ được ban cho các mệnh lệnh chung chung là tấn công hoặc phòng thủ. Và trong trường hợp này, con golem đặc biệt này..."
+Một con golem hoạt động độc lập không có được sự linh hoạt như một con golem được điều khiển trực tiếp bởi thuật sĩ. Chúng hầu như chỉ có thể thực hiện các hành động đã được lập trình sẵn từ trước, và do đó khá là vô dụng khi phải đối đầu với các ma thuật sư. Vì lý do đó, chúng thường chỉ được ban cho các mệnh lệnh chung chung là tấn công hoặc phòng thủ. Và trong trường hợp này, con golem đặc biệt này...
 
 "V-Vậy những chữ trên con này có nghĩa là gì thế, Suimei-kun?!"
 
