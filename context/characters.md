@@ -206,10 +206,11 @@ Dưới đây là hồ sơ chi tiết các nhân vật xuất hiện, định h�
 - **Tính cách**: Tốt bụng, chu đáo, hay lo lắng cho người khác.
 - **Giọng thoại**: Lịch sự, quan tâm ("Tôi - cậu/cô").
 
-### 29. Gottfried
-- **Vai trò**: Một người đàn ông bí ẩn xuất hiện trước mặt Rogue Zandyke ở cuối Tập 4. Hắn âm mưu lật đổ Nữ thần Alshuna và muốn mượn sức mạnh của Rogue.
-- **Tính cách**: Điềm tĩnh, tự tin, mang phong thái quý tộc thanh lịch nhưng mang tư tưởng cực đoan (chống lại Nữ thần). Hắn có vẻ sở hữu quyền lực hoặc sức mạnh đáng sợ để thực hiện lời hứa xóa sổ những kẻ xa lánh Liliana.
-- **Giọng thoại**: Lịch sự, bề ngoài cung kính nhưng ẩn chứa sự kiêu ngạo ngầm ("Tôi - Ngài / dono"). Hắn ăn nói thong thả, tự tin như nắm rõ mọi thứ.
+### 29. Gottfried Wilhelm Leibniz (Gottfried / Người đàn ông ảo ảnh)
+- **Vai trò**: Một nhân vật huyền thoại từ Trái Đất từng được triệu hồi tới dị giới trong quá khứ cùng thời với Hiệp sĩ Ryzeia Rubern. Ông là thủ lĩnh/người đứng đầu phe Sứ đồ Vạn vật (Universal Apostles), người mà Công tước Lucas de Hadorious và Rogue Zandyke hợp tác cùng. Bề nổi trong lịch sử nhân loại, ông là một nhà toán học, nhà triết học và nhà khoa học lỗi lạc; nhưng trong thế giới ngầm bí thuật, ông là một thuật sĩ thực hành những huyền bí sâu xa, người kế thừa của Đại Nghệ thuật (Ars Magna Raimundi) và là người truyền bá Nghệ thuật Tổ hợp (Ars Combinatoria) ra toàn thế giới. Ông được mệnh danh là "nhà triết học đã sử dụng Thượng đế" (the philosopher who used God), một trong những người tiên phong của ma thuật học có thực lực sánh ngang với Thập Đại Tham Lam (Greed of Ten).
+- **Tính cách**: Điềm tĩnh, thâm trầm, uyên bác, hành xử đúng mực theo lễ nghi ma thuật sư cổ điển. Ông không hề hợp tác với loài quỷ hay Ác Thần (khẳng định chúng là những thứ rốt cuộc phải bị tiêu diệt), nhưng có con đường và mục tiêu riêng ở dị giới. Ông công nhận tài năng của Suimei (đệ tử của Ma Thuật Vương Nestahaim) và đưa ra lời cảnh báo cho Anh hùng Reiji rằng phải chống lại ý chí của Nữ thần Alshuna nếu không muốn đánh mất chính mình.
+- **Ngoại hình**: Vóc dáng cao lớn, mái tóc dài uốn lượn màu tím nhạt và đôi mắt màu tím biếc (violet).
+- **Giọng thoại**: Điềm tĩnh, trang trọng, lịch thiệp nhưng toát lên khí chất của bậc đại tông sư bí thuật (xưng "Ta", gọi "Cậu / Đệ tử của Ma Thuật Vương Nestahaim / Anh hùng / Ngươi").
 
 
 ### 30. Kuchiba Hatsumi
