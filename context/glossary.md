@@ -2067,6 +2067,7 @@
 | | **Dripping Snow** | Lạc Tuyết / Dripping Snow | Kỹ thuật / Chiêu thức | Kỹ thuật của Huyễn Kiếm Câu Lợi Già La Đà La Ni, thả lỏng lực để kiếm trượt đi như tuyết rơi từ cành cây rồi phản công. | |
 | | **Summit of Zen, the Long Sword of Enlightenment** | Thiền Đỉnh, Khai Ngộ Trường Kiếm / Summit of Zen, the Long Sword of Enlightenment | Chiêu thức | Chiêu thức chém uy lực vô song vươn tới cõi vĩnh hằng của Huyễn Kiếm Câu Lợi Già La Đà La Ni. | |
 | | **Duke Lucas de Hadorious** | Công tước Lucas de Hadorious / Công tước Hadorious | Tên riêng | Đại quý tộc của Vương quốc Astel, chủ nhân dinh thự tại Kurant, người đứng đầu Thất Kiếm. | |
-
-
-
+| | **first of the Seven Swords** | Đệ nhất Thất Kiếm | Danh hiệu / Vị thế | Danh hiệu dành cho người đứng đầu Thất Kiếm (Lucas de Hadorious). | |
+| | **apex of the Seven Swords** | đỉnh cao của Thất Kiếm | Khái niệm / Vị thế | Vị trí cao nhất trong Thất Kiếm. | |
+| | **strongest swordsman in this world** | kiếm sĩ mạnh nhất thế giới này | Danh hiệu | Xưng tụng dành cho Lucas de Hadorious. | |
+| | **strongest man in the northern continent** | người đàn ông mạnh nhất lục địa phương bắc | Danh hiệu | Đánh giá về thực lực của Lucas de Hadorious. | |

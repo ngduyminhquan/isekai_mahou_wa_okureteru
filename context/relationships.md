@@ -108,8 +108,5 @@ Quy tắc xưng hô và đại từ trong hội thoại giữa các nhân vật 
 ### Elliot Austin (Volume 8)
 - **Suimei <-> Elliot Austin**: Suimei mỉa mai, không kiêng nể thái độ cao ngạo, hư vô của Elliot (xưng "Tôi", gọi "Cậu"). Elliot giữ nụ cười hư vô và cách nói chuyện kiểu cách, khoa trương (xưng "Tôi", gọi "Cậu / Các người").
 - **Titania <-> Elliot Austin**: Titania lịch thiệp nhưng nghiêm túc, sẵn sàng bênh vực Giáo hội Cứu thế và căm phẫn khi Elliot bị đem ra làm con tin cùng nữ tư tế Christa (xưng "Tôi", gọi "Elliot-dono"). Elliot kính trọng công chúa hoàng gia (xưng "Tôi", gọi "Công chúa Titania / Princess Titania").
-- **Công tước Lucas de Hadorious <-> Elliot / Titania**: Giam lỏng Elliot trong dinh thự nhưng đối đãi tử tế như khách quý. Ra lệnh cho người hầu không được giấu giếm bất cứ điều gì nếu Công chúa Titania tới giải cứu.
-
-
-
-
+- **Công tước Lucas de Hadorious <-> Elliot / Titania**: Giam lỏng Elliot trong dinh thự nhưng đối đãi tử tế như khách quý. Ra lệnh cho người hầu không được giấu giếm bất cứ điều gì và không được ngăn cản nếu Công chúa Titania tới giải cứu. Titania căm ghét mưu đồ của ông ta nhưng đánh giá khách quan thực lực kiếm thuật đỉnh cao của ông.
+- **Suimei <-> Công tước Lucas de Hadorious**: Suimei muốn giải quyết ân oán cá nhân, quyết tâm xông ra đấm cho Hadorious một cú rồi tra hỏi cho ra nhẽ khi trận chiến giữa Hadorious và Reiji nổ ra.

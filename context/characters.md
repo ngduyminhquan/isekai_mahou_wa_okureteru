@@ -317,4 +317,7 @@ Trung thành với Đế quốc, cư xử cực kỳ lễ độ và kính trọn
 - **Tính cách**: Mạnh mẽ phi thường, luôn theo đuổi kiếm đạo đến đỉnh cao, nghiêm túc và điềm tĩnh.
 - **Chiến tích**: Có thể chém dọc một tòa nhà chọc trời chỉ bằng một nhát kiếm duy nhất.
 
-
+### 44. Duke Lucas de Hadorious (Công tước Hadorious)
+- **Vai trò**: Đại quý tộc xuất chúng của Vương quốc Astel, chủ nhân dinh thự tại Kurant. Ông là Đệ nhất Thất Kiếm (the first of the Seven Swords), đứng trên đỉnh cao Thất Kiếm và được xưng tụng là kiếm sĩ mạnh nhất thế giới / người đàn ông mạnh nhất lục địa phương bắc. Thực chất là một Sứ đồ Vạn vật (Universal Apostle) hợp tác với phe Gottfried.
+- **Tính cách**: Điềm tĩnh, kiêu dũng, tự chủ tuyệt đối, không bao giờ để cảm xúc cá nhân hay sự hận thù chi phối hành động. Dù mưu đồ chống lại thần dụ, ông vẫn giữ sự tôn trọng và lệnh cho người hầu không được cản trở hoàng tộc Astel.
+- **Giọng thoại**: Uy quyền, đĩnh đạc của một kiếm sư và đại quý tộc đỉnh phong.

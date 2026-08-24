@@ -46,7 +46,7 @@ Dưới đây là danh sách các Phase tương ứng với từng phần dịch
 | **18** | Chapter 2: Onward, to the Hero’s - Part 6 | `chapter_2_onward,_to_the_hero’s_part_6.txt` | 200 | 200 | 2203 | `chapter_2_onward,_to_the_hero’s_part_6.md` | **Hoàn thành** |
 | **19** | Chapter 2: Onward, to the Hero’s - Part 7 | `chapter_2_onward,_to_the_hero’s_part_7.txt` | 200 | 200 | 2201 | `chapter_2_onward,_to_the_hero’s_part_7.md` | **Hoàn thành** |
 | **20** | Chapter 2: Onward, to the Hero’s - Part 8 | `chapter_2_onward,_to_the_hero’s_part_8.txt` | 200 | 200 | 2020 | `chapter_2_onward,_to_the_hero’s_part_8.md` | **Hoàn thành** |
-| **21** | Chapter 2: Onward, to the Hero’s - Part 9 | `chapter_2_onward,_to_the_hero’s_part_9.txt` | 61 | 61 | 539 | `chapter_2_onward,_to_the_hero’s_part_9.md` | **Chưa bắt đầu** |
+| **21** | Chapter 2: Onward, to the Hero’s - Part 9 | `chapter_2_onward,_to_the_hero’s_part_9.txt` | 61 | 61 | 539 | `chapter_2_onward,_to_the_hero’s_part_9.md` | **Hoàn thành** |
 | **22** | Chapter 3: The Strongest of the Seven - Part 1 | `chapter_3_the_strongest_of_the_seven_part_1.txt` | 200 | 200 | 1943 | `chapter_3_the_strongest_of_the_seven_part_1.md` | **Chưa bắt đầu** |
 | **23** | Chapter 3: The Strongest of the Seven - Part 2 | `chapter_3_the_strongest_of_the_seven_part_2.txt` | 200 | 200 | 2122 | `chapter_3_the_strongest_of_the_seven_part_2.md` | **Chưa bắt đầu** |
 | **24** | Chapter 3: The Strongest of the Seven - Part 3 | `chapter_3_the_strongest_of_the_seven_part_3.txt` | 200 | 200 | 1888 | `chapter_3_the_strongest_of_the_seven_part_3.md` | **Chưa bắt đầu** |
