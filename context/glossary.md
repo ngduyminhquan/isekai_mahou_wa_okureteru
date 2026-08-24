@@ -2074,3 +2074,8 @@
 | | **sword dancing** | kiếm vũ | Kiếm thuật | Phong cách kiếm thuật tao nhã, uyển chuyển của Công tước Lucas de Hadorious. | |
 | | **modern magician** | ma thuật sư hiện đại | Khái niệm / Danh xưng | Danh xưng chỉ các ma thuật sư nghiên cứu bí thuật hiện đại từ Trái Đất (như Yakagi Suimei). | |
 | | **pure mana** | ma lực thuần khiết | Khái niệm | Ma lực dạng thô chưa chuyển hóa thành thuật thức bí thuật, giải phóng ở lượng lớn có thể kích nổ năng lượng aetheric. | |
+| | **sword wave** | kiếm ba (sword wave) | Kỹ thuật / Kiếm thuật | Kỹ thuật chém nhanh tạo ra sóng xung kích lốc xoáy có sức tàn phá lớn tấn công tầm xa. | |
+| | **possession** | thuật nhập hồn / tá linh / phụ thể | Khái niệm / Kỹ thuật | Nhánh nghệ thuật thuộc thuyết duy linh (spiritualism) cho phép triệu gọi linh hồn hoặc ảo ảnh Tinh linh nhập vào vũ khí hoặc cơ thể. | |
+| | **spiritualist** | thông linh sư / người dùng thông linh thuật | Chức danh / Khái niệm | Người sử dụng thuật thông linh mượn sức mạnh của các linh hồn hoặc Tinh linh. | |
+| | **phantom of the Elements** | ảo ảnh Tinh linh / tàn ảnh Tinh linh | Khái niệm | Dạng tàn ảnh linh hồn của Tinh linh được thông linh sư triệu gọi nhập vào kiếm để ban thuộc tính và sức mạnh nguyên tố. | |
+| | **healing magicka** | bí thuật trị liệu / healing magicka | Ma thuật | Phép thuật trị liệu cơ bản của Suimei, triệu gọi ma pháp trận màu xanh lục mượn hơi thở của đất mẹ để hồi phục thương tích. | |
