@@ -2089,3 +2089,12 @@
 | | **power word** | mật ngữ quyền năng / power word | Khái niệm / Ma thuật | Từ ngữ mang sức mạnh bí thuật dùng làm mệnh lệnh khởi động hoặc lập trình cho golem và rối tự động. | |
 | | **strike magicka** | ma thuật xung kích / strike magicka | Ma thuật | Đòn phóng thích ma lực dạng xung kích tức thì (như qua cú búng tay) của Suimei để đẩy lùi hoặc hất văng đối thủ. | |
 
+| | **Übermensch** / **ubermensch** | Siêu nhân (Übermensch) | Triết học / Khái niệm | Khái niệm triết học của Nietzsche về con người lý tưởng vượt lên trên đạo đức truyền thống, phủ nhận sự tồn tại của Thượng đế để sống vị kỷ và tự định đoạt giá trị. Con golem màu đen được thiết kế mô phỏng theo tư tưởng này. | |
+| | **Nietzsche** / **Friedrich Nietzsche** | Friedrich Nietzsche / Nietzsche | Tên riêng / Triết gia | Nhà triết học người Đức ở thế giới cũ nổi tiếng với tuyên ngôn 'Chúa đã chết' và triết lý Siêu nhân (Übermensch). | |
+| | **Ars Combinatoria** | Nghệ thuật Tổ hợp / Ars Combinatoria | Khái niệm / Bí thuật | Hệ thống kết hợp các nguyên lý bí thuật, bắt nguồn từ Ars Magna Raimundi của Ramon Llull. | |
+| | **Ars Magna Raimundi** | Đại Nghệ thuật / Ars Magna Raimundi | Khái niệm / Bí thuật | Tác phẩm bí thuật vĩ đại của triết gia/nhà thần học Ramon Llull. | |
+| | **ruach** | luồng linh khí / hơi thở sinh mệnh (ruach) | Khái niệm / Ma thuật | Từ tiếng Hebrew chỉ hơi thở/linh khí chứa đựng trí tuệ của giáo sĩ rabbi được thổi vào mũi golem để ban sự sống và khả năng tư duy như sinh vật sống. | |
+| | **ruach kadosh** | Chúa Thánh Linh / Thánh Linh (ruach kadosh) | Khái niệm / Tôn giáo | Danh xưng chỉ Chúa Thánh Linh (Holy Spirit) trong tiếng Hebrew. | |
+| | **rabbi** | giáo sĩ Do Thái / rabbi | Chức danh / Tôn giáo | Bậc thầy tâm linh/học giả Do Thái giáo có khả năng tạo ra golem theo truyền thuyết cổ. | |
+| | **twilight syndrome** | hội chứng hoàng hôn (twilight syndrome) | Khái niệm / Bí thuật | Nguyên lý bí thuật hiện đại khẳng định tính hữu hạn của mọi sự vật và phủ nhận sự tồn tại của tính vĩnh cửu hay bất tử tuyệt đối. | |
+| | **booby trap** | bẫy mìn ngầm / booby trap | Khái niệm | Loại bẫy phản kích tự động nguy hiểm được ma thuật sư gài xung quanh phù triện/mật ngữ của golem để phát nổ khi có kẻ chạm vào. | |

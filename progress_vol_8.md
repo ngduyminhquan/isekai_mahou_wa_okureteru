@@ -51,7 +51,7 @@ Dưới đây là danh sách các Phase tương ứng với từng phần dịch
 | **23** | Chapter 3: The Strongest of the Seven - Part 2 | `chapter_3_the_strongest_of_the_seven_part_2.txt` | 200 | 200 | 2122 | `chapter_3_the_strongest_of_the_seven_part_2.md` | **Hoàn thành** |
 | **24** | Chapter 3: The Strongest of the Seven - Part 3 | `chapter_3_the_strongest_of_the_seven_part_3.txt` | 200 | 200 | 1888 | `chapter_3_the_strongest_of_the_seven_part_3.md` | **Hoàn thành** |
 | **25** | Chapter 3: The Strongest of the Seven - Part 4 | `chapter_3_the_strongest_of_the_seven_part_4.txt` | 200 | 200 | 1988 | `chapter_3_the_strongest_of_the_seven_part_4.md` | **Hoàn thành** |
-| **26** | Chapter 3: The Strongest of the Seven - Part 5 | `chapter_3_the_strongest_of_the_seven_part_5.txt` | 200 | 200 | 1962 | `chapter_3_the_strongest_of_the_seven_part_5.md` | **Chưa bắt đầu** |
+| **26** | Chapter 3: The Strongest of the Seven - Part 5 | `chapter_3_the_strongest_of_the_seven_part_5.txt` | 200 | 200 | 1962 | `chapter_3_the_strongest_of_the_seven_part_5.md` | **Hoàn thành** |
 | **27** | Chapter 3: The Strongest of the Seven - Part 6 | `chapter_3_the_strongest_of_the_seven_part_6.txt` | 200 | 200 | 2097 | `chapter_3_the_strongest_of_the_seven_part_6.md` | **Chưa bắt đầu** |
 | **28** | Chapter 3: The Strongest of the Seven - Part 7 | `chapter_3_the_strongest_of_the_seven_part_7.txt` | 200 | 200 | 2100 | `chapter_3_the_strongest_of_the_seven_part_7.md` | **Chưa bắt đầu** |
 | **29** | Chapter 3: The Strongest of the Seven - Part 8 | `chapter_3_the_strongest_of_the_seven_part_8.txt` | 200 | 200 | 2014 | `chapter_3_the_strongest_of_the_seven_part_8.md` | **Chưa bắt đầu** |
