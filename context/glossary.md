@@ -12,6 +12,9 @@
 - Hydemary Alzbayne: Hydemary Alzbayne
 - Nicolas: Nicolas (Giáo sư)
 - The Chairman: Chủ tịch (Hội Pháp sư)
+- Kuchiba Kiyoshiro: Kuchiba Kiyoshiro
+- Kuchiba Yukio: Kuchiba Yukio
+- Yakagi Kazamitsu: Yakagi Kazamitsu
 ## 2. Địa danh (Locations)
 - Astel: Astel
 - Camellia: Camellia
@@ -36,3 +39,7 @@
 - Origin magicka: Pháp thuật nguyên thủy
 - Truth Flare: Chân Hỏa
 - White Flame Hyacinth: Bạch Hỏa Dạ Lan Hương
+- Sword of Swords: Kiếm Vương
+- Phantom Sword of the Kurikara Dharani: Ảo Ảnh Kiếm của Câu Lợi Già La Đà La Ni
+- Greed of Ten: Thập Đại Tham Lam
+

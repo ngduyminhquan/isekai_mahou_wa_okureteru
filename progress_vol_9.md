@@ -32,7 +32,7 @@ Dưới đây là danh sách các Phase tương ứng với từng phần dịch
 | **4** | Chapter 1 - Back Home - Part 2 | `chapter_1_back_home_part_2.txt` | 190 | 197 | 1752 | `chapter_1_back_home_part_2.md` | **Hoàn thành** |
 | **5** | Chapter 1 - Back Home - Part 3 | `chapter_1_back_home_part_3.txt` | 188 | 194 | 1746 | `chapter_1_back_home_part_3.md` | **Hoàn thành** |
 | **6** | Chapter 1 - Back Home - Part 4 | `chapter_1_back_home_part_4.txt` | 216 | 223 | 1994 | `chapter_1_back_home_part_4.md` | **Hoàn thành** |
-| **7** | Chapter 1 - Back Home - Part 5 | `chapter_1_back_home_part_5.txt` | 198 | 205 | 1909 | `chapter_1_back_home_part_5.md` | **Chưa bắt đầu** |
+| **7** | Chapter 1 - Back Home - Part 5 | `chapter_1_back_home_part_5.txt` | 198 | 205 | 1909 | `chapter_1_back_home_part_5.md` | **Hoàn thành** |
 | **8** | Chapter 1 - Back Home - Part 6 | `chapter_1_back_home_part_6.txt` | 214 | 220 | 2049 | `chapter_1_back_home_part_6.md` | **Chưa bắt đầu** |
 | **9** | Chapter 1 - Back Home - Part 7 | `chapter_1_back_home_part_7.txt` | 192 | 198 | 1719 | `chapter_1_back_home_part_7.md` | **Chưa bắt đầu** |
 | **10** | Chapter 2 - Into the Modern World - Part 1 | `chapter_2_into_the_modern_world_part_1.txt` | 200 | 207 | 1816 | `chapter_2_into_the_modern_world_part_1.md` | **Chưa bắt đầu** |

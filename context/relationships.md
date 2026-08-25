@@ -39,3 +39,11 @@
 ## 10. Suimei - Hydemary
 - **Quan hệ**: Sư phụ - Đệ tử. Hydemary gọi Suimei là "Suimei-kun".
 - **Xưng hô (Tiếng Việt)**: Anh - Em (Hydemary xưng hô). Suimei gọi là "Mary".
+
+## 11. Suimei - Kuchiba Kiyoshiro
+- **Quan hệ**: Cháu - Chú (Đồng thời Suimei gọi Kiyoshiro là Sư phụ).
+- **Xưng hô (Tiếng Việt)**: Cháu - Chú / Cháu - Ta / Suimei gọi Kiyoshiro là "Sư phụ".
+
+## 12. Hatsumi - Kiyoshiro / Yukio
+- **Quan hệ**: Con gái - Cha mẹ.
+- **Xưng hô (Tiếng Việt)**: Con - Bố/Mẹ.
