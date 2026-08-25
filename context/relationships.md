@@ -57,5 +57,21 @@
 - **Xưng hô (Tiếng Việt)**: Cậu - Tôi. Akitsuki gọi Suimei là "Thiếu gia". Suimei gọi Akitsuki là "Akitsuki-san".
 
 ## 15. Lefille - Graziella
-- **Quan h?**: T?ng d?i d?u/kh�ng ua nhau (hay lang m? nhau).
-- **Xung h� (Ti?ng Vi?t)**: T?/T�i - C� ta (khi Lefille nh?c v? Graziella v?i Suimei).
+- **Quan hệ**: Từng đối đầu/không ưa nhau (hay lườm nguýt nhau).
+- **Xưng hô (Tiếng Việt)**: Tớ/Tôi - Cô ta (khi Lefille nhắc về Graziella với Suimei).
+
+## 16. Suimei - Nettesheim
+- **Quan hệ**: Lãnh đạo Hội - Thành viên.
+- **Xưng hô (Tiếng Việt)**: Ngài - Tôi (Suimei gọi). Ta - Cậu / Cậu Suimei (Nettesheim gọi).
+
+## 17. Suimei - Hatsuhana Tenki
+- **Quan hệ**: Đồng nghiệp ở Hội. Hatsuhana tôn trọng Suimei.
+- **Xưng hô (Tiếng Việt)**: Tôi - Cô / Tôi - Anh (hoặc cậu). Hatsuhana gọi Suimei là "Yakagi-san".
+
+## 18. Hydemary - Hatsuhana Tenki
+- **Quan hệ**: Bạn bè.
+- **Xưng hô (Tiếng Việt)**: Tớ - Cậu. Hydemary gọi Hatsuhana là "Hime-chan", Hatsuhana gọi Hydemary là "Mary-chan".
+
+## 19. Suimei - The Monster Professor (Giáo sư quái vật)
+- **Quan hệ**: Thành viên Hội - Giáo sư.
+- **Xưng hô (Tiếng Việt)**: Tôi - Thầy (Suimei gọi). Ta - Cưng / Cậu bé cưng (Giáo sư gọi).

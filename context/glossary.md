@@ -18,6 +18,8 @@
 - Graziella: Graziella (Công chúa vương quốc Astel)
 - Vua Pháp Thuật Nettesheim: Vua Pháp Thuật Nettesheim (Magicka King Nettesheim)
 
+- Hatsuhana Tenki: Hatsuhana Tenki
+- The Monster Professor: Giáo sư quái vật
 ## 2. Địa danh (Locations)
 - Astel: Astel
 - Camellia: Camellia
@@ -65,3 +67,8 @@
 - Cross Dimension: Cross Dimension (Pháp thuật của Kudrack)
 - Phase Severance: Cắt đứt Pha / Phân tách không gian (Phase Severance)
 - Astaroth: Astaroth
+- Kabbalah magicka / Kabbalah numerology: Pháp thuật Kabbalah / Thuật số học Kabbalah
+- Shintoism: Thần Đạo
+- Buddhism: Phật Giáo
+- Abreq ad Habra: Abreq ad Habra (Câu thần chú)
+- Telesma: Telesma
