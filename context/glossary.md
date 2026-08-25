@@ -88,4 +88,9 @@
 - Deep trance: Trạng thái thôi miên sâu (Deep trance)
 - Mysticism: Bí thuật học / Tính huyền bí (Mysticism)
 - Wiegel the Festunger: Wiegel the Festunger
+- Barrier magicka: Kết giới pháp thuật (Barrier magicka)
+- Spatial control spell: Pháp thuật thao túng không gian (Spatial control spell)
+- Howler: Howler (Linh thú của Liliana)
+- Half-spirit: Bán tinh linh (Half-spirit)
+- Schwarzwald: Rừng Đen / Rừng Schwarzwald (Schwarzwald / Black Forest)
 
