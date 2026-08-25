@@ -27,7 +27,7 @@ Dưới đây là danh sách các Phase tương ứng với từng phần dịch
 | :---: | :--- | :--- | :---: | :---: | :---: | :--- | :---: |
 | **0** | Khởi tạo dự án và tài nguyên | *N/A* | - | - | - | *N/A* | **Hoàn thành** |
 | **1** | Prologue - Far, Far Away, Beyond the - Part 1 | `prologue_far,_far_away,_beyond_the_part_1.txt` | 210 | 216 | 2147 | `prologue_far,_far_away,_beyond_the_part_1.md` | **Hoàn thành** |
-| **2** | Prologue - Far, Far Away, Beyond the - Part 2 | `prologue_far,_far_away,_beyond_the_part_2.txt` | 38 | 40 | 379 | `prologue_far,_far_away,_beyond_the_part_2.md` | **Chưa bắt đầu** |
+| **2** | Prologue - Far, Far Away, Beyond the - Part 2 | `prologue_far,_far_away,_beyond_the_part_2.txt` | 38 | 40 | 379 | `prologue_far,_far_away,_beyond_the_part_2.md` | **Hoàn thành** |
 | **3** | Chapter 1 - Back Home - Part 1 | `chapter_1_back_home_part_1.txt` | 211 | 217 | 2123 | `chapter_1_back_home_part_1.md` | **Chưa bắt đầu** |
 | **4** | Chapter 1 - Back Home - Part 2 | `chapter_1_back_home_part_2.txt` | 190 | 197 | 1752 | `chapter_1_back_home_part_2.md` | **Chưa bắt đầu** |
 | **5** | Chapter 1 - Back Home - Part 3 | `chapter_1_back_home_part_3.txt` | 188 | 194 | 1746 | `chapter_1_back_home_part_3.md` | **Chưa bắt đầu** |
