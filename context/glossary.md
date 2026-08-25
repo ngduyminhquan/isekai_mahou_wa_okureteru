@@ -91,6 +91,13 @@
 - Barrier magicka: Kết giới pháp thuật (Barrier magicka)
 - Spatial control spell: Pháp thuật thao túng không gian (Spatial control spell)
 - Howler: Howler (Linh thú của Liliana)
+- Noisy: Noisy (Linh thú quạ bằng lời nguyền của Liliana)
 - Half-spirit: Bán tinh linh (Half-spirit)
 - Schwarzwald: Rừng Đen / Rừng Schwarzwald (Schwarzwald / Black Forest)
+- Ishaktney's Red Gale: Hồng Phong của Ishaktney (Ishaktney's Red Gale)
+- Blade of Four Seals: Tứ Phong Kiếm (Blade of Four Seals)
+- Rank disparity extinction: Triệt tiêu do chênh lệch phẩm cấp / Luật triệt tiêu chênh lệch hạng (Rank disparity extinction)
+- Void Bog: Đầm Lầy Hư Vô (Void Bog)
+- Counterspell: Phản chú (Counterspell)
+- Mana furnace: Lò luyện mana (Mana furnace)
 

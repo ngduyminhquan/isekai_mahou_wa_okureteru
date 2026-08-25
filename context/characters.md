@@ -26,7 +26,7 @@
 - **Giọng văn/Tính cách**: Trưởng thành, thân thiện.
 
 ## 7. Liliana
-- **Đặc điểm**: Nữ pháp sư từ thế giới khác đi cùng Suimei. Có đôi mắt hay nhắm hờ ngái ngủ, sở hữu linh thú đồng hành là Howler.
+- **Đặc điểm**: Nữ pháp sư từ thế giới khác đi cùng Suimei. Có đôi mắt hay nhắm hờ ngái ngủ, sở hữu các linh thú triệu hồi / nguyền rủa đồng hành như Howler, Noisy.
 - **Giọng văn/Tính cách**: Ngập ngừng, hay nói ngắt quãng.
 
 ## 8. Hatsumi Kuchiba
