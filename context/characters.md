@@ -75,3 +75,11 @@
 
 ## 20. Kudrack the Ghosthide
 - **Đặc điểm**: Hay còn gọi là Lishbaum, một trong Thập Đại Tham Lam (Greed of Ten), thuộc đội quân ác quỷ. Chuyên sử dụng pháp thuật Cross Dimension và Phase Severance.
+
+## 21. Hatsuhana Tenki
+- **Đặc điểm**: Pháp sư trực thuộc Hội, chuyên gia về pháp thuật hệ hỏa. Có công việc là một ảo thuật gia sân khấu / thần tượng ở Nhật Bản. Mặc trang phục khá đơn giản nhưng được phối lại một cách phô trương.
+- **Giọng văn/Tính cách**: Có thái độ tôn trọng với Suimei, nhưng khi bực tức thì dễ nổi cáu.
+
+## 22. Giáo sư quái vật (The Monster Professor)
+- **Đặc điểm**: Chủ sở hữu phòng thí nghiệm dưới lòng đất của Hội. Một nhà khoa học điên, người đàn ông phương Tây mũm mĩm, tóc úp gáo dừa, có nốt ruồi trên mặt.
+- **Giọng văn/Tính cách**: Thích chơi khăm, lập dị, thường gọi mọi người bằng những danh xưng kỳ quái như 'mấy cưng', 'cậu bé cưng'.
