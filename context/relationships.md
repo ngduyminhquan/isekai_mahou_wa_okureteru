@@ -55,3 +55,7 @@
 ## 14. Suimei - Akitsuki
 - **Quan hệ**: Thiếu gia - Tài xế / Cấp dưới.
 - **Xưng hô (Tiếng Việt)**: Cậu - Tôi. Akitsuki gọi Suimei là "Thiếu gia". Suimei gọi Akitsuki là "Akitsuki-san".
+
+## 15. Lefille - Graziella
+- **Quan h?**: T?ng d?i d?u/kh�ng ua nhau (hay lang m? nhau).
+- **Xung h� (Ti?ng Vi?t)**: T?/T�i - C� ta (khi Lefille nh?c v? Graziella v?i Suimei).

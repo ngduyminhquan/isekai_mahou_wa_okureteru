@@ -15,6 +15,7 @@
 - Kuchiba Kiyoshiro: Kuchiba Kiyoshiro
 - Kuchiba Yukio: Kuchiba Yukio
 - Yakagi Kazamitsu: Yakagi Kazamitsu
+- Graziella: Graziella (Công chúa vương quốc Astel)
 
 ## 2. Địa danh (Locations)
 - Astel: Astel
