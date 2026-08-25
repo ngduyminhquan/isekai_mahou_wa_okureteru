@@ -38,6 +38,7 @@
 - Source: Căn Nguyên
 - Artifact: Tạo tác
 - High grand class magician: Pháp sư cấp High Grand
+- Magister: Bậc Thầy (Cấp bậc pháp sư cao cấp)
 - The Society: Hội (Hội Pháp sư)
 - Homunculus: Homunculus (Người nhân tạo)
 - Elements: Tinh Linh Nguyên Tố

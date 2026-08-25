@@ -75,3 +75,15 @@
 ## 19. Suimei - The Monster Professor (Giáo sư quái vật)
 - **Quan hệ**: Thành viên Hội - Giáo sư.
 - **Xưng hô (Tiếng Việt)**: Tôi - Thầy (Suimei gọi). Ta - Cưng / Cậu bé cưng (Giáo sư gọi).
+
+## 20. Suimei - Wiegel
+- **Quan hệ**: Khách hàng - Người môi giới thông tin.
+- **Xưng hô (Tiếng Việt)**: Tôi - Anh (Suimei gọi). Wiegel thường gọi Suimei là "Sếp" (Boss) hoặc "Cậu" và tự xưng là "Tôi".
+
+## 21. Suimei - Leo
+- **Quan hệ**: Người quen (Leo có vẻ thù địch và không ưa Suimei).
+- **Xưng hô (Tiếng Việt)**: Tôi - Cô (Suimei gọi). Leo gọi Suimei là "Sao Băng" (Starfall), xưng "Tôi" và gọi "Anh".
+
+## 22. Suimei - Reverend (Linh mục)
+- **Quan hệ**: Người quen (Suimei cảnh giác và tôn trọng sức mạnh của Reverend).
+- **Xưng hô (Tiếng Việt)**: Tôi - Reverend/Linh mục (Suimei gọi). Reverend đáp lại ngắn gọn.
