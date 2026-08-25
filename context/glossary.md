@@ -61,3 +61,7 @@
 - Enforcement request: Yêu cầu thực thi
 - Eighth seat: Vị trí Thứ Bát
 - Guild master: Hội trưởng
+- Ars Combinatoria: Thuật Kết hợp (Ars Combinatoria)
+- Cross Dimension: Cross Dimension (Pháp thuật của Kudrack)
+- Phase Severance: Cắt đứt Pha / Phân tách không gian (Phase Severance)
+- Astaroth: Astaroth

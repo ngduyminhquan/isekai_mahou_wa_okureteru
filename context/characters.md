@@ -69,3 +69,9 @@
 
 ## 18. Heinrich Cornelius Agrippa von Nettesheim
 - **Đặc điểm**: Lãnh đạo và là người sáng lập Hội Pháp sư (The Society), một vị pháp sư vĩ đại trong lịch sử. Ngoại hình thanh niên với mái tóc dài trắng toát, da mịn màng, mặc áo khoác Inverness, nhưng mang phong thái của một ông lão nhân hậu.
+
+## 19. Gottfried
+- **Đặc điểm**: Một nhân vật được gọi là "Ngài Gottfried", kẻ đang lên kế hoạch ở thế giới bên kia và cản đường Suimei. Ông ta cũng từng đột ngột mất tích không dấu vết khỏi thế giới gốc.
+
+## 20. Kudrack the Ghosthide
+- **Đặc điểm**: Hay còn gọi là Lishbaum, một trong Thập Đại Tham Lam (Greed of Ten), thuộc đội quân ác quỷ. Chuyên sử dụng pháp thuật Cross Dimension và Phase Severance.
