@@ -103,4 +103,5 @@
 - Numerology: Thuật số học (Numerology)
 - Court Mage: Ma Pháp Sư Cung Đình (Court Mage)
 - The Golden Magnale: Thành Trì Vàng (The Golden Magnale)
-
+- Rainyblaze Clouds: Vũ Địch Viêm Vân (Rainyblaze Clouds)
+- Bless Blade: Thánh kiếm (Bless Blade)
