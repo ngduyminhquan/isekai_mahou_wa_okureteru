@@ -54,7 +54,7 @@ Dưới đây là danh sách các Phase tương ứng với từng phần dịch
 | **26** | Chapter 4 - The Way of a Genius - Part 2 | `chapter_4_the_way_of_a_genius_part_2.txt` | 215 | 221 | 2176 | `chapter_4_the_way_of_a_genius_part_2.md` | **Hoàn thành** |
 | **27** | Chapter 4 - The Way of a Genius - Part 3 | `chapter_4_the_way_of_a_genius_part_3.txt` | 209 | 215 | 2041 | `chapter_4_the_way_of_a_genius_part_3.md` | **Hoàn thành** |
 | **28** | Chapter 4 - The Way of a Genius - Part 4 | `chapter_4_the_way_of_a_genius_part_4.txt` | 212 | 219 | 2057 | `chapter_4_the_way_of_a_genius_part_4.md` | **Hoàn thành** |
-| **29** | Chapter 4 - The Way of a Genius - Part 5 | `chapter_4_the_way_of_a_genius_part_5.txt` | 216 | 222 | 2238 | `chapter_4_the_way_of_a_genius_part_5.md` | **Chưa bắt đầu** |
+| **29** | Chapter 4 - The Way of a Genius - Part 5 | `chapter_4_the_way_of_a_genius_part_5.txt` | 216 | 222 | 2238 | `chapter_4_the_way_of_a_genius_part_5.md` | **Hoàn thành** |
 | **30** | Chapter 4 - The Way of a Genius - Part 6 | `chapter_4_the_way_of_a_genius_part_6.txt` | 216 | 222 | 2156 | `chapter_4_the_way_of_a_genius_part_6.md` | **Chưa bắt đầu** |
 | **31** | Chapter 4 - The Way of a Genius - Part 7 | `chapter_4_the_way_of_a_genius_part_7.txt` | 212 | 218 | 2084 | `chapter_4_the_way_of_a_genius_part_7.md` | **Chưa bắt đầu** |
 | **32** | Chapter 4 - The Way of a Genius - Part 8 | `chapter_4_the_way_of_a_genius_part_8.txt` | 213 | 219 | 2084 | `chapter_4_the_way_of_a_genius_part_8.md` | **Chưa bắt đầu** |

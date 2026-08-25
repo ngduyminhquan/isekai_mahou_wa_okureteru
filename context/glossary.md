@@ -102,4 +102,5 @@
 - Mana furnace: Lò luyện mana (Mana furnace)
 - Numerology: Thuật số học (Numerology)
 - Court Mage: Ma Pháp Sư Cung Đình (Court Mage)
+- The Golden Magnale: Thành Trì Vàng (The Golden Magnale)
 
