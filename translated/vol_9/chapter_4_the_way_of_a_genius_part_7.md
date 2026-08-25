@@ -103,7 +103,7 @@ Suimei đứng trước mặt tên thủ lĩnh, kẻ lúc này đang rên rỉ �
 
 "Cựu thành viên Alphard Chín, Saix Ruger. Theo yêu cầu của Hội Ngàn Đêm (Thousand Nights Association), mặc dù tao sẽ tha mạng cho mày, nhưng mày đã bị bắt giữ."
 
-"Bọn ta đã sa ngã đến mức này sao..."
+"Bọn tao đã sa ngã đến mức này sao..."
 
 "Nếu mày muốn hồi sinh tổ chức của mình, hãy làm điều đó theo đúng cách. Mày đáng lẽ phải biết rằng bất cứ thứ gì có thể khiến Hội Ngàn Đêm giáng họa xuống đầu bọn mày thì ngay từ đầu đã là một sai lầm rồi," Suimei phỉ nhổ vào tên thủ lĩnh đang gục ngã trước khi quay sang Felmenia. "Tớ sẽ đi cứu Hydemary. Ba người hãy trói đám này lại. Mà với những vết bỏng đó, chắc chúng cũng chẳng cử động được nhiều đâu."
 

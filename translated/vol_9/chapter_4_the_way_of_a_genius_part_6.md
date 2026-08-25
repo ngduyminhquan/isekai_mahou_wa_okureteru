@@ -2,7 +2,7 @@ Suimei hiện đang từ từ bước về phía bọn chúng, và tòa pháo đ
 
 Nhưng giờ đây, khi kết giới đã được dựng lên hoàn chỉnh, tỏa sáng trong tất cả vẻ vinh quang rực rỡ của nó, những kẻ duy nhất có khả năng xuyên thủng được nó có lẽ chỉ giới hạn ở những pháp sư danh tiếng và Thập Đại Tham Lam (Greed of Ten).
 
-"Chìa khóa để giành chiến thắng trong các trận chiến pháp thuật là bẻ gãy ác chủ bài của đối thủ, hoặc tự đặt bản thân vào một vị thế thuận lợi. Điều sau đòi hỏi ngươi phải xây dựng một trận địa hoàn chỉnh từ đầu đến cuối. Giống hệt như thế này đây."
+"Chìa khóa để giành chiến thắng trong các trận chiến pháp thuật là bẻ gãy ác chủ bài của đối thủ, hoặc tự đặt bản thân vào một vị thế thuận lợi. Điều sau đòi hỏi mày phải xây dựng một trận địa hoàn chỉnh từ đầu đến cuối. Giống hệt như thế này đây."
 
 Vừa dứt lời, Suimei dang rộng hai cánh tay như thể đang mời gọi những kẻ địch chiêm ngưỡng pháp thuật của mình. Việc tận mắt chứng kiến một phép thuật vĩ đại đến vậy đã làm suy yếu đi đáng kể quyết tâm chiến đấu của bọn chúng.
 
@@ -48,7 +48,7 @@ Một trong số những lính tiếp viện đỡ tên thủ lĩnh đứng dậ
 
 Thực ra, cậu ta đang quan sát tình hình cứ như thể cậu mới là người thấy chuyện này khá bất ngờ.
 
-"Hửm? Vậy là các ngươi cũng có đủ can đảm để cố gắng giúp đỡ bạn bè của mình đấy chứ, hả? Rất tiếc, nhưng đó lại là một lựa chọn tồi tệ vào lúc này."
+"Hửm? Vậy là bọn mày cũng có đủ can đảm để cố gắng giúp đỡ bạn bè của mình đấy chứ, hả? Rất tiếc, nhưng đó lại là một lựa chọn tồi tệ vào lúc này."
 
 "Cái g— ÁÁÁ!"
 
@@ -60,9 +60,9 @@ Tên pháp sư vừa đến giúp tên thủ lĩnh bỗng hét lên trước khi
 
 Và sau khi một tên pháp sư chìm vào sự thống khổ không thể lý giải nổi, những kẻ khác vừa đến hỗ trợ cũng lần lượt gục ngã dưới cùng một loại phép thuật. Cứ như thể nỗi đau từ những vết bỏng đã được truyền sang cho bọn chúng. Trong khi đó, Suimei chỉ đơn giản tiếp tục đứng xem mọi chuyện diễn ra với một tiếng thở dài ngán ngẩm.
 
-"Ngươi thực sự nên nghiên cứu cuốn 'Cành Vàng' (The Golden Bough) đi. Đó chẳng phải là nền tảng của pháp thuật sao?"
+"Mày thực sự nên nghiên cứu cuốn 'Cành Vàng' (The Golden Bough) đi. Đó chẳng phải là nền tảng của pháp thuật sao?"
 
-"Cành Vàng...? Ta hiểu rồi... Đây là... pháp thuật truyền nhiễm (contagion magicka)..."
+"Cành Vàng...? Tao hiểu rồi... Đây là... pháp thuật truyền nhiễm (contagion magicka)..."
 
 Luật truyền nhiễm thực sự có thể được gọi là nền tảng của pháp thuật. Nếu một người chạm vào một vật phẩm bị nguyền rủa, lời nguyền sẽ lây nhiễm sang người đó. Đó là một quy luật cơ bản của pháp thuật, và cũng chính xác là cách mà nhóm tiếp viện lại bị ảnh hưởng nặng nề đến vậy. Chỉ bằng cách chạm vào những người bạn đang mang lời nguyền, số phận của chúng đã được định đoạt.
 
@@ -124,7 +124,7 @@ Tên thủ lĩnh vội vã quay sang thuộc hạ để xác nhận xem chuyện
 
 "Chúng ta được cứu rồi! Nó sẽ sớm hoàn thành thôi!"
 
-"Pfft! Bwahahaha! Lũ ngu! Đây là những gì các ngươi nhận được vì chỉ biết đứng đó! Chiến thắng là của bọn ta!"
+"Pfft! Bwahahaha! Lũ ngu! Đây là những gì bọn mày nhận được vì chỉ biết đứng đó! Chiến thắng là của bọn tao!"
 
 Nghi lễ cuối cùng cũng đã đến bờ vực hoàn tất. Khi biết được điều này, tên thủ lĩnh bật cười lớn như thể hắn đã quên đi hoàn toàn nỗi đau từ những vết bỏng. Với việc một sức mạnh phi thường hóa thân—một sức mạnh thần thánh (divinity)—thắng lợi chắc chắn đã nằm trong tầm tay. Hoặc chí ít là hắn nghĩ vậy.
 
@@ -160,9 +160,9 @@ Nghe đến đó, cô gái tóc bạch kim dường như vừa nhớ ra điều 
 
 Suimei nói vậy, nhưng tên thủ lĩnh của đám kẻ thù dường như không nghĩ chuyện đó lại dễ dàng đến thế.
 
-"Cho dù ngươi có là Người Thực Thi đi chăng nữa, ngươi cũng không thể nào có đủ sức mạnh để đánh bật thần tính dễ dàng như vậy được!"
+"Cho dù mày có là Người Thực Thi đi chăng nữa, mày cũng không thể nào có đủ sức mạnh để đánh bật thần tính dễ dàng như vậy được!"
 
-"Ngươi không nghĩ vậy sao? Thật không may cho ngươi, đây không phải lần đầu tiên của ta đâu."
+"Mày không nghĩ vậy sao? Thật không may cho mày, đây không phải lần đầu tiên của tao đâu."
 
 Sự kiêu ngạo trong giọng nói của Suimei chẳng khác nào đổ thêm dầu vào ngọn lửa uất hận của tên thủ lĩnh.
 
