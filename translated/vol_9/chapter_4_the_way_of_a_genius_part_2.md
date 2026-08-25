@@ -1,4 +1,4 @@
-"...sao?"
+"...nữa sao?"
 
 "Điều đó còn tùy thuộc vào cách nhìn nhận của mỗi người. Tất nhiên, vẫn có những nguồn sức mạnh có thể tự mình hiển hiện theo ý chí riêng. Chẳng hạn như các tinh linh cấp cao và ác quỷ. Bằng cách can thiệp trực tiếp vào thế giới, cuối cùng chúng trở thành một phần của thế giới đó. Và khi thế giới dần trưởng thành, đức tin hướng về chúng tích tụ qua thời gian, chúng sẽ được tôn xưng lên hàng thần thánh. Trường hợp của Alshuna có lẽ cũng tương tự như vậy. Về cơ bản, những thực thể như thế không hề toàn năng, nên việc có thể gọi họ là thần hay không thực sự phụ thuộc vào định nghĩa của cậu về một vị thần."
 
@@ -28,7 +28,7 @@ Felmenia vỗ hai tay vào nhau thốt lên, và Liliana liền nói ra câu tr�
 
 Giờ khi họ đã nắm được toàn bộ các chi tiết kỹ thuật của yêu cầu thực thi, Lefille lại có một câu hỏi rất khác dành cho Suimei.
 
-"Tôi đã hiểu tình hình rồi, nhưng tại sao cậu lại từ chối nói chuyện này cho tiểu thư Mary biết? Ít nhất cậu cũng có thể chia sẻ dần dần từng chút một với cô bé mà, đúng chứ?"
+"Tớ đã hiểu tình hình rồi, nhưng tại sao cậu lại từ chối nói chuyện này cho tiểu thư Mary biết? Ít nhất cậu cũng có thể chia sẻ dần dần từng chút một với em ấy mà, đúng chứ?"
 
 Cô ấy nói quả không sai. Hydemary đã hiểu lầm sự im lặng của Suimei là do thiếu tin tưởng, nên nếu cậu chịu nói cho cô bé nghe điều gì đó—dù chỉ là một chút thôi—mọi chuyện có lẽ đã không thành ra nông nỗi này. Dẫu vậy, Suimei vẫn có lý do chính đáng để giữ kín miệng.
 
@@ -166,7 +166,7 @@ Hydemary vẫn không tài nào hiểu nổi. Điều gì về thân phận homu
 
 Khái niệm đó hoàn toàn không hề được ghi nhận trong kho tàng tri thức đồ sộ của Hydemary, khiến cô bé phải cau mày khi nghe nhắc tới nó.
 
-"Sao? Ngươi không quen thuộc với nó à? Ta đang nói về sự trống rỗng mà tất cả các homunculus đều cảm nhận được đấy. Chúng ta chẳng sở hữu bất cứ thứ gì của riêng mình. Tất cả những gì chúng ta có chỉ là tri thức. Chúng ta là những sinh linh ngây ngô, chỉ biết bắt chước sự thông thái. Và khi chẳng có chút kinh nghiệm thực tế nào gắn liền với bản thân, dẫu cho chúng ta có nắm giữ tri thức uyên thâm đến đâu... nó chỉ tạo ra một lỗ hổng trong tâm can thay vì lấp đầy ngươi, chẳng phải vậy sao?"
+"Sao? Ngươi không quen thuộc với nó à? Ta đang nói về sự trống rỗng mà tất cả các homunculus đều cảm nhận được đấy. Chúng ta chẳng sở hữu bất cứ thứ gì của riêng mình. Tất cả những gì chúng ta có chỉ là tri thức. Chúng ta là những sinh linh ngây ngô, chỉ biết bắt chước sự thông thái. Và khi chẳng có chút kinh nghiệm thực tế nào gắn liền với bản thân, dẫu cho chúng ta có nắm giữ tri thức uyên thâm đến đâu... nó chỉ tạo ra một lỗ hổng trong tâm can thay vì lấp đầy chúng ta, chẳng phải vậy sao?"
 
 "Chuyện đó..."
 

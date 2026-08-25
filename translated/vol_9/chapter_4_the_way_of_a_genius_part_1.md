@@ -28,11 +28,11 @@ Các bài học pháp thuật của Suimei dành cho Hydemary đã bị đình t
 
 Hydemary thừa hiểu các cô gái đều có hoàn cảnh riêng của họ, nên cô bé không thể công khai trút giận lên họ được. Nhưng dẫu vậy, cô vẫn cảm thấy không vui. Cô là đệ tử của Suimei. Là đại đệ tử của cậu. Sao cậu có thể cứ thế phớt lờ cô chứ? Đáng lẽ cô phải nhận được phần lớn sự chú ý của cậu, thế mà cậu lại hầu như chẳng thèm để tâm đến cô. Và mỗi khi cậu tìm đến cô, tất cả những gì cậu làm chỉ là nhờ vả chuyện gì đó hoặc đối xử với cô như một đứa con nít.
 
-"Cứ đà này, cậu ấy sẽ mãi chỉ coi mình như một đứa trẻ con... Nhưng nếu mình giải quyết xong chuyện này, ngay cả Suimei-kun cũng sẽ buộc phải công nhận mình. Mình không phải là trẻ con..."
+"Cứ đà này, anh ấy sẽ mãi chỉ coi mình như một đứa trẻ con... Nhưng nếu mình giải quyết xong chuyện này, ngay cả Suimei-kun cũng sẽ buộc phải công nhận mình. Mình không phải là trẻ con..."
 
 Hydemary ít nhận ra rằng cách hành xử của mình, theo một góc độ nào đó, thực sự vô cùng trẻ con. Về bản chất, đây là một mặc cảm tự ti nảy sinh từ tiềm năng tiềm ẩn của một homunculus.
 
-Homunculus là những sinh vật nhân tạo được tạo ra để chứng minh rằng chúng có thể hoạt động hoàn hảo chẳng kém gì \"hàng thật\". Được sinh ra từ chất xúc tác hoàn hảo có thể tạo ra cả sự sống—Lapis Philosophorum—chúng được cho là am tường mọi trí tuệ của thế gian và có thể đưa ra những lời khuyên thông thái cho người tạo ra mình. Chúng rất được săn đón về phương diện đó.
+Homunculus là những sinh vật nhân tạo được tạo ra để chứng minh rằng chúng có thể hoạt động hoàn hảo chẳng kém gì "hàng thật". Được sinh ra từ chất xúc tác hoàn hảo có thể tạo ra cả sự sống—Lapis Philosophorum—chúng được cho là am tường mọi trí tuệ của thế gian và có thể đưa ra những lời khuyên thông thái cho người tạo ra mình. Chúng rất được săn đón về phương diện đó.
 
 Chúng kiêu hãnh ngự trị trên đỉnh cao của thứ bậc các sinh vật trí tuệ. Xét theo khía cạnh đó, chúng chẳng thể nào xa rời hơn khỏi sự tự ti. Tuy nhiên, nguồn gốc trí tuệ của một homunculus lại hoàn toàn khác biệt so với những trái ngọt kết tinh từ trải nghiệm thực tế.
 

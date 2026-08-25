@@ -1,4 +1,4 @@
-có lẽ hắn ta đang sợ vãi đái ra quần trước ý nghĩ mình không thể cứu được người khác. Bản chất của hắn là một kẻ mắc hội chứng đấng cứu thế toàn diện."
+"...có lẽ hắn ta đang sợ vãi đái ra quần trước ý nghĩ mình không thể cứu được người khác. Bản chất của hắn là một kẻ mắc hội chứng đấng cứu thế toàn diện."
 
 "Gì cơ? Chẳng phải hai chuyện đó khác nhau sao?"
 
@@ -32,7 +32,7 @@ Những khách hàng khác trong quán cười phá lên khi họ trêu chọc S
 
 "Hmm... Một nhãn cầu à?" Wiegel hỏi, chăm chú nhìn vào nó kỹ hơn.
 
-"S-Suimei-kun, đó có lẽ nào là của Lily...?" Lefille lần lượt hỏi.
+"S-Suimei-kun, đó có lẽ nào là của Lily...?" Lefille cũng cất lời hỏi.
 
 "Ồ? Của cô tiểu thư nhỏ này sao? Cậu chắc chắn đã mang cho tôi một thứ tốt đấy, phải không?"
 
@@ -60,13 +60,13 @@ Trước khi Suimei có thể giải thích xong, Wiegel đã cắt ngang và ti
 
 "Giống như... mình thậm chí còn... không sống nữa."
 
-"Chuẩn luôn. Cô hiểu rồi đấy. Hầu như những kẻ từng phẫu thuật với cái tên lập dị Nicolas kia đều phải quay trở lại Frankfurt ngay, cô biết không? Ngay cả hắn ta cũng cần rất nhiều thời gian để xử lý những thứ như thế này."
+"Chuẩn luôn. Cô hiểu rồi đấy. Hầu hết những ai từng được gã lập dị Nicolas kia làm phẫu thuật đều phải quay trở lại Frankfurt ngay, cô biết không? Ngay cả hắn ta cũng cần rất nhiều thời gian để xử lý những thứ như thế này."
 
 Lúc này, Suimei mới giành lại lời.
 
 "Vậy nên, cách nhanh chóng và chắc chắn nhất là vứt nó vào trong dạ dày của gã này. Trong đó luôn cuộn trào sự hỗn loạn đến mức ngay cả một Astaroth cũng không thể chịu đựng nổi."
 
-Ngay đó, Wiegel bật ra một tràng cười táo bạo. Cái lưỡi dài nhọn hoắt của hắn thò ra giữa hàm răng lởm chởm xa đến mức trông như thể nó có thể chạm qua cả hàm dưới. Dù sao đi nữa, điều này cũng đủ khiến các cô gái nhận ra rõ ràng Wiegel là loại người như thế nào. Hắn còn lâu mới là con người, đã bị biến đổi thành một thứ gì đó vô lý từ lâu rồi. Thậm chí có thể gọi hắn là một ác quỷ vào lúc này—đó là ấn tượng mà hắn phát ra.
+Lúc đó, Wiegel bật ra một tràng cười táo bạo. Cái lưỡi dài nhọn hoắt của hắn thò ra giữa hàm răng lởm chởm dài đến mức trông như thể nó có thể chạm qua cả cằm dưới. Dù sao đi nữa, điều này cũng đủ khiến các cô gái nhận ra rõ ràng Wiegel là loại người như thế nào. Hắn còn lâu mới là con người, đã bị biến đổi thành một thứ gì đó vô lý từ lâu rồi. Thậm chí có thể gọi hắn là một ác quỷ vào lúc này—đó là ấn tượng mà hắn phát ra.
 
 "Nhưng... ăn nó ư?"
 
@@ -86,7 +86,7 @@ Nói rồi, Wiegel ném nốt phần còn lại của điếu cần vào miệng
 
 "Rồi, rồi. Anh chẳng bao giờ ngậm miệng lại về vụ đó cả."
 
-Dù Suimei phàn nhân về sự tham lam của Wiegel, cậu vẫn lấy thêm một xấp euro nữa từ trong túi và ném lên bàn.
+Dù Suimei phàn nàn về sự tham lam của Wiegel, cậu vẫn lấy thêm một xấp euro nữa từ trong túi và ném lên bàn.
 
 "Hah! Quả nhiên có một con ngỗng đẻ trứng vàng thật tốt."
 
