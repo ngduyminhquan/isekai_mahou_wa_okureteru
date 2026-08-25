@@ -10,6 +10,8 @@
 - Liliana: Liliana
 - Hatsumi Kuchiba: Hatsumi Kuchiba
 - Hydemary Alzbayne: Hydemary Alzbayne
+- Nicolas: Nicolas (Giáo sư)
+- The Chairman: Chủ tịch (Hội Pháp sư)
 ## 2. Địa danh (Locations)
 - Astel: Astel
 - Camellia: Camellia
