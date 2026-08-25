@@ -36,7 +36,7 @@ Dưới đây là danh sách các Phase tương ứng với từng phần dịch
 | **8** | Chapter 1 - Back Home - Part 6 | `chapter_1_back_home_part_6.txt` | 214 | 220 | 2049 | `chapter_1_back_home_part_6.md` | **Hoàn thành** |
 | **9** | Chapter 1 - Back Home - Part 7 | `chapter_1_back_home_part_7.txt` | 192 | 198 | 1719 | `chapter_1_back_home_part_7.md` | **Hoàn thành** |
 | **10** | Chapter 2 - Into the Modern World - Part 1 | `chapter_2_into_the_modern_world_part_1.txt` | 200 | 207 | 1816 | `chapter_2_into_the_modern_world_part_1.md` | **Hoàn thành** |
-| **11** | Chapter 2 - Into the Modern World - Part 2 | `chapter_2_into_the_modern_world_part_2.txt` | 217 | 225 | 2142 | `chapter_2_into_the_modern_world_part_2.md` | **Chưa bắt đầu** |
+| **11** | Chapter 2 - Into the Modern World - Part 2 | `chapter_2_into_the_modern_world_part_2.txt` | 217 | 225 | 2142 | `chapter_2_into_the_modern_world_part_2.md` | **Hoàn thành** |
 | **12** | Chapter 2 - Into the Modern World - Part 3 | `chapter_2_into_the_modern_world_part_3.txt` | 216 | 222 | 2028 | `chapter_2_into_the_modern_world_part_3.md` | **Chưa bắt đầu** |
 | **13** | Chapter 2 - Into the Modern World - Part 4 | `chapter_2_into_the_modern_world_part_4.txt` | 216 | 222 | 2192 | `chapter_2_into_the_modern_world_part_4.md` | **Chưa bắt đầu** |
 | **14** | Chapter 2 - Into the Modern World - Part 5 | `chapter_2_into_the_modern_world_part_5.txt` | 214 | 220 | 1968 | `chapter_2_into_the_modern_world_part_5.md` | **Chưa bắt đầu** |
