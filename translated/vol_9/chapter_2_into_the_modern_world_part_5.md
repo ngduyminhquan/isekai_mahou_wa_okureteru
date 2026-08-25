@@ -32,9 +32,9 @@ Và thế là, sau khi nói với Lefille rằng đó là những gì cô cần,
 
 ★
 
-Những ngày đầu tiên Suimei trở lại Nhật Bản bận rộn đến chóng mặt. Cậu dành phần lớn thời gian để chạy đôn chạy đáo từ việc này sang việc khác. Cậu phải giải thích hoàn cảnh của mình với chi nhánh Nhật Bản; xử lý mọi vấn đề phát sinh từ sự vắng mặt dài hạn của mình ở trường; sử dụng phép thuật để xoa dịu mọi chuyện cho cả Reiji, Mizuki và Hatsumi; và cuối cùng, dùng phép thuật để hòa giải với gia đình của Reiji và Mizuki. Và một khi tất cả những công việc đó cuối cùng cũng được giải quyết, cậu mới có thể bắt tay vào công việc thực sự của mình.
+Những ngày đầu tiên Suimei trở lại Nhật Bản bận rộn đến chóng mặt. Cậu dành phần lớn thời gian để chạy đôn chạy đáo từ việc này sang việc khác. Cậu phải giải thích hoàn cảnh của mình với chi nhánh Nhật Bản; xử lý mọi vấn đề phát sinh từ sự vắng mặt dài hạn của mình ở trường; sử dụng pháp thuật để xoa dịu mọi chuyện cho cả Reiji, Mizuki và Hatsumi; và cuối cùng, dùng pháp thuật để hòa giải với gia đình của Reiji và Mizuki. Và một khi tất cả những công việc đó cuối cùng cũng được giải quyết, cậu mới có thể bắt tay vào công việc thực sự của mình.
 
-Về phần những vị khách từ thế giới khác, Lefille dành thời gian đến thăm đạo đường nhà Kuchiba ở ngay kế bên, trong khi Felmenia và Liliana dành thời gian miệt mài nghiên cứu các ma đạo thư trong phòng làm việc của dinh thự nhà Yakagi, cũng như xem các video trên internet và trò chuyện về phép thuật với Hydemary. Về cơ bản, cả ba người họ dành thời gian làm những gì mình thích trong khi Suimei bận rộn với công việc.
+Về phần những vị khách từ thế giới khác, Lefille dành thời gian đến thăm đạo đường nhà Kuchiba ở ngay kế bên, trong khi Felmenia và Liliana dành thời gian miệt mài nghiên cứu các ma đạo thư trong phòng làm việc của dinh thự nhà Yakagi, cũng như xem các video trên internet và trò chuyện về pháp thuật với Hydemary. Về cơ bản, cả ba người họ dành thời gian làm những gì mình thích trong khi Suimei bận rộn với công việc.
 
 Tuy nhiên, họ đều dành thời gian để cùng nhau đến thăm dinh thự nhà Kuchiba và thưởng thức một bữa ăn Nhật Bản do Yukio chuẩn bị cho họ. Suimei sẽ không bao giờ quên được cái nhìn bực dọc mà Haseto đã ném cho cậu vào tối hôm đó.
 
@@ -52,7 +52,7 @@ Trong khi đó, Liliana không thể quên được những loài động vật 
 
 "Tôi muốn đi thăm một hiệu sách, mặc dù việc xem video cũng đã mang lại khá nhiều kiến thức rồi."
 
-Đúng như Felmenia nói, chỉ việc xem video thôi cũng là một cách tuyệt vời để nhìn ngắm và học hỏi những điều mới. Ví dụ, chỉ cần xem cảnh quay về một hiện tượng tự nhiên cũng có thể khơi nguồn cảm hứng cho một phép thuật mới. Và vì ưu tiên hàng đầu của Felmenia khi ở thế giới của Suimei là học hỏi, nên không có nơi nào cụ thể mà cô đặc biệt muốn đến như các cô gái khác. Cô bằng lòng để họ quyết định lịch trình.
+Đúng như Felmenia nói, chỉ việc xem video thôi cũng là một cách tuyệt vời để nhìn ngắm và học hỏi những điều mới. Ví dụ, chỉ cần xem cảnh quay về một hiện tượng tự nhiên cũng có thể khơi nguồn cảm hứng cho một pháp thuật mới. Và vì ưu tiên hàng đầu của Felmenia khi ở thế giới của Suimei là học hỏi, nên không có nơi nào cụ thể mà cô đặc biệt muốn đến như các cô gái khác. Cô bằng lòng để họ quyết định lịch trình.
 
 "Chúng ta sẽ di chuyển bằng cách nào?"
 

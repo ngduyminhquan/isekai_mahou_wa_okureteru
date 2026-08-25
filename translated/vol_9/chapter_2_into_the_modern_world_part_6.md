@@ -80,7 +80,7 @@ Akitsuki chỉ đơn giản lẩm bẩm, "Ồ, Jellybear," với một nụ cư�
 
 Jellybear là một bức tranh biếm họa bí ẩn của một con gấu với cơ thể của một con sứa, phần nào dựa trên những sinh vật ngoài hành tinh hình bạch tuộc từng phổ biến trước đây. Rõ ràng là, ủy ban thị trấn đã cố gắng tận dụng các nhân vật dựa trên loài gấu cũng đang rất được ưa chuộng và cuối cùng đã kết hợp cả hai lại thành sự gớm ghiếc bí ẩn này.
 
-Và có lẽ vì đó đơn giản chỉ là loại nhân vật mà nó được thiết kế để trở thành, Jellybear liên tục lắc lư. Cảm giác khó chịu len lỏi qua bất kỳ ai chứng kiến cơ thể nó ngọ nguậy khiến người ta phải tự hỏi đằng sau nó là loại phép thuật quỷ quyệt nào.
+Và có lẽ vì đó đơn giản chỉ là loại nhân vật mà nó được thiết kế để trở thành, Jellybear liên tục lắc lư. Cảm giác khó chịu len lỏi qua bất kỳ ai chứng kiến cơ thể nó ngọ nguậy khiến người ta phải tự hỏi đằng sau nó là loại pháp thuật quỷ quyệt nào.
 
 Suimei và những người bạn của cậu đã đi xem nó vào khoảng thời gian nó mới ra mắt, và phản ứng đầu tiên của Mizuki là, "Tớ có thể cảm thấy sự tỉnh táo của mình đang dần bị rút cạn." Chỉ một hành động đơn giản là nhìn vào nó thôi cũng đủ khiến người ta cảm thấy bất an—ngay cả đối với Suimei, người mà cơ thể đã đắm mình trong những điều bí ẩn.
 
@@ -128,7 +128,7 @@ Liliana hoàn toàn chán nản khi Hatsumi bảo cô rằng điều đó là kh
 
 "Chà, nếu cô thực sự muốn chạm vào chúng—"
 
-"Phép thuật... phải không? Đã rõ."
+"Pháp thuật... phải không? Đã rõ."
 
 Ngay khoảnh khắc đi đến kết luận đó, con mắt duy nhất của Liliana sáng lên với một ngọn lửa đam mê và cô bắt đầu tích tụ mana. Một cảm giác rát buốt, châm chích từ từ xâm chiếm bầu không khí xung quanh họ. Và khi cảm nhận được điều đó, Suimei tự nhiên cố gắng ngăn cô lại trong cơn hoảng loạn.
 
@@ -144,7 +144,7 @@ Liliana giải trừ mana của mình và nghiêng đầu sang một bên thật
 
 "C-Cậu đang nói tớ là một tấm gương xấu sao?"
 
-"Ý tớ là, cậu luôn đi loanh quanh và thi triển mấy thứ phép thuật ám thị đó một cách tùy tiện mà, đúng chứ? Liliana chỉ đang bắt chước cậu thôi."
+"Ý tớ là, cậu luôn đi loanh quanh và thi triển mấy thứ pháp thuật ám thị đó một cách tùy tiện mà, đúng chứ? Liliana chỉ đang bắt chước cậu thôi."
 
 "Tớ chỉ thi triển những thứ đó khi thực sự cần thiết thôi!"
 
