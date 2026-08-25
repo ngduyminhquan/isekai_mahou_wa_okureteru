@@ -112,7 +112,7 @@ Cậu thiếu niên tóc vàng lịch sự chào đón Hydemary như một vị 
 
 Cậu thiếu niên—bản thân cũng là một homunculus—nói bằng giọng điệu có phần thất vọng, khiến Hydemary phải nghiến chặt răng tức tối. Đúng là cô bé đã bất cẩn sa chân vào bẫy của cậu ta, nhưng cậu ta lại lầm tưởng rằng cô chỉ là một con tốt thí mạng.
 
-"Tôi không phải là con rối của ai hết," cô bé tuyên bố, nhanh chóng đảo mắt quét quanh căn phòng để tìm kiếm các cạm bẫy ma thuật. "Tôi tự ý đến đây theo ý muốn của riêng mình."
+"Tôi không phải là con rối của ai hết," cô bé tuyên bố, nhanh chóng đảo mắt quét quanh căn phòng để tìm kiếm các cạm bẫy pháp thuật. "Tôi tự ý đến đây theo ý muốn của riêng mình."
 
 "Ồ? Thật vậy sao? Dù ngươi là một homunculus? Không có ai ra lệnh cho ngươi làm việc này ư?"
 

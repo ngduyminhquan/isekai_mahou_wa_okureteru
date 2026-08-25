@@ -100,4 +100,6 @@
 - Void Bog: Đầm Lầy Hư Vô (Void Bog)
 - Counterspell: Phản chú (Counterspell)
 - Mana furnace: Lò luyện mana (Mana furnace)
+- Numerology: Thuật số học (Numerology)
+- Court Mage: Ma Pháp Sư Cung Đình (Court Mage)
 

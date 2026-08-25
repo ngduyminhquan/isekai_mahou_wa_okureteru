@@ -96,3 +96,8 @@
 - **Quan hệ**: Đối đầu / Kẻ đi săn và mục tiêu thực thi (Cả hai đều là homunculus nhưng có tư tưởng và mục đích khác biệt).
 - **Xưng hô (Tiếng Việt)**: Hydemary xưng "Tôi" - gọi "Cậu"; Cậu thiếu niên xưng "Ta" - gọi "Ngươi" hoặc "cô bé homunculus".
 
+## 25. Felmenia / Lefille / Liliana - Hydemary
+- **Quan hệ**: Khách dị giới - Người hướng dẫn / Bạn đồng hành. Cả ba cô gái đều rất biết ơn sự chăm sóc tận tình của Hydemary kể từ khi đến thế giới này và sẵn sàng chiến đấu để giải cứu cô bé.
+- **Xưng hô (Tiếng Việt)**: Felmenia gọi "Mary-dono" (tiểu thư Mary); Lefille gọi "tiểu thư Mary" (Lady Mary); Liliana gọi "Mary" / "Hydemary".
+
+

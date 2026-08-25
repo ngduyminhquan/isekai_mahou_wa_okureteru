@@ -4,13 +4,13 @@ Khi Felmenia toan đáp trả tương tự, Lefille đã nhảy vọt ra từ ph
 
 "Ha, một mục tiêu ngon ăn! Thật là ngu xuẩn!"
 
-Trước khi Lefille kịp làm bất cứ điều gì, một loạt phép thuật dồn dập đã bay thẳng về phía cô. Kẻ địch của cô đã sử dụng thuật số học (numerology) để tạo ra một luồng hỏa diễm bắn liên thanh, tương tự như một phiên bản hạ cấp hơn rất nhiều từ một trong những chiêu thức ưa thích của Suimei.
+Trước khi Lefille kịp làm bất cứ điều gì, một loạt pháp thuật dồn dập đã bay thẳng về phía cô. Kẻ địch của cô đã sử dụng thuật số học (numerology) để tạo ra một luồng hỏa diễm bắn liên thanh, tương tự như một phiên bản hạ cấp hơn rất nhiều từ một trong những chiêu thức ưa thích của Suimei.
 
 "Hạ được một đứa rồi!"
 
 "Hàng thứ hai! Bắt đầu bằng pháp thuật hỗ trợ và phòng thủ! Nhanh chóng dựng trận địa!"
 
-Ngay sau làn sóng phép thuật đầu tiên, mệnh lệnh cho đợt thứ hai liền được ban ra. Đám pháp sư kẻ địch đinh ninh rằng Lefille đã bị hạ gục và bắt đầu chuẩn bị cho bước tiếp theo: sử dụng pháp thuật hỗ trợ để gia tăng uy lực tấn công và pháp thuật bảo hộ để củng cố phòng thủ. Chúng định lập một trận địa nơi chúng có thể vẽ các pháp trận (magicka circle) để dựng nên một tế đàn nghi lễ, từ đó cho phép chúng thi triển những câu thần chú uy lực hơn gấp bội.
+Ngay sau làn sóng pháp thuật đầu tiên, mệnh lệnh cho đợt thứ hai liền được ban ra. Đám pháp sư kẻ địch đinh ninh rằng Lefille đã bị hạ gục và bắt đầu chuẩn bị cho bước tiếp theo: sử dụng pháp thuật hỗ trợ để gia tăng uy lực tấn công và pháp thuật bảo hộ để củng cố phòng thủ. Chúng định lập một trận địa nơi chúng có thể vẽ các pháp trận (magicka circle) để dựng nên một tế đàn nghi lễ, từ đó cho phép chúng thi triển những câu thần chú uy lực hơn gấp bội.
 
 Hay ít nhất, đó là kế hoạch của chúng. Nhưng tất cả đã tan thành mây khói khi một luồng hồng quang chói lọi tràn ngập khắp khu vực, quét sạch làn sóng lửa, hơi nóng của chúng cùng tất cả những gì sinh ra từ ngọn lửa ấy chỉ trong nháy mắt.
 
@@ -78,11 +78,11 @@ Dẫu vậy, đám pháp sư đã quá bận rộn với việc chuẩn bị tr�
 
 "CAa■■■AaA■■W!"
 
-Tiếng quạ kêu chói tai đến rợn người của Noisy đã cắt đứt những câu niệm chú của chúng. Ngay cả những pháp sư đã hoàn thành câu chú cũng không thể kích hoạt được phép thuật của mình.
+Tiếng quạ kêu chói tai đến rợn người của Noisy đã cắt đứt những câu niệm chú của chúng. Ngay cả những pháp sư đã hoàn thành câu chú cũng không thể kích hoạt được pháp thuật của mình.
 
 "Cái gì...?!"
 
-"Âm thanh hỗn tạp từ tiếng thét của con quạ đang cản trở phép thuật của chúng ta!"
+"Âm thanh hỗn tạp từ tiếng thét của con quạ đang cản trở pháp thuật của chúng ta!"
 
 "Chuyển sang chỉ dùng các câu chú kích hoạt bằng cử chỉ tay thôi! Nhanh lên!"
 
@@ -128,7 +128,7 @@ Sử dụng lượng mana phù hợp, pháp trận được bố trí chuẩn x�
 
 Đám pháp sư kẻ địch vô cùng kinh ngạc trước đòn phản chú (counterspell) hoàn hảo không một tì vết của Felmenia. Chúng nghiến răng trong nỗi bực bội đầy ghen tị—một minh chứng cho sự thán phục của chúng, ngay cả khi bản thân Felmenia không nhìn nhận theo cách đó.
 
-*Phép thuật thuộc tính hỏa, quang và lôi... Đúng như những gì ngài Suimei đã nói.*
+*Pháp thuật thuộc tính hỏa, quang và lôi... Đúng như những gì Suimei-dono đã nói.*
 
 Suimei đã dự đoán từ trước loại pháp thuật mà đám lính canh sẽ dựa vào: các câu thần chú hệ hỏa nhiệt độ cao với sức công phá bộc phá, các câu thần chú hệ quang có độ xuyên thấu cao, và các câu thần chú hệ lôi năng lượng cao. Mỗi loại đều có thuộc tính riêng, nhưng chúng giống nhau ở chỗ đều được tối ưu hóa cho sức tàn phá tối đa.
 

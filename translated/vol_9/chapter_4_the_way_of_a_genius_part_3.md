@@ -1,4 +1,4 @@
-﻿"Chẳng phải vậy sao? Và rất có thể, ngươi tới tận đây cũng vì ngươi căm ghét điều đó, đúng chứ?"
+"Chẳng phải vậy sao? Và rất có thể, ngươi tới tận đây cũng vì ngươi căm ghét điều đó, đúng chứ?"
 
 Cậu thiếu niên khẽ ngắt lời trong chốc lát, nhưng chẳng buồn đợi câu trả lời từ Hydemary.
 
@@ -100,7 +100,7 @@ Hydemary rất có thể đã hoảng loạn khi biết về đối tượng c�
 
 "Như vậy có thực sự ổn không? Ý tớ là, việc không ưu tiên cứu tiểu thư Mary trước ấy," Lefille hỏi.
 
-"À thì, tớ cũng muốn cứu con bé... Nhưng sẽ là vô nghĩa nếu vị thần đó vẫn được triệu hồi trong lúc chúng ta làm việc ấy. Chúng ta sẽ chẳng thể làm được gì nhiều nếu chỉ có bấy nhiêu người khi việc đồng hóa thành công. Vì thế chúng ta phải xác định rõ thứ tự ưu tiên: mục tiêu đầu tiên là làm suy giảm quân số của chúng."
+"À thì, tôi cũng muốn cứu con bé... Nhưng sẽ là vô nghĩa nếu vị thần đó vẫn được triệu hồi trong lúc chúng ta làm việc ấy. Chúng ta sẽ chẳng thể làm được gì nhiều nếu chỉ có bấy nhiêu người khi việc đồng hóa thành công. Vì thế chúng ta phải xác định rõ thứ tự ưu tiên: mục tiêu đầu tiên là làm suy giảm quân số của chúng."
 
 "Đã hiểu. Cứ giao việc đó cho chúng tớ."
 
