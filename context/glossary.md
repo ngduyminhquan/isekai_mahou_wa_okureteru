@@ -110,3 +110,6 @@
 - Rebound: Phản thệ (Rebound)
 - Alphard Nine: Alphard Chín / Alphard Nine (Vị trí trong Hội Ngàn Đêm)
 - Enclosure-type illusion barrier: Kết giới ảo ảnh giam giữ (Enclosure-type illusion barrier)
+
+- Akashic Records: Biên niên sử Akashic
+- Meister: Meister (Thầy / Người chế tạo)
