@@ -103,3 +103,11 @@
 ## 26. Suimei - Saix Ruger
 - **Quan hệ**: Người Thực Thi (Enforcer) - Tội phạm (Mục tiêu bắt giữ).
 - **Xưng hô (Tiếng Việt)**: Tao - Mày. Saix lúc đầu kiêu ngạo gọi "mày", Suimei đáp trả lạnh lùng "tao-mày".
+
+## 27. Suimei - Annaliese
+- **Quan hệ**: Khách - Con gái chủ nhà.
+- **Xưng hô (Tiếng Việt)**: Tôi - Cô. Annaliese gọi Suimei là "Suimei-sama" và xưng "Tôi".
+
+## 28. Edgar Alzbayne - Annaliese
+- **Quan hệ**: Cha - Con gái (Người sáng tạo - Búp bê).
+- **Xưng hô (Tiếng Việt)**: Annaliese gọi Edgar là "Cha".

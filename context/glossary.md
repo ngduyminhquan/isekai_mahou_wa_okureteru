@@ -117,3 +117,6 @@
 - Vorpal Sword: Kiếm Vorpal (Vorpal Sword)
 - Vanity Cutter: Trảm Phá Hư Vô (Vanity Cutter)
 - Ancient map: Bản đồ cổ
+- Annaliese: Annaliese
+- Alzbayne Clockwork Doll Workshop: Xưởng Búp Bê Dây Cót Alzbayne
+- Bisque doll: Búp bê bisque / Búp bê sứ không tráng men

@@ -107,3 +107,7 @@
 ## 28. Saix Ruger
 - **Đặc điểm**: Thủ lĩnh của nhóm pháp sư kẻ địch, cựu thành viên cấp cao vị trí thứ 9 (Alphard Nine) của Hội Ngàn Đêm (Thousand Nights Association). Kẻ đã xúi giục và thao túng tên homunculus tóc vàng.
 - **Giọng văn/Tính cách**: Xảo quyệt, kiêu ngạo và hay chế nhạo kẻ khác, nhưng hèn nhát khi đối mặt với sức mạnh áp đảo.
+
+## 29. Annaliese
+- **Đặc điểm**: Một trong những cô con gái của Edgar Alzbayne (có khả năng cao là một automaton/búp bê). Cô có mái tóc nâu nhạt xõa ngang lưng, mặc váy tạp dề xinh xắn, biểu cảm có phần trong suốt và lạnh lùng.
+- **Giọng văn/Tính cách**: Lịch sự, tao nhã nhưng thỉnh thoảng nói những lời trêu chọc một cách tinh tế.
