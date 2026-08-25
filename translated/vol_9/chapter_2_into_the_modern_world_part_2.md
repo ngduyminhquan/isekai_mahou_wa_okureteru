@@ -60,11 +60,11 @@ Hai người họ tiếp tục cãi vã nhau thêm một lúc nữa, nhưng khi 
 
 Lefille nhướn một bên lông mày khi nghe thấy điều này.
 
-"Tôi không thể mặc bộ quần áo này đi dạo bên ngoài được sao?" cô hỏi.
+"Tớ không thể mặc bộ quần áo này đi dạo bên ngoài được sao?" cô hỏi.
 
 "Không phải là cậu không thể," Suimei đáp.
 
-"Ý cậu là chúng ta sẽ quá nổi bật chứ gì?" Felmenia chen vào.
+"Ý ngài Suimei là chúng ta sẽ quá nổi bật chứ gì?" Felmenia chen vào.
 
 "Đúng thế." Suimei trả lời. "Liliana... thì có thể xoay sở được. Nhưng còn hai người, quần áo của hai người gần như đang hét lên 'đến từ thế giới khác' vậy. Tớ nghĩ những bộ đồ đơn giản như quần jean hoặc váy sẽ ổn thôi. Tuy nhiên, nếu hai người thực sự muốn đầu tư vào việc trở nên sành điệu, chúng ta có thể dành riêng một ngày để đi mua sắm."
 
