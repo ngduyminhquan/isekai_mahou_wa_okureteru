@@ -104,3 +104,6 @@
 - **Đặc điểm**: Một homunculus trong hình hài thiếu niên độ tuổi 15-16, tóc vàng ngắn kiểu đầu bob, diện mạo thiên thần như bước ra từ tranh vẽ. Mặc áo choàng trắng và khăn stola như một giáo sĩ. Là mục tiêu của yêu cầu thực thi, kẻ chủ mưu đứng sau việc chuốc thuốc và thao túng tín đồ để triệu hồi và đồng hóa thần tính nhằm thoát khỏi "nghịch lý của homunculus".
 - **Giọng văn/Tính cách**: Lịch thiệp, điềm tĩnh nhưng kiêu ngạo, tăm tối và đầy toan tính; luôn gọi Hydemary là "cô bé homunculus".
 
+## 28. Saix Ruger
+- **Đặc điểm**: Thủ lĩnh của nhóm pháp sư kẻ địch, cựu thành viên cấp cao vị trí thứ 9 (Alphard Nine) của Hội Ngàn Đêm (Thousand Nights Association). Kẻ đã xúi giục và thao túng tên homunculus tóc vàng.
+- **Giọng văn/Tính cách**: Xảo quyệt, kiêu ngạo và hay chế nhạo kẻ khác, nhưng hèn nhát khi đối mặt với sức mạnh áp đảo.

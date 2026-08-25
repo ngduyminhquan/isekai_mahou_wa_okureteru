@@ -108,3 +108,5 @@
 - Contagion magicka: Pháp thuật truyền nhiễm (Contagion magicka)
 - Manafield vibration: Đợt chấn động trường mana (Manafield vibration)
 - Rebound: Phản thệ (Rebound)
+- Alphard Nine: Alphard Chín / Alphard Nine (Vị trí trong Hội Ngàn Đêm)
+- Enclosure-type illusion barrier: Kết giới ảo ảnh giam giữ (Enclosure-type illusion barrier)

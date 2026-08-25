@@ -100,4 +100,6 @@
 - **Quan hệ**: Khách dị giới - Người hướng dẫn / Bạn đồng hành. Cả ba cô gái đều rất biết ơn sự chăm sóc tận tình của Hydemary kể từ khi đến thế giới này và sẵn sàng chiến đấu để giải cứu cô bé.
 - **Xưng hô (Tiếng Việt)**: Felmenia gọi "Mary-dono" (tiểu thư Mary); Lefille gọi "tiểu thư Mary" (Lady Mary); Liliana gọi "Mary" / "Hydemary".
 
-
+## 26. Suimei - Saix Ruger
+- **Quan hệ**: Người Thực Thi (Enforcer) - Tội phạm (Mục tiêu bắt giữ).
+- **Xưng hô (Tiếng Việt)**: Tao - Mày. Saix lúc đầu kiêu ngạo gọi "mày", Suimei đáp trả lạnh lùng "tao-mày".
