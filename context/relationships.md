@@ -1,140 +1,21 @@
-# Relationships - Mối quan hệ & Xưng hô (Volume 1 & 2)
+# Relationships - Mối quan hệ và Xưng hô
 
-Quy tắc xưng hô và đại từ trong hội thoại giữa các nhân vật chính. Cần tuân thủ nhất quán suốt bản dịch.
+## 1. Suimei - Reiji
+- **Quan hệ**: Bạn thân từ thế giới cũ.
+- **Xưng hô (Tiếng Việt)**: Tớ - Cậu / Tôi - Cậu (tùy ngữ cảnh).
 
----
+## 2. Suimei - Mizuki
+- **Quan hệ**: Bạn bè.
+- **Xưng hô (Tiếng Việt)**: Tớ - Cậu / Tôi - Cô.
 
-## 1. Bảng ma trận xưng hô (Pronoun Matrix)
+## 3. Reiji - Mizuki
+- **Quan hệ**: Bạn bè / Hơi có tình cảm.
+- **Xưng hô (Tiếng Việt)**: Tớ - Cậu.
 
-| | Nhân vật A | Nhân vật B | A gọi B | B gọi A | Ngữ cảnh & Lưu ý | |
-| | :--- | :--- | :--- | :--- | :--- | |
-| | **Suimei** | **Reiji** | Cậu / Ông | Cậu / Tớ | Bạn thân từ Trái Đất. Xưng hô tự nhiên, thân thiết. | |
-| | **Suimei** | **Mizuki** | Cậu / Mizuki | Cậu / Suimei-kun | Bạn học cùng lớp. Xưng hô thân mật tuổi học trò. | |
-| | **Reiji** | **Mizuki** | Cậu / Mizuki | Cậu / Reiji-kun | Bạn học cùng lớp. | |
-| | **Suimei** | **Felmenia** *(Trước trận đấu)* | Cô / Tiểu thư pháp sư (xưng Tôi) | Cậu / Ngài (Suimei-dono) | Felmenia bề ngoài giữ lễ nghi nhưng dễ mất bình tĩnh mắng Suimei là "tên khốn / đồ tồi". Ở Chapter 2, cô bắt đầu đỏ mặt ngượng ngùng dữ dội khi chạm trán vì được Suimei lau mặt & khen dễ thương. Dẫu vậy, cô vẫn nghi kỵ cậu, tự ý đặt bẫy rối tự động; Suimei phát hiện và quyết định "đáp lễ". | |
-| | **Suimei** | **Felmenia** *(Sau trận đấu)* | Cô / Felmenia (xưng Tôi) | Ngài Suimei (Suimei-dono) | Felmenia hoàn toàn phục tùng và kính sợ Suimei. Gọi Suimei là "Ngài" (xưng "Tôi" hoặc "Kẻ hèn này"). Trong các đoạn cúi đầu trang trọng hoặc xin lỗi chân thành, cô xưng "Thần". | |
-| | **Suimei** | **Titania (Tia)** | Cô / Tia (Từ Ch.4) | Suimei / Suimei-san (Từ Ch.4) | Suimei giữ khoảng cách lịch sự lúc đầu. Ở Chapter 4 - Part 4, cả hai đồng ý xưng hô thân mật ("Tia - Suimei") để chính thức trở thành bạn bè thân thiết. | |
-| | **Reiji** | **Titania (Tia)** | Công chúa Titania / Tia | Ngài Anh hùng / Ngài Reiji | Tiến triển thân thiết hơn ở Chapter 2. Reiji gọi cô bằng biệt danh "Tia", Tia tôn sùng Reiji là vị cứu tinh. | |
-| | **Mizuki** | **Titania (Tia)** | Tia / Công chúa Titania | Cô Mizuki | Lịch sự giữa hai cô gái. Xuất hiện sự cạnh tranh và ghen tị âm thầm từ Mizuki khi thấy Tia bám sát Reiji ở Chapter 2. | |
-| | **Vua Almadious** | **Suimei** | Suimei-dono / Cậu | Bệ hạ / Người | Suimei từ chối làm Anh hùng nên lúc đầu Vua không hài lòng. Ở Chapter 2, Vua thấu hiểu và muốn nhắm mắt làm ngơ. Ở Chapter 3, sau cuộc đối chất riêng tư, cả hai đạt được sự đồng thuận: Suimei hé lộ thân phận ma thuật sư và kế hoạch âm thầm giải mã ma pháp trận để tìm đường về cho cả nhóm; Vua tôn trọng sự lựa chọn của Suimei và giữ kín bí mật cho cậu. Suimei xưng "thần", gọi Vua là "Bệ hạ/Người". | |
-| | **Vua Almadious** | **Reiji** | Ngài Anh hùng / Reiji-dono | Bệ hạ | Vua tôn trọng Anh hùng; Reiji tôn trọng Vua. | |
-| | **Gless Dillez** | **Nhóm Suimei** | Các vị khách / Anh hùng | Ngài Thừa tướng | Quan hệ ngoại giao trang trọng. | |
-| | **Reiji** | **Felmenia** | Cô Felmenia / Cô giáo / Felmenia-san | Ngài Anh hùng / Ngài Reiji | Felmenia kính nể và có phần ngưỡng mộ Anh hùng Reiji, còn Reiji cư xử lịch thiệp. Từ cuối Chương 1 - Phần 5, Reiji bắt đầu gọi cô là "Cô giáo" (Sensei) sau khi được cô nhận làm học trò. | |
-| | **Mizuki** | **Felmenia** | Cô / Cô giáo | Cô Mizuki | Mizuki tôn trọng Felmenia và xin học ma pháp từ cô ở cuối Chương 1 - Phần 5. Felmenia cư xử nhã nhặn, lịch sự với bạn của Anh hùng. | |
-| | **Felmenia** | **Titania (Tia)** | Điện hạ / Công chúa | Ngài Bạch Hỏa / Tiểu thư Stingray | Quan hệ chủ tớ hoàng gia tôn quý. Titania coi trọng năng lực của Felmenia, còn Felmenia trung thành tuyệt đối. | |
-| | **Suimei** | **Sebastian Kran** | Ông / Sebastian Kran | Cậu / Ngươi | Suimei đối thoại trịch thượng, mỉa mai kẻ thủ ác. Kran gọi Suimei là cậu/ngươi và xưng ta/tôi, thể hiện sự coi thường lúc đầu và hoảng loạn sau đó. | |
-| | **Felmenia** | **Sebastian Kran** | Ngươi / Tên khốn | Stingray / Con ranh ngu ngốc / Nó | Felmenia cực kỳ phẫn nộ vì bị Kran lừa gạt. Kran đố kỵ Felmenia, gọi cô là con nhóc ngu ngốc ở sau lưng. | |
-| | **Suimei** | **Rikus / Enmarph** | Tôi / Các anh | Thằng nhãi / Mày | Rikus và Enmarph coi thường và hách dịch với Suimei. Suimei đáp trả một cách thản nhiên, không kiêng nể. | |
-| | **Lefille** | **Felmenia** | Cậu / Felmenia (hoặc Menia) | Cậu / Lefille (hoặc Lefi) | Cả hai là đồng đội và bạn bè ngày càng gắn bó. Đã chuyển sang xưng hô thân thiết và gần gũi hơn (xưng "tôi - cậu"). | |
-| | **Graziella** | **Elliot** | Ngươi / Tên khốn / Tên anh hùng khốn kiếp | Điện hạ / Người | Công chúa kiêu ngạo, hống hách, gọi Elliot là tên khốn. Elliot vẫn giữ phép lịch sự bề ngoài dù rất chán ghét. | |
-| | **Graziella** | **Suimei** | Ngươi / Tên khốn | Cô / Con ranh ngu ngốc | Graziella kiêu ngạo áp đặt và khinh thường. Suimei đáp trả thô bạo, chửi thẳng mặt cô là con ranh con, không nể nang. | |
+## 4. Alshuna - Các tinh linh/thuộc hạ
+- **Quan hệ**: Nữ thần - Tôi tớ.
+- **Xưng hô (Tiếng Việt)**: Ta - Ngươi.
 
----
-
-## 2. Trạng thái mối quan hệ hiện tại (Cập nhật đến Volume 4)
-
-- **Suimei <-> Reiji & Mizuki**: Suimei giữ kín thân phận ma thuật sư để bảo vệ bạn bè. Reiji tin tưởng tuyệt đối vào khả năng sinh tồn của Suimei. Mizuki đôi lúc cãi vã, ghen tị nhưng vẫn xem Suimei là bạn tốt. Cả ba xưng hô tự nhiên, thân thiết (Cậu - Tớ / Ông / Mizuki).
-- **Suimei <-> Felmenia (Menia)**: Felmenia đã từ chức Pháp sư Hoàng gia để đi theo Suimei, vô cùng sùng bái và dành tình yêu sâu đậm cho cậu. Suimei tin tưởng cô, gọi bằng biệt danh "Menia". Felmenia gọi cậu là "Ngài Suimei".
-- **Suimei <-> Titania (Tia)**: Cả hai là bạn bè thân thiết, đồng ý gạt bỏ lễ nghi hoàng gia để xưng hô bằng biệt danh thân mật (Tia - Suimei).
-- **Suimei <-> Lefille (Lefi)**: Trở thành đồng đội gắn bó sau nhiều biến cố. Lefille chủ động yêu cầu xưng hô suồng sã và ép Suimei gọi mình bằng biệt danh "Lefi". Xưng hô (Tôi - Cậu).
-- **Lefille <-> Felmenia**: Là đồng đội và bạn bè, quan hệ ngày càng gắn bó. Xưng hô gần gũi (Tôi - Cậu) và gọi tên/biệt danh (Lefi - Menia).
-- **Suimei <-> Liliana**: Từ Volume 4 Chapter 2, sau khi được Suimei cứu, Liliana đã thay đổi thái độ, trở nên mở lòng và biết ơn cậu. Xưng hô của Liliana thay đổi từ (Ta - Ngươi) sang (Tôi - Anh). Suimei vẫn xưng hô (Tôi - Cô).
-- **Suimei <-> Vua Almadious**: Có sự thấu hiểu ngầm; nhà vua tôn trọng và giữ bí mật về ma thuật sư của Suimei, Suimei đáp lại bằng thái độ kính trọng (Thần - Bệ hạ).
-- **Graziella <-> Suimei/Elliot**: Graziella mang phong thái kiêu ngạo, áp đặt, coi thường cả Suimei lẫn Elliot (xưng "Ta", gọi "Ngươi/tên khốn"). Suimei không nể nang, đáp trả gay gắt; trong khi Elliot miễn cưỡng giữ phép lịch sự bề ngoài.
-- **Graziella <-> Reiji**: Graziella có cái nhìn khá thiện cảm với Reiji sau sự việc ở bang tự trị (Volume 7) và đã theo thần dụ gia nhập tổ đội của cậu. Reiji đối xử với cô thân thiện và đóng vai trò người hòa giải để xoa dịu những cuộc cãi vã.
-- **Romeon <-> Suimei/Felmenia**: Romeon quan tâm hỏi han (xưng "Tôi", gọi "Cậu Yakagi / Cô Stingray"). Suimei lịch sự từ chối ("Tôi - Anh thủ thư"). Felmenia tôn trọng ("Tôi - Ngài Romeon").
-- **Rogue Zandyke <-> Gottfried**: Gottfried tiếp cận Rogue với lời đề nghị hợp tác lật đổ Nữ thần, hứa sẽ dọn dẹp những kẻ đe dọa Liliana. Gottfried tỏ ra lịch sự nhưng đầy tự tin (xưng "Tôi", gọi "Zandyke-dono / Ngài"). Rogue ban đầu cảnh giác, tra hỏi (xưng "Ta", gọi "Ngươi"), nhưng sau đó xuôi theo thỏa thuận và trở thành một Sứ đồ Vạn vật (Universal Apostle) thề dâng thanh kiếm cho Gottfried.
-- **Suimei <-> Io Kuzami (Tinh linh)**: Ở cuối Volume 6, Suimei phát hiện Io Kuzami là một tinh linh đang mượn thân xác của Mizuki. Cậu nghi ngờ, cảnh giác (xưng "Tôi", gọi "Cô/Ngươi" tùy tình huống), trong khi Io Kuzami tỏ ra cợt nhả, thích trêu chọc và thỉnh thoảng hơi hỗn xược (xưng "Ta", gọi "Ngươi / Cậu / Tên khốn"). Cả hai thống nhất giữ bí mật về sự tồn tại của Io Kuzami với những người khác để bảo vệ Mizuki. Ở Volume 8 Chapter 3 Part 3, Io Kuzami chỉ điểm cho Suimei về việc kiếm của Hadorious dùng thuật nhập hồn (possession) chứ không phải cường hóa ma pháp, sau đó đe dọa Suimei vì thái độ xem nhẹ sự tương trợ của cô.
-- **Suimei <-> Rumeya**: Rumeya coi Suimei như một cậu nhóc thú vị để trêu chọc (xưng "Tôi", gọi "Cậu / Cậu bé hư hỏng"). Suimei có chút cảnh giác nhưng vẫn giữ lịch sự tối thiểu (xưng "Tôi", gọi "Bà / Rumeya-dono").
-
-### Nhóm Anh hùng của Liên minh Saadias (Hatsumi's Party)
-- **Hatsumi <-> Selphy**: Bạn bè thân thiết, đồng đội vào sinh ra tử. Xưng hô hoàn toàn tự nhiên và thân mật (Cậu - Tớ).
-- **Hatsumi <-> Gaius**: Gaius là một võ sư lớn tuổi, ăn nói suồng sã, dân dã (xưng "Tôi", gọi Hatsumi bằng tên hoặc "Cô"). Dù hay trêu đùa gọi Hatsumi là "Vị anh hùng ngủ nướng", ông vẫn rất tin tưởng cô. Hatsumi tôn trọng nhưng đối đáp bình đẳng (xưng "Tôi", gọi "Ông / Gaius").
-- **Hatsumi <-> Weitzer**: Weitzer là hoàng tử luôn giữ phép tắc, ăn nói cực kì trang trọng và tôn kính Hatsumi (xưng "Tôi", gọi "Anh hùng-dono / Ngài"). Hatsumi cư xử bình đẳng nhưng thân thiện (xưng "Tôi", gọi "Cậu").
-- **Gaius <-> Weitzer**: Gaius dân dã, thường xuyên trêu chọc hoàng tử (xưng "Tôi", gọi "Cậu"). Weitzer đôi lúc khó chịu trước thái độ thiếu lễ độ của Gaius nhưng vẫn giữ phép lịch sự bề ngoài (xưng "Tôi", gọi "Ông").
-
-### Mauhario
-- **Với Kuchiba Hatsumi**: Coi là kẻ thù cần tiêu diệt để dâng đầu cho Nakshatra. Gọi cô là "Anh hùng của Liên minh" với thái độ khinh miệt và căm thù.
-- **Với Nakshatra**: Cuồng tín, gọi là "Ngài Nakshatra" (Nakshatra-sama).
-
-### Tương tác với Hatsumi's Party (Volume 5)
-- **Suimei <-> Hatsumi (Mất trí nhớ)**: Suimei cố gắng tiếp cận với tư cách bạn thuở nhỏ (thực chất là anh em họ) (xưng "Tớ", gọi "Cậu"). Hatsumi bước đầu tin tưởng Suimei khi biết cậu là người thân từ thế giới cũ nhưng vẫn giữ thái độ cảnh giác (xưng "Tôi", gọi "Cậu").
-- **Suimei <-> Gaius**: Gaius xem Suimei là một tên nhóc thú vị nhưng đáng ngờ (xưng "Tôi", gọi "Nhóc / Cậu"). Suimei đáp trả một cách thoải mái, dân dã (xưng "Tôi", gọi "Lão già / Ông").
-- **Suimei <-> Weitzer**: Weitzer coi Suimei là kẻ thù xâm phạm tôn nghiêm của Anh hùng, thái độ lạnh lùng, sắc bén (xưng "Ta" (hoặc ẩn danh), gọi "Ngươi / Tên vô lại"). Suimei giữ thái độ bình tĩnh, có phần nhượng bộ nhưng không sợ hãi (xưng "Tôi", gọi "Anh / Hoàng tử").
-- **Eanru <-> Suimei**: Eanru ban đầu coi thường và muốn giết Suimei vì nghĩ cậu là kẻ yếu đuối nhát gan (xưng "Ta", gọi "Ngươi / Tên khốn"). Sau khi Suimei đỡ được đòn tấn công, Eanru trở nên phấn khích cuồng độ, công nhận sức mạnh và sự dũng cảm của Suimei. Suimei tỏ ra run rẩy, sợ hãi trước sát khí áp đảo của Eanru.
-- **Eanru <-> Hatsumi**: Eanru phớt lờ Hatsumi dù cô là Anh hùng, chỉ xem cô như một chiến lợi phẩm và tuyên bố sẽ bắt cô đi (xưng "Ta", gọi "Cô"). Hatsumi cảnh giác và hoang mang trước sức mạnh của hắn.
-
-### Nhóm của Clarissa (Volume 5)
-- **Clarissa <-> Jillbert**: Quen biết từ lâu, thân thiết. Clarissa lịch sự, kiểu cách nhưng thân thiện (xưng "Tôi", gọi "Cô / Jill"). Jillbert dân dã, đôi khi cộc cằn nhưng quan tâm (xưng "Tớ", gọi "Cậu / Clara"). Cả hai đều có chung bí mật về "bóng tối".
-- **Eanru <-> Clarissa/Jillbert**: Eanru xuề xòa, thân thiện, hay bị Jillbert mắng vì không biết đọc bầu không khí (xưng "Tôi", gọi "Hai người"). Jillbert tỏ ra bực bội nhưng vẫn nói chuyện bình thường (gọi "Ngươi / Tên rồng / Con rồng kia"). Clarissa giao tiếp lịch sự nhưng trực tiếp với Eanru (xưng "Tôi").
-
-### Lực lượng của Ma Vương Nakshatra
-- **Nakshatra <-> Vuishta / Ilzarl / Latora**: Bề trên / Kẻ dưới. Các Ma Tướng gọi Nakshatra là "Your Majesty / Bệ hạ" và xưng "Thần". Nakshatra xưng "Ta", gọi bề tôi là "Ngươi" hoặc tên.
-- **Ilzarl <-> Vuishta**: Ilzarl khinh bỉ Vuishta vì đã lợi dụng cái chết của Mauhario làm mồi nhử (xưng "Ta", gọi "Ngươi / Tên khốn"). Vuishta không bận tâm, chỉ cười cợt nhả.
-- **Latora <-> Vuishta**: Latora nghi ngờ khả năng của Vuishta, thích cách hành quyết tàn bạo. Vuishta tự tin đáp trả.
-- **Khối thịt <-> Vuishta**: Khối thịt thường xuyên mỉa mai, nói móc Vuishta vì thói ngạo mạn. Vuishta phớt lờ.
-- **Vuishta <-> Suimei / Hatsumi**: Vuishta kiêu ngạo, coi thường con người (xưng "Ta", gọi "Ngươi"). Suimei đáp trả bằng thái độ cợt nhả, không kiêng nể (xưng "Ta" hoặc "Tôi", gọi "Ngươi"). Hatsumi (Anh hùng) bị Vuishta mỉa mai và căm ghét.
-
-### Nhóm của Reiji (Tại Giáo hội Cứu thế)
-- **Faylia <-> Reiji**: Faylia giữ thái độ lịch sự, tao nhã nhưng đôi lúc cũng trêu đùa tinh nghịch (xưng "Tôi", gọi "Ngài / Ngài Anh hùng"). Reiji đáp lại bằng sự lịch thiệp, thân thiện và sảng khoái (xưng "Tôi", gọi "Cô").
-
-| | **Suimei** | **Clarissa** | Cậu / Suimei-sama | Chị gái / Cô | Clarissa giữ thái độ kiểu cách, gọi Suimei là ngài/sama. Suimei đáp trả lạnh nhạt và gọi cô là 'Chị gái' (Sister) một cách mỉa mai. | |
-| | **Suimei** | **Jillbert** | Cậu | Cô | Jillbert nói chuyện cộc cằn, dân dã. Suimei cũng không kiêng nể mà đáp trả trực diện. | |
-| | **Gorgan** | **Reanat / Graziella** | Thần | Hai vị Điện hạ / Điện hạ | Gorgan giữ thái độ vô cùng tôn kính và trung thành tuyệt đối với các thành viên hoàng tộc Đế quốc, xưng "thần". | |
-
-- **Aerith <-> Liliana**: Aerith rất ghét và đố kỵ với Liliana do bị chiếm đoạt danh hiệu thành viên trẻ nhất của Thập Nhị Tinh Anh. Liliana luôn giữ thái độ dửng dưng, bình thản trước mọi lời lăng mạ của Aerith. Xưng hô: Aerith gọi "ngươi", "con ranh ngốc nghếch"; Liliana xưng "tôi".
-- **Aerith <-> Gorgan**: Aerith kính trọng Gorgan. Gorgan (Thống lĩnh) gọi "ngươi", xưng "ta" (hoặc theo quyền hạn). Aerith gọi "Chỉ huy", xưng "tôi".
-- **Aerith <-> Slane**: Slane có vẻ ngoài cợt nhả, gọi Aerith là "Tiền bối". Aerith không ưa gì hắn ta.
-
-### Reanat Filas Rieseld
-- **Với Graziella (Lyla)**: Gọi Graziella là "Lyla" một cách thân mật, có vẻ như Graziella rất tôn trọng và bảo vệ anh.
-- **Với Grallajearus / Quỷ**: Lạnh lùng, sẵn sàng dùng vũ lực để tra khảo (xưng "Ta", gọi "Ngươi").
-
-### Lishbaum / Kudrack the Ghosthide
-- **Với Reiji**: Lishbaum cư xử một cách vô cùng lịch thiệp và quý phái bất thường đối với kẻ thù (xưng "Tôi", gọi "Ngài"). Tỏ ra trân trọng việc Reiji đạt được "ánh quang xanh lam".
-- **Với Suimei**: Kẻ thù truyền kiếp từ Trái Đất. Suimei căm thù tư tưởng điên rồ và sự tàn độc của Kudrack (xưng "Ta/Tao", gọi "Kudrack / Thằng khốn"). Kudrack coi Suimei là đối thủ xứng tầm khó từ bỏ nhất (xưng "Ta", gọi "Starfall / Tinh Lạc", "Yakagi Suimei").
-- **Với loài quỷ (Ilzarl / Grallajearus)**: Coi loài quỷ chỉ là công cụ và rác rưởi cần được dọn chỗ sau khi hết giá trị sử dụng. Thản nhiên thủ tiêu Grallajearus bằng Phase Severance.
-
-### Moolah (Ma Tướng Moolah)
-- **Với Ma Vương Nakshatra**: Trung thành tuyệt đối, phục tùng vô điều kiện (xưng "Thần", gọi "Bệ hạ / Chúa tể / Lord Nakshatra").
-- **Với Lishbaum**: Cực kỳ cảnh giác, nghi ngờ những âm mưu ngầm và việc hắn cố tình cắt giảm số lượng quỷ (xưng "Ta", gọi "Ngươi / Tên khốn").
-- **Với Latora**: Không hài lòng trước thái độ cợt nhả, suồng sã của Latora đối với Ma Vương, nhưng chấp nhận nhượng bộ khi Nakshatra cho phép.
-- **Với Ilzarl**: Tôn trọng lẫn nhau dựa trên nguyên tắc kẻ mạnh dẫn đầu.
-
-### Rogue Zandyke (Volume 8)
-- **Rogue Zandyke <-> Kuchiba Hatsumi**: Cả hai đối đầu trong dinh thự Hadorious. Rogue là kiếm sư dày dạn kinh nghiệm, nương tay và thử tài kiếm thuật của Hatsumi (xưng "Ta", gọi "Anh hùng-dono / Cô"). Hatsumi tôn trọng tinh thần võ đạo của Rogue, quyết tâm so tài đỉnh cao (xưng "Tôi", gọi "Ông").
-- **Liliana <-> Rogue Zandyke**: Liliana nhạy bén nhận ra sự hiện diện và phong vị ma thuật quen thuộc của cha nuôi trong dinh thự Hadorious, luôn đau đáu nỗi nhớ ông nhưng cố nén lại vì nhiệm vụ giải cứu anh hùng.
-
-### Elliot Austin (Volume 8)
-- **Suimei <-> Elliot Austin**: Suimei mỉa mai, không kiêng nể thái độ cao ngạo, hư vô của Elliot (xưng "Tôi", gọi "Cậu"). Elliot giữ nụ cười hư vô và cách nói chuyện kiểu cách, khoa trương (xưng "Tôi", gọi "Cậu / Các người").
-- **Titania <-> Elliot Austin**: Titania lịch thiệp nhưng nghiêm túc, sẵn sàng bênh vực Giáo hội Cứu thế và căm phẫn khi Elliot bị đem ra làm con tin cùng nữ tư tế Christa (xưng "Tôi", gọi "Elliot-dono"). Elliot kính trọng công chúa hoàng gia (xưng "Tôi", gọi "Công chúa Titania / Princess Titania").
-- **Công tước Lucas de Hadorious <-> Elliot / Titania**: Giam lỏng Elliot trong dinh thự nhưng đối đãi tử tế như khách quý. Ra lệnh cho người hầu không được giấu giếm bất cứ điều gì và không được ngăn cản nếu Công chúa Titania tới giải cứu. Titania căm ghét mưu đồ của ông ta nhưng đánh giá khách quan thực lực kiếm thuật đỉnh cao của ông.
-- **Công tước Lucas de Hadorious <-> Reiji**: Đối đầu trực diện tại sân trong. Hadorious dùng kiếm vũ và thực lực áp đảo ép Reiji vào thế phòng thủ, chê trách kiếm thuật của Reiji còn non nớt và ví sự bảo hộ của Nữ thần chỉ là lớp mạ ngoài dễ vỡ. Ông vạch trần việc các Anh hùng và Ma Tướng chỉ là quân cờ trên bàn cờ của Nữ thần và Ác Thần (xưng "Ta", gọi "Anh hùng-dono / Cậu"). Reiji kiên quyết bảo vệ ý chí tự do của mình (xưng "Tôi", gọi "Ông").
-- **Công tước Lucas de Hadorious <-> Io Kuzami**: Io Kuzami can thiệp ngăn Hadorious thao túng tâm lý Reiji, gọi ông là "con người" với thái độ khinh miệt (xưng "Ta", gọi "Con người"). Hadorious nhanh chóng nhận ra thân phận tinh linh của cô và dùng viên đá quý áp chế/hất văng cô.
-- **Suimei <-> Công tước Lucas de Hadorious**: Suimei bất ngờ xuất hiện từ hư không trong sự tĩnh lặng tuyệt đối, ném đá can thiệp giải cứu Reiji ngay khi Hadorious chuẩn bị hạ đòn kết liễu. Ở Part 2, Suimei hé lộ thân phận ma thuật sư của Hội Bác Học (kẻ đã tiêu diệt Rajas), dùng Oanh Kích Chiến Lược (Strategic Bombing) và bộc phát ma lực áp đảo toàn bộ đám tư binh, chính thức thay thế Reiji đối đầu trực diện với Hadorious. Ở Part 3, Suimei dùng thanh kiếm thủy ngân và phát hiện Hadorious kết hợp thuật nhập hồn (possession) đưa tàn ảnh Tinh linh vào kiếm để phá vỡ thành lũy bí thuật; cậu dùng câu chú trục xuất linh hồn và búng tay (strike magicka) đánh bạt Hadorious, rồi dùng bí thuật trị liệu hồi phục cho Reiji để cùng song đấu 2 chọi 1 với Hadorious đang bộc phát toàn bộ chiến ý ngút trời. Suimei xưng hô thoải mái, mỉa mai và khiêu khích (xưng "Tôi", gọi "Ông / Đại quý tộc tai to mặt lớn"); Hadorious kinh ngạc nhưng nhanh chóng lấy lại sự điềm tĩnh và quyết tâm hạ gục Suimei (xưng "Ta", gọi "Yakagi Suimei / Ngươi").
-- **Suimei <-> Anou Mizuki / Io Kuzami (Volume 8 Chapter 3 Part 4)**: Ngay giữa trận chiến với con golem màu đen khổng lồ, Io Kuzami đột ngột thoái lui và trao lại quyền kiểm soát thân xác cho Anou Mizuki. Mizuki hoang mang vì ký ức bị đứt đoạn, nhưng ngay lập tức bộc phát tâm hồn chuunibyou khi nhìn thấy Suimei trong bộ âu phục măng tô đen và thi triển đại bí thuật lửa Ashurbanipal. Suimei dùng bí thuật bế bổng cô để né đòn golem, mắng cô vì tính huyên thuyên không đúng lúc nhưng vẫn kiên nhẫn giảng giải nguồn gốc mật ngữ tiếng Hebrew 'מת–אל' (Chúa đã chết) và sự lỗi thời của mẹo 'emet/met' truyền thống.
-
-
-- **Suimei <-> Reiji & Mizuki (Volume 8 Chapter 3 Part 5)**: Sau khi Reiji tấn công golem không hiệu quả, cả ba chụm đầu lập kế hoạch tác chiến. Reiji và Mizuki tin tưởng tuyệt đối giao phó vai trò quân sư chiến thuật cho Suimei như thời xưa. Suimei dùng cành cây làm thước chỉ bảng giảng giải về nguồn gốc golem trong Kinh Cựu Ước, luồng linh khí *ruach* (khác với Chúa Thánh Linh *ruach kadosh*), triết lý 'Chúa đã chết' (Siêu nhân Übermensch của Nietzsche), nguyên lý *hội chứng hoàng hôn* (twilight syndrome) phủ nhận sự bất tử tuyệt đối, và cảnh báo về bẫy ngầm (booby trap) gài trên trán golem. Khi Mizuki thắc mắc tại sao Suimei biết nhiều bí thuật như vậy, Suimei và Reiji cùng gạt đi bảo để sau, khiến cô bé rưng rưng phụng phịu.
-- **Suimei <-> Reiji & Mizuki (Volume 8 Chapter 3 Part 6)**: Suimei dùng hắc ma pháp *Ảo Vọng Phù Du* (Transient Hope) dựa trên nguyên lý *ressentiment* (oán hận của kẻ yếu đối với kẻ mạnh) để phá vỡ tính bất khả chiến bại của Siêu nhân (Übermensch) nơi con golem. Cả hai thể hiện tình đồng đội gắn bó và sự tin tưởng tuyệt đối vào nhau mà không cần ngoái đầu nhìn lại. Reiji chém đứt cánh tay và đâm thanh kiếm orichalcum xuyên lõi con golem, đóng vai trò là hiện thân của đấng tối cao mang phước lành của Nữ thần để kết liễu kẻ phủ nhận thần thánh.
-
-- **Reiji <-> Hiệp sĩ Ryzeia Rubern (Sir Ryzeia Rubern / Cựu chủ nhân của Bí tích)**: Reiji cầu nguyện với Bí tích trong thời khắc quyết định và được đưa vào không gian cội nguồn gặp Ryzeia Rubern. Reiji thành thật cầu xin được dạy cách sử dụng sức mạnh để chiến đấu; Ryzeia than thở nhưng công nhận ý chí chân thành của cậu, dạy câu niệm chú triệu gọi vũ khí và kỹ thuật "Las Shiara Kết Tinh" (Crystallized Las Shiara) của Alpha Strike, đồng thời căn dặn cậu về bản chất của Bí tích (cắt đứt vạn vật trừ mối liên kết giữa con người). Xưng hô: Ryzeia xưng "Ta", gọi "Cậu / Nhóc con / Nhãi ranh", yêu cầu Reiji gọi mình là "Hiệp sĩ Ryzeia" (Sir Ryzeia); Reiji xưng "Tôi", gọi "Ryzeia-san / Hiệp sĩ Ryzeia".
-
-- **Suimei <-> Reiji & Mizuki (Volume 8 Chapter 3 Part 8)**: Reiji quay trở lại thực tại, hô vang câu chú biến Bí tích thành thanh kiếm tinh thể Ishar Cluster phát sáng lôi điện xanh lam và lập tức lao vào dứt điểm con golem. Mizuki hào hứng trước thanh kiếm ngầu lòi nhưng nhanh chóng "bốc khói đầu óc" khi Suimei phân tích thần tốc về việc viên ngọc Lapis Judaicus kết nối cội nguồn có thể vô tình củng cố triết lý Siêu nhân Übermensch của Nietzsche cho con golem nếu không hạ gục nó kịp thời. Reiji kích hoạt kỹ thuật Alpha Strike (Crystallized Las Shiara) tạo nên một ngôi đền/nhà tù tinh thể giam cầm con golem trước sự kinh ngạc của Suimei và Mizuki.
-- **Suimei <-> Gottfried Wilhelm Leibniz (Volume 8 Chapter 3 Part 9)**: Sau khi Reiji tiêu diệt golem, Suimei dùng lễ nghi ma thuật sư cổ điển để mời người đàn ông ảo ảnh lộ diện. Khi ông ta xưng danh là Gottfried Wilhelm Leibniz, Suimei lập tức nhận ra đây là vị tiền bối ma thuật vĩ đại mang biệt danh "nhà triết học đã sử dụng Thượng đế", người kế thừa Đại Nghệ thuật (Ars Magna Raimundi) và truyền bá Nghệ thuật Tổ hợp (Ars Combinatoria), có đẳng cấp sánh ngang Thập Đại Tham Lam (Greed of Ten). Gottfried công nhận Suimei là đệ tử xuất sắc của Ma Thuật Vương Nestahaim nhưng nhận định thực lực hiện tại của cậu chưa đủ để đối đầu với ông, khuyên Suimei hoàn thành việc cần làm và lấy lại sức mạnh ban đầu rồi hẵng đến tìm ông. Xưng hô: Suimei xưng "Tôi", gọi "Ngài"; Gottfried xưng "Ta", gọi "Cậu / Đệ tử của Ma Thuật Vương Nestahaim".
-- **Reiji <-> Gottfried Wilhelm Leibniz (Volume 8 Chapter 3 Part 9)**: Gottfried nhận ra thanh kiếm Bí tích của Hiệp sĩ Ryzeia và tiết lộ cả hai từng cùng được triệu hồi đến thế giới này. Ông khẳng định phe mình không hề hợp tác với loài quỷ hay Ác Thần, đồng thời đưa ra lời cảnh báo đanh thép: nếu Reiji không muốn đánh mất chính mình thì phải nổi dậy chống lại ý chí của Nữ thần. Reiji kiên quyết khẳng định mình chiến đấu bằng ý chí tự do.
-- **Titania <-> Công tước Lucas de Hadorious <-> Gottfried (Volume 8 Chapter 3 Part 9)**: Titania chất vấn Hadorious về việc liên minh với Gottfried có phải là sự phản nghịch chống lại Phụ vương Almadious. Hadorious khẳng định lời thề không bao giờ thờ hai chủ và mãi trung thành duy nhất với Quốc vương Almadious; Gottfried cũng xác nhận nếu ông chĩa kiếm vào nhà vua thì Hadorious sẽ không ngần ngại quay kiếm chém lại ông. Nhận thấy không có cơ sở pháp lý hay lý do chính đáng để trừng phạt công tước (vì Elliot tự nguyện ở lại), Titania cùng nhóm Suimei quyết định rút lui trong hòa bình.
-
-### Epilogue: A Brief Parting (Volume 8 Part 1 & 2)
-- **Suimei <-> Elliot Austin**: Cả hai đấu khẩu qua lại sau khi giải cứu. Elliot chế giễu Suimei ăn nói thô lỗ và chẳng có chút kháng tính nào trước phụ nữ, đồng thời xem việc bị Suimei cứu là sai lầm lớn nhất cuộc đời; Suimei đáp trả gọi Elliot là "anh đẹp trai" (prettyboy) và tuyên bố đôi bên đã huề nợ chuyện ở thủ đô.
-- **Christa <-> Suimei & Reiji**: Christa mặc áo tu sĩ, khiêm nhường cúi đầu cảm tạ sâu sắc cả nhóm vì đã cứu Elliot an toàn trở về.
-- **Graziella <-> Suimei**: Hoàn thành xong nghĩa vụ sau chiến đấu, cô đến ngắm nhìn ma pháp trận hồi quy mà Suimei vẽ, nhanh chóng nhận ra công thức và khen ngợi sự khôn ngoan của Suimei khi thiết lập nhiều cơ chế bảo hiểm để đi lại tự do giữa hai thế giới.
-- **Suimei <-> Felmenia**: Felmenia vui sướng đòi Suimei khen ngợi mỗi ngày một lần vì công lao giúp cậu hoàn thành ma pháp trận hồi quy; Suimei than phiền vì phải cảm ơn cô hàng chục lần mỗi ngày nhưng Felmenia vẫn vui vẻ, hồn nhiên bộc lộ bản tính trẻ con trước mặt mọi người. Cả hai cùng phối hợp kích hoạt ma pháp trận hồi quy để trở về Trái Đất.
-- **Suimei <-> Mizuki**: Mizuki giận dỗi phồng má, mắng Suimei là đồ ngốc/đồ tồi và bắt cậu phải xin lỗi mãi mãi vì đã giấu bí mật ma thuật sư và phũ phàng bác bỏ trái tim chuuni của cô suốt bấy lâu nay. Cô quyết định ở lại cùng Reiji, dặn Suimei phải mang quà lưu niệm về đền bù.
-- **Mizuki <-> Graziella & Titania**: Bị Graziella và Titania vô tình bới móc "lịch sử đen tối chuuni" (black history) về thời còn bị nhập hồn bởi Io Kuzami khiến cô bé quẫn trí sùi bọt mép bất tỉnh; Reiji và Suimei trêu chọc về điệu cười man dại của cô bé.
-- **Suimei <-> Reiji**: Reiji bận tâm về lời cảnh báo của Gottfried (nguy cơ đánh mất chính mình vào tay Nữ thần) và quyết định ở lại dị giới phòng khi có biến cố lớn; Suimei thấu hiểu và tôn trọng quyết định của bạn thân, dặn dò cậu bạn; Reiji chúc Suimei lên đường bảo trọng và phó thác chuyện thế giới hiện đại cho Suimei.
-- **Suimei <-> Lefille**: Lefille ban đầu định ở lại dị giới để vung kiếm luyện tập giải tỏa lo âu, nhưng Suimei kéo cô vào ma pháp trận và thuyết phục cô sang Trái Đất để diện kiến và học hỏi từ Sư phụ Kuchiba Kiyoshiro—đỉnh cao của Võ Giới Bách Kiếm và Tứ Đại Võ Hiền.
-- **Liliana <-> Hatsumi**: Liliana háo hức, mắt sáng lấp lánh khi nghe Hatsumi kể về sở thú, tiệm thú cưng và quán cà phê mèo ở Trái Đất.
-- **Hatsumi <-> Selphy**: Selphy tiễn Hatsumi lên đường trở về Trái Đất; Hatsumi gửi lời chào tới Gaius và Weitzer, hẹn sớm quay lại sau khi giải quyết xong việc bên kia.
-
-
+## 5. Tinh linh (trong cơ thể Mizuki) - Alshuna
+- **Quan hệ**: Bề tôi - Đấng Sáng Thế.
+- **Xưng hô (Tiếng Việt)**: Thần - Người / Đấng Đại Mẫu. (Alshuna gọi là: Ta - Ngươi)
