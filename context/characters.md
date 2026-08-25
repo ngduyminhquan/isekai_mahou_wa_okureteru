@@ -16,3 +16,19 @@
 ## 4. Alshuna
 - **Đặc điểm**: Nữ thần của thế giới này.
 - **Giọng văn/Tính cách**: Trang trọng, quyền uy.
+
+## 5. Felmenia Stingray
+- **Đặc điểm**: Nữ pháp sư từ thế giới khác đi cùng Suimei.
+- **Giọng văn/Tính cách**: Tôn trọng, lịch sự.
+
+## 6. Lefille
+- **Đặc điểm**: Nữ chiến binh/pháp sư từ thế giới khác đi cùng Suimei.
+- **Giọng văn/Tính cách**: Trưởng thành, thân thiện.
+
+## 7. Liliana
+- **Đặc điểm**: Nữ pháp sư từ thế giới khác đi cùng Suimei. Có đôi mắt hay nhắm hờ ngái ngủ.
+- **Giọng văn/Tính cách**: Ngập ngừng, hay nói ngắt quãng.
+
+## 8. Hatsumi Kuchiba
+- **Đặc điểm**: Bạn thời thơ ấu của Suimei từ Trái Đất, sống ở dinh thự Kuchiba ngay cạnh nhà Suimei. Cũng bị cuốn sang thế giới khác và giờ đã trở về.
+- **Giọng văn/Tính cách**: Thân thiết, thẳng thắn, đôi khi mít ướt khi xúc động. Có mái tóc vàng.

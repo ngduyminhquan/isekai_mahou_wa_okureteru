@@ -19,3 +19,19 @@
 ## 5. Tinh linh (trong cơ thể Mizuki) - Alshuna
 - **Quan hệ**: Bề tôi - Đấng Sáng Thế.
 - **Xưng hô (Tiếng Việt)**: Thần - Người / Đấng Đại Mẫu. (Alshuna gọi là: Ta - Ngươi)
+
+## 6. Suimei - Hatsumi
+- **Quan hệ**: Bạn thanh mai trúc mã, hàng xóm sát vách.
+- **Xưng hô (Tiếng Việt)**: Tớ - Cậu.
+
+## 7. Suimei - Felmenia
+- **Quan hệ**: Chủ - Tớ / Bạn đồng hành.
+- **Xưng hô (Tiếng Việt)**: Tớ/Tôi - Cô / Suimei-dono - Ngài Suimei (Felmenia gọi).
+
+## 8. Suimei - Lefille
+- **Quan hệ**: Bạn đồng hành.
+- **Xưng hô (Tiếng Việt)**: Tớ/Tôi - Cậu / Suimei-kun (Lefille gọi).
+
+## 9. Suimei - Liliana
+- **Quan hệ**: Bạn đồng hành.
+- **Xưng hô (Tiếng Việt)**: Tớ/Tôi - Em/Cô.

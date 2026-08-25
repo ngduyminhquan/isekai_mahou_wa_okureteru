@@ -5,10 +5,15 @@
 - Reiji Hanao: Reiji Hanao
 - Mizuki Anou: Mizuki Anou
 - Alshuna: Alshuna
-
+- Felmenia Stingray: Felmenia Stingray
+- Lefille: Lefille
+- Liliana: Liliana
+- Hatsumi Kuchiba: Hatsumi Kuchiba
 ## 2. Địa danh (Locations)
 - Astel: Astel
 - Camellia: Camellia
+- Yakagi: Yakagi (Dinh thự)
+- Kuchiba: Kuchiba (Dinh thự)
 
 ## 3. Thuật ngữ & Kỹ năng (Terms & Skills)
 - Sacrament: Thánh tích / Sacrament
