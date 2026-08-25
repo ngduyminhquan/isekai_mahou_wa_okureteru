@@ -154,6 +154,6 @@ Suimei dừng lại ở đó, nở một nụ cười khá trống rỗng.
 
 Lefille đặc biệt nhíu mày trước lời giải thích của Suimei.
 
-"Nếu thực sự là như vậy, chẳng phải điều đó có nghĩa là Alshuna cũng không phải là một nữ thần thực sự"
+"Nếu thực sự là như vậy, chẳng phải điều đó có nghĩa là Alshuna cũng không phải là một nữ thần thực sự..."
 
 [<< Phần trước](chapter_3_to_the_society_part_8.md) | [Phần tiếp theo >>](chapter_4_the_way_of_a_genius_part_2.md)

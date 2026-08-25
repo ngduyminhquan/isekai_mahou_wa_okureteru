@@ -100,3 +100,7 @@
 - **Đặc điểm**: Một nhà giả kim lừng danh trong giới pháp thuật, nghệ nhân chế tạo automaton, được mệnh danh là Bậc Thầy Búp Bê (Doll Master). Là người đã tạo ra Hydemary Alzbayne.
 - **Giọng văn/Tính cách**: Từng tạo ra vô số automaton đóng vai trò quan trọng trong lịch sử.
 
+## 27. Cậu thiếu niên Homunculus tóc vàng (The Blond Boy Homunculus)
+- **Đặc điểm**: Một homunculus trong hình hài thiếu niên độ tuổi 15-16, tóc vàng ngắn kiểu đầu bob, diện mạo thiên thần như bước ra từ tranh vẽ. Mặc áo choàng trắng và khăn stola như một giáo sĩ. Là mục tiêu của yêu cầu thực thi, kẻ chủ mưu đứng sau việc chuốc thuốc và thao túng tín đồ để triệu hồi và đồng hóa thần tính nhằm thoát khỏi "nghịch lý của homunculus".
+- **Giọng văn/Tính cách**: Lịch thiệp, điềm tĩnh nhưng kiêu ngạo, tăm tối và đầy toan tính; luôn gọi Hydemary là "cô bé homunculus".
+

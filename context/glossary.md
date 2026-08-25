@@ -84,4 +84,6 @@
 - Neo-Puritanism: Tân Thanh Giáo (Neo-Puritanism)
 - Divinity: Thần tính (Divinity)
 - Automaton: Rối tự hành / Người máy ma thuật / Automaton
+- Homunculi's dilemma: Nghịch lý của homunculus / Thế tiến thoái lưỡng nan của homunculus (Homunculi's dilemma)
+- Deep trance: Trạng thái thôi miên sâu (Deep trance)
 

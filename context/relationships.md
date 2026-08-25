@@ -92,3 +92,7 @@
 - **Quan hệ**: Người tạo ra (Creator / Cha) - Homunculus.
 - **Xưng hô (Tiếng Việt)**: Hydemary tự xưng là kiệt tác để đời của Edgar.
 
+## 24. Hydemary - Cậu thiếu niên Homunculus tóc vàng
+- **Quan hệ**: Đối đầu / Kẻ đi săn và mục tiêu thực thi (Cả hai đều là homunculus nhưng có tư tưởng và mục đích khác biệt).
+- **Xưng hô (Tiếng Việt)**: Hydemary xưng "Tôi" - gọi "Cậu"; Cậu thiếu niên xưng "Ta" - gọi "Ngươi" hoặc "cô bé homunculus".
+
