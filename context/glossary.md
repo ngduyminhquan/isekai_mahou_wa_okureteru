@@ -42,4 +42,5 @@
 - Sword of Swords: Kiếm Vương
 - Phantom Sword of the Kurikara Dharani: Ảo Ảnh Kiếm của Câu Lợi Già La Đà La Ni
 - Greed of Ten: Thập Đại Tham Lam
+- Courier: Người chuyển phát nhanh (liên lạc của Hội/Pháp sư)
 
