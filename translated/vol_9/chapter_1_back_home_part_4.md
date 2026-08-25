@@ -60,7 +60,7 @@ Khi cậu thắc mắc hỏi, Hatsumi bước lên phía trước như đại di
 
 "Quái vật...? Gọi người khác như thế thì không hay đâu, cậu biết không?"
 
-"Em ngạc nhiên là... anh có thể nói như vậy... với cái lưỡi... liên tục nói dối... đó của anh đấy."
+"Tôi ngạc nhiên là... cậu có thể nói như vậy... với cái lưỡi... liên tục nói dối... đó của cậu đấy."
 
 Người thốt ra những lời lẽ đầy độc địa đó với vẻ mặt kinh ngạc, dĩ nhiên, không ai khác ngoài Liliana.
 

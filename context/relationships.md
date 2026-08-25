@@ -34,7 +34,7 @@
 
 ## 9. Suimei - Liliana
 - **Quan hệ**: Bạn đồng hành.
-- **Xưng hô (Tiếng Việt)**: Tớ/Tôi - Em/Cô.
+- **Xưng hô (Tiếng Việt)**: Tớ/Tôi - Cô (Suimei gọi). Liliana xưng hô: Tôi - Cậu (hoặc gọi tên Suimei).
 
 ## 10. Suimei - Hydemary
 - **Quan hệ**: Sư phụ - Đệ tử. Hydemary gọi Suimei là "Suimei-kun".

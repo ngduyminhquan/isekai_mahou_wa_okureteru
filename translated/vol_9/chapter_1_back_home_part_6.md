@@ -168,7 +168,7 @@ Dù sao thì, khi nghe tin mình sẽ không thể được nhìn ngắm những
 
 "Đừng có làm vẻ mặt đó chứ. Nếu cô thực sự muốn xem, chúng ta có thể nhờ Hatsumi lên máy tính và mở cho cô xem vài con."
 
-"Ý ngài là tôi có thể... được nhìn thấy những cục bông một lần nữa sao?!"
+"Ý cậu là tôi có thể... được nhìn thấy những cục bông một lần nữa sao?!"
 
 Liliana đắc thắng giơ cả hai tay lên trời. Tuy nhiên, khi nhìn thấy hành động ngây thơ của cô, Suimei đột nhiên nhớ đến một chuyện hoàn toàn khác. Nhắc đến những "cục bông", cậu cũng có một vài việc liên quan đến "cục bông" cần phải tự mình giải quyết.
 
