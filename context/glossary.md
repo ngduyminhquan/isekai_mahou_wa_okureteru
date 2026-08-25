@@ -72,3 +72,6 @@
 - Buddhism: Phật Giáo
 - Abreq ad Habra: Abreq ad Habra (Câu thần chú)
 - Telesma: Telesma
+- Mystic eye: Ma nhãn
+- Actualization: Hiện thực hóa
+- Ghost sight: Linh thị

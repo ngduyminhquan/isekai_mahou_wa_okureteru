@@ -83,3 +83,7 @@
 ## 22. Giáo sư quái vật (The Monster Professor)
 - **Đặc điểm**: Chủ sở hữu phòng thí nghiệm dưới lòng đất của Hội. Một nhà khoa học điên, người đàn ông phương Tây mũm mĩm, tóc úp gáo dừa, có nốt ruồi trên mặt.
 - **Giọng văn/Tính cách**: Thích chơi khăm, lập dị, thường gọi mọi người bằng những danh xưng kỳ quái như 'mấy cưng', 'cậu bé cưng'.
+
+## 23. Wiegel
+- **Đặc điểm**: Một người môi giới thông tin ở thế giới thực, xuất hiện dưới hình dáng giống như một ác quỷ với đôi tai nhọn, mắt rực sáng và hàm răng sắc nhọn. Thường xuyên hút cần sa (joint). Từng quen biết Suimei và Kazamitsu.
+- **Giọng văn/Tính cách**: Cợt nhả, thích trêu chọc Suimei (đặc biệt là hay gọi Suimei bằng sếp/boss và trêu chọc về chuyện phụ nữ/còn zin).
