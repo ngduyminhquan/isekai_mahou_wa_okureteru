@@ -9,6 +9,7 @@
 - Lefille: Lefille
 - Liliana: Liliana
 - Hatsumi Kuchiba: Hatsumi Kuchiba
+- Hydemary Alzbayne: Hydemary Alzbayne
 ## 2. Địa danh (Locations)
 - Astel: Astel
 - Camellia: Camellia
@@ -23,3 +24,6 @@
 - The Great Mother of Creation: Đấng Đại Mẫu Sáng Thế
 - Source: Căn Nguyên
 - Artifact: Tạo tác
+- High grand class magician: Pháp sư cấp High Grand
+- The Society: Hội (Hội Pháp sư)
+- Homunculus: Homunculus (Người nhân tạo)

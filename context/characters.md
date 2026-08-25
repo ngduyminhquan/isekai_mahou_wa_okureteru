@@ -32,3 +32,7 @@
 ## 8. Hatsumi Kuchiba
 - **Đặc điểm**: Bạn thời thơ ấu của Suimei từ Trái Đất, sống ở dinh thự Kuchiba ngay cạnh nhà Suimei. Cũng bị cuốn sang thế giới khác và giờ đã trở về.
 - **Giọng văn/Tính cách**: Thân thiết, thẳng thắn, đôi khi mít ướt khi xúc động. Có mái tóc vàng.
+
+## 9. Hydemary Alzbayne
+- **Đặc điểm**: Đệ tử/trợ lý/sứ ma của Suimei, một pháp sư cấp High Grand của Hội. Cô là một homunculus (sinh vật nhân tạo). Luôn mặc trang phục ảo thuật gia.
+- **Giọng văn/Tính cách**: Khuôn mặt luôn vô cảm nhưng giọng điệu và cử chỉ vô cùng biểu cảm, thỉnh thoảng hơi trẻ con, độc mồm độc miệng. Tự nhận mình là thiên tài.
