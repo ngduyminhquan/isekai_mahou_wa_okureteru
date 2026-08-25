@@ -33,3 +33,4 @@
 - Mysteries: Những điều bí ẩn
 - Magic: Ma thuật
 - Magicka: Pháp thuật
+- Origin magicka: Pháp thuật nguyên thủy
