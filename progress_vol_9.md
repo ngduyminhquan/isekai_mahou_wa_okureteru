@@ -39,7 +39,7 @@ Dưới đây là danh sách các Phase tương ứng với từng phần dịch
 | **11** | Chapter 2 - Into the Modern World - Part 2 | `chapter_2_into_the_modern_world_part_2.txt` | 217 | 225 | 2142 | `chapter_2_into_the_modern_world_part_2.md` | **Hoàn thành** |
 | **12** | Chapter 2 - Into the Modern World - Part 3 | `chapter_2_into_the_modern_world_part_3.txt` | 216 | 222 | 2028 | `chapter_2_into_the_modern_world_part_3.md` | **Hoàn thành** |
 | **13** | Chapter 2 - Into the Modern World - Part 4 | `chapter_2_into_the_modern_world_part_4.txt` | 216 | 222 | 2192 | `chapter_2_into_the_modern_world_part_4.md` | **Hoàn thành** |
-| **14** | Chapter 2 - Into the Modern World - Part 5 | `chapter_2_into_the_modern_world_part_5.txt` | 214 | 220 | 1968 | `chapter_2_into_the_modern_world_part_5.md` | **Chưa bắt đầu** |
+| **14** | Chapter 2 - Into the Modern World - Part 5 | `chapter_2_into_the_modern_world_part_5.txt` | 214 | 220 | 1968 | `chapter_2_into_the_modern_world_part_5.md` | **Hoàn thành** |
 | **15** | Chapter 2 - Into the Modern World - Part 6 | `chapter_2_into_the_modern_world_part_6.txt` | 186 | 192 | 1624 | `chapter_2_into_the_modern_world_part_6.md` | **Chưa bắt đầu** |
 | **16** | Chapter 2 - Into the Modern World - Part 7 | `chapter_2_into_the_modern_world_part_7.txt` | 161 | 167 | 1424 | `chapter_2_into_the_modern_world_part_7.md` | **Chưa bắt đầu** |
 | **17** | Chapter 3 - To the Society - Part 1 | `chapter_3_to_the_society_part_1.txt` | 196 | 202 | 1865 | `chapter_3_to_the_society_part_1.md` | **Chưa bắt đầu** |
