@@ -48,7 +48,7 @@ Tóm lại, cậu thiếu niên này không khác biệt nhiều so với Hydema
 
 "Một thiên tài sao? Phải nói là, tôi chưa từng nghĩ bản thân mình như vậy."
 
-"Ngươi đang cố khiêu khích ta đấy à...? Aah, nó thực sự hiệu quả đấy. Điều đó làm ta bực mình. Và ngươi sẽ tự gọi mình là gì nếu không phải là một thiên tài? Ngươi kẻ đã trục xuất thần tính khỏi thế giới. Ngươi kẻ đã đánh bại hai trong Thập Đại Tham Lam. Ngươi kẻ đã hạ gục con hồng long báo hiệu ngày tận thế."
+"Ngươi đang cố khiêu khích ta đấy à...? Aah, nó thực sự hiệu quả đấy. Điều đó làm ta bực mình. Và ngươi sẽ tự gọi mình là gì nếu không phải là một thiên tài? Ngươi, kẻ đã trục xuất thần tính khỏi thế giới. Ngươi, kẻ đã đánh bại hai trong Thập Đại Tham Lam. Ngươi, kẻ đã hạ gục con hồng long báo hiệu ngày tận thế."
 
 Suimei đáp lại giọng điệu ngày càng sặc mùi kịch kịch của cậu thiếu niên tóc vàng bằng một nụ cười tự trào.
 

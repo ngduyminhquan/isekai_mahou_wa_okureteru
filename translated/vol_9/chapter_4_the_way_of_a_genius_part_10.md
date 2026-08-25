@@ -1,6 +1,6 @@
-[<< Part 9](chapter_4_the_way_of_a_genius_part_9.md) | [Chương 4: Con Đường Của Một Thiên Tài - Phần 10] | [Phần tiếp theo >>](epilogue_how_many_snacks_is_part_1.md)
+[<< Phần trước](chapter_4_the_way_of_a_genius_part_9.md) | [Chương 4: Con Đường Của Một Thiên Tài - Phần 10] | [Phần tiếp theo >>](epilogue_how_many_snacks_is_part_1.md)
 
-...lang thang khắp thế giới. Chính trong lúc đó hắn đã tình cờ gặp Saix Ruger, và chuyện sau đó thì như đã biết.
+...lang thang khắp thế giới. Chính trong lúc đó cậu ta đã tình cờ gặp Saix Ruger, và chuyện sau đó thì như đã biết.
 
 "Anh thấy hơi tội nghiệp cho cậu ta... Bị vứt bỏ, bị lừa gạt, và đây là cái kết đang chờ đợi cậu ta ở phút cuối," Suimei thở dài nói.
 
@@ -52,4 +52,4 @@ Ra là vậy. Nếu là thế, dĩ nhiên cô ấy sẽ làm đến mức này.
 
 Nói rồi, Suimei bế cậu thiếu niên tóc vàng đang bất tỉnh lên. Giờ thì họ đã quyết định không giao nộp cậu ta, một cuộc đàm phán với Hội Ngàn Đêm đang chờ đón. Ý nghĩ đó khiến Suimei mệt mỏi, nhưng tất cả đều xứng đáng để hỗ trợ đệ tử của cậu, người đã bước những bước đầu tiên trong việc theo đuổi lý tưởng của Hội (Society). Đó là một cảm giác tốt đẹp, và Suimei rời khỏi nhà thờ với một nụ cười, Hydemary tự hào đi bên cạnh cậu. Bên ngoài, họ thấy các cô gái, những pháp sư mà họ đã bắt giữ, và những đại diện từ Hội Ngàn Đêm đến thu thập mục tiêu của họ, tất cả đều đang chờ đợi họ.
 
-[<< Part 9](chapter_4_the_way_of_a_genius_part_9.md) | [Chương 4: Con Đường Của Một Thiên Tài - Phần 10] | [Phần tiếp theo >>](epilogue_how_many_snacks_is_part_1.md)
+[<< Phần trước](chapter_4_the_way_of_a_genius_part_9.md) | [Chương 4: Con Đường Của Một Thiên Tài - Phần 10] | [Phần tiếp theo >>](epilogue_how_many_snacks_is_part_1.md)

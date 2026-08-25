@@ -190,7 +190,7 @@ Suimei ngồi đó một lúc, xoa đầu Hydemary với một sự trìu mến 
 
 "Nghe có vẻ như em vẫn ổn nhỉ. Nhưng nghiêm túc mà nói, em phải có vấn đề về thần kinh mới bị mắc kẹt trong cái đống rác rưởi này đấy, em biết không?"
 
-"Ồ, em biết. Chuyện này hoàn toàn ở dưới tầm của em."
+"Ồ, em biết. Cái kết giới này hoàn toàn không xứng tầm với em."
 
 Giọng điệu của cô kiêu ngạo đến mức không ai có thể đoán được đỉnh điểm của sự tuyệt vọng mà cô phải chịu đựng chỉ vài khoảnh khắc trước đó. Nhưng Suimei lại rất vui khi nghe điều đó, vì cậu đã chấp nhận Hydemary như cô vốn là và—cuối cùng—mọi thứ đã trở lại bình thường.
 
