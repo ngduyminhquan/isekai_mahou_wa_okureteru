@@ -48,3 +48,5 @@
 - Enforcer: Người Thực Thi
 - Magicka Bureau: Cục Pháp Thuật
 - Holy Inquisition: Tòa Án Dị Giáo
+- Grimoire: Ma đạo thư
+- Magickal tool: Ma cụ
