@@ -34,3 +34,5 @@
 - Magic: Ma thuật
 - Magicka: Pháp thuật
 - Origin magicka: Pháp thuật nguyên thủy
+- Truth Flare: Chân Hỏa
+- White Flame Hyacinth: Bạch Hỏa Dạ Lan Hương

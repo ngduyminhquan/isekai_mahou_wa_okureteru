@@ -34,5 +34,5 @@
 - **Giọng văn/Tính cách**: Thân thiết, thẳng thắn, đôi khi mít ướt khi xúc động. Có mái tóc vàng.
 
 ## 9. Hydemary Alzbayne
-- **Đặc điểm**: Đệ tử/trợ lý/sứ ma của Suimei, một pháp sư cấp High Grand của Hội. Cô là một homunculus (sinh vật nhân tạo). Luôn mặc trang phục ảo thuật gia.
+- **Đặc điểm**: Đệ tử/trợ lý/sứ ma của Suimei, một pháp sư cấp High Grand của Hội. Cô là một homunculus (sinh vật nhân tạo) và là người sáng lập ra hệ thống pháp thuật nguyên thủy (origin magicka) của riêng mình. Luôn mặc trang phục ảo thuật gia. Có sở thích làm búp bê.
 - **Giọng văn/Tính cách**: Khuôn mặt luôn vô cảm nhưng giọng điệu và cử chỉ vô cùng biểu cảm, thỉnh thoảng hơi trẻ con, độc mồm độc miệng. Tự nhận mình là thiên tài.
