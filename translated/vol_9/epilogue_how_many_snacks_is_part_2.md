@@ -66,7 +66,7 @@ Và thế là, một lúc sau đó, Suimei vỗ tay vào nhau. Khi âm thanh d�
 
 Suimei niệm từ khóa để kích hoạt pháp thuật, và họ bị cuốn sang thế giới khác... mà không hề nhận ra rằng có một kẻ đang theo dõi từ trong bóng tối.
 
-"Heeheee! Mình biết ngay là đã không gặp cậu ta một thời gian rồi mà, và đây cậu ta lại chúi mũi vào một chuyện trông cực kỳ thú vị! Tuyệt! Quá! Đi! Mình! Cậu chắc chắn biết cách tận hưởơơơơơng đấy, Suimei-kun! Là fan hâm mộ số một của cậu, đuổi theo cậu là chuyện hiển nhiên, phải không?! PHẢI KHÔNG?!"
+"Heeheee! Mình biết ngay là đã không gặp cậu ta một thời gian rồi mà, và đây cậu ta lại chúi mũi vào một chuyện trông cực kỳ thú vị! Ta! Giỏi! Quá! Đi! Cậu chắc chắn biết cách tận hưởơơơơơng đấy, Suimei-kun! Là fan hâm mộ số một của cậu, đuổi theo cậu là chuyện hiển nhiên, phải không?! PHẢI KHÔNG?!"
 
 Một giọng nói điên loạn vang vọng khắp khu vườn của dinh thự Yakagi.
 

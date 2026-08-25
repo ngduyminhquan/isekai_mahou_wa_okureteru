@@ -14,7 +14,7 @@ Suimei bâng quơ buông lời, và trong một diễn biến bất thường, H
 
 "Hiểu gì cơ?"
 
-"Cậu bé này không có anh. Đó là lý do tại sao cậu ấy không thể sống tự do như em."
+"Cậu bé này đâu có anh ở bên. Đó là lý do tại sao cậu ấy không thể sống tự do như em."
 
 Hydemary cũng nhìn xuống cậu thiếu niên tóc vàng. Giọng cô đầy cảm thông, và vẻ mặt thoáng chút cô đơn.
 
@@ -34,7 +34,7 @@ Suimei hỏi Hydemary bằng một giọng hơi nghiêm khắc. Dù cô thấy c
 
 "Ưm. Em nghĩ như vậy sẽ tốt hơn."
 
-"Nghe thì hay đấy, nhưng ông ấy có đồng ý không? Thằng bé này là một người hoàn toàn xa lạ với ông ấy."
+"Nghe thì hay đấy, nhưng ông ấy có đồng ý không? Cậu bé này là một người hoàn toàn xa lạ với ông ấy."
 
 "Em chắc chắn là sẽ ổn thôi. Nếu cha miễn cưỡng, em chỉ cần cầu xin cha là được."
 

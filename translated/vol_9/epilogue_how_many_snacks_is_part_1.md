@@ -102,7 +102,7 @@ Bỏ qua vòng tròn pháp thuật, Yukio đặt tay lên má và lịch sự b�
 
 "Thật đáng tiếc. Gần đây ở đây luôn náo nhiệt như vậy mà."
 
-"Dì ấy nói đúng đấy. Chúng ta đã từng tụ tập học trò của chú để ăn tối, nhưng như thế này thì là lần đầu tiên đối với chúng ta. Thật tuyệt và mới mẻ."
+"Bà ấy nói đúng đấy. Ta đã từng tập hợp học trò của mình lại để ăn tối, nhưng như thế này thì là lần đầu tiên đối với chúng ta. Thật tuyệt và mới mẻ."
 
 Quay đi khỏi người dì và chú của mình, những người tỏ ra khá thờ ơ với toàn bộ chuyện này, Suimei nhìn sang em họ mình.
 
