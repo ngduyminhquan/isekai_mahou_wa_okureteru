@@ -160,7 +160,7 @@ Suimei hoàn toàn đầu hàng. Không hiểu sao lại quyết định rằng 
 
 Cậu định nói rằng đây là lần đầu tiên, nhưng chợt nhận ra mình có thể đã nhầm về điều đó.
 
-"Hứ. Các người thật sự rất hòa thuận nhỉ."
+"Hứ. Hai người thật sự rất thân thiết nhỉ."
 
 "Ừ thì, đúng vậy."
 

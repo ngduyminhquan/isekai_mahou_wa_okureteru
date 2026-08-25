@@ -46,7 +46,7 @@ Liliana nắm chặt lấy tay Suimei từ chỗ ngồi cạnh cửa sổ. Bình
 
 Tuy nhiên, Hydemary lại đáp lại bằng một giọng tự hào bất chấp khuôn mặt vô cảm của mình. Thay vì trấn an những người lần đầu đi máy bay, nghe có vẻ như cô chỉ đang khoe khoang. Điều này, tất nhiên, không mang lại sự an ủi đặc biệt nào cho một Felmenia đang lo lắng, người vẫn đang run rẩy và tái nhợt y như trước.
 
-"Nhưng, nhưng... Ngài biết đấy? Nếu có chuyện gì xảy ra và chúng ta rơi xuống..."
+"Nhưng, nhưng... Lỡ như? Nếu có chuyện gì xảy ra và chúng ta rơi xuống..."
 
 "Nói vậy là điềm gở đấy, nên dừng lại đi. Đó cũng là một hành động thiếu lịch sự."
 

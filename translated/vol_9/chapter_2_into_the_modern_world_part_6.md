@@ -1,6 +1,6 @@
 Suimei nắm lấy bàn tay đang vươn ra của Felmenia, thứ đang run lẩy bẩy như một kẻ nghiện, và tịch thu thanh sô-cô-la mà cô đang nhắm tới.
 
-"Ngài Suimei, ngài thật tàn nhẫn..."
+"Suimei-dono, ngài thật tàn nhẫn..."
 
 "Thật tình. Mấy thứ này sẽ có hại cho sức khỏe nếu cô ăn quá nhiều đấy. Cô định ăn bao nhiêu cái nữa vậy?"
 
@@ -10,7 +10,7 @@ Suimei quyết định giúp Felmenia một việc và tự tay loại bỏ sự
 
 "N-Này! Menia! Cô đang làm cái quái gì vậy?! Này! Cô đang chảy nước dãi ra tay tôi đấy!"
 
-"Nom! Đây là lỗi của ngài vì đã lấy trộm sô-cô-la của tôi, Ngài Suimei!"
+"Nom! Đây là lỗi của ngài vì đã lấy trộm sô-cô-la của tôi, Suimei-dono!"
 
 "Đừng có bám lấy tôi như thế! Ừm, Felmenia-san... Nghiêm túc đấy, làm ơn dừng lại đi! Ugh, thế này không ổn chút nào!"
 
@@ -18,11 +18,11 @@ Suimei quyết định giúp Felmenia một việc và tự tay loại bỏ sự
 
 Suimei bắt đầu vặn vẹo trước cảm giác mềm mại đang quấn lấy mình. Hatsumi, sẵn sàng tách hai người họ ra trong cơn bối rối, vươn người tới từ hàng ghế sau. Tuy nhiên, ngay lúc cô làm vậy, Felmenia ném một cái lườm sắc lẹm về phía cô, khiến cô đứng khựng lại.
 
-"Cậu đang nói gì vậy?! Chẳng phải chính cậu cũng bám chặt lấy Ngài Suimei ngay sau khi chúng ta dịch chuyển đến đây sao?"
+"Cô đang nói gì vậy?! Chẳng phải chính cô cũng bám chặt lấy Suimei-dono ngay sau khi chúng ta dịch chuyển đến đây sao?"
 
 "Hả? Ah! Đ-Đ-Đ-Đó là, ừm... Tớ đã quá xúc động khi được trở về nhà! Và tất cả những gì tớ làm chỉ là tựa vào cậu ấy một chút thôi! Cậu ấy chẳng khác gì một bức tường cả!"
 
-"Vậy ra tôi là một bức tường đối với cậu hả?! Thế không phải là hơi quá đáng sao?"
+"Vậy ra tôi là một bức tường đối với cô hả?! Thế không phải là hơi quá đáng sao?"
 
 Lúc này, Hatsumi tuyệt vọng nhìn sang Lefille, người chỉ đang ngồi đó lo việc của riêng mình.
 
@@ -50,7 +50,7 @@ Với câu nói đó, Felmenia chuyển mục tiêu và bám lấy Lefille. Dù 
 
 Chẳng có một mối liên hệ logic nào giữa cuộc cãi vã của họ và việc làm hòa, nhưng thấy rằng hiện tại ít nhiều họ đang tận hưởng niềm vui, Suimei thầm vui mừng vì mọi chuyện đang diễn ra êm đẹp. Tuy nhiên, bầu không khí đột ngột thay đổi khi Felmenia nhận ra thứ gì đó bên ngoài cửa sổ và mất đi sự bình tĩnh.
 
-"Ngài Suimei, Ngài Suimei!"
+"Suimei-dono, Suimei-dono!"
 
 "Hả?"
 
@@ -100,7 +100,7 @@ Cả Liliana và Lefille đều thích những thứ dễ thương, thế nên h
 
 "Nhưng đó chỉ là một tỷ lệ nhỏ trong số chúng, phải không?"
 
-"Tôi không thể phủ nhận điều đó..."
+"Anh không thể phủ nhận chuyện đó..."
 
 Và thế là chuyến đi trong ngày đã bắt đầu bằng một khởi đầu khá ngạc nhiên.
 
