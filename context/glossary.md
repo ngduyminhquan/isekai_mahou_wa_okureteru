@@ -17,3 +17,4 @@
 - Creator: Đấng Sáng Tạo
 - The Great Mother of Creation: Đấng Đại Mẫu Sáng Thế
 - Source: Căn Nguyên
+- Artifact: Tạo tác

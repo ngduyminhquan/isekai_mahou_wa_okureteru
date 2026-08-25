@@ -12,7 +12,7 @@ Nghe thấy mọi người đồng loạt trút những lời chỉ trích lên 
 
 "Im đi, tên kia. Thức tỉnh được sức mạnh mới lấp la lấp lánh từ trên trời rơi xuống và được thảnh thơi như cậu thì sướng rồi."
 
-Suimei chưa từng nghĩ Reiji lại có thể tung ra sức mạnh của Bí tích (Sacrament) vào phút chót và đạt được một màn tăng cấp vượt bậc đến thế. Giờ đây cậu ta vừa có tạo tác (artifact), lại vừa có sức mạnh của Nữ thần. Cảm giác cứ như đang gian lận vậy. Thế nhưng, Reiji dường như không hề nghĩ như thế. Nét mặt cậu thoáng chốc đượm buồn ngay khi vừa nghe nhắc đến điều đó.
+Suimei chưa từng nghĩ Reiji lại có thể tung ra sức mạnh của Thánh tích (Sacrament) vào phút chót và đạt được một màn tăng cấp vượt bậc đến thế. Giờ đây cậu ta vừa có tạo tác (artifact), lại vừa có sức mạnh của Nữ thần. Cảm giác cứ như đang gian lận vậy. Thế nhưng, Reiji dường như không hề nghĩ như thế. Nét mặt cậu thoáng chốc đượm buồn ngay khi vừa nghe nhắc đến điều đó.
 
 "Tớ đâu nghĩ là mọi chuyện dễ dàng đến thế đâu..."
 
