@@ -105,3 +105,6 @@
 - The Golden Magnale: Thành Trì Vàng (The Golden Magnale)
 - Rainyblaze Clouds: Vũ Địch Viêm Vân (Rainyblaze Clouds)
 - Bless Blade: Thánh kiếm (Bless Blade)
+- Contagion magicka: Pháp thuật truyền nhiễm (Contagion magicka)
+- Manafield vibration: Đợt chấn động trường mana (Manafield vibration)
+- Rebound: Phản thệ (Rebound)

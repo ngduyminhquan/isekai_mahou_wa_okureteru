@@ -88,7 +88,7 @@ Và những tiếng kêu la tràn ngập thị trấn—cùng với sự đau đ
 
 Mặt khác, cô gái mang mái tóc màu bạch kim rụt rè hướng một câu hỏi về phía Suimei.
 
-"S-Suimei-dono... Phép thuật này có giống với chiêu *Vũ Địch Viêm Vân (Rainyblaze Clouds)* của thần không ạ?"
+"S-Suimei-dono... Phép thuật này có giống với chiêu *Vũ Địch Viêm Vân (Rainyblaze Clouds)* của tôi không ạ?"
 
 "Nó khác đấy. Ngọn lửa của cô lây lan theo tính chất vật lý, còn cái này là một dạng truyền nhiễm. Ồ, nhưng cô không thể dùng phép đó ở bên này đâu đấy. Bất kỳ ai dùng nó mà không có giấy phép ở đây đều sẽ bị bắt giữ."
 
