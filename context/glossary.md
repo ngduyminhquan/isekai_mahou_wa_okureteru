@@ -20,6 +20,7 @@
 
 - Hatsuhana Tenki: Hatsuhana Tenki
 - The Monster Professor: Giáo sư quái vật
+
 ## 2. Địa danh (Locations)
 - Astel: Astel
 - Camellia: Camellia
@@ -75,3 +76,4 @@
 - Mystic eye: Ma nhãn
 - Actualization: Hiện thực hóa
 - Ghost sight: Linh thị
+- Starfall: Sao Băng (Biệt danh của Suimei)

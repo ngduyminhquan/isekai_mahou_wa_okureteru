@@ -48,7 +48,7 @@ Dưới đây là danh sách các Phase tương ứng với từng phần dịch
 | **20** | Chapter 3 - To the Society - Part 4 | `chapter_3_to_the_society_part_4.txt` | 212 | 218 | 1994 | `chapter_3_to_the_society_part_4.md` | **Hoàn thành** |
 | **21** | Chapter 3 - To the Society - Part 5 | `chapter_3_to_the_society_part_5.txt` | 214 | 220 | 2018 | `chapter_3_to_the_society_part_5.md` | **Hoàn thành** |
 | **22** | Chapter 3 - To the Society - Part 6 | `chapter_3_to_the_society_part_6.txt` | 214 | 220 | 1994 | `chapter_3_to_the_society_part_6.md` | **Hoàn thành** |
-| **23** | Chapter 3 - To the Society - Part 7 | `chapter_3_to_the_society_part_7.txt` | 216 | 222 | 2121 | `chapter_3_to_the_society_part_7.md` | **Chưa bắt đầu** |
+| **23** | Chapter 3 - To the Society - Part 7 | `chapter_3_to_the_society_part_7.txt` | 216 | 222 | 2121 | `chapter_3_to_the_society_part_7.md` | **Hoàn thành** |
 | **24** | Chapter 3 - To the Society - Part 8 | `chapter_3_to_the_society_part_8.txt` | 228 | 235 | 2118 | `chapter_3_to_the_society_part_8.md` | **Chưa bắt đầu** |
 | **25** | Chapter 4 - The Way of a Genius - Part 1 | `chapter_4_the_way_of_a_genius_part_1.txt` | 209 | 215 | 2061 | `chapter_4_the_way_of_a_genius_part_1.md` | **Chưa bắt đầu** |
 | **26** | Chapter 4 - The Way of a Genius - Part 2 | `chapter_4_the_way_of_a_genius_part_2.txt` | 215 | 221 | 2176 | `chapter_4_the_way_of_a_genius_part_2.md` | **Chưa bắt đầu** |

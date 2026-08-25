@@ -87,3 +87,11 @@
 ## 23. Wiegel
 - **Đặc điểm**: Một người môi giới thông tin ở thế giới thực, xuất hiện dưới hình dáng giống như một ác quỷ với đôi tai nhọn, mắt rực sáng và hàm răng sắc nhọn. Thường xuyên hút cần sa (joint). Từng quen biết Suimei và Kazamitsu.
 - **Giọng văn/Tính cách**: Cợt nhả, thích trêu chọc Suimei (đặc biệt là hay gọi Suimei bằng sếp/boss và trêu chọc về chuyện phụ nữ/còn zin).
+
+## 24. Leo
+- **Đặc điểm**: Cô gái trẻ có mái tóc màu nâu đỏ được búi cao, mặc chiếc áo khoác len dáng dài. Ngoại hình giống người châu Á nhưng lại mang một ấn tượng kỳ lạ.
+- **Giọng văn/Tính cách**: Ồn ào, có vẻ thù địch và không ưa Suimei, thường gọi cậu là "Sao Băng" (Starfall).
+
+## 25. Reverend (Linh mục)
+- **Đặc điểm**: Một người đàn ông cao lớn mặc áo choàng, có đôi mắt đỏ như máu. Là người đi cùng với Leo. Một trong những pháp sư xuất chúng và nguy hiểm nhất.
+- **Giọng văn/Tính cách**: Trầm mặc, ít nói, hành động quyết đoán.
