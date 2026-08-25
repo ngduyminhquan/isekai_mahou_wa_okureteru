@@ -58,3 +58,14 @@
 ## 15. Akitsuki
 - **Đặc điểm**: Tài xế riêng của Suimei, cũng là một pháp sư của Hội. Một người đàn ông trẻ tuổi mặc vest xám, điềm đạm và tĩnh lặng. Đã phục vụ nhà Yakagi từ thế hệ của Kazamitsu.
 - **Giọng văn/Tính cách**: Điềm đạm, lịch sự, luôn giữ thái độ tôn trọng với Suimei.
+
+## 16. Alfred Ozfield (Beatorex)
+- **Đặc điểm**: Một tiền bối Người Thực Thi (Enforcer) của Suimei thuộc phái võ thuật của Hội. Sở hữu vẻ ngoài cao lớn (190cm), vạm vỡ, mắt hổ phách, tóc vàng rẽ ngôi lệch, trông giống một gã trùm mafia trẻ tuổi. Cao thủ quyền anh.
+- **Giọng văn/Tính cách**: Có vẻ ngông nghênh, phóng khoáng, hay đùa cợt nhưng thực chất lịch sự như một quý ông khi nói chuyện với phụ nữ.
+
+## 17. Beltria
+- **Đặc điểm**: Nữ tiếp tân tại trụ sở Hội Pháp sư. 
+- **Giọng văn/Tính cách**: Lịch sự, chuyên nghiệp, kính trọng Suimei.
+
+## 18. Heinrich Cornelius Agrippa von Nettesheim
+- **Đặc điểm**: Lãnh đạo và là người sáng lập Hội Pháp sư (The Society), một vị pháp sư vĩ đại trong lịch sử. Ngoại hình thanh niên với mái tóc dài trắng toát, da mịn màng, mặc áo khoác Inverness, nhưng mang phong thái của một ông lão nhân hậu.
