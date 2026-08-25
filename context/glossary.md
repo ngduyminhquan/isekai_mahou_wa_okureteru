@@ -44,3 +44,7 @@
 - Greed of Ten: Thập Đại Tham Lam
 - Courier: Người chuyển phát nhanh (liên lạc của Hội/Pháp sư)
 
+- Thousand Nights Association: Hội Ngàn Đêm
+- Enforcer: Người Thực Thi
+- Magicka Bureau: Cục Pháp Thuật
+- Holy Inquisition: Tòa Án Dị Giáo
