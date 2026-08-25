@@ -128,7 +128,7 @@ Với những suy nghĩ đó lướt qua trong tâm trí, cậu mạnh dạn m�
 
 Suimei gọi lớn bằng một giọng điệu chậm rãi và ngớ ngẩn, và chẳng bao lâu sau, mẹ của Hatsumi xuất hiện ở lối vào. Cô đang mặc bộ trang phục truyền thống của Nhật Bản thường ngày, và âm thanh lách cách từ đôi dép đi trong nhà của cô báo hiệu sự xuất hiện của cô.
 
-"Chào cháu, Suimei-san. Cô đoán đây hẳn là người bạn mà cháu đã nhắc đến ngày hôm qua nhỉ?"
+"Chào cháu, Suimei-san. Dì đoán đây hẳn là người bạn mà cháu đã nhắc đến ngày hôm qua nhỉ?"
 
 "Tên cháu là Lefille Grakis."
 
