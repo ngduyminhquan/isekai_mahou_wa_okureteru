@@ -87,3 +87,8 @@
 ## 22. Suimei - Reverend (Linh mục)
 - **Quan hệ**: Người quen (Suimei cảnh giác và tôn trọng sức mạnh của Reverend).
 - **Xưng hô (Tiếng Việt)**: Tôi - Reverend/Linh mục (Suimei gọi). Reverend đáp lại ngắn gọn.
+
+## 23. Hydemary - Edgar Alzbayne
+- **Quan hệ**: Người tạo ra (Creator / Cha) - Homunculus.
+- **Xưng hô (Tiếng Việt)**: Hydemary tự xưng là kiệt tác để đời của Edgar.
+

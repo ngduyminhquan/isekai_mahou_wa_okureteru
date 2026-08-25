@@ -95,3 +95,8 @@
 ## 25. Reverend (Linh mục)
 - **Đặc điểm**: Một người đàn ông cao lớn mặc áo choàng, có đôi mắt đỏ như máu. Là người đi cùng với Leo. Một trong những pháp sư xuất chúng và nguy hiểm nhất.
 - **Giọng văn/Tính cách**: Trầm mặc, ít nói, hành động quyết đoán.
+
+## 26. Edgar Alzbayne (Doll Master)
+- **Đặc điểm**: Một nhà giả kim lừng danh trong giới pháp thuật, nghệ nhân chế tạo automaton, được mệnh danh là Bậc Thầy Búp Bê (Doll Master). Là người đã tạo ra Hydemary Alzbayne.
+- **Giọng văn/Tính cách**: Từng tạo ra vô số automaton đóng vai trò quan trọng trong lịch sử.
+

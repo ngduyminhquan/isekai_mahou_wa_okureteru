@@ -242,4 +242,4 @@ Nhưng dẫu sao, đó chính xác là những gì em ấy đã làm. Rốt cu�
 
 Vì không quen thuộc với cụm từ này, Felmenia chỉ biết đứng đó, nghiêng đầu tò mò.
 
-[<< Phần trước](chapter_3_to_the_society_part_7.md) | [Phần tiếp theo >>](chapter_3_to_the_society_part_9.md)
+[<< Phần trước](chapter_3_to_the_society_part_7.md) | [Phần tiếp theo >>](chapter_4_the_way_of_a_genius_part_1.md)

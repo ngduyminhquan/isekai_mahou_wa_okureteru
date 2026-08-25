@@ -20,6 +20,8 @@
 
 - Hatsuhana Tenki: Hatsuhana Tenki
 - The Monster Professor: Giáo sư quái vật
+- Edgar Alzbayne: Edgar Alzbayne (Bậc Thầy Búp Bê / Doll Master)
+
 
 ## 2. Địa danh (Locations)
 - Astel: Astel
@@ -78,3 +80,8 @@
 - Actualization: Hiện thực hóa
 - Ghost sight: Linh thị
 - Starfall: Sao Băng (Biệt danh của Suimei)
+- Lapis Philosophorum: Hòn đá Triết gia / Lapis Philosophorum
+- Neo-Puritanism: Tân Thanh Giáo (Neo-Puritanism)
+- Divinity: Thần tính (Divinity)
+- Automaton: Rối tự hành / Người máy ma thuật / Automaton
+
