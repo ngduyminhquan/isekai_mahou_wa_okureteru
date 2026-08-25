@@ -116,3 +116,4 @@
 - Die Kleine Spielzeugkiste: Chiếc hộp đồ chơi nhỏ (Die Kleine Spielzeugkiste)
 - Vorpal Sword: Kiếm Vorpal (Vorpal Sword)
 - Vanity Cutter: Trảm Phá Hư Vô (Vanity Cutter)
+- Ancient map: Bản đồ cổ

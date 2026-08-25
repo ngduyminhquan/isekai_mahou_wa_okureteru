@@ -61,7 +61,7 @@ Dưới đây là danh sách các Phase tương ứng với từng phần dịch
 | **33** | Chapter 4 - The Way of a Genius - Part 9 | `chapter_4_the_way_of_a_genius_part_9.txt` | 206 | 213 | 1963 | `chapter_4_the_way_of_a_genius_part_9.md` | **Hoàn thành** |
 | **34** | Chapter 4 - The Way of a Genius - Part 10 | `chapter_4_the_way_of_a_genius_part_10.txt` | 51 | 53 | 467 | `chapter_4_the_way_of_a_genius_part_10.md` | **Hoàn thành** |
 | **35** | Epilogue - How Many Snacks Is - Part 1 | `epilogue_how_many_snacks_is_part_1.txt` | 198 | 204 | 1894 | `epilogue_how_many_snacks_is_part_1.md` | **Hoàn thành** |
-| **36** | Epilogue - How Many Snacks Is - Part 2 | `epilogue_how_many_snacks_is_part_2.txt` | 203 | 210 | 2023 | `epilogue_how_many_snacks_is_part_2.md` | **Chưa bắt đầu** |
+| **36** | Epilogue - How Many Snacks Is - Part 2 | `epilogue_how_many_snacks_is_part_2.txt` | 203 | 210 | 2023 | `epilogue_how_many_snacks_is_part_2.md` | **Hoàn thành** |
 | **37** | Epilogue - How Many Snacks Is - Part 3 | `epilogue_how_many_snacks_is_part_3.txt` | 215 | 221 | 2132 | `epilogue_how_many_snacks_is_part_3.md` | **Chưa bắt đầu** |
 | **38** | Epilogue - How Many Snacks Is - Part 4 | `epilogue_how_many_snacks_is_part_4.txt` | 215 | 221 | 2201 | `epilogue_how_many_snacks_is_part_4.md` | **Chưa bắt đầu** |
 | **39** | Epilogue - How Many Snacks Is - Part 5 | `epilogue_how_many_snacks_is_part_5.txt` | 216 | 222 | 2175 | `epilogue_how_many_snacks_is_part_5.md` | **Chưa bắt đầu** |
