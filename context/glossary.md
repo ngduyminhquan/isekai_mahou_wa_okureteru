@@ -29,3 +29,7 @@
 - High grand class magician: Pháp sư cấp High Grand
 - The Society: Hội (Hội Pháp sư)
 - Homunculus: Homunculus (Người nhân tạo)
+- Elements: Tinh Linh Nguyên Tố
+- Mysteries: Những điều bí ẩn
+- Magic: Ma thuật
+- Magicka: Pháp thuật
