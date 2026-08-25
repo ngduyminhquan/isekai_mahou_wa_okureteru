@@ -126,7 +126,7 @@ Hydemary nghiêng đầu sang một bên, mái tóc đen của cô đung đưa t
 
 "Hoặc có thể nó là loại thuốc giết người ngay lập tức."
 
-Bất cứ ai sử dụng ma túy pháp thuật mà không có đủ khả năng kháng cự, tốt nhất cũng sẽ bị tàn phế, và các triệu chứng cai nghiện có thể—theo đúng nghĩa đen—giết chết họ. Hydemary tràn đầy tò tự về những viên thuốc đó và nghiêng người để nhìn kỹ hơn.
+Bất cứ ai sử dụng ma túy pháp thuật mà không có đủ khả năng kháng cự, tốt nhất cũng sẽ bị tàn phế, và các triệu chứng cai nghiện có thể—theo đúng nghĩa đen—giết chết họ. Hydemary tràn đầy tò mò về những viên thuốc đó và nghiêng người để nhìn kỹ hơn.
 
 "Em nếm thử một viên được không?"
 

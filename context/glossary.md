@@ -50,3 +50,5 @@
 - Holy Inquisition: Tòa Án Dị Giáo
 - Grimoire: Ma đạo thư
 - Magickal tool: Ma cụ
+- Astral plane: Chiều không gian linh hồn
+- Mana: Mana
