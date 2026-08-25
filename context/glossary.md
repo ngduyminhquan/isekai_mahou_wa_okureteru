@@ -16,12 +16,15 @@
 - Kuchiba Yukio: Kuchiba Yukio
 - Yakagi Kazamitsu: Yakagi Kazamitsu
 - Graziella: Graziella (Công chúa vương quốc Astel)
+- Vua Pháp Thuật Nettesheim: Vua Pháp Thuật Nettesheim (Magicka King Nettesheim)
 
 ## 2. Địa danh (Locations)
 - Astel: Astel
 - Camellia: Camellia
 - Yakagi: Yakagi (Dinh thự)
 - Kuchiba: Kuchiba (Dinh thự)
+- Harz Mountains: Dãy núi Harz
+- Alto Schloss: Lâu đài Alto Schloss
 
 ## 3. Thuật ngữ & Kỹ năng (Terms & Skills)
 - Sacrament: Thánh tích / Sacrament
