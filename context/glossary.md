@@ -113,3 +113,6 @@
 
 - Akashic Records: Biên niên sử Akashic
 - Meister: Meister (Thầy / Người chế tạo)
+- Die Kleine Spielzeugkiste: Chiếc hộp đồ chơi nhỏ (Die Kleine Spielzeugkiste)
+- Vorpal Sword: Kiếm Vorpal (Vorpal Sword)
+- Vanity Cutter: Trảm Phá Hư Vô (Vanity Cutter)
